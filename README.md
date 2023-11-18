@@ -11,96 +11,96 @@
 Я загрузила исходные текстовые файлы перевода как фундамент. Поверх них, пока никто не откликнулся, буду в master-ветке делать свои правки. Если хотите поучавствовать, то предлагаю либо сделать отдельную ветку и позже все смерджить, либо создать Issue и я уже вручную буду править файл.
 
 Касаемо файлов. Каждый файл - сцена.
-
-TBM01.txt - Virtual arena training;
-TBM02.txt - Virtual arena training;
-TBMTEST.txt - пусто;
-TCHAPTER1.txt - CHAPTER 1 ROOMS;
-TCHAPTER2.txt - CHAPTER 2 ROOMS;
-TCHAPTER3.txt - CHAPTER 3 ROOMS;
-TCHAPTER4.txt - CHAPTER 4 ROOMS;
-TCHAPTER5.txt - CHAPTER 5 ROOMS;
-TCHAPTER6.txt - CHAPTER 6 ROOMS;
-TCOMMON.txt - TEXT FOR ALL THE ROOMS;
-TCPC15.txt - Case day 2;
-TCREDITS.txt - GAME CREDITS;
-TEV_MAP.txt - MAIN MAP;
-TGAMEOVER.txt - Gameover text;
-TGBM01.txt - Virtual arena training (пусто);
-TGEV_MAP.txt - MAIN MAP;
-TGPC01.txt - GRAFF --- BROK APARTMENT;
-TGPC02.txt - GRAFF --- OUTSIDE APARTMENT;
-TGPC03.txt - GRAFF --- OUTSIDE SECTOR;
-TGPC05D.txt - GRAFF --- SEWERS BELOW;
-TGPC06.txt - GRAFF --- SECTOR 56X STREET;
-TGPC08.txt - GRAFF --- SHAY OUTSIDE;
-TGPC08B.txt - GRAFF --- SHAY INSIDE;
-TGPC10.txt - SCHOOL INSIDE;
-TGPC14.txt - GRAFF - HACKER BACK STREET;
-TGPC14B.txt - GRAFF - HACKER FRONT;
-TGPC14C.txt - GRAFF - HACKER INSIDE;
-TGPC16.txt - SLUM TRASHER HUNT;
-TGPC17.txt - GRAFF --- MUSEUM;
-TGPC19.txt - BUNKER INSIDE (GRAFF LEVEL);
-TGPC19B.txt - BUNKER MAIN ROOM;
-TGPC19C.txt - BUNKER ENTRANCE;
-TGPC19D.txt - BUNKER OUTSIDE/FRONT;
-THINTS1.txt - HINTS - CHAPTER 1;
-THINTS2.txt - HINTS - CHAPTER 2;
-THINTS3.txt - HINTS - CHAPTER 3;
-THINTS4.txt - HINTS - CHAPTER 4;
-THINTS5.txt - HINTS - CHAPTER 5;
-THINTS6.txt - HINTS - CHAPTER 6;
-TMENU.txt - START GAME MENU;
-TPC01.txt - BROK'S HOME;
-TPC02.txt - BROK OUTSIDE APARTMENT;
-TPC03.txt - SLUM OUTSIDE BROK SECTOR;
-TPC04.txt - SLUM OUTSIDE BROK SECTOR;
-TPC04B.txt - BACK ALLEY;
-TPC04C.txt - PHARMACY;
-TPC05.txt - Sewers entrance;
-TPC05B.txt - Sewers inside action;
-TPC05C.txt - Sewers last room;
-TPC05D.txt - BROK --- SEWERS BELOW;
-TPC06.txt - SECTOR 56X STREET;
-TPC07.txt - SIN APARTMENT HALLWAY;
-TPC07B.txt - SIN APARTMENT HALLWAY;
-TPC08.txt - Shay outside;
-TPC08B.txt - Shay garage;
-TPC08C.txt - Shay garage;
-TPC09.txt - POLICE ENTRANCE;
-TPC09B.txt - POLICE JAIL;
-TPC09C.txt - POLICE OFFICE;
-TPC09D.txt - POLICE INTERROGATION;
-TPC10.txt - SCHOOL INSIDE;
-TPC11.txt - LIA APARTMENT NIGHTMARE (BEDROOM);
-TPC11B.txt - LIA APARTMENT NIGHTMARE (LOUNGE);
-TPC11C.txt - LIA APARTMENT NIGHTMARE (LOUNGE);
-TPC11D.txt - DAY 2 NIGHTMARE;
-TPC12.txt - BORDER POST;
-TPC12B.txt - INSIDE PYRAMID;
-TPC13.txt - STORY110, 330?;
-TPC14.txt - HACKER BACK STREET;
-TPC14B.txt - HACKER OUTSIDE;
-TPC14C.txt - HACKER INSIDE;
-TPC15.txt - In front of Lab Day 2;
-TPC15B.txt - LAB HALL;
-TPC15C.txt - LAB ROOM LEFT;
-TPC15D.txt - LAB ROOM RIGHT;
-TPC15E.txt - LAB RESTROOM;
-TPC16.txt - SLUM TRASHER HUNT;
-TPC17.txt - пусто;
-TPC18.txt - FACTORY;
-TPC19.txt - BUNKER INSIDE (GRAFF LEVEL SO NO DIALOG FOR BROK);
-TPC19B.txt - BUNKER MAIN ROOM;
-TPC19C.txt - BUNKER ENTRANCE;
-TPC19D.txt - BUNKER OUTSIDE/FRONT;
-TPC20.txt - SLUM Garbage Disposal Center;
-TPCTEST.txt - пусто;
-TSP01.txt - CHASING TIDY;
-TSP02.txt - CYNICAL ENDING ROOM?;
-TSUMMARY.txt - END OF GAME SUMMARY;
-
+<ul>
+<li>TBM01.txt - Virtual arena training; </li>
+<li>TBM02.txt - Virtual arena training;</li>
+<li>TBMTEST.txt - пусто;</li>
+<li>TCHAPTER1.txt - CHAPTER 1 ROOMS;</li>
+<li>TCHAPTER2.txt - CHAPTER 2 ROOMS;</li>
+<li>TCHAPTER3.txt - CHAPTER 3 ROOMS;</li>
+<li>TCHAPTER4.txt - CHAPTER 4 ROOMS;</li>
+<li>TCHAPTER5.txt - CHAPTER 5 ROOMS;</li>
+<li>TCHAPTER6.txt - CHAPTER 6 ROOMS;</li>
+<li>TCOMMON.txt - TEXT FOR ALL THE ROOMS;</li>
+<li>TCPC15.txt - Case day 2;</li>
+<li>TCREDITS.txt - GAME CREDITS;</li>
+<li>TEV_MAP.txt - MAIN MAP;</li>
+<li>TGAMEOVER.txt - Gameover text;</li>
+<li>TGBM01.txt - Virtual arena training (пусто);</li>
+<li>TGEV_MAP.txt - MAIN MAP;</li>
+<li>TGPC01.txt - GRAFF --- BROK APARTMENT;</li>
+<li>TGPC02.txt - GRAFF --- OUTSIDE APARTMENT;</li>
+<li>TGPC03.txt - GRAFF --- OUTSIDE SECTOR;</li>
+<li>TGPC05D.txt - GRAFF --- SEWERS BELOW;</li>
+<li>TGPC06.txt - GRAFF --- SECTOR 56X STREET;</li>
+<li>TGPC08.txt - GRAFF --- SHAY OUTSIDE;</li>
+<li>TGPC08B.txt - GRAFF --- SHAY INSIDE;</li>
+<li>TGPC10.txt - SCHOOL INSIDE;</li>
+<li>TGPC14.txt - GRAFF - HACKER BACK STREET;</li>
+<li>TGPC14B.txt - GRAFF - HACKER FRONT;</li>
+<li>TGPC14C.txt - GRAFF - HACKER INSIDE;</li>
+<li>TGPC16.txt - SLUM TRASHER HUNT;</li>
+<li>TGPC17.txt - GRAFF --- MUSEUM;</li>
+<li>TGPC19.txt - BUNKER INSIDE (GRAFF LEVEL);</li>
+<li>TGPC19B.txt - BUNKER MAIN ROOM;</li>
+<li>TGPC19C.txt - BUNKER ENTRANCE;</li>
+<li>TGPC19D.txt - BUNKER OUTSIDE/FRONT;</li>
+<li>THINTS1.txt - HINTS - CHAPTER 1;</li>
+<li>THINTS2.txt - HINTS - CHAPTER 2;</li>
+<li>THINTS3.txt - HINTS - CHAPTER 3;</li>
+<li>THINTS4.txt - HINTS - CHAPTER 4;</li>
+<li>THINTS5.txt - HINTS - CHAPTER 5;</li>
+<li>THINTS6.txt - HINTS - CHAPTER 6;</li>
+<li>TMENU.txt - START GAME MENU;</li>
+<li>TPC01.txt - BROK'S HOME;</li>
+<li>TPC02.txt - BROK OUTSIDE APARTMENT;</li>
+<li>TPC03.txt - SLUM OUTSIDE BROK SECTOR;</li>
+<li>TPC04.txt - SLUM OUTSIDE BROK SECTOR;</li>
+<li>TPC04B.txt - BACK ALLEY;</li>
+<li>TPC04C.txt - PHARMACY;</li>
+<li>TPC05.txt - Sewers entrance;</li>
+<li>TPC05B.txt - Sewers inside action;</li>
+<li>TPC05C.txt - Sewers last room;</li>
+<li>TPC05D.txt - BROK --- SEWERS BELOW;</li>
+<li>TPC06.txt - SECTOR 56X STREET;</li>
+<li>TPC07.txt - SIN APARTMENT HALLWAY;</li>
+<li>TPC07B.txt - SIN APARTMENT HALLWAY;</li>
+<li>TPC08.txt - Shay outside;</li>
+<li>TPC08B.txt - Shay garage;</li>
+<li>TPC08C.txt - Shay garage;</li>
+<li>TPC09.txt - POLICE ENTRANCE;</li>
+<li>TPC09B.txt - POLICE JAIL;</li>
+<li>TPC09C.txt - POLICE OFFICE;</li>
+<li>TPC09D.txt - POLICE INTERROGATION;</li>
+<li>TPC10.txt - SCHOOL INSIDE;</li>
+<li>TPC11.txt - LIA APARTMENT NIGHTMARE (BEDROOM);</li>
+<li>TPC11B.txt - LIA APARTMENT NIGHTMARE (LOUNGE);</li>
+<li>TPC11C.txt - LIA APARTMENT NIGHTMARE (LOUNGE);</li>
+<li>TPC11D.txt - DAY 2 NIGHTMARE;</li>
+<li>TPC12.txt - BORDER POST;</li>
+<li>TPC12B.txt - INSIDE PYRAMID;</li>
+<li>TPC13.txt - STORY110, 330?;</li>
+<li>TPC14.txt - HACKER BACK STREET;</li>
+<li>TPC14B.txt - HACKER OUTSIDE;</li>
+<li>TPC14C.txt - HACKER INSIDE;</li>
+<li>TPC15.txt - In front of Lab Day 2;</li>
+<li>TPC15B.txt - LAB HALL;</li>
+<li>TPC15C.txt - LAB ROOM LEFT;</li>
+<li>TPC15D.txt - LAB ROOM RIGHT;</li>
+<li>TPC15E.txt - LAB RESTROOM;</li>
+<li>TPC16.txt - SLUM TRASHER HUNT;</li>
+<li>TPC17.txt - пусто;</li>
+<li>TPC18.txt - FACTORY;</li>
+<li>TPC19.txt - BUNKER INSIDE (GRAFF LEVEL SO NO DIALOG FOR BROK);</li>
+<li>TPC19B.txt - BUNKER MAIN ROOM;</li>
+<li>TPC19C.txt - BUNKER ENTRANCE;</li>
+<li>TPC19D.txt - BUNKER OUTSIDE/FRONT;</li>
+<li>TPC20.txt - SLUM Garbage Disposal Center;</li>
+<li>TPCTEST.txt - пусто;</li>
+<li>TSP01.txt - CHASING TIDY;</li>
+<li>TSP02.txt - CYNICAL ENDING ROOM?;</li>
+<li>TSUMMARY.txt - END OF GAME SUMMARY.</li>
+</ul>
 
 # ENGLISH Brok_RU-Translation
 Good morning/afternoon/night everyone!
