@@ -1,0 +1,583 @@
+#-------------------------------
+#=GAME CREDITS
+#-------------------------------
+#----- Translations --------
+
+PC_DESIGNER_PRODUCER=Дизайнер и продюсер
+PC_STORY=Сюжет
+PC_PROGRAMMER=Программист
+PC_CHARART=Дизайн персонажей
+PC_BACKART=Дизайн уровней
+PC_ANIMART=Анимация
+PC_ADDITIONALART=Дополнительные арты
+PC_DIALOGUE=Диалоги
+PC_ASSOCIATEPRODUCER=Помощник продюссера
+PC_MUSICCOMPOSER=Композитор
+PC_VOICEACTOR=Актеры озвучки
+PC_SOUNDEDITOR=Звукорежиссёр
+PC_ADDITIONALIDEAS=Дополнительные идеи
+PC_MARKETING=Маркетинг
+PC_PROOFREADER=Корректор / Редактор текста
+PC_SPLITTER=Редактор озвучки
+PC_TESTER=Тестеры
+PC_KICKSTARTERBACKERS=Донатеры с Kickstarter
+PC_SPECIALTHANKS=Особая благодарность
+PC_ROYALTYFREE=Бесплатные ресурсы
+PC_PRESENTEDBY=Представлено
+PC_ADDITIONALVOICE=Дополнительные голоса
+
+SKIP_CUTSCENE=Пропустить
+SKIP_CREDITS_QUESTION=Пропустить титры?
+
+ENDING_PLAYTIME=Время игры:
+ENDING_NOTCANONIC1=Это расследование еще не завершено.
+ENDING_NOTCANONIC2=В следующий раз попробуй открыть каноничную концовку!
+
+#=EndOfFile
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens to the flower girl store?
+# *****************************************************************
+# Various                                 
+CREDITS_SCENE_FLOWER1A-1=Слава Богу! Поставка таблеток восстановлена!
+# Various                                 
+CREDITS_SCENE_FLOWER1A-2=Вы знаете, что произошло?
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-3="Что произошло?" Божественное вмешательство! Он проявил к нам милосердцие.
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-4=Наши молитвы были услышаны!
+# Various                                 
+CREDITS_SCENE_FLOWER1A-5=Может быть...
+# Various                                 
+CREDITS_SCENE_FLOWER1A-6=А может кто-то просто разрулил ситуацию с пневмокапсулами.
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-7=Конечно! Посланник Всемогущего!
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-8=Все-таки, все мы дети Божии, даже те, кто сомневается, как ты.
+# Various                                 
+CREDITS_SCENE_FLOWER1A-9=Наверное.
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-10=Вознесем свои молитвы Антейлу.
+# Flower                                 
+CREDITS_SCENE_FLOWER1A-11=Большая распродажа, народ! Милейшая статуэтка всего за 10 юнисов!
+#----------------------------------------------------
+# Various                                 
+CREDITS_SCENE_FLOWER2A-1=Лавка... заброшена?
+# Various                                 
+CREDITS_SCENE_FLOWER2A-2=Очень жаль.
+# Various                                 
+CREDITS_SCENE_FLOWER2A-3=Удивительно, что ее не разграбили. Я ничего не знаю об Антейле, но...
+# Various                                 
+CREDITS_SCENE_FLOWER2A-4=Возможно, это знак свыше...
+# Various                                 
+CREDITS_SCENE_FLOWER2A-5=Решено!
+# Various                                 
+CREDITS_SCENE_FLOWER2A-6=Я позабочусь о ней!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens to the rats & hacker?
+# *****************************************************************
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1A-1=(Вздыхает)
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1A-2=Эти дроны не работают! Надо бы...
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1A-3=Ой... О, нет.
+#----------------------------------------------------
+# Chiefrat                                 
+CREDITS_SCENE_CHIEFRAT1B-1=Эй, мышонок! Я знаю, что ты там!
+#----------------------------------------------------
+# Chiefrat                                 
+CREDITS_SCENE_CHIEFRAT1C-1=Выходи сам, или мы тебя вытащим за твои круглые ушки!
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1C-2=Ой-ой!
+# Chiefrat                                 
+CREDITS_SCENE_CHIEFRAT1C-3=Ты в курсе, че происходит, когда нам не платят.
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1C-4=Н-но... Я-я заплатил! Вы получили мальчишку!
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1C-5=Вы сами обложались!
+# Chiefrat                                 
+CREDITS_SCENE_CHIEFRAT1C-6=Заткни пасть.
+# Chiefrat                                 
+CREDITS_SCENE_CHIEFRAT1C-7=Парни...
+# Dart                                 
+CREDITS_SCENE_CHIEFRAT1C-8=Да, босс!
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1C-9=Ох... Этот кошмар никогда не закончится...
+# Hacker                                 
+CREDITS_SCENE_CHIEFRAT1C-10=Может, пора подумать о карьере в другой сфере.
+#----------------------------------------------------
+# Dart                                 
+CREDITS_SCENE_CHIEFRAT2A-1=Босс откис.
+# Dart                                 
+CREDITS_SCENE_CHIEFRAT2A-2=Они за это заплатят!
+# Kins                                 
+CREDITS_SCENE_CHIEFRAT2A-3=Ага!
+# Dart                                 
+CREDITS_SCENE_CHIEFRAT2A-4=Терь я босс.
+# Kins                                 
+CREDITS_SCENE_CHIEFRAT2A-5=Че? Разбежался!
+# Kins                                 
+CREDITS_SCENE_CHIEFRAT2A-6=Ты даже говорить правильно не умеешь.
+# Dart                                 
+CREDITS_SCENE_CHIEFRAT2A-7=Я сказал, я босс!
+# Kins                                 
+CREDITS_SCENE_CHIEFRAT2A-8=А вот и нет!
+# Various                                 
+CREDITS_SCENE_CHIEFRAT2A-9=Может, заткнетесь уже? Дети спят.
+# Kins                                 
+CREDITS_SCENE_CHIEFRAT2A-10=Прости, мам...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens to Dee/Sin/their daughter?
+# *****************************************************************
+# Various                                 
+CREDITS_SCENE_DEE1A-1=Мам!
+# Dee                                 
+CREDITS_SCENE_DEE1A-2=Привет, милая моя! Мама так счастлива тебя видеть!
+# Various                                 
+CREDITS_SCENE_DEE1A-3=Смотри! Папа дал мне муравьешки.
+# Dee                                 
+CREDITS_SCENE_DEE1A-4=Что я говорила насчет конфет?
+# Sin                                 
+CREDITS_SCENE_DEE1A-5=Хммм... Что они вкусные?
+# Various                                 
+CREDITS_SCENE_DEE1A-6=Все нормально. Папа тоже их кушал!
+# Dee                                 
+CREDITS_SCENE_DEE1A-7=Вот как?
+# Sin                                 
+CREDITS_SCENE_DEE1A-8=Пойман с поличным.
+# Sin                                 
+CREDITS_SCENE_DEE1A-9=Мне надо опять сесть в тюрьму, чтобы заслужил помилование?
+# Dee                                 
+CREDITS_SCENE_DEE1A-10=Не беспокойся. Я здесь судья, и я признаю тебя невиновным!
+# Sin                                 
+CREDITS_SCENE_DEE1A-11=Ура!
+# Dee                                 
+CREDITS_SCENE_DEE1A-12=Я люблю тебя, дорогой.
+# Sin                                 
+CREDITS_SCENE_DEE1A-13=Не думал, что когда-нибудь снова это услышу.
+# Sin                                 
+CREDITS_SCENE_DEE1A-14=Я всегда буду рядом с вами.
+#----------------------------------------------------
+# Various                                 
+CREDITS_SCENE_DEE2A-1=Папуля!
+# Sin                                 
+CREDITS_SCENE_DEE2A-2=Я здесь, родная!
+# Various                                 
+CREDITS_SCENE_DEE2A-3=Я так соскучилась! Ты вернешься домой?
+# Sin                                 
+CREDITS_SCENE_DEE2A-4=Да. И на этот раз навсегда.
+# Various                                 
+CREDITS_SCENE_DEE2A-5=А мама? Когда она вернется?
+# Sin                                 
+CREDITS_SCENE_DEE2A-6=Ну...
+# Sin                                 
+CREDITS_SCENE_DEE2A-7=Мама очень занята.
+# Various                                 
+CREDITS_SCENE_DEE2A-8=Я знаю! Она сражается с плохими людьми!
+# Sin                                 
+CREDITS_SCENE_DEE2A-9=Да... Так и есть.
+# Various                                 
+CREDITS_SCENE_DEE2A-10=А почему ты выглядишь таким грустным?
+# Sin                                 
+CREDITS_SCENE_DEE2A-11=Все хорошо...
+# Sin                                 
+CREDITS_SCENE_DEE2A-12=Я просто... так счастлив снова тебя увидеть!
+# Various                                 
+CREDITS_SCENE_DEE2A-13=И я тебя!
+# Various                                 
+CREDITS_SCENE_DEE2A-14=Пап, посмотри, сколько у меня игрушек!
+# Sin                                 
+CREDITS_SCENE_DEE2A-15=Просто чудесно!
+# Various                                 
+CREDITS_SCENE_DEE2A-16=Давай поиграем, пока мама не вернется!
+# Sin                                 
+CREDITS_SCENE_DEE2A-17=Конечно.
+# Sin                                 
+CREDITS_SCENE_DEE2A-18=Я люблю тебя, милая...
+# Sin                                 
+CREDITS_SCENE_DEE2A-19=Больше всего на свете.
+#----------------------------------------------------
+# Various                                 
+CREDITS_SCENE_DEE3A-1=Мам!
+# Dee                                 
+CREDITS_SCENE_DEE3A-2=Сладенькая моя! Ты здесь!
+# Various                                 
+CREDITS_SCENE_DEE3A-3=Ага! Где же мне еще быть?
+# Dee                                 
+CREDITS_SCENE_DEE3A-4=Мама так по тебе соскучилась!
+# Various                                 
+CREDITS_SCENE_DEE3A-5=Ты сражалась с плохими людьми, да?
+# Dee                                 
+CREDITS_SCENE_DEE3A-6=Эй! Откуда ты знаешь?
+# Various                                 
+CREDITS_SCENE_DEE3A-7=Ты специально так одеваешься!
+# Dee                                 
+CREDITS_SCENE_DEE3A-8=Ха-ха... Ты очень смышленная.
+# Various                                 
+CREDITS_SCENE_DEE3A-9=Мам. Раз ты здесь...
+# Various                                 
+CREDITS_SCENE_DEE3A-10=Можно, папа вернется домой? Пожалуйста!
+# Dee                                 
+CREDITS_SCENE_DEE3A-11=...
+# Dee                                 
+CREDITS_SCENE_DEE3A-12=Прости, милая...
+# Dee                                 
+CREDITS_SCENE_DEE3A-13=Папа... не вернется.
+# Various                                 
+CREDITS_SCENE_DEE3A-14=Ошибаешься.
+# Dee                                 
+CREDITS_SCENE_DEE3A-15=Что...?
+# Various                                 
+CREDITS_SCENE_DEE3A-16=Я знаю, что вернется! Он мне обещал!
+# Dee                                 
+CREDITS_SCENE_DEE3A-17=...
+# Dee                                 
+CREDITS_SCENE_DEE3A-18=Когда-нибудь...
+# Dee                                 
+CREDITS_SCENE_DEE3A-19=Мы с ним снова встретимся.
+# Various                                 
+CREDITS_SCENE_DEE3A-20=Конечно! (Зевает)
+# Dee                                 
+CREDITS_SCENE_DEE3A-21=Ты устала. Пора спать!
+# Various                                 
+CREDITS_SCENE_DEE3A-22=Ладно... Только больше никуда не уходи!
+# Dee                                 
+CREDITS_SCENE_DEE3A-23=Ни за что. Я буду с тобой... Всегда.
+# Various                                 
+CREDITS_SCENE_DEE3A-24=Спасибо, мам! Спокойной ночки!
+# Dee                                 
+CREDITS_SCENE_DEE3A-25=Спокойной ночи, милая.
+#----------------------------------------------------
+# Various                                 
+CREDITS_SCENE_DEE4A-1=Где моя мама?
+# Various                                 
+CREDITS_SCENE_DEE4A-2=Когда она вернется?
+# Various                                 
+CREDITS_SCENE_DEE4A-3=Прости, малышка. Тебе нельзя с ней видеться.
+# Various                                 
+CREDITS_SCENE_DEE4A-4=А папа?
+# Various                                 
+CREDITS_SCENE_DEE4A-5=Ну!
+# Various                                 
+CREDITS_SCENE_DEE4A-6=Где они?
+# Various                                 
+CREDITS_SCENE_DEE4A-7=...
+# Various                                 
+CREDITS_SCENE_DEE4A-8=К сожалению, никто этого не знает.
+# Various                                 
+CREDITS_SCENE_DEE4A-9=Они... пропали.
+# Various                                 
+CREDITS_SCENE_DEE4A-10=Я понимаю, что для маленькой девочки это очень тажелая ситуация, но мы о тебе позаботимся.
+# Various                                 
+CREDITS_SCENE_DEE4A-11=...
+# Various                                 
+CREDITS_SCENE_DEE4A-12=Я знаю, где они! Они вместе путешествуют.
+# Various                                 
+CREDITS_SCENE_DEE4A-13=Когда я стану взрослой, я буду очень смелой. Как они!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens at the lab?
+# *****************************************************************
+# Guard                                 
+CREDITS_SCENE_LAB1A-1=Ах... Никогда не думал, что буду рад снова услышать их ссоры.
+# Guard                                 
+CREDITS_SCENE_LAB1A-2=Жаль только, что это последний раз.
+# Hush                                 
+CREDITS_SCENE_LAB1A-3=Вы в этом уверены?
+# Mink                                 
+CREDITS_SCENE_LAB1A-4=Да. Я ухожу.
+# Hush                                 
+CREDITS_SCENE_LAB1A-5=Уходите? Куда же?
+# Mink                                 
+CREDITS_SCENE_LAB1A-6=Куда угодно.
+# Hush                                 
+CREDITS_SCENE_LAB1A-7=Вы... Вы не можете так поступить!
+# Mink                                 
+CREDITS_SCENE_LAB1A-8=Я думал, вас это обрадует.
+# Hush                                 
+CREDITS_SCENE_LAB1A-9=Нет...
+# Hush                                 
+CREDITS_SCENE_LAB1A-10=Ну... Я просто хочу вас понять!
+# Mink                                 
+CREDITS_SCENE_LAB1A-11=Все очень просто.
+# Mink                                 
+CREDITS_SCENE_LAB1A-12=Никогда еще я не был так близок к тому, чтобы все потерять...
+# Mink                                 
+CREDITS_SCENE_LAB1A-13=...и, благодаря этому, я понял, что мне и терять-то особо нечего.
+# Mink                                 
+CREDITS_SCENE_LAB1A-14=Я всю жизнь посвятил науке. Дни и ночи.
+# Mink                                 
+CREDITS_SCENE_LAB1A-15=А теперь... я хочу просто... обычной жизни.
+# Hush                                 
+CREDITS_SCENE_LAB1A-16=...
+# Hush                                 
+CREDITS_SCENE_LAB1A-17=Понимаю.
+# Hush                                 
+CREDITS_SCENE_LAB1A-18=Возможно, однажды... я поступлю так же.
+# Hush                                 
+CREDITS_SCENE_LAB1A-19=Мне... будет вас нехватать.
+# Mink                                 
+CREDITS_SCENE_LAB1A-20=...!
+# Mink                                 
+CREDITS_SCENE_LAB1A-21=Взаимно, друг мой.
+# Mink                                 
+CREDITS_SCENE_LAB1A-22=Что ж!
+# Mink                                 
+CREDITS_SCENE_LAB1A-23=На встречу своей судьбе!
+#----------------------------------------------------
+# Various                                 
+CREDITS_SCENE_LAB2A-1=Привет номер Экс-1506
+# Various                                 
+CREDITS_SCENE_LAB2A-2=Привет доктор Хуш
+# Various                                 
+CREDITS_SCENE_LAB2A-3=...
+# Various                                 
+CREDITS_SCENE_LAB2A-4=Ха-ха
+# Various                                 
+CREDITS_SCENE_LAB2A-5=Глупый бот
+# Various                                 
+CREDITS_SCENE_LAB2A-6=Глупая шутка
+# Various                                 
+CREDITS_SCENE_LAB2A-7=Вернемся к работе
+# Various                                 
+CREDITS_SCENE_LAB2A-8=Конечно
+# Various                                 
+CREDITS_SCENE_LAB2A-9=Продуктивность побеждает
+# Various                                 
+CREDITS_SCENE_LAB2A-10=Люди всегда проигрывают
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens to Ott?
+# *****************************************************************
+# Ott                                 
+CREDITS_SCENE_POLICE1A-1=Здравствуйте, мистер медведь! Рад, что вы пришли!
+# RJ                                 
+CREDITS_SCENE_POLICE1A-2=Привет. Меня зовут Р.Джей
+# RJ                                 
+CREDITS_SCENE_POLICE1A-3=Зачем звал?
+# Ott                                 
+CREDITS_SCENE_POLICE1A-4=Ну...
+# Ott                                 
+CREDITS_SCENE_POLICE1A-5=Мой дядя... пропал.
+# Ott                                 
+CREDITS_SCENE_POLICE1A-6=Не уверен, что именно я должен этим заниматься... и не уверен, что мне это по силам, но...
+# Ott                                 
+CREDITS_SCENE_POLICE1A-7=Сламс нуждается в защите. Один я не справлюсь.
+# Ott                                 
+CREDITS_SCENE_POLICE1A-8=Вы со мной?
+# RJ                                 
+CREDITS_SCENE_POLICE1A-9=Я не коп. Меня уволили.
+# Ott                                 
+CREDITS_SCENE_POLICE1A-10=Вы шутите? Вы ведь в униформе!
+# Ott                                 
+CREDITS_SCENE_POLICE1A-11=Разве она вам ни о чем не говорит?
+# RJ                                 
+CREDITS_SCENE_POLICE1A-12=...
+# Ott                                 
+CREDITS_SCENE_POLICE1A-13=Я возьму вас обратно на работу!
+# RJ                                 
+CREDITS_SCENE_POLICE1A-14=Серьезно?
+# Ott                                 
+CREDITS_SCENE_POLICE1A-15=Конечно!
+# Ott                                 
+CREDITS_SCENE_POLICE1A-16=Я не могу положиться на эти консервные банки. Особенно после того, что случилось.
+# RJ                                 
+CREDITS_SCENE_POLICE1A-17=Спасибо!!!
+# Ott                                 
+CREDITS_SCENE_POLICE1A-18=Ох...!
+# Ott                                 
+CREDITS_SCENE_POLICE1A-19=Не раздавите меня! Чтобы управлять этим местом, мне нужно быть живым!
+#----------------------------------------------------
+# Ott                                 
+CREDITS_SCENE_POLICE2A-1=...
+# Ott                                 
+CREDITS_SCENE_POLICE2A-2=Что же делать...
+# Ott                                 
+CREDITS_SCENE_POLICE2A-3=...!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-4=Эй! Кто вы?
+# Rat                                 
+CREDITS_SCENE_POLICE2A-5=Эм...
+# Ott                                 
+CREDITS_SCENE_POLICE2A-6=Стойте! Не уходите!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-7=Видимо, вы искали, чем тут можно поживиться. Ничего страшного.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-8=Послушайте...
+# Ott                                 
+CREDITS_SCENE_POLICE2A-9=Я новый начальник этого департамента.
+# Rat                                 
+CREDITS_SCENE_POLICE2A-10=...Начальник?
+# Rat                                 
+CREDITS_SCENE_POLICE2A-11=Ха! Тебе сколько, десять лет?!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-12=Оглянитесь! Никого больше нет.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-13=Мне нужны кадры. Люди, готовые помочь.
+# Rat                                 
+CREDITS_SCENE_POLICE2A-14=Ты хочешь... чтобы Визгун... стал копом?!
+# Rat                                 
+CREDITS_SCENE_POLICE2A-15=Чувак, да ты совсем отчаялся.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-16=Да, видимо, я дурак.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-17=Дурак, который считает, что мы не должны быть предвзятыми.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-18=Все бывает в первый раз.
+# Ott                                 
+CREDITS_SCENE_POLICE2A-19=Почему бы вам не согласиться на оплачиваемую работу? Чистую работу?
+# Rat                                 
+CREDITS_SCENE_POLICE2A-20=Оплачиваемую...?!
+# Rat                                 
+CREDITS_SCENE_POLICE2A-21=По рукам!
+# Various                                 
+CREDITS_SCENE_POLICE2A-22=Надо сообщить остальным!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-23=Ну... Всех нанять я не смогу...
+# Various                                 
+CREDITS_SCENE_POLICE2A-24=Да-да! Всего парочку ребят!
+# Various                                 
+CREDITS_SCENE_POLICE2A-25=Спасибо, малец!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-26=Весьма неожиданно. Я нашел команду!
+# Ott                                 
+CREDITS_SCENE_POLICE2A-27=Остается надееться, что я смогу ими управлять...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various end of credits scene - What happens to Klay?
+# *****************************************************************
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-1=(Вздыхает)
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-2=Не знаю даже, зачем я здесь...
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-3=Ты ведь даже не оставила здесь никаких личных вещей, мама.
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-4=...?
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-5=На экране...
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-6="Клэй."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-7="Это прощальное послание."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-8="У меня всего несколько секунд, чтобы отправить это сообщение, перед тем, как мое тело откажет..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-9="Я собираюсь пожертвовать жизнью, чтобы спасти Сламс, который ты так презираешь."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-10="Честно говоря... Я должна была умереть уже много лет назад."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-11="Я жила на время, данное мне взаймы, чтобы побыть с тобой немного дольше..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-12="И увидеть, каким исключительным человеком ты вырос."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-13="Я обожала каждую секунду, проведенную с тобой, но время истекает..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-14="Прошу, пойми меня. Жизнь не проста. Пришло время думать самому за себя, делать то, что нужно..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-15="И принимать собственные решения."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-16="Надеюсь, я научила тебя тому, что правильно."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-17="Будь сильным, сын."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-18="И, прошу, будь добр ко всем."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-19="Где бы я ни оказалась..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-20="Я буду присматривать за тобой..."
+# Director                                 
+CREDITS_SCENE_SCHOOL1A-21="И всегда буду тебя любить..."
+# Klay                                 
+CREDITS_SCENE_SCHOOL1A-22=...
+#----------------------------------------------------
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-1=Ожидаю приказов
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-2=...Стюбот?
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-3=Кыш. Я не твой хозяин.
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-4=Вы хозяин
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-5=Правда? Здорово!
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-6=Тогда... Эмм...
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-7=Придумал!
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-8=Ты - новый директор!
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-9=Вот так! Делай свою работу.
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-10=Хорошо
+# Klay                                 
+CREDITS_SCENE_SCHOOL1B-11=Отлично! Оставлю это место в надежных руках.
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-12=...
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-13=Подготавливаю следующий урок
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-14=Название
+# Stubot                                 
+CREDITS_SCENE_SCHOOL1B-15=Люди ничему не учатся
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Secret scene - an unknown robot is speaking while Remn is in cryo, half awaken
+# *****************************************************************
+# Various                                 
+CREDITS_REMN1-1=Из-за потери триботов мы лишились значительного объема мощности.
+# Various                                 
+CREDITS_REMN1-2=На полное восстановление потребуется несколько дней.
+# Various                                 
+CREDITS_REMN1-3=Господин.
+# Various                                 
+CREDITS_REMN1-4=Я должен погрузить вас в глубокий сон.
+#----------------------------------------------------
+# Remn                                 
+CREDITS_REMN1B-1=Это незначительная неудача.
+# Remn                                 
+CREDITS_REMN1B-2=Я так долго ждал... Могу подождать еще немного.
+# Remn                                 
+CREDITS_REMN1B-3=Брок... Ты думал, что сможешь держать меня в стороне.
+# Remn                                 
+CREDITS_REMN1B-4=Убрать меня навсегда.
+# Remn                                 
+CREDITS_REMN1B-5=Но я здесь.
+# Remn                                 
+CREDITS_REMN1B-6=Очень скоро я пробужусь...
+# Remn                                 
+CREDITS_REMN1B-7=И заберу все, что пренадлежит мне.
+# Remn                                 
+CREDITS_REMN1B-8=В этот раз...
+# Remn                                 
+CREDITS_REMN1B-9=Я доберусь до вас...
+# Remn
+CREDITS_REMN1B-10=Мои сыновья.
+#----------------------------------------------------
+
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Secret scene 2
+# *****************************************************************
+# Unknown
+CREDITS_TIMECAPSULE1-1=3030 П.П.
+#----------------------------------------------------
+# Unknown
+CREDITS_TIMECAPSULE2-1="Центральный свет"
+
+
+# Klay
+CREDITS_SCENE_SCHOOL1A-23=Мама...
+
+
+CREDITS_SCENE_CHIEFRAT1D-1=Выходи сам, или мы тебя вытащим за твои круглые ушки!                 
+CREDITS_SCENE_CHIEFRAT1D-2=Ты в курсе, че происходит, когда нам не платят.
+CREDITS_SCENE_CHIEFRAT1E-1=Н... Не может быть...

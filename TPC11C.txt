@@ -1,0 +1,237 @@
+#-------------------------------
+#=LIA APARTMENT NIGHTMARE (LOUNGE)
+#-------------------------------
+
+#----- Interactions --------
+
+PC_ROCK=Камень
+PC_LOUNGE=В гостиную
+PC_INSCRIPTION=Надпись?
+PC_SHOWCASE=Сервант
+PC_FALLEN=Упавшая мебель
+PC_REWARDS=Награды
+PC_PILL=Награда в виде таблетки
+
+#----- Choices / Items --------
+GOT_METALBAR=Металлический стержень
+
+#----- Help --------
+
+TUTORIAL_JUMP_MSG_MOUSE=Чтобы прыгнуть, включите режим действий, затем нажмите <spr=CONTROL_mousemiddle> или <button=INPUT_ACTION_JUMP>.
+TUTORIAL_JUMP_MSG_GAMEPAD=Чтобы прыгнуть, включите режим действий, затем нажмите <button=INPUT_ACTION_JUMP>.
+
+#----- Topics --------
+
+
+#----- Dialog --------
+# Brok                                 
+PC11C_ENTER1-1=(Кхе, кхе)
+# Brok                                 
+PC11C_ENTER1-2=Этот дым...(кхе)... Просто невыносим.
+# Brok                                 
+PC11C_ENTER1-3=Надо найти выход, быстрее!
+#----------------------------------------------------
+# Brok                                 
+PC11C_INSCRIPTION1-1=Что...?
+# Brok                                 
+PC11C_INSCRIPTION1-2=По-моему, я видел там какую-то странную надпись...
+# Brok                                 
+PC11C_INSCRIPTION1-3=Неважно. Наверное, просто показалось.
+#----------------------------------------------------
+# Brok                                 
+PC11C_SHOWCASE1-1=Диплом... Награды какие-то...
+# Brok                                 
+PC11C_SHOWCASE1-2="Медицинское Открытие Года"?
+# Brok                                 
+PC11C_SHOWCASE1-3=Это все принадлежит Лии? Почему я этого не помню...?
+#----------------------------------------------------
+# Brok                                 
+PC11C_SHOWCASE2-1=Может, я найду здесь что-то полезное.
+#----------------------------------------------------
+# Brok                                 
+PC11C_REWARDS1-1=Ничего из этого не поможет мне сдвинуть мебель.
+#----------------------------------------------------
+# Brok                                 
+PC11C_PILL1-1=Хм, а что если я могу снять этот стержень...
+# Brok                                 
+PC11C_PILL1-2=Вот так!
+#----------------------------------------------------
+# Brok                                 
+PC11C_ROCK1-1=Камни? Откуда они здесь?
+# Brok                                 
+PC11C_ROCK1-2=Они преграждают путь...
+#----------------------------------------------------
+# Brok                                 
+PC11C_HOLE1-1=Ух ты! Что тут случилось?! Я даже не вижу дна!
+# Brok                                 
+PC11C_HOLE1-2=Осторожность не помешает...
+#----------------------------------------------------
+# Brok                                 
+PC11C_FALLEN1-1=Ух-ох-ох...
+# Brok                                 
+PC11C_FALLEN1-2=Ах... Нет...
+# Brok                                 
+PC11C_FALLEN1-3=Слишком тяжело... Нужно что-то, что поможет мне убрать эту мебель!
+#----------------------------------------------------
+# Brok                                 
+PC11C_FALLEN_METALBAR-1=Ах...
+# Brok                                 
+PC11C_FALLEN_METALBAR-2=Слишком... тяжело... я должен...!
+# Brok                                 
+PC11C_FALLEN_METALBAR-3=Ухххх!!!
+# Brok                                 
+PC11C_FALLEN_METALBAR-4=Нет... Мне не хватает сил...
+# Lia                                 
+PC11C_FALLEN_METALBAR-5=...все твоя вина...
+# Brok                                 
+PC11C_FALLEN_METALBAR-6=Что?
+# Lia                                 
+PC11C_FALLEN_METALBAR-7=Убийца...
+# Brok                                 
+PC11C_FALLEN_METALBAR-8=Лиа... О чем ты? Я только что пришел и...
+# Brok                                 
+PC11C_FALLEN_METALBAR-9=Ты справишься. Обещаю.
+# Lia                                 
+PC11C_FALLEN_METALBAR-10=Лжец...
+# Lia                                 
+PC11C_FALLEN_METALBAR-11=Ты убил меня... Убил его...
+# Brok                                 
+PC11C_FALLEN_METALBAR-12=Перестань... Ты знаешь, я никогда бы так не поступил!
+# Lia                                 
+PC11C_FALLEN_METALBAR-13=...бесполезный... опасный...
+# Lia                                 
+PC11C_FALLEN_METALBAR-14=Как ты можешь всем врать?
+# Lia                                 
+PC11C_FALLEN_METALBAR-15=Даже самому себе...
+# Brok                                 
+PC11C_FALLEN_METALBAR-16=Прекрати! Прошу! Это не твои слова!
+# Lia                                 
+PC11C_FALLEN_METALBAR-17=...не надо было доверять тебе...
+# Lia                                 
+PC11C_FALLEN_METALBAR-18=Мой сын в опасности рядом с тобой...
+# Brok                                 
+PC11C_FALLEN_METALBAR-19=Это неправда... Я...
+# Brok                                 
+PC11C_FALLEN_METALBAR-20=Я хорошо забочусь о нем.
+# Brok                                 
+PC11C_FALLEN_METALBAR-21=Стоп... Тут что-то не так...
+# Brok                                 
+PC11C_FALLEN_METALBAR-22=Где...?
+# Lia                                 
+PC11C_FALLEN_METALBAR-23=Преступник... обреченный...
+# Brok                                 
+PC11C_FALLEN_METALBAR-24=Я... должен сосредоточиться...
+# Brok                                 
+PC11C_FALLEN_METALBAR-25=Чтобы вытащить тебя отсюда.
+# Brok                                 
+PC11C_FALLEN_METALBAR-26=Погоди... Я попробую еще раз...
+# Brok                                 
+PC11C_FALLEN_METALBAR-27=Ух! Слишком тяжело!
+# Brok                                 
+PC11C_FALLEN_METALBAR-28=А-а-а-ах Аа-а-а-х!!!
+# Brok                                 
+PC11C_FALLEN_METALBAR-29=(Тяжело дышит)
+# Brok                                 
+PC11C_FALLEN_METALBAR-30=Нет... Мне...
+# Brok                                 
+PC11C_FALLEN_METALBAR-31=Мне так жаль...
+# Brok                                 
+PC11C_FALLEN_METALBAR-32=Я люблю тебя, но мне просто не хватает сил...
+# Lia                                 
+PC11C_FALLEN_METALBAR-33=...я должна была догадаться...
+# Brok                                 
+PC11C_FALLEN_METALBAR-34=...
+# Brok                                 
+PC11C_FALLEN_METALBAR-35=Что происходит?!
+# Brok                                 
+PC11C_FALLEN_METALBAR-36=Я... я приведу помощь! Не двигайся!
+# Lia                                 
+PC11C_FALLEN_METALBAR-37=...ну да!
+# Lia                                 
+PC11C_FALLEN_METALBAR-38=Сбегаешь, как всегда...
+# Brok                                 
+PC11C_FALLEN_METALBAR-39=Я не сбегаю! Только...
+# Lia                                 
+PC11C_FALLEN_METALBAR-40=Ты поплатишься за свои грехи...
+# Brok                                 
+PC11C_FALLEN_METALBAR-41=Нет... нет!
+# Brok                                 
+PC11C_FALLEN_METALBAR-42=Землетрясение! Все рушится?!
+# Brok                                 
+PC11C_FALLEN_METALBAR-43=Я... останусь здесь, с тобой, до самого конца!
+# Lia                                 
+PC11C_FALLEN_METALBAR-44=ЛЖЕЦ!
+# Lia                                 
+PC11C_FALLEN_METALBAR-45=ТЫ БРОСИЛ МЕНЯ ОДНУ!
+# Brok                                 
+PC11C_FALLEN_METALBAR-46=Нет... Я не брошу тебя!
+# Lia                                 
+PC11C_FALLEN_METALBAR-47=Я НИКОГДА НЕ ЗАБУДУ!
+# Lia                                 
+PC11C_FALLEN_METALBAR-48=Я НИКОГДА НЕ ПРОЩУ ТЕБЯ!
+# Brok                                 
+PC11C_FALLEN_METALBAR-49=Нееееет!
+#----------------------------------------------------
+# Brok                                 
+PC11C_LIA_FIRST1-1=Лиа!
+#----------------------------------------------------
+# Brok                                 
+PC11C_LIA_FIRST2-1=Держись! Я с тобой!
+# Lia                                 
+PC11C_LIA_FIRST2-2=Это ты...
+# Brok                                 
+PC11C_LIA_FIRST2-3=Не разговаривай! Береги силы. 
+# Brok                                 
+PC11C_LIA_FIRST2-4=Я вытащу тебя отсюда!
+# Lia                                 
+PC11C_LIA_FIRST2-5=...не надо...
+# Brok                                 
+PC11C_LIA_FIRST2-6=Почему ты так говоришь?
+# Lia                                 
+PC11C_LIA_FIRST2-7=Ты знаешь...
+# Brok                                 
+PC11C_LIA_FIRST2-8=Я...
+# Brok                                 
+PC11C_LIA_FIRST2-9=Нет, не знаю. Что произошло?
+# Lia                                 
+PC11C_LIA_FIRST2-10=...
+# Brok                                 
+PC11C_LIA_FIRST2-11=Лиа?
+# Brok                                 
+PC11C_LIA_FIRST2-12=Лиа!
+# Brok                                 
+PC11C_LIA_FIRST2-13=Она потеряла сознание... Я должен помочь ей, быстрее!
+#----------------------------------------------------
+# Brok                                 
+PC11C_LIA1-1=Лиа! Проснись!
+# Lia                                 
+PC11C_LIA1-2=...
+# Brok                                 
+PC11C_LIA1-3=Бесполезно...
+# Brok                                 
+PC11C_LIA1-4=Ей придавило ногу. Надо помочь ей выбраться!
+#----------------------------------------------------
+# Lia                                 
+PC11C_LIA_CLIMB1-1=Аа-а-а-а-а!
+# Brok                                 
+PC11C_LIA_CLIMB1-2=О нет! Прости.
+#----------------------------------------------------
+# Brok                                 
+PC11C_GOAWAY-1=Нет смысла возвращаться!
+#----------------------------------------------------
+# Brok                                 
+PC11C_LIA_GOAWAY-1=Нельзя уходить далеко от Лии. Я нужен ей!
+#----------------------------------------------------
+
+
+TUTORIAL_JUMP_CUPBOARD=Запрыгни на опрокинутый шкаф
+TUTORIAL_BREAK_WINDOW=Переключись на режим действий и сломайте стекло серванта
+TUTORIAL_INSPECT_PILL=Осмотри награду в виде таблетки
+TUTORIAL_USE_METALBAR=Используй металлический стержень, чтобы приподнять мебель
+
+
+
+
+
+PC_GUILTY=ВИНОВЕН
+

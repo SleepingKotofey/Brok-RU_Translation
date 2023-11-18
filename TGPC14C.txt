@@ -1,0 +1,529 @@
+#-------------------------------
+#= GRAFF - HACKER INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+# *****************************************************************
+# CONTEXT - Day 3 - Graff & Ott meet the hacker
+# *****************************************************************
+# Hacker                                 
+GPC14C_HACKER_FIRST1-1=Что...? Кто это?!
+# RJ                                 
+GPC14C_HACKER_FIRST1-2=Дети. Они тут спрячутся.
+# Hacker                                 
+GPC14C_HACKER_FIRST1-3=Ты умом тронулся?!
+# Hacker                                 
+GPC14C_HACKER_FIRST1-4=Вчера был крок, а теперь это?!
+# Hacker                                 
+GPC14C_HACKER_FIRST1-5=Не заставляй меня задуматься, не зря ли я взял тебя обратно на работу!
+# RJ                                 
+GPC14C_HACKER_FIRST1-6=Оооуу... Но...
+#----------------------------------------------------
+# Hacker                                 
+#Entering if RJ wasn't there
+GPC14C_HACKER_FIRST_NORJ-1=Какого...?
+# Hacker                                 
+GPC14C_HACKER_FIRST_NORJ-2=Дети?!
+# Graff                                 
+GPC14C_HACKER_FIRST_NORJ-3=Эмм...
+# Hacker                                 
+GPC14C_HACKER_FIRST_NORJ-4=Нц. Идите играйте на улице.
+# Hacker                                 
+GPC14C_HACKER_FIRST_NORJ-5=Надо найти другого охранника...
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_FIRST2-1=Вообще-то... Мы пришли к тебе.
+# Graff                                 
+GPC14C_HACKER_FIRST2-2=Ты же хакер, верно...?
+# Hacker                                 
+GPC14C_HACKER_FIRST2-3=Предпочитаю называться "Талантливым программистом, который может обходить защиту."
+# Hacker                                 
+GPC14C_HACKER_FIRST2-4=Погоди... Откуда ты знаешь?
+# Graff                                 
+GPC14C_HACKER_FIRST2-5=Это неважно. Мне нужна твоя помощь.
+# Hacker                                 
+GPC14C_HACKER_FIRST2-6=Ха! И ты принес свои карманные деньжата, да?
+# Hacker                                 
+GPC14C_HACKER_FIRST2-7=Очень сомневаюсь, что их хватит на оплату моих услуг, мальчики!
+# Hacker                                 
+GPC14C_HACKER_FIRST2-8=Уходи. Ты даром теряешь мое драгоценное время.
+# Graff                                 
+GPC14C_HACKER_FIRST2-9=Нет.
+# Hacker                                 
+GPC14C_HACKER_FIRST2-10=Нет...?
+# Graff                                 
+GPC14C_HACKER_FIRST2-11=Послушай. Мы - твои клиенты. Стоим прямо перед тобой.
+# Graff                                 
+GPC14C_HACKER_FIRST2-12=Какой бизнесмен стал бы упускать легкую сделку по продаже?
+# Hacker                                 
+GPC14C_HACKER_FIRST2-13=...
+# Hacker                                 
+GPC14C_HACKER_FIRST2-14=Ладно, ладно!
+# Hacker                                 
+GPC14C_HACKER_FIRST2-15=Рассказывай, как ты потерял свою любимую мягкую игрушку.
+# Graff                                 
+GPC14C_HACKER_FIRST2-16=Ааарр...
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_MISSION1-1=Мне нужно, чтобы ты взломал базу данных Центра Сознания.
+# Hacker                                 
+GPC14C_HACKER_MISSION1-2=Ясно...
+# Hacker                                 
+GPC14C_HACKER_MISSION1-3=Выложил какие-нибудь грязные фоточки и тебя поймали...?
+# Graff                                 
+GPC14C_HACKER_MISSION1-4=Нет! Я просто...
+# Graff                                 
+GPC14C_HACKER_MISSION1-5=Должен получить зачет по экзамену.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_BADRESULTS-1=У меня были плохие результаты и...
+# Hacker                                 
+GPC14C_HACKER_BADRESULTS-2=...ты хочешь сжульничать.
+# Graff                                 
+GPC14C_HACKER_BADRESULTS-3=Давай без нравоучений, пожалуйста.
+# Hacker                                 
+GPC14C_HACKER_BADRESULTS-4=Детишки. Такие предсказуемые.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_FORBIDDEN-1=У меня были отличные результаты! Я бы прошел, если бы не...
+# Hacker                                 
+GPC14C_HACKER_FORBIDDEN-2=Не что?
+# Graff                                 
+GPC14C_HACKER_FORBIDDEN-3=Я думал, ты не будешь задавать вопросы.
+# Hacker                                 
+GPC14C_HACKER_FORBIDDEN-4=Ты хочешь, чтобы я сделал свою работу чисто, верно?
+# Graff                                 
+GPC14C_HACKER_FORBIDDEN-5=...Мой старик оказался драмером, а это запрещено.
+# Hacker                                 
+GPC14C_HACKER_FORBIDDEN-6=Хмм...
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-1=Ну, просто сделай так, чтобы я прошел.
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-2=Хмм...
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-3=Тут несколько файерволов и других видов защиты, но...
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-4=Вполне выполнимо.
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-5=За 100,000 юнисов.
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-6=Что...?
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-7=Сто... тысяч?!
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-8=Я предупреждал. Такова цена качественной работы.
+# Ott                                 
+GPC14C_HACKER_MISSIONNEXT-9=Он мошенник.
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-10=Эй, я тут опасную работу делаю!
+# Ott                                 
+GPC14C_HACKER_MISSIONNEXT-11=Пойдем, Грэфф... Найдем другой способ...
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-12=Какой?!
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-13=Мы уже думали над вариантами! Другого решения просто нет!
+# Ott                                 
+GPC14C_HACKER_MISSIONNEXT-14=И как ты достанешь такие деньги до вечера?
+# Graff                                 
+GPC14C_HACKER_MISSIONNEXT-15=...Надо подумать.
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-16=Не думай целый день!
+# Hacker                                 
+GPC14C_HACKER_MISSIONNEXT-17=Ненавижу, когда кто-то жужжит под ухом, когда я работаю.
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_MISSION2-1=Достанешь 100,000 юнисов, мальчик?
+# Graff                                 
+GPC14C_HACKER_MISSION2-2=...Да. Но...
+# Hacker                                 
+GPC14C_HACKER_MISSION2-3=Даже не пытайся торговаться. Я уже назвал цену! Эта сумма как раз покрывает риск.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_BROK1-1=Расскажи, что за крок был здесь вчера.
+# Hacker                                 
+GPC14C_HACKER_BROK1-2=Есть шесть священных слов в нашем деле, мальчик.
+# Hacker                                 
+GPC14C_HACKER_BROK1-3=Кон-Фи-Ден-Ци-Аль-Ность.
+# Graff                                 
+GPC14C_HACKER_BROK1-4=Это же одно сло...
+# Hacker                                 
+GPC14C_HACKER_BROK1-5=Это дело касается лишь меня и моего клиента. И никого более.
+# Graff                                 
+GPC14C_HACKER_BROK1-6=Ты не понимаешь! Он мой... Мой...
+#----------------------------------------------------
+# Ott                                 
+GPC14C_HACKER_BROK1B-1=Опекун.
+# Graff                                 
+GPC14C_HACKER_BROK1B-2=Да.
+# Hacker                                 
+GPC14C_HACKER_BROK1B-3=Да хоть папа римский. От меня вы ничего не услышите.
+# Graff                                 
+GPC14C_HACKER_BROK1B-4=Пффф. Тупой Визгун...
+# Hacker                                 
+GPC14C_HACKER_BROK1B-5=Что ты сейчас сказал?!
+# Hacker                                 
+GPC14C_HACKER_BROK1B-6=Я не один из этих грязных крыс!!! Я мышь!
+# Hacker                                 
+GPC14C_HACKER_BROK1B-7=В таком возрасте должен бы уже уметь различать!
+# Graff                                 
+GPC14C_HACKER_BROK1B-8=Ладно, ладно! Извини...! Боже.
+# Hacker                                 
+GPC14C_HACKER_BROK1B-9=Современные дети... Уважения от них не дождешься...
+# Graff                                 
+GPC14C_HACKER_BROK1B-10=Ну...?
+# Hacker                                 
+GPC14C_HACKER_BROK1B-11=Ты так и будешь до меня докапываться с этой темой, да...?
+# Hacker                                 
+GPC14C_HACKER_BROK1B-12=Просто держись от него подальше. Скользкий тип.
+# Ott                                 
+GPC14C_HACKER_BROK1B-13=Сказал еще более скользкий хакер...
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_BROK_MISSION-1=Он заявил, что он полицейский. Учитывая записи о нем, это полный бред.
+# Graff                                 
+GPC14C_HACKER_BROK_MISSION-2=Что ты имеешь ввиду...?
+# Hacker                                 
+GPC14C_HACKER_BROK_MISSION-3=...Я и так уже слишком много сказал.
+# Graff                                 
+GPC14C_HACKER_BROK_MISSION-4=...
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_BROK_KO-1=Погоди... Вы как-то связаны друг с другом?
+# Graff                                 
+GPC14C_HACKER_BROK_KO-2=Да.
+# Hacker                                 
+GPC14C_HACKER_BROK_KO-3=О, нет! Пожалуйста, только не бей меня!
+# Ott                                 
+GPC14C_HACKER_BROK_KO-4=Что...?
+# Graff                                 
+GPC14C_HACKER_BROK_KO-5=Я сюда не для этого пришел!
+# Graff                                 
+GPC14C_HACKER_BROK_KO-6=Я просто... хочу узнать!
+# Hacker                                 
+GPC14C_HACKER_BROK_KO-7=Тот мужик сумасшедший!
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_BROK_THREATEN-1=Он угрожал мне! Чуть шею мне не сломал!
+# Hacker                                 
+GPC14C_HACKER_BROK_THREATEN-2=Я уже думал, что я мертвец!
+# Hacker                                 
+GPC14C_HACKER_BROK_THREATEN-3=Боже... Если он узнает...
+# Hacker                                 
+GPC14C_HACKER_BROK_THREATEN-4=Прошу, не говори ему, что я вам рассказал...!
+# Graff                                 
+GPC14C_HACKER_BROK_THREATEN-5=Не скажу! Обещаю...
+# Ott                                 
+GPC14C_HACKER_BROK_THREATEN-6=Угрожал... Чем твой старик промышляет...?
+# Graff                                 
+GPC14C_HACKER_BROK_THREATEN-7=Хотел бы я знать...
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_BROK_MONEY-1=Он прикидывался бедняком, но в то же время он способен достать 10,000 юнисов за уплату моих услуг.
+# Graff                                 
+GPC14C_HACKER_BROK_MONEY-2=Что?!
+# Ott                                 
+GPC14C_HACKER_BROK_MONEY-3=Откуда у него такие деньги?!
+# Hacker                                 
+GPC14C_HACKER_BROK_MONEY-4=Спроси у него.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_BROK2-1=Расскажи еще...
+# Hacker                                 
+GPC14C_HACKER_BROK2-2=1,000 юнисов. Или я нем, как рыба.
+# Graff                                 
+GPC14C_HACKER_BROK2-3=Что...? Ладно, забудь.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_DEFAULT1-1=Это сойдет?
+# Hacker                                 
+GPC14C_HACKER_INV_DEFAULT1-2=Взамен на работу в 100,000 юнисов? С ума сошел?!
+# Graff                                 
+GPC14C_HACKER_INV_DEFAULT1-3=Не нужно кричать! Я поищу что-нибудь еще.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_DEFAULT2-1=Мне очень сложно с этим расставаться, но... Возьми.
+# Hacker                                 
+GPC14C_HACKER_INV_DEFAULT2-2=Что это за дерьмо?
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_MONEY-1=Вот твои деньги.
+# Hacker                                 
+GPC14C_HACKER_INV_MONEY-2=Мальчик... Шел бы ты в школу.
+# Hacker                                 
+GPC14C_HACKER_INV_MONEY-3=Ты, очевидно, не умеешь считать.
+# Ott                                 
+GPC14C_HACKER_INV_MONEY-4=Знаешь... А он прав.
+# Graff                                 
+GPC14C_HACKER_INV_MONEY-5=Отт, ты не помогаешь.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_INVOICEHACKER-1=Тебе ведь это нужно, верно?
+# Hacker                                 
+GPC14C_HACKER_INV_INVOICEHACKER-2=Мой собственный счет...?!
+# Hacker                                 
+GPC14C_HACKER_INV_INVOICEHACKER-3=Я знал, что IQ у детей снижается, но не думал, что настолько...
+#----------------------------------------------------
+# Hacker                                 
+GPC14C_HACKER_INV_SELFIE-1=Фото?!
+# Hacker                                 
+GPC14C_HACKER_INV_SELFIE-2=Когда это закончится...?
+# Graff                                 
+GPC14C_HACKER_INV_SELFIE-3=Я просто хотел спросить. Это тот человек, что просил твоей помощи?
+# Hacker                                 
+GPC14C_HACKER_INV_SELFIE-4=Может быть. А может быть и нет.
+# Ott                                 
+GPC14C_HACKER_INV_SELFIE-5=Смирись... Он нам ничего не скажет.
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENT_NOPE-1=Не стоит это показывать...
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-1=...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-2=У меня есть деньги.
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-3=Что...?
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-4=Взгляни.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-5=...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-6=Этот аккаунт был открыт моей мамой. Там больше 100,000 юнисов.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-7=Она мертва, а это значит...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-8=Я получу доступ к нему через несколько дней, когда мне исполнится 16.
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-9=Откуда вдруг...?
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-10=Я и сам об этом только недавно узнал.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-11=Занимательно...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-12=Я гарантирую... Ты получишь свои деньги через несколько дней.
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-13=Не надо!
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-14=Наверное, твоя мама копила эти деньги для тебя!
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-15=Ты... ты не можешь!
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-16=В таком случае, зачем они нужны?
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-17=Разве она не хотела бы, чтобы я использовал их, как гарантию моего светлого будущего?
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-18=Я...
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-19=Я не знаю, но...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-20=Решено.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-21=Дай руку, мальчик.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-22=Хмм...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-23=Значит, ты...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-24=Грэфф Филш. 15 лет, день рождения через три дня.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-25=Похоже, ты говоришь правду.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-26=Хорошо. По рукам.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-27=Приходи через три дня и мы все утрясем.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-28=Нет! Ты не понимаешь...
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-29=Данные будут отправлены сегодня ночью!
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-30=Ты должен взломать сервер сейчас!
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-31=И дать тебе отсрочку?!
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-32=Не-а. Ни за что.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-33=Это вопрос жизни и смерти!
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-34=Именно. Как и для меня.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-35=Послушай.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-36=Ты правда хочешь лишиться возможности заработать 100,000 юнисов?
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-37=...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-38=Ладно.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-39=С твоими распечатками я могу запланировать банковский перевод прямо сейчас.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-40=Я направлю его на несколько моих хранилищ криптовалюты... из соображений безопасности.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-41=Но предупреждаю: этот процесс будет необратим.
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-42=Делай!
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-43=Грэфф...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-44=...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-45=...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-46=И...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-47=Готово.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-48=И еще кое-что: помни...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-49=Я буду за тобой приглядывать, мальчик!
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-50=Если попробуешь провернуть что-то против меня...
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-51=У меня есть возможность сломать всю твою жизнь!
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-52=О, не волнуйся. Она и так сломана.
+# Hacker                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-53=Так, а теперь оставьте меня в покое. Мне нужно сконцентрироваться!
+# Graff                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-54=Пойдем, Отт.
+# Ott                                 
+GPC14C_HACKER_INV_BANKSTATEMENTOK-55=...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - After given bank statement to hacker
+# *****************************************************************
+# Ott                                 
+GPC14C_AFTER1-1=Не могу в это поверить...
+# Ott                                 
+GPC14C_AFTER1-2=Что с тобой такое?! 100,000 юнисов?!
+# Ott                                 
+GPC14C_AFTER1-3=Да в Сламс с такими деньгами ты мог бы жить многие годы как король!
+# Graff                                 
+GPC14C_AFTER1-4=Прости, Отт...
+# Graff                                 
+GPC14C_AFTER1-5=Я... я не могу остаться здесь...
+# Ott                                 
+GPC14C_AFTER1-6=...
+# Ott                                 
+GPC14C_AFTER1-7=Хорошо... Это твой выбор.
+# Ott                                 
+GPC14C_AFTER1-8=Я не говорю, что он плох. Просто...
+# Ott                                 
+GPC14C_AFTER1-9=Может, стоило немного дольше подумать над этим решением, а не рубить с плеча.
+# Graff                                 
+GPC14C_AFTER1-10=Ну... Что сделано, то сделано.
+# Hacker                                 
+GPC14C_AFTER1-11=Эй, мальчики. Что я вам сказал?
+# Hacker                                 
+GPC14C_AFTER1-12=Выметайтесь отсюда к черту!
+# Ott                                 
+GPC14C_AFTER1-13=(Вздыхает) Надеюсь, он все сделает...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - More talk with hacker
+# *****************************************************************
+# Hacker                                 
+GPC14C_HACKER_WELCOME1-1=Ну...?
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_THINK1-1=(Отчаянные времена требуют отчаянных решений...)
+#----------------------------------------------------
+# Graff                                 
+GPC14C_HACKER_EXIT1-1=Я буду здесь.
+# Hacker                                 
+GPC14C_HACKER_EXIT1-2=Пф.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - AFter Graff & Ott have exited the room, the hacker calls the rats to make a deal with them
+# *****************************************************************
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-1=(...)
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-2=Парни...?
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-3=По поводу моего долга...
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-4=Да, да.
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-5=У меня есть кое-что, что подойдет вам в качестве оплаты.
+# Hacker                                 
+GPC14C_HACKER_AFTEREXIT1-6=Но сначала нужно, чтобы вы с кое-чем помогли мне.
+#----------------------------------------------------
+
+
+
+# Graff
+GPC14C_HACKER_INV_BANKSTATEMENT_NOPE-2=(Если у меня не найдется весомой причины.)
+#----------------------------------------------------
+# Hacker
+GPC14C_HACKER_HIT1-1=Аррр!
+# Ott
+GPC14C_HACKER_HIT1-2=Грэфф...!
+# Graff
+GPC14C_HACKER_HIT1-3=...Прости.
+#----------------------------------------------------
+# Hacker
+GPC14C_HACKER_HIT2-1=Прекрати! Мне больно!
+# Ott
+GPC14C_HACKER_HIT2-2=О, нет...!
+#----------------------------------------------------
+# Ott
+GPC14C_HACKER_HIT3-1=Хватит! Смотри, что ты наделал!
+# Ott
+GPC14C_HACKER_HIT3-2=Я ошибался. Ты не заслуживаешь стать драмером.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - After Graff hits the hacker
+# *****************************************************************
+# Graff
+GPC14C_HACKER_HIT3B-1=Отт! Стой!
+# Graff
+GPC14C_HACKER_HIT3B-2=...
+# Graff
+GPC14C_HACKER_HIT3B-3=Я... остался один...
+#----------------------------------------------------
+# Graff
+GPC14C_PIZZABOX1-1=Нет, спасибо... (Кашляет)
+#----------------------------------------------------
+# Graff
+GPC14C_BOTTLE1-1=Гадость.
+#----------------------------------------------------
+# Graff
+GPC14C_WINDOW1-1=Закрыто...
+#----------------------------------------------------
+# Graff
+GPC14C_STUFF1-1=Какой беспорядок.
+# Graff
+GPC14C_STUFF1-2=Не вижу ничего интересного.
+
+
+#----------------------------------------------------
+# Hacker
+GPC14C_HACKER_WALKONSTAND1-1=Что за...?
+#----------------------------------------------------
+# Hacker
+GPC14C_HACKER_WALKONSTAND2-1=Нц. Иди поиграй по дворе.
+#----------------------------------------------------
+# Hacker
+GPC14C_HACKER_WALKONSTAND3-1=(Вздыхает)
+
+
+
+
+COOP_GPC14C_HACKER1-1=Милый мышонок, но внешность обманчива.

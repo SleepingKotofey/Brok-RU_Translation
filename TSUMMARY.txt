@@ -1,0 +1,316 @@
+#-------------------------------
+#=END OF GAME SUMMARY
+#-------------------------------
+
+#----- Translations --------
+SUMMARY_PATHCURRENT=Текущий путь
+SUMMARY_PATHPAST=Пройденные пути
+SUMMARY_PATHUNEXPLORED=Неизведанный путь
+
+SUMMARY_CHOICE=Закрыть экран резутьтатов?
+
+# Chapter 1
+PC01_DESTROY_HOOVER=Избавился от бота-уборщика
+PC03_TRAMP_ATTACKED=Бродяга атакован
+PC03_TRAMP_KILLED=Бродяга попросил избавить его от страданий
+PC12_IS_BOLT_SHAY=Болт спасен
+PC12_IS_BOLT_DEAD=Что случилось с Болтом
+PC04_HAS_MESSED_COP=Трибот-коп
+PC05B_DEFEATED_ENEMIES=Визгуны
+PC07B_TRUST_SIN=Кража Сина
+
+# Later chapters
+PC09B_HAS_CHEEREDUP=Поддержал Сина
+PC09B_HAS_KILLED_RJ=Сбежал из тюрьмы
+PC10_FIRSTFIGHT_KLAY=Конфликт с Клэйем
+PC10_CHOICE_MESSUP=Изобретения
+PC01_STORY110_EXPLANATION=Даны объяснения
+PC06_HAS_FLEED_DRONE=Дрон
+PC01_STORY110_RATING=Приготовил ужин
+PC01_STORY180_WRITE_CHOICE=Написать сообщение
+BM02_FIGHT_OUTCOME=Драка с Ди
+PC11D_OUTCOME=Драка в ночном кошмаре
+PC11D_OUTCOME2=Маленький Грэфф
+PC09_STORY100_HASTRIGGEREDALARM=Сбежал из тюрьмы
+PC03_HAS_GIVEN_GLUCOSITE=Отдал глюкозит
+PC14B_RJ_FOOLED=Вошел в убежище хакера
+PC14C_DECISION=Убедил хакера
+PC09_HAS_KILLED_BLINDBOT=Проникнул в офис Уэса
+PC09C_OTT_HASLEFT=Получил доступ к компьютеру Уэса
+PC15B_CONVINCE_MINKOUT=Проникнул в комнату доктора Минка
+PC15B_INVESTIGATION_RESULT=Расследование завершено
+PC15D_CHARGED=Кого мы обвинили
+# "Chained" is for the trial part with Klay & Graff where one of them gets stuck to a wall
+PC19B_WHO=Решил, кто будет прикован
+PC19B_WHO_REAL=Кто был прикован
+PC19B_KLAY=Сессия Клэя
+PC19B_FREE_KLAY=Освободил Клэя
+PC19D_OUTCOME=Проблема с таблеткой
+PC03_HAS_GIVEN_MEDICINE=Получил рецепт
+PC01_STORY180_PILL_CHOICE=Таблетка для Грэффа
+PC01_ITEM_GIFT=Получил подарок
+PC03_HAS_BEAT_BILLDRONES=Счета
+MATERIALS_GIVEN=Получены материалы
+PC18_HAS_BROKEN_DOOR=Заставил доктора Геркина выйти
+PC14B_RJ_SAVED=Спас Р.Джея или доктора Геркина
+PC12_BOTS_END=Сбежал с доктором Геркиным
+PC14_GHERKIN_RAT_DEFEATED=Избавился от Визгунов по дороге
+PC10_HAS_KILLED_STUBOT=Убил Стюбота
+PC17_HAS_WON_PIANO=Последнее испытание
+PC10_GRAFF_HAS_PASSED=Получил диплом
+PC14_CAPTURED_HOW=Засада Визгунов
+PC05D_BOMBCHOICE=Выбор: Бомба или Экзамен
+PC05D_GRAFF_ESCAPED=Сбежал
+SIN_CONDITION=Судьба Сина
+PC14_GRAFFORDEE=Кто отправился спасать Грэффа
+PC20_INTERROGATION_COMPLETED=Нашел истину
+PC20_LASTWORD=Последние слова
+PC20_IS_DEE_KILLED=Ди сражается
+PC20_IS_RATCHIEF_KILLED=Судьба Главаря Визгунов
+PC08B_HAS_OPENED_EGG=Перед машиной
+PC08B_IS_MACHINE_FIXED=Сработала
+PC08C_UNLOCKED_DRAWER=Секретный ящик
+GRAFF_RELATION=Грэфф и Брок
+FIGHT_CHIEFRAT=Сражение с главарем Визгунов
+PC07B_RAT_MINES=Мины в канализации
+PC12B_LASERS_DISABLE=Лазеры в пирамиде
+PC04B_SEWERS_MANHOLE=Люк открыт
+PC06_TYPE_CRACKED=Код от двери Сина
+
+CHOICE_FIGHT=Сражался
+CHOICE_ESCAPE=Сбежал
+CHOICE_ALIVE=Остался в живых
+CHOICE_KILL=Убит
+CHOICE_SPARE=Пощадить
+CHOICE_KILLED=Убит
+CHOICE_TAKENAWAY=Уведен
+CHOICE_OUTOFBATTERY=Села батарея
+CHOICE_TRICKED=Перехитрил
+CHOICE_DENOUNCE=Осудить
+CHOICE_FORGIVE=Простить
+CHOICE_IGNORE=Игнорировать
+CHOICE_MESSUP=Сломал
+CHOICE_REPAIR=Починил
+CHOICE_GOCRAZY=Сошел с ума
+CHOICE_TRUTH=Сказал правду
+CHOICE_LIE=Соврал
+CHOICE_HUNGRY=Голоден
+CHOICE_AWFUL=Ужасно
+CHOICE_GOOD=Хорошо
+CHOICE_EXCELLENT=Отлично
+CHOICE_WON=Выиграл
+CHOICE_LOST=Проиграл
+CHOICE_GAVEUP=Сдался
+CHOICE_KILLEDENEMIES=Враги убиты
+CHOICE_BROKCAPTURED=Брок пойман
+CHOICE_ENEMIESCAPTURED=Враги пойманы
+CHOICE_EXPLOSION=Подорвался
+# As in, someone saved
+CHOICE_SAVE=Спасен
+CHOICE_RUNAWAY=Убежал
+CHOICE_ALARM=Тревога сработала
+CHOICE_NOALARM=Тревога не сработала
+CHOICE_DISGUISE=Маскировка
+CHOICE_PAY=Заплатил
+CHOICE_BEAT=Избил
+CHOICE_MISSION=Задание
+CHOICE_CONVINCE=Убедил
+CHOICE_BREAK=Сломал
+# To wake Dr Hush, Brok can jump on his "corpse"
+CHOICE_JUMPBODY=Прыгал на теле
+CHOICE_CHARGE=Обвинил кого-то
+CHOICE_NICE=Хорошо
+CHOICE_BAD=Плохо
+CHOICE_BACKHOME=Вернулся домой
+CHOICE_COLLAPSE=Упал в обморок
+CHOICE_BUY=Купил ее
+CHOICE_GIVE=Отдал из инвентаря
+CHOICE_DRONE=Дрон
+# Number of materials found
+CHOICE_NONE=Нет
+CHOICE_SOME=Не все	
+CHOICE_ALL=Все
+CHOICE_FIXBOT=Починил бота
+CHOICE_INTIMIDATE=Запугал
+CHOICE_PUSH=Толкнул
+CHOICE_HIDE=Спрятался
+CHOICE_FIGHT=Драться
+CHOICE_TIMEOUT=Перерыв
+CHOICE_WIN=Прошел
+CHOICE_FAIL=Проиграл
+CHOICE_PENALTY=Нет
+CHOICE_PERFECTSCORE=Да
+CHOICE_ONLYOTT=Только Отт
+CHOICE_OTTGRAFF=Отт и Грэфф
+CHOICE_BEATSQUEALERS=Одолел всех Визгунов
+CHOICE_NORMAL=Нормальные
+CHOICE_SILLY=Глупые
+CHOICE_CAPTURED=Пойман
+#Enter inside
+CHOICE_ENTER=Войти
+CHOICE_UNLOCKED=Открыт
+CHOICE_LOCKED=Заперт
+CHOICE_NOTENOUGH=Недостаточно
+CHOICE_NOONE=Никто
+CHOICE_DISABLE=Отключил
+# In the sense of "going through", not the symbol
+CHOICE_CROSS=Пересек
+CHOICE_BUTTONS=С помощью кнопок
+CHOICE_FALL=Провалившись
+CHOICE_WEAPON=Оружием
+CHOICE_FISTS=Кулаками
+CHOICE_DESTROY=Сломал
+CHOICE_ENTERCODE=Ввел код
+CHOICE_INVENTORY=Инвентарь
+
+SCROLL_LEFT=Листать влево
+SCROLL_RIGHT=Листать вправо
+
+SUMMARY_RELATIONSHIP=Отношения
+SUMMARY_VIOLENCE=Агрессия
+SUMMARY_BRAIN=Интеллект
+SUMMARY_POINTS=очков
+SUMMARY_CHARALIVE=Жив
+SUMMARY_CHARDEAD=Мертв
+SUMMARY_CHARUNKNOWN=Неизвестно
+SUMMARY_CHARNOEXISTENCE=Пропал
+
+TUTORIAL_SCROLLLR=Листать вправо/влево
+TUTORIAL_SCROLLCHAPTER=Листать главы
+
+ENDING_HINT=Подсказка :
+ENDING_HINT1=Раскрой основное дело
+ENDING_HINT1_2=В этот раз, войди в машину
+ENDING_HINT1_3=Не сближайся с Грэффом
+ENDING_HINT1_4=Не пытайся получить идеальный счет в испытаниях
+ENDING_HINT1_5=Котик, позволь себя похитить
+ENDING_HINT1_6=Успешно заверши допрос Уэса
+ENDING_HINT1_7=Постарайся почаще разгадывать загадки, с помощью своего мозга
+ENDING_HINT1_8=Не открывай ящик Шэй
+ENDING_HINT1_9=Не уничтожай машину
+ENDING_HINT1_10=Когда тебя похитят, не сбегай с Оттом
+ENDING_HINT1_11=Спаси Р.Джея и/или не спасай Грэффа
+#Average playthrough TODO Compare to the ending we got to give a hint
+ENDING_HINT2=Сбеги в последнюю минуту
+ENDING_HINT3=Сделай все, чтобы стать ближе с Грэффом
+ENDING_HINT4=Получи наилучший результат в испытаниях
+ENDING_HINT5=Котик, не дай себя похитить
+ENDING_HINT6=Не старайся добиться истины от Уэса
+ENDING_HINT7=Используй только кулаки, а не мозг
+ENDING_HINT8=Переведи язык этой вселенной#(Примечание: на английском проще)
+ENDING_HINT9=Уничтожь машину
+ENDING_HINT10=Грэфф сбегает с Оттом (не сражаясь), Брок решает спасти Сламс
+ENDING_HINT11=Не спасай Р.Джея, но спаси Грэффа
+
+ENDING_HINT99=Собери все рекламные флаеры (за несколько прохождений)
+
+#=EndOfFile
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+#PC03_TRAMP_KILLED=Бродяга попросил избавить его от страданий
+PC03_TRAMP_FATE=Судьба бродяги
+PC07B_DEFEAT_SIN=Победил Сина
+# Later chapters
+PC09_ESCAPED=Успешный побег
+PC09_ESCAPED_DETAIL=(< 15 мин.)
+PC10_CHOICE_BROKONTIME=Брок пришел вовремя
+BM02_FIGHT_OUTCOME2=Драка с Р.Джейем
+PC01_STORY140_CHOICE=Кто в приоритете?
+PC10_DIRECTOR_GIVEN_CHIP=Отдал чип
+PC14B_DIRECTOR_MEET=Встретился с директрисой
+PC14B_DIRECTOR_HELP=Согласился помочь?
+PC14B_HACKER_BLACKMAIL=Хакер угрожал
+PC10_DECISION_GRAFF=Решение по Грэффу
+PC09C_OTT_HASLEFT=Отвлек Отта
+PC09C_HAS_HIT_COMPUTER=Получил доступ к компьютеру Уэса
+PC19B_GRAFF=Сессия Грэффа
+SIN_CONDITION_DETAIL=(Отношение > 80%)
+PC20_IS_RATCHIEF_KILLED_DETAIL=(Агрессия > 90%)
+GRAFF_RELATION_DETAIL=(Отношения > 80%)
+PC19_PUZZLES=Загадки в бункере были решены
+PC01_CONFRONTATION=Ссора с Грэффом
+PC08B_HOOVER_DESTINY=Бот-уборщик
+PC17_HAS_HIT_OTT_LEFT=Отт ушел?
+PC13_HAS_TAKEN_SELFIE=Селфи с Грэффом
+PC13_HAS_TAKEN_SELFIE_DETAIL=(Отношение > 50%)
+PC10_SCORE_GRAFF1=Счет экзамена
+PC10_SCORE_GRAFF2=Счет с ярмарки
+PC10_SCORE_GRAFF3=Счет из бункера
+PC10_SCORE_GRAFF4=Счет за последнее испытание
+PC19B_GOOUT_BUNKER=Сбежал из бункера
+PC09D_INTERROGATION=Ответы на допросе
+PC09D_DEPICT=Как ты себя показал
+PC04_HAS_PAID_BILLC=Последний счет оплачен?
+PC19D_CHOICE_EXITSIN=Спасти Сина
+PC19D_SINALIVE=Син жив?
+PC03_HAS_UPDATED_PRESCRIPTION=Кто обновил рецепт?
+PC19C_WHO_FIGHTS=Кто открыл бункер?
+PC15_WHO_CHASED=За кем гнались триботы?
+PC14B_RJ_SURVIVE=Р.Джей выжил?
+PC14B_RJ_SURVIVE_DETAIL=(Отношение > 35%)
+PC10_KLAY_APOLOGIZE=Клэй извинился?
+PC10_KLAY_APOLOGIZE_DETAIL=(Отношение > 50%)
+PC14_BROKCHOICE=Выбор Брока
+PC15D_HAS_SOLD_SCREW=Болт Болта
+PC15D_GRAFF_BEATS_CHIEF=Грэфф побеждает
+CHOICE_NOTALK=Разговора не было
+CHOICE_BROKKILLED=Брок убит
+CHOICE_DRUGGED=Одурманен
+CHOICE_SCHOOL=В школе
+CHOICE_HACKERPLACE=Перед убежищем хакера
+CHOICE_ACCEPT=Принять
+CHOICE_REINSTATED=Восстановлен
+CHOICE_EXTRAPOINTS=Дополнительные очки
+CHOICE_NOCHIP=Не отдал чип
+CHOICE_SOLDTO={who} купил его
+CHOICE_KEPT=Остался
+CHOICE_KILLEDBY={who} убил его
+CHOICE_PUZZLES=Загадки
+CHOICE_TALK=Поговорил
+CHOICE_UNEXPECTED=Неожиданные
+CHOICE_SILENT=Молчание
+CHOICE_KILLER=Убийца
+CHOICE_NONVIOLENT=Не агрессивный
+CHOICE_INFILTRATE=Проник
+CHOICE_PAID=Оплатил
+CHOICE_SAVEGRAFF=Спас Грэффа
+CHOICE_SAVESLUMS=Спас Сламс
+CHOICE_PUNCHED=Ударил
+CHOICE_SURPRISEATTACK=Внезапно атаковал
+SUMMARY_SCENE=Сцена
+SCENE_PC05D_CHIEFRAT_BROKFIGHT=Побить Визгунов
+SCENE_FOUND_ALL_ADS=Заморожен
+SCENE_UNLOCK_ALL_ENDINGS=В другой раз
+SCENE_HINT_PC05D_CHIEFRAT_BROKFIGHT=Грэфф не сбежал
+SCENE_HINT_FOUND_ALL_ADS=Найти все флаеры
+SCENE_HINT_UNLOCK_ALL_ENDINGS=Открыть все концовки
+NODE_HINT_PC14B_DIRECTOR_HELP=Появиться на ярмарке вовремя
+NODE_HINT_PC14B_HACKER_BLACKMAIL=Не принимать предложение директрисы
+NODE_HINT_PC01_STORY140_CHOICE=Опоздать на ярмарку
+NODE_HINT_PC03_HAS_UPDATED_PRESCRIPTION=Два ученых смогут помочь
+NODE_HINT_PC19B_KLAY=Согласиться на приковывание
+NODE_HINT_PC19B_GRAFF=Заставить Клэя приковаться
+NODE_HINT_PC14B_RJ_SURVIVE=Не входить в аптеку
+NODE_HINT_PC14_BROKCHOICE=Р.Джей должен умереть, а Грэфф - сбежать
+NODE_HINT_PC05D_BOMBCHOICE=Не сразу убегай
+NODE_HINT_PC01_ITEM_GIFT=Улучши отношения с Грэффом
+NODE_HINT_PC01_STORY180_PILL_CHOICE=Грэфф не покупает таблетку
+NODE_HINT_PC15D_CHARGED=Обвинить кого-то
+NODE_HINT_PC06_HAS_FLEED_DRONE=Отправиться в Сектор 56-Экс
+NODE_HINT_PC12_IS_BOLT_DEAD=Не спасать Болта
+NODE_HINT_PC11D_OUTCOME2=Спасти маленького Грэффа
+NODE_HINT_PC15D_HAS_SOLD_SCREW=Болт Болта
+NODE_HINT_GENERIC=Пройди эту главу
+NODE_HINT_PC15D_GRAFF_BEATS_CHIEF=Грэфф должен победить его
+NODE_HINT_PC09_STORY100_HASTRIGGEREDALARM=Не дерись с Р.Джейем
+NODE_HINT_PC08B_HAS_OPENED_EGG=Открыть яицо
+NODE_HINT_FIGHT_CHIEFRAT=Не спасай Р.Джея, но спаси Грэффа
+
+
+PC20_WES_DEFEATED_HOW=Уэс побежден
+PC20_HUGEBOT_DEFEATED_HOW=Огромный бот побежден

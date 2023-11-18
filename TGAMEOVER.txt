@@ -1,0 +1,10 @@
+#-------------------------------
+#=Gameover text
+#-------------------------------
+
+GAMEOVER_DIFFICULTYQUESTION=Нужна помощь?
+GAMEOVER_DIFFICULTYLOWER=Понизить сложность
+GAMEOVER_DIFFICULTYFOOD=Купить еду
+GAMEOVER_DIFFICULTYCONTINUE=Продолжить
+GAMEOVER_DIFFICULTYCHANGED=Сложность изменена
+GAMEOVER_DIFFICULTYCHANGEDTEXT=Игра продолжится на сложности {difficulty}.

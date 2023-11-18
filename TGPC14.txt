@@ -1,0 +1,368 @@
+#-------------------------------
+#= GRAFF - HACKER BACK STREET
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+GPC14_CHOICE_RUN=Бежать
+GPC14_CHOICE_TALK=Поговорить
+GPC14_CHOICE_FIGHT=Драться
+GPC14_CHOICE_KEEPFIGHT=Продолжить драться
+GPC14_CHOICE_GIVEUP=Сдаться
+GPC14_CHOICE_DONOTHING=Ничего не делать
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# *****************************************************************
+# CONTEXT - Room interactions
+# *****************************************************************
+# Graff                                 
+GPC14_STATUE_DESTROYED1-1=Уверен, тут водится много гопоты...
+#----------------------------------------------------
+# Graff                                 
+GPC14_STATUE1-1=Антейл...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 2 end - Graff arrives and see Brok fighting
+# *****************************************************************
+# Graff                                 
+GPC14_STORY180_SECOND1-1=...!
+#----------------------------------------------------
+# Rat                                 
+#During this whole scene, Graff is hidden and mistakes this for Brok attempting to steal from the Squealers (when it's actually the opposite)
+GPC14_STORY180_SECOND5-1=Агх... У этого парня кулаки из стали или че...?
+# Brok                                 
+GPC14_STORY180_SECOND5-2=Вы хоть знаете, кто я, мелкие уродцы...?
+# Brok                                 
+GPC14_STORY180_SECOND5-3=Уверен, ваш босс меня помнит.
+# Dart                                 
+GPC14_STORY180_SECOND5-4=...Наш босс...?
+# Brok                                 
+GPC14_STORY180_SECOND5-5=Я не в настроении болтать языком! Дайте мне этот телефон или пожалеете...
+# Dart                                 
+GPC14_STORY180_SECOND5-6=...О, нет...! Это он!
+# Rat                                 
+GPC14_STORY180_SECOND5-7=Кто "он"?!
+# Dart                                 
+GPC14_STORY180_SECOND5-8=Это тот чел, что навалял нашему главарю вчера!
+# Rat                                 
+GPC14_STORY180_SECOND5-9=Н... Не может быть!!!
+# Dart                                 
+GPC14_STORY180_SECOND5-10=Не хочу дохнуть! Забирай телефон! И деньги бери!
+# Brok                                 
+GPC14_STORY180_SECOND5-11=Что...?
+#----------------------------------------------------
+# Brok                                 
+GPC14_STORY180_SECOND6-1=Купон на получение 100 юнисов...
+#----------------------------------------------------
+# Brok                                 
+GPC14_STORY180_SECOND7-1=Ну... Легкие деньги.
+# Brok                                 
+GPC14_STORY180_SECOND7-2=(Зевает) Ну и денек. Надо бы вздремнуть.
+#----------------------------------------------------
+# Graff                                 
+GPC14_STORY180_SECOND8-1=Что это было...?
+# Graff                                 
+GPC14_STORY180_SECOND8-2=Это вот так Брок зарабатывает деньги...?
+# Graff                                 
+GPC14_STORY180_SECOND8-3=...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Graff with Ott in day 3, getting ambushed by rats
+# *****************************************************************
+# Graff                                 
+GPC14_RATSCOME1-1=...!
+#----------------------------------------------------
+# Kins                                 
+GPC14_RATSCOME2-1=Какой приятный сюрприз!
+# Kins                                 
+GPC14_RATSCOME2-2=Даже искать не пришлось. Сам к нам приперся!
+# Graff                                 
+GPC14_RATSCOME2-3=...
+# Ott                                 
+GPC14_RATSCOME2-4=(Нервно сглатывает слюну)
+# Ott                                 
+GPC14_RATSCOME2-5=Грэфф...!
+# Ott                                 
+GPC14_RATSCOME2-6=Что нам делать...?
+#----------------------------------------------------
+# Graff                                 
+GPC14_CHOICE_TALK1-1=Что вам нужно?
+# Kins                                 
+#He means Graff only
+GPC14_CHOICE_TALK1-2=Ты.
+# Graff                                 
+GPC14_CHOICE_TALK1-3=Что?! Почему?
+# Kins                                 
+GPC14_CHOICE_TALK1-4=Босс те расскажет.
+# Kins                                 
+GPC14_CHOICE_TALK1-5=Пошли.
+# Graff                                 
+GPC14_CHOICE_TALK1-6=Ну уж нет!
+# Kins                                 
+GPC14_CHOICE_TALK1-7=Те выбора не давали.
+# Graff                                 
+GPC14_CHOICE_TALK1-8=Уууфф!
+# Ott                                 
+GPC14_CHOICE_TALK1-9=Грэфф!!!
+#----------------------------------------------------
+# Graff                                 
+GPC14_CHOICE_RUN-1=Отт...
+# Graff                                 
+GPC14_CHOICE_RUN-2=Беги!!!
+#----------------------------------------------------
+# Graff                                 
+GPC14_CHOICE_RUN2-1=Уууфф!!!
+# Ott                                 
+GPC14_CHOICE_RUN2-2=Грэфф!!!
+# Kins                                 
+GPC14_CHOICE_RUN2-3=Ха-ха-ха!
+# Kins                                 
+GPC14_CHOICE_RUN2-4=Думал, можешь от нас смыться? Жалкий червяк!
+#----------------------------------------------------
+# Ott                                 
+GPC14_CHOICE_AFTER-1=Отпустите! Или я...
+# Dart                                 
+GPC14_CHOICE_AFTER-2=Ты че?
+# Ott                                 
+GPC14_CHOICE_AFTER-3=Я... Дяде позвоню! Он коп!
+# Dart                                 
+GPC14_CHOICE_AFTER-4=Можно я, Кинс? Можно я?
+# Kins                                 
+GPC14_CHOICE_AFTER-5=Действуй.
+# Ott                                 
+GPC14_CHOICE_AFTER-6=Ааа...
+#----------------------------------------------------
+# Graff                                 
+GPC14_CHOICE_FIGHT-1=Хотите подраться...?
+# Graff                                 
+GPC14_CHOICE_FIGHT-2=Давайте! Я готов!
+# Kins                                 
+GPC14_CHOICE_FIGHT-3=О, нет! Мне так страшно!
+# Graff                                 
+GPC14_CHOICE_FIGHT-4=Я не шучу!
+# Ott                                 
+GPC14_CHOICE_FIGHT-5=Грэфф...? Ты что делаешь...?
+# Dart                                 
+GPC14_CHOICE_FIGHT-6=Че делать будем, Кинс?
+# Kins                                 
+GPC14_CHOICE_FIGHT-7=Покажем этому мелкому коту-зазнайке.
+#----------------------------------------------------
+# Dart                                 
+#Win the fight
+GPC14_AFTERFIGHT-1=Н... Не может быть...
+# Dart                                 
+GPC14_AFTERFIGHT-2=Как этот мальчишка...
+# Graff                                 
+GPC14_AFTERFIGHT-3=Оставьте нас в покое!
+# Ott                                 
+GPC14_AFTERFIGHT-4=Ааах!
+# Kins                                 
+GPC14_AFTERFIGHT-5=Босс попросил нас! Без вариантов!
+# Graff                                 
+GPC14_AFTERFIGHT-6=Вы за мной пришли! Так отпустите его!
+# Kins                                 
+GPC14_AFTERFIGHT-7=Сдавайся и мы вас пощадим.
+# Ott                                 
+GPC14_AFTERFIGHT-8=Не беспокойся обо мне, Грэфф! Убегай!
+#----------------------------------------------------
+# Graff                                 
+GPC14_AFTERFIGHT_GIVEUP1-1=...
+# Graff                                 
+GPC14_AFTERFIGHT_GIVEUP1-2=Хорошо...
+# Graff                                 
+GPC14_AFTERFIGHT_GIVEUP1-3=Заберите меня, но отпустите Отта.
+# Dart                                 
+GPC14_AFTERFIGHT_GIVEUP1-4=Извиняй! Боссу нужны вы оба.
+# Graff                                 
+GPC14_AFTERFIGHT_GIVEUP1-5=Ууууфф...!
+#----------------------------------------------------
+# Graff                                 
+GPC14_AFTERFIGHT_KILL1-1=Я...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL1-2=Убью вас...!
+# Kins                                 
+GPC14_AFTERFIGHT_KILL1-3=Ааааа...!!!
+#----------------------------------------------------
+# Graff                                 
+#The rat accidentally kills Ott
+GPC14_AFTERFIGHT_KILL2-1=...!!!
+# Kins                                 
+GPC14_AFTERFIGHT_KILL2-2=... Мальчишка!
+# Dart                                 
+GPC14_AFTERFIGHT_KILL2-3=Ты имбецил! Смари, че ты наделал!
+# Kins                                 
+GPC14_AFTERFIGHT_KILL2-4=Он меня напугал! Я...
+# Dart                                 
+GPC14_AFTERFIGHT_KILL2-5=Надо валить отсюда...!
+#----------------------------------------------------
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-1=...Отт...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-2=...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-3=Нет...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-4=Отт... Умоляю...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-5=...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-6=Помогите!!!
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-7=Кто-нибудь, помогите!!!
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-8=Ну хоть кто-то...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-9=...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-10=Это...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL3-11=Моя вина...
+#----------------------------------------------------
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-1=Следующие события будто в тумане...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-2=Я помню, как мы зашли в бункер с Ди и доком.
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-3=Было сложно, но мы нашли способ избавиться от ботов, которые нас окружили.
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-4=Когда мы выбирались оттуда... я начал беспокоиться за Грэффа.
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-5=Я стал искать его...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL4-6=И через какое-то время...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Brok arrives and sees Graff next, sit next to Ott's corpse
+# *****************************************************************
+# Brok                                 
+GPC14_AFTERFIGHT_KILL5-1=...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL5-2=Грэфф...
+#----------------------------------------------------
+# Graff                                 
+GPC14_AFTERFIGHT_KILL6-1=...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL6-2=О, нет...
+#----------------------------------------------------
+# Graff                                 
+GPC14_AFTERFIGHT_KILL7-1=Разбуди...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL7-2=Разбуди его...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL7-3=Пожалуйста...!
+# Brok                                 
+GPC14_AFTERFIGHT_KILL7-4=...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL7-5=Боюсь... я не могу...
+#----------------------------------------------------
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-1=Как давно ты здесь сидишь...?
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-2=...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-3=Я... не могу бросить его...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-4=Понимаю...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-5=Я не так долго его знал, но...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-6=Могу сказать, что он был очень хорошим человеком...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-7=...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-8=Его родители...
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-9=Что мы им скажем...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-10=Я об этом позабочусь.
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-11=Я...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-12=Обо всем позабочусь.
+# Graff                                 
+GPC14_AFTERFIGHT_KILL8-13=...
+# Brok                                 
+GPC14_AFTERFIGHT_KILL8-14=Пойдем со мной.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Graff loses
+# *****************************************************************
+# Dart                                 
+GPC14_GRAFF_GAMEOVER-1=Ой...! Думаю, он...
+# Kins                                 
+GPC14_GRAFF_GAMEOVER-2=Идиот! Что ты наделал?!
+# Kins                                 
+GPC14_GRAFF_GAMEOVER-3=Он был нужен боссу живым!
+# Dart                                 
+GPC14_GRAFF_GAMEOVER-4=Но...!
+# Ott                                 
+GPC14_GRAFF_GAMEOVER-5=Грэфф!!! За что?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Player chooses to do nothing
+# *****************************************************************
+# Graff                                 
+GPC14_CHOICE_DONOTHING1-1=...
+# Kins                                 
+GPC14_CHOICE_DONOTHING1-2=В чем дело? Тебе язык отрезали...?
+# Ott                                 
+GPC14_CHOICE_DONOTHING1-3=Уходите! Нам не нужны неприятности!
+# Dart                                 
+GPC14_CHOICE_DONOTHING1-4=Ой, а нам нужны, поросенок!
+# Ott                                 
+GPC14_CHOICE_DONOTHING1-5=Грэфф! Нам их не победить!
+# Ott                                 
+GPC14_CHOICE_DONOTHING1-6=Может, нужно...
+# Ott                                 
+GPC14_CHOICE_DONOTHING1-7=Ааар!
+# Dart                                 
+GPC14_CHOICE_DONOTHING1-8=Заткнись.
+# Graff                                 
+GPC14_CHOICE_DONOTHING1-9=Вы... монстры!
+# Dart                                 
+GPC14_CHOICE_DONOTHING1-10=Ой! Смотри! Маленькая киса злится, что мы бьем его любовничка!
+# Dart                                 
+GPC14_CHOICE_DONOTHING1-11=И че ты нам за это сделаешь, а?!
+# Graff                                 
+GPC14_CHOICE_DONOTHING1-12=...
+# Kins                                 
+GPC14_CHOICE_DONOTHING1-13=Выруби его. Он не должен видеть, куда мы его ведем.
+# Dart                                 
+GPC14_CHOICE_DONOTHING1-14=Без проблем!
+# Graff                                 
+GPC14_CHOICE_DONOTHING1-15=Уууф...!
+#----------------------------------------------------
+
+
+#----- Topics --------
+PC_CHOICE_GRAFF_SKIPFIGHT=Грэфф не должен побеждать в этом бою! Все равно пропустить бой?
+#----------------------------------------------------
+# Dart
+GPC14_STORY180_SECOND5_BLOWUP-1=Это тот чувак, который раскидал нас вчера!
+#----------------------------------------------------
+# Dart
+GPC14_STORY180_SECOND5_BEAT-1=Это тот чел, который отлупил босса вчера!
+#----------------------------------------------------
+# Dart
+GPC14_STORY180_SECOND5_SEVERAL-1=Опять мы на него наткнулись!
+#----------------------------------------------------
+# Rat
+GPC14_STORY180_SECOND5B-1=Н... Не может быть!!!
+# Dart
+GPC14_STORY180_SECOND5B-2=Я не хочу умирать! Забери телефон! И деньги!
+# Brok
+GPC14_STORY180_SECOND5B-3=Что...?

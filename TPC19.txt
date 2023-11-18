@@ -1,0 +1,39 @@
+#-------------------------------
+#=BUNKER INSIDE (GRAFF LEVEL SO NO DIALOG FOR BROK)
+#-------------------------------
+
+#----- Interactions --------
+PC_ACCESS=Доступ
+PC_SWITCH=Переключатель
+PC_TRIANGLE=Треугольник
+PC_WEIGHT=Гиря
+PC_SYMBOLS=Символы
+PC_BALANCE=Баланс
+# Balance plate
+PC_PLATE=Пластина
+PC_BALL=Мяч
+PC_TRIANGLE=Треугольник
+
+#----- Choices / Items --------
+GOT_TRIANGLEBUNKER=Треугольный знак!
+GOT_WEIGHT=Гиря!
+
+#----- Topics --------
+PC19_GIVEUP_CONFIRM=Сдаться и выйти?
+PC19_PLATE_CHOICE=Забрать гири?
+PC19_TRIANGLE_CHOICE=Забрать треугольник?
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+PC_SQUARE=Квадрат
+PC_TRAP=Ловушка
+PC_KEYLOCK=Замок
+
+
+PC19_JUMPCHOICE=Прыгнуть на эту плиту, чтобы попасть на вершину?
+PC19_PIPEGAME=Игра на трубе

@@ -1,0 +1,175 @@
+#-------------------------------
+#= BROK --- SEWERS BELOW
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+
+
+
+# *****************************************************************
+# CONTEXT - Day 3 - Graff has been kidnapped and Brok chose to save Graff from the Squealers
+# *****************************************************************
+# Chiefrat                                 
+PC05D_INIT1-1=Ты тут, наконец.
+# Chiefrat                                 
+PC05D_INIT1-2=Такой предсказуемый... Тобою так просто манипулировать.
+# Graff                                 
+PC05D_INIT1-3=Брок...!
+# Brok                                 
+PC05D_INIT1-4=Отпусти моего мальчишку! Сейчас же!
+# Chiefrat                                 
+PC05D_INIT1-5=Отпущу. Обещаю.
+# Chiefrat                                 
+PC05D_INIT1-6=Но только после того, как закончу с тобой... навсегда!
+# Brok                                 
+PC05D_INIT1-7=Опять ты со своей местью...?
+# Brok                                 
+PC05D_INIT1-8=Я даже не знаю, за что ты так на меня взъелся!
+# Chiefrat                                 
+PC05D_INIT1-9=Да как ты смеешь?!
+# Chiefrat                                 
+PC05D_INIT1-10=Думаешь, что забыв о том, что натворил, ты искупил свои грехи?
+# Chiefrat                                 
+PC05D_INIT1-11=Мы, Визгуны, никогда не забудем!
+# Kins                                 
+PC05D_INIT1-12=Да!
+# Kins                                 
+PC05D_INIT1-13=Бороться до конца...
+# Chiefrat                                 
+PC05D_INIT1-14=Вернуть то, что наше по праву!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - After the fight the rat chief tries to escape and use Graff
+# *****************************************************************
+# Chiefrat                                 
+PC05D_AFTERFIGHT1-1=...
+# Brok                                 
+PC05D_AFTERFIGHT1-2=Эй! Останься и дерись, трус!
+#----------------------------------------------------
+# Graff                                 
+PC05D_AFTERFIGHT1C-1=Аах!
+# Brok                                 
+PC05D_AFTERFIGHT1C-2=Грэфф!
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-3=Раз уж мне не победить тебя грубой силой...
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-4=Я уничтожу тебя другим способом!
+# Brok                                 
+PC05D_AFTERFIGHT1C-5=Ты жалок...!
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-6=Назад! Или я сломаю ему шею!
+# Graff                                 
+PC05D_AFTERFIGHT1C-7=...
+# Graff                                 
+PC05D_AFTERFIGHT1C-8=Лжец...
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-9=Что ты сказал?!
+# Graff                                 
+PC05D_AFTERFIGHT1C-10=Ты сказал, что вы не убиваете людей!
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-11=Только когда это необходимо...
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-12=Смотри, крок!
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-13=Смотри, как жизнь по капле вытекает из его тела!
+# Graff                                 
+PC05D_AFTERFIGHT1C-14=Угх!
+# Chiefrat                                 
+PC05D_AFTERFIGHT1C-15=Этого ты точно никогда не забудешь!
+# Brok                                 
+PC05D_AFTERFIGHT1C-16=Нееет!
+#----------------------------------------------------
+# Brok                                 
+PC05D_AFTERFIGHT3-1=...!
+# Brok                                 
+PC05D_AFTERFIGHT3-2=Грэфф!
+#----------------------------------------------------
+# Graff                                 
+PC05D_AFTERFIGHT4-1=...
+# Graff                                 
+PC05D_AFTERFIGHT4-2=Я... сумел выпутаться из веревок...
+# Graff                                 
+PC05D_AFTERFIGHT4-3=Пока ты дрался с ними... Они отвлеклись.
+# Graff                                 
+PC05D_AFTERFIGHT4-4=Я спрятал эту трубу...
+# Brok                                 
+PC05D_AFTERFIGHT4-5=Молодец, сынок!
+# Brok                                 
+PC05D_AFTERFIGHT4-6=...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Brok decides he needs to get rid of the rat chief once and for all
+# *****************************************************************
+# Brok                                 
+PC05D_AFTERFIGHT5-1=(Вздыхает)
+# Brok                                 
+PC05D_AFTERFIGHT5-2=Грэфф. Выйди отсюда.
+# Graff                                 
+PC05D_AFTERFIGHT5-3=Что...? Почему...?
+# Brok                                 
+PC05D_AFTERFIGHT5-4=Я... не хочу, чтобы ты смотрел на это...
+# Graff                                 
+PC05D_AFTERFIGHT5-5=...!
+# Graff                                 
+PC05D_AFTERFIGHT5-6=Нет! Не делай этого!
+# Brok                                 
+PC05D_AFTERFIGHT5-7=Придется...
+# Brok                                 
+PC05D_AFTERFIGHT5-8=Так он никогда больше не сможет причинить тебе вред!
+# Graff                                 
+PC05D_AFTERFIGHT5-9=Нет!
+# Brok                                 
+PC05D_AFTERFIGHT5-10=Ты слышал его!
+# Brok                                 
+PC05D_AFTERFIGHT5-11=Он никогда не остановится...
+# Brok                                 
+PC05D_AFTERFIGHT5-12=Я... Я должен защитить тебя!
+# Brok                                 
+PC05D_AFTERFIGHT5-13=Любой ценой!
+# Brok                                 
+PC05D_AFTERFIGHT5-14=Я обещал твоей маме...
+# Graff                                 
+PC05D_AFTERFIGHT5-15=Прошу...!
+# Graff                                 
+PC05D_AFTERFIGHT5-16=Не надо... Умоляю тебя...
+# Brok                                 
+PC05D_AFTERFIGHT5-17=Но... Ты никогда не будешь в безопасности!
+# Graff                                 
+PC05D_AFTERFIGHT5-18=Я всегда...
+# Graff                                 
+PC05D_AFTERFIGHT5-19=В безопасности...
+# Graff                                 
+PC05D_AFTERFIGHT5-20=Пока ты рядом.
+# Brok                                 
+PC05D_AFTERFIGHT5-21=...
+#----------------------------------------------------
+# Brok                                 
+PC05D_AFTERFIGHT6-1=Ты прав...
+# Brok                                 
+PC05D_AFTERFIGHT6-2=Отныне... Я всегда буду рядом.
+# Graff                                 
+PC05D_AFTERFIGHT6-3=Спасибо...
+#----------------------------------------------------
+
+
+#----------------------------------------------------
+# Chiefrat
+PC05D_BROKLOSE-1=Наконец-то... Я отомстил.
+# Kins
+PC05D_BROKLOSE-2=Эй, босс. Вам от этого легче стало?
+# Chiefrat
+PC05D_BROKLOSE-3=Да. Да, стало!
+# Chiefrat
+PC05D_BROKLOSE-4=Давайте, ребятки! Отпразднуем это.
+# Dart
+PC05D_BROKLOSE-5=Эй, а он может послужить нам неплохим диваном!

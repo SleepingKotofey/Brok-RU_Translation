@@ -1,0 +1,3628 @@
+#-------------------------------
+#=TEXT FOR ALL THE ROOMS
+#-------------------------------
+
+#----- Characters names : Most don't need to be changed/translated --------
+CHAR_BROK=Брок
+CHAR_GRAFF=Грэфф
+CHAR_SIN=Син
+CHAR_WES=Уэс
+CHAR_SHAY=Шэй
+CHAR_REMN=Ремн
+CHAR_TRIBOT=Трибот
+CHAR_TRIBOTCOP=Трибот-коп
+CHAR_PIPEMAIL=Пневмопочта
+CHAR_BOLT=Болт
+CHAR_CHIEFRAT=Главарь Визгунов
+CHAR_RAT=Визгун
+CHAR_RAT_KINS=Кинс
+CHAR_RAT_DART=Дарт
+CHAR_TRAMP=Бродяга
+CHAR_OTT=Отт
+CHAR_KLAY=Клэй
+#The female robot
+CHAR_DIRECTOR=Директриса
+CHAR_STUBOT=Стюбот
+CHAR_RJ=Р.Джей
+CHAR_HACKER=Хакер
+CHAR_HUSH=Д-р Хуш
+CHAR_GUARD=Охранник
+CHAR_MINK=Минк
+CHAR_TIDY=Тайди
+CHAR_GHERKIN=Д-р Геркин
+CHAR_LIA=Лиа
+CHAR_DEE=Ди
+#Religious woman selling stuff
+CHAR_FLOWER=Продавщица
+CHAR_GOVERNMENT=Правительство
+#Final boss
+CHAR_HUGEBOT=Мегащит
+CHAR_UNKNOWN=???
+CHAR_MAN=Мужчина
+CHAR_MEETYME=Мити-ми
+#These are pseudonyms Graff and "another person named NMER" use to talk with him in a chat
+CHAR_NMERCHAT=NMER_3
+CHAR_GRAFFCHAT=GrfGrin
+
+#----- Non-important names (for fights) No need to translate the rats names --------
+NAME_RAT1=Вакс
+NAME_RAT2=Рид
+NAME_RAT3=Сокс
+NAME_RAT4=Фил
+NAME_RAT5=Тард
+NAME_RAT6=Селдо
+NAME_RAT7=Стил
+NAME_RAT8=Моп
+NAME_RAT9=Влад
+
+NAME_TRIBOT=Модель
+NAME_BLINDBOT=Слепой бот
+
+# Literally a mine, the thing that explodes
+NAME_MINE=Мина
+NAME_BED=Кровать
+NAME_BARRIER=Барьер
+
+#----- Interface --------
+
+DATE_TODAY=Сегодня
+DATE_YSTDAY=Вчера
+DATE_2AGO=2 дня назад
+
+INTERFACE_NEW_GAME=Новая игра
+INTERFACE_CONTINUE=Продолжить
+INTERFACE_NEWGAME_CONFIRM_MSG=Это перепишет автосохранение. Продолжить?
+INTERFACE_NEW_OR_RESTART_MSG=С какого момента переиграть?
+INTERFACE_START_MOUSE_GAMEPAD=Щелкни мышью или нажми на любую кнопку
+INTERFACE_START_GAMEPAD=Нажми на любую кнопку
+INTERFACE_START_LABEL=Старт
+INTERFACE_BEGINNING=Начало
+INTERFACE_CHAPTER=Глава
+INTERFACE_SKIPACTION=Пропустить сцену действия или головоломку
+INPUT_ACTION_SKIP_ACTION=Пропустить сцену действия или головоломку
+INTERFACE_QUICKFIGHT=Быстрый бой
+
+#Menu left tabs : space is limited. If they appear too stretched, cut the word and add "."
+INTERFACE_INVENTORY=Инвентарь
+INTERFACE_STATS=Характеристики
+INTERFACE_PROGRESS=Прогресс
+INTERFACE_EXTRAS=Бонусы
+INTERFACE_SAVELOAD=Сохранения
+INTERFACE_OPTIONS=Настройки
+
+#Other menu info : these are not really limited.
+INTERFACE_MENU=Меню
+INTERFACE_MODEADVENTURE=Переключиться на режим исследования
+INTERFACE_MODEFIGHT=Переключиться на режим сражения
+INTERFACE_SKIPFIGHT=Пропустить бой
+INTERFACE_NOITEM=Нет#предметов
+INTERFACE_SWITCH_GRAFF=Переключиться на Грэффа
+INTERFACE_SWITCH_BROK=Переключиться на Брока
+INTERFACE_SWITCH_CANNOT=Невозможно переключиться сейчас!
+INTERFACE_LEVEL=УРОВЕНЬ {level}
+INTERFACE_EXP=ОПЫТ : {exp}
+INTERFACE_NEXT=СЛЕДУЮЩИЙ : {exp}
+INTERFACE_CURRENTXP=ТЕКУЩИЙ : {exp}
+INTERFACE_BRAIN=Ум
+INTERFACE_BRAWL=Агрессия
+INTERFACE_CLOSE=Закрыть меню
+INTERFACE_MONEY=Валюта
+INTERFACE_CALL=Звонки
+INTERFACE_CONTACTS=Контакты
+INTERFACE_PASTCONVERSATIONS=Недавние диалоги
+INTERFACE_MESSAGES=Сообщения
+INTERFACE_HINTS=Застрял? Возьми подсказку!
+
+INTERFACE_STATSPLAYER=Игрок
+INTERFACE_OBJECTIVE=Цели
+INTERFACE_CLUES=Улики
+INTERFACE_CLUE_MISSING=Нажми, чтобы получить подсказку
+INTERFACE_GAMEOPTIONS=Настройки
+INTERFACE_OPTION_EXITMENU=Выйти в главное меню
+INTERFACE_EXITMENU_MESSAGE=Выйти в главное меню?
+ITEM_INTERFACE_OPTION_EXITMENU_MSG=Выход в главное меню игры
+INTERFACE_EXITMENU=Выйти в главное меню?
+INTERFACE_EXITGAME=Выйти из игры
+INTERFACE_ITEMS=Предметы
+INTERFACE_FOOD=Еда
+INTERFACE_ADS=Флаеры
+INTERFACE_AD_NOTFOUND=Еще не найдено!
+INTERFACE_AD_PREVIOUS=Найдено (в прошлом прохождении)
+INTERFACE_TUTORIALS=Обучение
+INTERFACE_ACHIEVEMENTS=Достижения
+INTERFACE_UNLOCKABLES=Разблокировать
+INTERFACE_GAMEOVERS=Поражения
+INTERFACE_MATERIALS=Список материалов
+INTERFACE_DESCRIBEITEM=Описать предмет
+INTERFACE_PUTDOWNITEM=Положить предмет
+INTERFACE_SAVE=Сохранить
+INTERFACE_LOAD=Загрузить
+INTERFACE_EXIT_MESSAGE=Выйти из игры?
+INTERFACE_THINK=Думать
+INTERFACE_SHOW_ITEMS=Показать предметы
+INTERFACE_BACK=Назад
+INTERFACE_CALLS_HISTORY=История вызовов
+INTERFACE_TALK_WITH=Поговорить с {charname}
+INTERFACE_SHOWITEM_TITLE=Показать предмет
+INTERFACE_EXIT=Выйти
+INTERFACE_AUTOMATIC_SAVE=Автосохранение
+INTERFACE_SLOT=Слот
+INTERFACE_EMPTY=Пусто
+INTERFACE_SAVESTATE_CONFIRM=Перезаписать это сохранение?
+INTERFACE_LOADSTATE_CONFIRM=Загрузить это сохранение?
+INTERFACE_USE_FOOD_CONFIRM=Съесть это?
+INTERFACE_USE_FOOD_CANNOT=Этот предмет может быть использован только в режиме действий!
+#Used in vending machines to know how many items of this type the player already has
+INTERFACE_OWNED=Приобретено :
+INTERFACE_FIGHTBEGIN=Бой
+INTERFACE_FIGHTEND=Конец боя
+INTERFACE_EXITARENA=Покинуть арену
+INTERFACE_SUMMARYPATH=Результаты прохождения
+INTERFACE_MAINOBJECTIVE=Главные
+INTERFACE_OPTIONALOBJECTIVE=Дополнительные
+INTERFACE_COMPLETEDOBJECTIVE=Завершенные
+INTERFACE_INTERROGATION=Начать допрос
+INTERFACE_INTERROGATION_END=Допрос завершен
+INTERFACE_LOCATION_UNLOCKED=Открыта локация!
+INTERFACE_COMPLETEDOBJECTIVEOK=Цель достигнута!
+INTERFACE_COMPLETEDOBJECTIVEFAIL=Цель провалена
+INTERFACE_HP=(Здоровье)
+INTERFACE_ATTACKP=(Атака)
+#This is the delay we have to wait between special attacks
+INTERFACE_SPECIALP=(Таймер особой атаки)
+INTERFACE_SECONDS=секунд
+INTERFACE_LEVELUP=Уровень повышен! Выбери бонус!
+INTERFACE_LEVELUP_HEALTH=Здоровье +
+INTERFACE_LEVELUP_STRENGTH=Сила +
+INTERFACE_LEVELUP_SPECIAL=Особая атака +
+INTERFACE_ENEMIES_LEFT=Врагов осталось
+#Graff can request money from Brok
+INTERFACE_MONEYGRAFF_CHOICE=Запросить денежное перечисление со счета Брока?
+INTERFACE_ADS_ALLROOMS=Все места
+INTERFACE_ADS_NOSTRESS=Не беспокойся, флаеры можно собирать за несколько прохождений!
+INTERFACE_ADS_CURRENTROOM=Текущая зона
+INTERFACE_ADS_TOTAL=Текущий счет
+INTERFACE_ADS_TOTAL_PLAYTHROUGHS=Все прохождения
+
+
+INTERFACE_GAMEOVER_ADVICE=Совет
+
+INTERFACE_REMOVE=Удалить
+INTERFACE_SCROLLUP=Крутить вверх
+INTERFACE_SCROLLDOWN=Крутить вниз
+INTERFACE_ARCHIVE=Архив
+
+INTERFACE_OPTION_CHOOSE=Выбери настройки
+INTERFACE_OPTION_EXIT=Выйти из игры
+INTERFACE_OPTION_GRAPHIC=Экран
+INTERFACE_OPTION_SOUND=Звук
+INTERFACE_OPTION_CONTROL=Управление
+INTERFACE_OPTION_GAMEPLAY=Игра
+INTERFACE_OPTION_LANGUAGE=Язык
+INTERFACE_OPTION_FULLSCREEN=Полноэкранный режим
+INTERFACE_OPTION_WINDOW=Оконный режим
+INTERFACE_OPTION_RESOLUTION=Разрешение
+INTERFACE_OPTION_AUTODETECT=Авто
+INTERFACE_OPTION_1440=Высокое (1440p)
+INTERFACE_OPTION_1080=Среднее (1080p)
+INTERFACE_OPTION_720=Низкое (720p)
+INTERFACE_OPTION_540=Очень низкое (540p)
+INTERFACE_OPTION_RATIO=Соотношение сторон
+INTERFACE_OPTION_KEEPASPECT1=Не изменять (с фоном)
+INTERFACE_OPTION_KEEPASPECT2=Не изменять (без фона)
+INTERFACE_OPTION_FULLSCALE=Полномасштабный
+INTERFACE_OPTION_VSYNC=Вертикальная синхронизация
+INTERFACE_OPTION_SPECIALEFFECT=Спецэффекты
+INTERFACE_OPTION_MESSAGESPEED=Скорость текста
+INTERFACE_OPTION_INSTANTANEOUS=Мгновенно
+INTERFACE_OPTION_SUBTITLE=Субтитры
+INTERFACE_OPTION_VOLUMEGLOBAL=Общая громкость
+INTERFACE_OPTION_VOLUMESOUND=Громкость звуков
+INTERFACE_OPTION_VOLUMEMUSIC=Громкость музыки
+INTERFACE_OPTION_VOLUMEAMBIENT=Громкость окружения
+INTERFACE_OPTION_VOLUMEVOICE=Громкость речи
+
+INTERFACE_OPTION_DISPLAYKEYBOARD=Отобразить управление мышью/клавиатурой
+INTERFACE_OPTION_DISPLAYGAMEPAD=Отобразить управление геймпадом
+INTERFACE_OPTION_REDEFINE=Переопределить клавиатуру
+INTERFACE_OPTION_GAMEPAD=Выбрать геймпад
+
+INTERFACE_OPTION_LANGUAGE_ENG=Английский
+INTERFACE_OPTION_LANGUAGE_FRA=Французский
+INTERFACE_OPTION_LANGUAGE_GER=Немецкий
+INTERFACE_OPTION_LANGUAGE_ITA=Итальянский
+INTERFACE_OPTION_LANGUAGE_SPA=Испанский
+INTERFACE_OPTION_LANGUAGE_RUS=Русский
+INTERFACE_OPTION_LANGUAGE_BRZ=Португальский
+INTERFACE_OPTION_LANGUAGE_JAP=Японский
+INTERFACE_OPTION_LANGUAGE_CHI=Китайский упрощенный
+INTERFACE_OPTION_LANGUAGE_POL=Польский
+INTERFACE_OPTION_LANGUAGE_GRE=Греческий
+
+#Here languages are always in English - DO NOT TRANSLATE
+ITEM_INTERFACE_OPTION_LANGUAGE_ENG_MSG=English
+ITEM_INTERFACE_OPTION_LANGUAGE_FRA_MSG=French
+ITEM_INTERFACE_OPTION_LANGUAGE_GER_MSG=German
+ITEM_INTERFACE_OPTION_LANGUAGE_ITA_MSG=Italian
+ITEM_INTERFACE_OPTION_LANGUAGE_SPA_MSG=Spanish
+ITEM_INTERFACE_OPTION_LANGUAGE_RUS_MSG=Russian
+ITEM_INTERFACE_OPTION_LANGUAGE_BRZ_MSG=Brazilian Portuguese
+ITEM_INTERFACE_OPTION_LANGUAGE_JAP_MSG=Japanese
+ITEM_INTERFACE_OPTION_LANGUAGE_CHI_MSG=Simplified Chinese
+ITEM_INTERFACE_OPTION_LANGUAGE_POL_MSG=Polish
+ITEM_INTERFACE_OPTION_LANGUAGE_GRE_MSG=Greek
+
+INTERFACE_OPTION_DIFFICULTY=Уровень сложности
+INTERFACE_OPTION_EASY=Легкий
+INTERFACE_OPTION_NORMAL=Нормальный
+INTERFACE_OPTION_HARD=Высокий
+INTERFACE_OPTION_HINTS=Подсказки
+
+ITEM_INTERFACE_OPTION_EXIT_MSG=Выйти из игры
+ITEM_INTERFACE_OPTION_GRAPHIC_MSG=Настройки графики
+ITEM_INTERFACE_OPTION_SOUND_MSG=Настройки громкости
+ITEM_INTERFACE_OPTION_CONTROL_MSG=Клавиатура / Мышь / Контроллеры
+ITEM_INTERFACE_OPTION_GAMEPLAY_MSG=Сложность и прочие настройки игры
+ITEM_INTERFACE_OPTION_LANGUAGE_MSG=Язык игры
+ITEM_INTERFACE_OPTION_FULLSCREEN_MSG=Выбери режим экрана
+ITEM_INTERFACE_OPTION_RESOLUTION_MSG=Разрешение (поставь низкое, если игра медленно прогружается)
+ITEM_INTERFACE_OPTION_RATIO_MSG=Оставить оригинальное соотношение сторон (16/9) или растянуть изображение
+ITEM_INTERFACE_OPTION_VSYNC_MSG=Вертикальная синхронизация (выключи, если игра медленно прогружается, но это может вызвать разрывы в изображении)
+ITEM_INTERFACE_OPTION_SPECIALEFFECT_MSG=Спецэффекты (отключи, чтобы оптимизировать игру)
+ITEM_INTERFACE_OPTION_VOLUMEGLOBAL_MSG=Общая громкость игры
+ITEM_INTERFACE_OPTION_VOLUMESOUND_MSG=Громкость спецэффектов
+ITEM_INTERFACE_OPTION_VOLUMEAMBIENT_MSG=Громкость окружения
+ITEM_INTERFACE_OPTION_VOLUMEMUSIC_MSG=Громкость музыки
+ITEM_INTERFACE_OPTION_VOLUMEVOICE_MSG=Громкость голосов
+ITEM_INTERFACE_OPTION_DIFFICULTY_MSG=Установи сложность игры (например : на легкой сложности игрок получает меньше урона)
+ITEM_INTERFACE_OPTION_HINTS_MSG=Включи или выключи, чтобы получать подсказки. (Это действие не влияет на возможность собирать флаеры.)
+ITEM_INTERFACE_OPTION_MESSAGESPEED_MSG=С какой скоростью показывать сообщения?
+ITEM_INTERFACE_OPTION_SUBTITLE_MSG=Отображать текст, во время диалога персонажей?
+
+
+#The "DEBUG" ones below are only for debug menu : no need to translate them!
+INTERFACE_DEBUG=Debug
+INTERFACE_DEBUG_QUICK=Quick debug
+INTERFACE_DEBUG_INVENTORY=Inventory
+INTERFACE_DEBUG_PROGRESS=Progress#& choices
+INTERFACE_DEBUG_DIALOG=Text dialog
+INTERFACE_DEBUG_PERFORMANCE=Performance bar
+INTERFACE_DEBUG_SCREENSHOT=Take screenshot
+INTERFACE_DEBUG_TELEPORT=Room teleport
+INTERFACE_DEBUG_TELEPORTNO=Room teleport (no event)
+INTERFACE_DEBUG_UNFREEZE=Unfreeze (black bars)
+INTERFACE_DEBUG_KILLPLAYER=Kill player
+INTERFACE_DEBUG_KILLENEMIES=Kill active enemies
+INTERFACE_DEBUG_VARSTORY=Set story variable
+INTERFACE_DEBUG_MOVEPLAYER=Move player around
+INTERFACE_DEBUG_SETINVINCIBLE=Set player invincible
+INTERFACE_DEBUG_RESTOREPLAYER=Restore player health
+INTERFACE_DEBUG_SETHEALTHPLAYER=Set player health
+INTERFACE_DEBUG_DISPLAYOBSTACLES=Display obstacles
+INTERFACE_DEBUG_DISPLAYFLOORS=Display floors
+INTERFACE_DEBUG_DISPLAYTRIGGERS=Display trigger areas
+INTERFACE_DEBUG_DISPLAYSPRITES=Display sprites & collisions
+INTERFACE_DEBUG_DISPLAYVARS=Display debug vars
+INTERFACE_DEBUG_DISPLAYNAMES=Display instances names
+INTERFACE_DEBUG_QUICKHINTS=Display quick hints
+INTERFACE_DEBUG_GIVEITEM=Give inventory item
+INTERFACE_DEBUG_GIVEFOOD=Give food item
+INTERFACE_DEBUG_GIVEAD=Give specific ad
+INTERFACE_DEBUG_GIVECLUE=Give specific clue
+INTERFACE_DEBUG_GIVEMONEY=Give money
+INTERFACE_DEBUG_GIVEADS=Give 999 ads
+INTERFACE_DEBUG_GIVEXP=Give experience
+INTERFACE_DEBUG_GETALLADS=Get all game ads
+INTERFACE_DEBUG_GETALLITEMS=Get all game items
+INTERFACE_DEBUG_GETALLFOODS=Get all game foods
+INTERFACE_DEBUG_GETALLCLUES=Get all game clues
+INTERFACE_DEBUG_GETALLMESSAGES=Get all game phone messages
+INTERFACE_DEBUG_GETALLCALLS=Get all game phone calls
+INTERFACE_DEBUG_GETALLOBJECTIVES=Get all objectives
+INTERFACE_DEBUG_GETALLCONTACTS=Get all contacts
+INTERFACE_DEBUG_REMOVEALLCLUES=Remove all game clues
+INTERFACE_DEBUG_GETALLTUTORIALS=Get all tutorials
+INTERFACE_DEBUG_CLEAREVENTS=Clear all events
+INTERFACE_DEBUG_ADDONEEVENT=Add an event
+INTERFACE_DEBUG_REMOVEONEEVENT=Remove an event
+INTERFACE_DEBUG_CALLEVENT=Call an event
+INTERFACE_DEBUG_COUNTEVENTS=Count events
+INTERFACE_DEBUG_FORCESWITCH=Force switch character
+INTERFACE_DEBUG_SUMMARYPATH=Summary playthrough
+INTERFACE_DEBUG_FORCEMENU=Force display menu
+INTERFACE_DEBUG_STOPDIALOG=Force stop dialog
+INTERFACE_DEBUG_DISPLAYCURRENTVARS=Display current variables
+INTERFACE_DEBUG_DIALOGFILTER=Filter character
+INTERFACE_DEBUG_DIALOGREPLAY=Replay last dialog
+INTERFACE_DEBUG_DIALOGCURRENTROOM=Play all current room dialog
+INTERFACE_DEBUG_DIALOGSPECIFIC=Play specific dialog
+INTERFACE_DEBUG_DIALOGCOMMON=Play common dialog
+INTERFACE_DEBUG_DIALOGCHAPTER=Play chapter dialog
+
+
+#----- Locations -------
+
+PC_HOME=Дом
+PC_RICH_STREET=Драмер Стрит
+PC_SECTOR_56X=Сектор 56-Экс
+PC_SHAY_GARAGE=Гараж Шэй
+PC_BORDER_POST=Пограничный пост 001
+PC_POLICE_DEPARTMENT=Полицейский участок
+PC_SCHOOL=Центр сознания
+PC_HACKER=Улица хакера
+PC_MUSEUM=Музей
+PC_FACTORY=Фабрика
+
+#----- Shay's materials list - Most of these are made-up names -------
+GOT_MATERIAL=Материал найден!
+PC_MATERIALSPOT=!!!
+PC_MATERIAL1=Солидистический кирпич
+PC_MATERIAL2=Образец ДНК
+PC_MATERIAL3=Первейшая Пыль
+PC_MATERIAL4=Кабели ввода/вывода
+PC_MATERIAL5=Торт-мороженое
+PC_MATERIAL6=Хрустальный контроллер
+PC_MATERIAL7=Высокоточный таймер
+
+
+#----- Goals --------
+
+# Chapter 1
+GOAL_STORY_0=Найти выход
+GOAL_STORY_10=Встретиться с клиентом
+GOAL_STORY_20=Пройти пост охраны
+GOAL_STORY_30=Пройти на улицу
+GOAL_STORY_40=Обыскать двор
+GOAL_STORY_50=Найти пистолет
+GOAL_STORY_60=Вернуться в квартиру Сина
+GOAL_STORY_70=Победить Сина!
+
+# Chapter 2
+GOAL_STORY_80=Сдать экзамен
+#When there's a # symbol in front, it means they don't appear in the game so no need to translate
+#GOAL_STORY_90=Undergo the interrogation
+GOAL_STORY_100_BROK=Выбраться из тюрьмы
+GOAL_STORY_100_GRAFF=Подготовиться к научной ярмарке
+#GOAL_STORY_110=Think over the situation
+#GOAL_STORY_120=Fight in the Virtual Arena
+GOAL_STORY_130=Обыскать местность
+
+# Chapter 3
+GOAL_STORY_140_BROK=Школа и полиция
+GOAL_STORY_140_GRAFF=Найти выход
+
+# Chapter 4
+GOAL_STORY_150_BROK=Раскрыть дело
+GOAL_STORY_160_BROK=Продолжить изучать дело и найти преступника
+#GOAL_STORY_170_BROK=Не дать Тайди сбежать
+GOAL_STORY_160_GRAFF=Найти выход
+GOAL_STORY_165_GRAFF=Найти детоксикационную таблетку
+GOAL_STORY_175_BROK=Вернуться домой
+
+#Day 2 end - Scene with Graff
+GOAL_STORY_180=Отправить сообщение
+GOAL_STORY_190=Свободное время до боя
+GOAL_STORY_200=Сразиться на VR-арене
+#GOAL_STORY_205=Cutscene after day 2 fight
+
+# Chapter 5
+GOAL_STORY_210_GRAFF=Последнее испытание
+GOAL_STORY_210_BROK=Расследовать дело с таблетками
+GOAL_STORY_220_BROK=Встретиться с д-ром Геркином на фабрике
+GOAL_STORY_230_BROK=Защитить д-ра Грекина в трущобах
+GOAL_STORY_240_BROK=Помочь д-ру Геркину и Р.Джею
+#At this time we don't know the journalist is female
+GOAL_STORY_250_BROK=Встретиться с журналистом в Секторе 56-Экс
+
+# Chapter 6
+GOAL_STORY_255_GRAFF=Взломать данные с результатами экзамена
+#GOAL_STORY_255_BROK=Enter the bunker
+GOAL_STORY_260_BROK=Допросить д-ра Геркина
+GOAL_STORY_270_BROK=Найти выход
+GOAL_STORY_280_BROK=Вызволить Сина из тюрьмы
+
+# Ending
+GOAL_STORY_290_GRAFF=Сбежать
+GOAL_STORY_290_BROK=Искать Грэффа
+GOAL_STORY_295_BROK=Продолжить допрос
+
+#GOAL_STORY_300=Ending (canonic part 1)
+#GOAL_STORY_301=Ending (Drumer)
+#GOAL_STORY_310=Ending (canonic part 2)
+GOAL_STORY_320=Изобретение Шэй
+#GOAL_STORY_330=Ending (canonic part 3)
+
+
+#----- Main Goals --------
+
+#Chapter 1 Brok
+OBJECTIVE_GUNFIND=Найти пропавший пистолет
+OBJECTIVE_REMOTECONTROL=Починить пульт управления Сина
+OBJECTIVE_HOOVER=Отремонтировать бота-уборщика
+OBJECTIVE_BILLA=Оплатить счет за электричество
+OBJECTIVE_BILLB=Оплатить счет за аренду
+OBJECTIVE_TRAMP=Добыть лекарство для бродяги
+OBJECTIVE_TRAMPUPDATE=Подождать встречи с доктором, чтобы получить новый рецепт для бродяги
+OBJECTIVE_TRAMPGIVE=Отдать лекарство бродяге
+OBJECTIVE_TRAMPPRESCRIBED=Получить прописанные бродяге лекарства
+OBJECTIVE_TRAMPGLUCOSITE=Дать бродяге слабое лекарство на первое время (глюкозит)
+OBJECTIVE_BOLTJOB=Найти Болту новую работу
+OBJECTIVEDONE_BILLAPAID=Ты оплатил счет за электричество.
+OBJECTIVEDONE_TRAMPCURE=Ты спас бродягу.
+OBJECTIVEDONE_TRAMPKILL=Ты убил бродягу.
+OBJECTIVEDONE_TRAMPTHEM=Бродяга убит Визгунами.
+OBJECTIVEDONE_TRAMPNOGLUCOSITE=Бродяга умер, не получив лекарств.
+OBJECTIVEDONE_BOLTJOBSHAY=Шэй взяла Болта в ассистенты.
+OBJECTIVEDONE_BOLTAWAY=Болта забрали.
+OBJECTIVEDONE_BOLTKILLED=Ты уничтожил Болта.
+OBJECTIVEDONE_HOOVERSOLD=Ты продал запчасти от бота-уборщика Шэй.
+OBJECTIVEDONE_HOOVERNOFIX=Ты решил оставить сломанного бота-уборщика.
+OBJECTIVEDONE_REMOTECONTROLFIXED=Шэй починила пульт управления.
+OBJECTIVEDONE_GUNFOUND=Ты нашел пистолет.
+OBJECTIVEDONE_GAVEREGULAR=Ты дал бродяге слабое лекарство, чтобы он смог продержаться.
+
+
+#Chapter 2 Graff
+OBJECTIVE_FIXINVENTION=Починить изобретение Грэффа
+OBJECTIVE_ADDBARRIER=Добавить изобретению Грэффа защитный барьер
+OBJECTIVE_MESSKLAYINVENTION=Испортить изобретение Клэя (не прикасаясь к нему)
+OBJECTIVE_MESSSTUBOTINVENTION=Испортить изобретение Стюбота (не прикасаясь к нему)
+OBJECTIVE_DESTROYINVENTIONS=Уничтожить все изобретения
+OBJECTIVEDONE_DESTROYEDINVENTIONS=Ты уничтожил все изобретения
+OBJECTIVEDONE_FIXINVENTIONFIXED=Ты починил изобретение Грэффа.
+OBJECTIVEDONE_ADDEDBARRIER=Ты добавил изобретению Грэффа защитный барьер.
+OBJECTIVEDONE_MESSEDSTUBOT=Ты испортил изобретение Стюбота.
+OBJECTIVEDONE_MESSEDKLAY=Ты испортил изобретение Клэя.
+OBJECTIVE_DAY1FIGHT=Когда будешь готов, прими бой на VR-арене
+#That mysterious girl is Dee
+OBJECTIVEDONE_DAY1FIGHTWON=Ты победил загадочную девушку на VR-арене.
+OBJECTIVEDONE_DAY1FIGHTGIVEUP=Ты отказался сражаться против загадочной девушки на VR-арене.
+OBJECTIVEDONE_DAY1FIGHTLOST=ты проиграл загадочной девушке на VR-арене.
+OBJECTIVEDONE_NOFIX=Грэфф уже не хочет чинить свое изобретение...
+
+
+#Chapter 3 Brok
+OBJECTIVE_DIRECTORARRANGEMENT=Запланировать встречу с директрисой школы
+OBJECTIVE_GETSELFMODIFIER=Достать чип само-модификации для директрисы
+OBJECTIVE_MEETWES=Встретиться с Уэсом в его офисе
+OBJECTIVE_MEETWESLATER=Вернуться в полицейский участок позже
+OBJECTIVE_FINDMATERIALS=Найти материалы для Шэй
+OBJECTIVE_ENTERWESOFFICE=Попасть в офис Уэса
+OBJECTIVE_EXPLOREOFFICE=Исследовать офис Уэса
+OBJECTIVE_MONEYHACKER=Принести 10,000 юнисов хакеру
+OBJECTIVE_ERASEFILE=Стереть досье на хакера с полицейского сервера
+OBJECTIVEDONE_GOTCHIPVIOLENT=Ты получил чип, атаковав и обокрав хакера.
+OBJECTIVEDONE_GOTCHIPPAY=Ты получил чип, заплатив за него.
+OBJECTIVEDONE_GOTCHIPMISSION=Ты получил чип, выполнив задание хакера.
+OBJECTIVEDONE_BILLBPAID=Ты оплатил аренду.
+OBJECTIVEDONE_EXPLOREDOFFICE=Ты исследовал офис Уэса.
+OBJECTIVEDONE_BEATBLIND=Ты попал в офис Уэса, уничтожив слепого бота.
+OBJECTIVEDONE_TRICKEDBLIND=Ты попал в офис Уэса, обхитрив слепого бота.
+
+#Chapter 4 Brok
+OBJECTIVE_DAY2FIGHT=Когда будешь готов, прими бой на VR-арене
+OBJECTIVEDONE_DAY2FIGHTWONATTACK=Ты победил Р.Джея, атаковав его на VR-арене.
+OBJECTIVEDONE_DAY2FIGHTWONTALK=Ты победил Р.Джея, поговорив с ним на VR-арене.
+OBJECTIVEDONE_DAY2FIGHTLOST=Ты проиграл Р.Джею. на VR-арене.
+OBJECTIVEDONE_BILLANOPAY=Ты не оплатил счет за электричество!
+OBJECTIVEDONE_BILLBNOPAY=Ты не оплатил аренду!
+OBJECTIVEDONE_FOUNDMATERIALS=Ты нашел все материалы.
+OBJECTIVEDONE_NOFOUNDMATERIALS=Ты нашел не все материалы.
+
+#Chapter 5 Graff
+OBJECTIVE_BILLC=Оплатить счет за Трайвеб
+OBJECTIVEDONE_BILLCPAID=Ты оплатил счет за Трайвеб.
+
+#Chapter 6 Graff
+OBJECTIVE_SHORTAGE=Поискать улики на улице хакера
+OBJECTIVEDONE_SHORTAGEOVER=Ты искал улики... и тебя похитили.
+
+#----- Endings --------
+ENDING_TITLE=Финал
+ENDING_TITLE1="Каноничная концовка"
+ENDING_TITLE2="Из петли"
+ENDING_TITLE3="Сламер"
+ENDING_TITLE4="Драмер"
+ENDING_TITLE5="До конца времен"
+ENDING_TITLE6="Сломленный детектив"
+ENDING_TITLE7="Падение"
+ENDING_TITLE8="Дневник"
+ENDING_TITLE9="Цинично"
+ENDING_TITLE10="Прорыв"
+ENDING_TITLE11="Сражение вместе"
+
+
+
+
+#-----------------------------
+#----- Inventory -------------
+#-----------------------------
+
+#----- Brok Day 1 -------------
+ITEM_BLANKET=Плед
+ITEM_METALBAR=Металлический стержень
+
+ITEM_MAGNIFY=Увеличительное стекло
+ITEM_STICK=Трость
+ITEM_APARTMENTKEY=Ключ от квартиры
+ITEM_CATFUR=Кошачья шерсть
+ITEM_PREDNORMAL=Наполняемая водой игрушка
+ITEM_PREDINFLATED=Наполненная водой игрушка
+ITEM_PENDANT=Кулон
+ITEM_REMOTECONTROLDAMAGED=Поврежденный пульт управления
+ITEM_REMOTECONTROL=Пульт управления
+ITEM_PILL=Таблетка Сина
+ITEM_HANDKERCHIEF=Носовой платок
+ITEM_MINEBROKEN=Сломанная мина
+ITEM_MINELOADED=Исправная мина
+ITEM_GUN=Пистолет
+ITEM_BILLA=Счет за электричество
+ITEM_HOOVER=Бот-уборщик
+ITEM_POLLUTIONPILL=Детоксикационная таблетка
+ITEM_TRAMPPRESCR=Медицинский рецепт
+ITEM_TRAMPMEDICINE=Лекарство для бродяги
+ITEM_LEVER=Рычаг
+ITEM_SCREW=Винт
+
+#----- Graff Day 1 -------------
+ITEM_SCREWDRIVER=Отвертка
+ITEM_STATUETTE=Статуэтка
+ITEM_STICKER=Стикер
+ITEM_FLOUR=Мука
+ITEM_EARBUDS=Наушники
+ITEM_FORCEFIELD=Силовое поле
+ITEM_DETECTOR=Детектор
+ITEM_OPERATOR=Оператор
+ITEM_MELTPLASTIC=Расплавленный пластик
+ITEM_NEON=Неон
+ITEM_DEATHBUTTON=Кнопка смерти
+ITEM_FINGERPRINT=Стикер с отпечатком
+ITEM_SELFIE=Селфи
+
+#----- Brok Day 2 -------------
+ITEM_BILLB=Счет за аренду
+ITEM_RADAR=Радар
+ITEM_WINGS=Крылья
+ITEM_RUBBERCUTTER=Резак для резины
+ITEM_PIPECHUNK=Кусок трубы
+ITEM_STRING=Веревка
+ITEM_WINGSSTRING=Прикрепленные крылья
+ITEM_PIPECHUNKSTRING=Прикрепленная труба
+ITEM_DISGUISE=Маскировка
+ITEM_HACKPHONE=Взломофон
+ITEM_PHOTOWES=Фото Уэса
+ITEM_PHOTORJ=Фото Р.Джея
+ITEM_HACKPHONE3D=Голографический Уэс
+ITEM_SPEAKER=Колонка
+ITEM_LAMPMINK=Лампа, найденная рядом с телом
+ITEM_LAMPHUSH=Лампа из комнаты д-ра Хуша
+ITEM_TABLETHUSH=Планшет д-ра Хуша
+ITEM_PILLHUSH=Таблетка из туалета
+ITEM_LABFLOWER=Цветок из лаборатории
+ITEM_WRAPPING=Упаковка
+
+
+#----- Graff Day 2 -------------
+ITEM_POLLUTIONPILLG=Детоксикационная таблетка
+ITEM_WEIGHTA=Гиря-А
+ITEM_WEIGHTB=Гиря-Б
+ITEM_WEIGHTC=Гиря-В
+ITEM_WEIGHTD=Гиря-Г
+ITEM_WEIGHTF=Гиря-Д
+ITEM_WEIGHTH=Гиря-Е
+ITEM_WEIGHTJ=Гиря-Ё
+ITEM_TRIANGLEBUNKERA=Треугольник
+ITEM_TRIANGLEBUNKERB=Треугольник
+ITEM_TRIANGLEBUNKERC=Треугольник
+
+#----- Brok Day 3 -------------
+ITEM_BATTERY=Батарейка
+ITEM_EARBUDSB=Наушники
+
+#----- Graff Day 3 -------------
+ITEM_BANKSTATEMENT=Выписка из банка
+ITEM_INVOICEHACKER=Странный счет
+ITEM_TRIANGLEPRINT=Распечатанная треугольная призма
+ITEM_RECTANGLEPRINT=Распечатанная прямоугольная плита
+ITEM_FULLCIRCLEPRINT=Распечатанная сфера
+ITEM_HALFCIRCLEPRINT=Распечатанный полукруг
+ITEM_MUSEUMKEY=Музейный ключ
+ITEM_PHONEMUSEUM=Музейный экспонат
+ITEM_PARCHMENT=Пергамент
+ITEM_CHIEFRATPIC=Фото Дня Перерождения
+ITEM_BILLC=Счет за Трайвеб
+ITEM_PIPEWEAPON=Труба
+
+
+#----- Specials (never actually in the inventory) -------------
+ITEM_GOATCHEESE=Козий сыр
+ITEM_SPICE=Специи
+ITEM_ANT=Муравей
+ITEM_MAPBUILDING=Карта здания
+ITEM_MONEY=Деньги
+
+
+
+#----- Ads --------
+ITEM_PC01_FRIDGE=Квартира Брока - Холодильник
+ITEM_PC01_CLOTHES=Квартира Брока - Одежда
+ITEM_PC01_BED=Квартира Брока - Кровать
+
+
+#----- Common clickers --------
+PC_ADVERT=Флаер
+PC_DRINK=Напиток
+PC_BACK=Назад
+PC_EXIT=Выход
+PC_ENTER=Вход
+PC_TRIBOTCOP=Трибот-коп
+PC_CAMERA=Камера
+PC_BUTTON=Кнопка
+PC_DOOR=Дверь
+PC_CONTINUE=Продолжить
+#Traces left by gun in the sewers
+PC_MARKS=Следы
+PC_ROBOT=Робот
+PC_GODOWN=Спуститься вниз
+PC_BOX=Коробка
+PC_BOXES=Коробки
+PC_MESS=Беспорядок
+PC_COMPUTER=Компьютер
+PC_POWERSOCKET=Розетка
+PC_SCREEN=Экран
+PC_CHAIR=Стул
+PC_PICTURE=Изображение
+PC_NOTHING=Ничего
+PC_SPEAKER=Колонка
+PC_BED=Кровать
+PC_TRAP=Люк
+PC_TO_HALL=В холл
+PC_SINK=Раковина
+PC_DRAWER=Выдвижной ящик
+PC_CUP=Кружка
+PC_TABLET=Планшет
+PC_LAMP=Лампа
+PC_LADDER=Лестница
+PC_HOLE=Дыра
+PC_HERE=Здесь
+PC_PIPE=Труба
+PC_PIPEMAIL=Пневмопочта
+PC_DEVICE=Устройство
+PC_PIPEPILL=Пневмокапусла
+PC_WINDOW=Окно
+PC_CARDBOARD=Картонная коробка
+PC_HOLOGRAM=Голограмма
+PC_SLOT=Слот
+PC_ELEVATOR=Лифт
+PC_PANEL=Панель
+PC_BARRIER=Барьер
+
+
+#----- Characters bios (Brok) --------
+ITEM_GRAFF_MSG=Мой... сожитель, Грэфф, ему 15 лет. Сын моей покойной жены. Я забочусь о нем, как могу.
+ITEM_SIN_MSG=Клиент. Похоже, очень встревоженный.
+ITEM_SHAY_MSG=Моя старая добрая подруга, сумасшедшая изобретательница Шэй! Мы знакомы с детского садика. Интересно, чем она занималась все те годы, что мы не общались?
+ITEM_WES_MSG=Шеф полиции. Тоже старый знакомый.
+ITEM_BOLT_MSG=Депрессивный робот, которого я встретил на пограничном посту. Обычно мне не нравятся роботы, но этот не похож на остальных...
+ITEM_CHIEFRAT_MSG=Лидер этих гадких Визгунов. Опасный тип.
+ITEM_TRAMP_MSG=Старый военный, ставший бродягой. Бедолага страдает от неизлечимой болезни...
+ITEM_OTT_MSG=Лучший друг Грэффа. Хороший парень и точно не такой простачок, каким кажется.
+ITEM_DIRECTOR_MSG=Не знаю, как так получилось, но этот бот - директор школы Грэффа... и он - женщина...?
+ITEM_RJ_MSG=Этот огромный медведь - офицер полиции. Он из того типа людей, которых не хочется гладить против шерсти...
+ITEM_HACKER_MSG=Мышь, занимается хакерством. С такими лучше быть настороже.
+ITEM_GUARD_MSG=Oхранник лаборатории. Удивительно, что ему позволили остаться на Драмер Стрит.
+ITEM_HUSH_MSG=Жертва в моем расследовании. Один из этих эксцентричных ученых, работающих над алгоритмохренью ИИ.
+ITEM_MINK_MSG=Коллега доктора Хуша. Специализируется на нанитах. Немного странный.
+ITEM_TIDY_MSG=Бот-ассистент доктора Хуша. Еще более жуткий, чем обычные боты.
+ITEM_GHERKIN_MSG=Доктор наук, работающий в фармацевтической компании. Производит впечатление хорошего парня, но кто его знает...
+ITEM_DEE_MSG=Загадочная девушка, слоняющаяся по улице Сламс под капюшоном и владеющая телескопической палкой. Необычно...
+ITEM_FLOWER_MSG=Одна из очень немногих женщин, живущих на улице Сламс. Она продает всякую всячину, связанную с религией Антейл.
+
+
+
+#----- Characters bios (Graff) --------
+ITEM_GRAFF_BROK_MSG=Мой старик. Я живу с ним уже более пяти лет.
+ITEM_GRAFF_OTT_MSG=Мой лучший друг! Гибрид. Мы оба очень отличаемся от остальных наших одноклассников... и отлично понимаем друг друга.
+ITEM_GRAFF_DIRECTOR_MSG=Директриса Центра сознания. Робот-женщина, которая еще ведет себя, как мамаша Клэй. Не спрашивай!
+ITEM_GRAFF_KLAY_MSG=Мистер Идеальный ученик. Ненавижу его.
+ITEM_GRAFF_STUBOT_MSG=Самый обычный студент-робот. Его единственная обязанность - проверять наши экзаменационные работы.
+ITEM_GRAFF_SHAY_MSG=Странная изобретательница...Хотя, пожалуй, сумасшествие - неотъемлемая часть такой работы.
+ITEM_GRAFF_HACKER_MSG=Стоит ли доверять этому парню...?
+ITEM_GRAFF_FLOWER_MSG=Девушка, продающая религиозные штуковины.
+
+
+#----- Food --------
+ITEM_ENERGYDRINK=Энергетический напиток Гелиос
+ITEM_ENERGYDRINK_MSG=Концентрированный гелий для дополнительной энергии!#<col=BOLD>Увеличивает силу на 30 секунд</col>.
+
+ITEM_PAMPALOS=Пампалос
+ITEM_PAMPALOS_MSG=Свежий фрукт! Всего 5% пестицидов.#<col=BOLD>Восстанавливает 25% здоровья</col>.
+
+ITEM_ANTBURGER=Муравьебургер
+ITEM_ANTBURGER_MSG=Вкусное муравьиное мясо, полное протеина!#<col=BOLD>Восстанавливает 50% здоровья</col>.
+
+ITEM_GLUCOSITE=Глюкозит
+ITEM_GLUCOSITE_MSG=Уникальное лекарство для полного, мгновенного восстановления, с божественным вкусом!#<col=BOLD>Восстанавливает 100% здоровья</col>.
+
+ITEM_ROTTENPAMPALOS=Гнилой пампалос
+ITEM_ROTTENPAMPALOS_MSG=Лучше его не есть, а то проблем с желудком не оберешься...#<col=BOLD>Восстанавливает 5% здоровья</col>.
+
+ITEM_VENDINGAD=Реклама торгового автомата
+ITEM_VENDINGAD_MSG=Специальное предложение! Купите торговый автомат сегодня и получите скидку в 20%!
+
+ITEM_FLOWINGWATER=Текущая вода
+ITEM_FLOWINGWATER_MSG=Постоянно течет. Будет урчать в вашем желудке!#<col=BOLD>Повышает защиту на 10 секунд</col>.
+
+ITEM_SEWAGESLUDGE=Осадок от воды
+ITEM_SEWAGESLUDGE_MSG=По вкусу так же мерзко, как и на запах!#<col=BOLD>Отнимает 20 единиц здоровья</col>.
+
+ITEM_SOLIDJUICE=Твердый сок
+ITEM_SOLIDJUICE_MSG=100% сделан с искусственными добавками!#<col=BOLD>Не оказывает никакого эффекта</col>, кроме вызывания жажды.
+
+
+#----- Choices --------
+YES=Да
+NO=Нет
+YES_CONTINUE=Да, продолжить
+
+INTERFACE_CHAPTER=Глава
+INTERFACE_FINAL_CHAPTER=Финальная глава
+INTERFACE_CHAPTER_ASK=Переиграть с этой главы?
+INTERFACE_CHAPTER2AG=Первый экзамен
+INTERFACE_CHAPTER2AB=Допрос
+INTERFACE_CHAPTER2B=Побег из тюрьмы
+INTERFACE_CHAPTER2G=Научная ярмарка
+INTERFACE_CHAPTER3B=Хакер и офис полиции
+INTERFACE_CHAPTER3G=Один в бункере
+INTERFACE_CHAPTER4B=Расследование убийства
+INTERFACE_CHAPTER4G=В бункере с Клэй
+INTERFACE_CHAPTER5B=Сопроводить д-ра Геркина
+INTERFACE_CHAPTER5G=Последнее испытание
+INTERFACE_CHAPTER6B=Побег из бункера
+INTERFACE_CHAPTER6G=Результаты
+
+#These are the subtitles for all chapters. Feel free to change them completely to something appropriate for the language (according to what happens in each chapter).
+#Sin's case
+INTERFACE_CHAPTER_SUBTITLE1=За границей
+#Graff trial 1 + Brok out of jail + fair + questioning + end of day 1
+INTERFACE_CHAPTER_SUBTITLE2=Жизненное испытание
+#Brok desguise hacker + police dpt + Graff bunker trial (part 1)
+INTERFACE_CHAPTER_SUBTITLE3=Проделки
+#Brok in lab + Graff bunker trial (part with Klay) + pill search
+INTERFACE_CHAPTER_SUBTITLE4=Кто тут Мозг?
+#Brok Gherkin + Graff museum
+INTERFACE_CHAPTER_SUBTITLE5=Корни
+#Brok inside bunker + Graff kidnapped + end of freedom + Brok end fight + endings
+INTERFACE_CHAPTER_SUBTITLE6=Освобождение
+
+#This is used in the chapters list (to restart from a specific point in the adventure). For example "Chapter 1 (End of Day)"
+INTERFACE_ENDOFDAY=Конец дня
+
+
+GOT_MONEY=Получены деньги!
+#"Unis" is the currency in this world
+GOT_MONEY_TXT=Юнисов!
+INTERFACE_CURRENCY=Юнисов
+INTERFACE_ASK_HINT=Получить подсказку?
+INTERFACE_ASK_ANOTHER_HINT=Получить еще одну подсказку?
+GOT_ADVERT=Флаер!
+GOT_STUFF=Все вещи возвращены!
+
+BM_VIRTUALARENA_QUIT_CHOICE=Покинуть VR-арену?
+ATTITUDE_CHOICE=Выбрать манеру поведения
+INFO_CHOICE=Запросить больше информации о...
+PC_CHOICE_HAPPENED=Что случилось?
+PC_CHOICE_USE=Использовать это?
+PC_CHOICE_DO=Что делать?
+PC_CHOICE_SAY=Что говорить?
+PC_CHOICE_ASK=О чем спросить?
+PC_CHOICE_WANT=Хочешь чего-нибудь?
+PC_CHOICE_TALK=Поговорить о...
+PC_CHOICE_TRYAGAIN=Попробовать снова?
+PC_CHOICE_GENERIC=Выбрать...
+PC_CHOICE_BUTTON=Нажать на кнопку?
+PC_CHOICE_CONFIRM=Ты уверен?
+PC_CHOICE_SKIPFIGHT=Пропустить бой?
+PC_CHOICE_TOPIC=Выбери тему
+PC_CHOICE_INTERROGATIONSKIP=Пропустить допрос?
+
+GOT_PREDNORMAL=Наполняемая водой игрушка!
+GOT_WINGSSTRING=Прикрепляемые крылья!
+GOT_PIPECHUNKSTRING=Прикрепляемая труба!
+GOT_DISGUISE=Маскировка!
+GOT_HACKPHONE3D=Голографическая модель Уэса!
+GOT_POLLUTIONPILL=Детоксикационная таблетка!
+
+TOPIC_HIMSELF=Он сам
+TOPIC_FAIR=Научная ярмарка
+
+#----- Tutorials (on screen) --------
+
+TUTORIAL_MOVE_MSG_MOUSE=Управляй Броком, щелкая <spr=CONTROL_mouseleft> по экрану. Щелкай по предметам, для взаимодействия.
+TUTORIAL_MOVE_MSG_GAMEPAD=Управляй Броком, с помощью <spr=GAMEPAD_STICKLEFT>. Нажми <button=INPUT_ACTION_VALIDATE>, для взаимодействия с предметами.
+
+TUTORIAL_PUNCH_MSG_MOUSE=Бей по двери, щелкая <spr=CONTROL_mouseleft>!
+TUTORIAL_PUNCH_MSG_GAMEPAD=Бей по двери, нажимая <button=INPUT_ACTION_HIT>!
+
+TUTORIAL_OPENINV_MSG_MOUSE=Открой инвентарь, щелкнув <spr=CONTROL_mouseright>.
+TUTORIAL_OPENINV_MSG_GAMEPAD=Открой инвентарь, нажав <spr=GAMEPAD_START>.
+TUTORIAL_SELECTINV_MSG_MOUSE=Выбери предмет, щелкнув <spr=CONTROL_mouseleft> на нем.
+TUTORIAL_SELECTINV_MSG_GAMEPAD=Выбери предмет, нажав <button=INPUT_ACTION_VALIDATE>.
+
+
+TUTORIAL_USEINV_MSG_MOUSE=Используй предмет, щелкнув <spr=CONTROL_mouseleft>.
+TUTORIAL_USEINV_MSG_GAMEPAD=Используй предмет, нажав <button=INPUT_ACTION_VALIDATE>.
+
+TUTORIAL_FIGHTMODE_MSG_GAMEPAD=Переключись на режим действий, нажав <button=INPUT_ACTION_SWITCH_MODE> и бей с помощью <button=INPUT_ACTION_HIT>.
+
+TUTORIAL_PUNCH_MSG_GAMEPAD=Бей дверь с помощью <button=INPUT_ACTION_HIT>!
+
+TUTORIAL_RADAR_MSG=Сигнал радара на иконке меняется во время твоего перемещения. Будь внимателен!
+
+
+# For button prompts
+TUTORIAL_MOVE=Двигаться
+TUTORIAL_HIGHERLOWER=Подняться/Спуститься
+TUTORIAL_CANCEL=Отменить
+
+TUTORIAL_SELECT=Выбрать
+TUTORIAL_DESCRIBE=Описать
+TUTORIAL_COMBINE=Объединить
+TUTORIAL_PUTDOWN=Положить
+TUTORIAL_THROW=Бросить
+TUTORIAL_ZOOMINOUT=Приблизить/отдалить
+TUTORIAL_NAVIGATE=Управлять
+TUTORIAL_SCROLLUPDOWN=Листать вверх/вниз
+TUTORIAL_SAVE=Сохранить
+TUTORIAL_RENAMESAVE=Переименовать сохранение
+
+#----- Full screen Help --------
+
+HELP_FIGHTMODE=Режим действий
+
+HELP_FIGHTMODE_INSTRUCTIONS_GAMEPAD=Нажми <button=INPUT_ACTION_SWITCH_MODE>, чтобы переключиться в "режим действий".##
+HELP_FIGHTMODE_INSTRUCTIONS2=Брок будет готов сражаться и крушить предметы!
+
+HELP_FIGHTMODE=Режим действий
+HELP_FIGHTMODE_INSTRUCTIONS1=Застрял? Пробей себе путь!##
+HELP_FIGHTMODE_INSTRUCTIONS_MOUSE=Прокрути <col=BOLD>колесико мыши</col> <spr=CONTROL_mousescroll> / <button=INPUT_ACTION_SWITCH_MODE> или нажми на значок в правом верхнем углу, чтобы переключиться в "режим действий".##
+
+
+HELP_JUMP=Прыжки (1)
+HELP_JUMP_INSTRUCTIONS1=А Брок более проворен, чем кажется на первый взгляд! ##Сначала переключись в <col=BOLD>режим действий</col>. 
+HELP_JUMP_INSTRUCTIONS_MOUSE=Затем перемести курсор на место, куда хочешь перепрыгнуть, и нажми <col=BOLD>среднюю кнопку мыши</col> <spr=CONTROL_mousemiddle> или <button=INPUT_ACTION_JUMP>.##
+HELP_JUMP_INSTRUCTIONS_GAMEPAD=Затем нажимай <button=INPUT_ACTION_JUMP> для прыжка. Удерживай <spr=GAMEPAD_STICKLEFT> в одном направлении, чтобы двигаться во время прыжка.##
+
+HELP_JUMP2=Прыжки (2)
+HELP_JUMP2_INSTRUCTIONS_MOUSE=Брок будет прыгать в сторону места, отмеченного кружком.##
+HELP_JUMP2_INSTRUCTIONS=Ты можешь запрыгивать на большинство объектов, встречающихся в исследуемых комнатах.##Помни об этом, когда увидишь <col=BOLD>предмет</col>, что кажется недосягаемым!
+
+
+HELP_ADS=Собирай рекламные флаеры!
+HELP_ADS_INSTRUCTIONS=Телефон Брока нуждается во флаерах! В каждой локации можно найти по 3 флаера.##Используй их, чтобы получить <col=BOLD>подсказки</col>, когда застрянешь!
+
+HELP_PAD_HOTSPOTS=Выбор точек
+HELP_PAD_INSTRUCTIONS=В одном месте несколько точек действий?#Не получается выделить желаемое?##Используй <spr=GAMEPAD_DPAD>, чтобы переключиться с одной точки на другую!#Также можешь использовать <spr=GAMEPAD_STICKRIGHT>, чтобы свободно перемещать указатель. 
+
+HELP_CLUES=Улики
+HELP_CLUES_INSTRUCTIONS=Как детектив, Брок будет записывать все, что посчитает <col=BOLD>важным</col>.##Читай его заметки во вкладке "Улики" в разделе меню!##Некоторые из них будут полезны для раскрытия дела, а некоторые - нет!
+
+HELP_CHAPTER=Перезапуск главы
+HELP_CHAPTER_INSTRUCTIONS=Перезапуск главы <col=BOLD>сотрет прогресс</col> данной главы и всех последующих.##Данная функция работает по-разному, в зависимости от твоего места в текущем прохождении...
+
+HELP_CHAPTER2=Перезапуск главы (следующей)
+HELP_CHAPTER_INSTRUCTIONS2=- Если ты <col=BOLD>возвращаешься назад</col>, то сохранятся только те решения, которые ты принимал до этой точки.##- Если <col=BOLD>продвигаешься вперед</col>, то в сценах, которые ты пропустил, будут установлены решения по умолчанию.
+
+HELP_TRASHERINFO=Охота на свалкоценности
+HELP_TRASHERINFO_INSTRUCTIONS=Эта часть твоего приключения вовсе не <col=BOLD>обязательная</col>.##Но если у тебя есть немного лишних юнисов, можешь тут <col=BOLD>получить полезные предметы</col>! 
+
+HELP_TRASHERDISTANCE=Расстояние до сокровища
+HELP_TRASHERDISTANCE_INSTRUCTIONS=Огромное сокровище ждет, пока его найдут. Каждая попытка покажет <col=BOLD>расстояние</col> до сокровища.##После нескольких попыток, ты сможешь разгадать его местоположение!##Внимание: у тебя всего <col=BOLD>6 попыток</col>, затем сокровище переместится!
+
+HELP_INTERROGATION=Раскрой правду!
+HELP_INTERROGATION_INSTRUCTIONS=Объедини две <col=BOLD>взаимосвязанные</col> улики, чтобы сделать вывод!##Пропустил улики? Не бойся вернуться назад и поискать их, иначе допрос может не продвинуться дальше!
+
+HELP_CLICKERS=Подсвечивание точек действий
+#Leave a "space" at the end of the following line
+HELP_CLICKERS_INSTRUCTIONS=Ты можешь подсветить все доступные точки действий, нажав 
+HELP_CLICKERS_INSTRUCTIONS_GAMEPAD=<button=INPUT_ACTION_VIEW_HOTSPOTS>
+HELP_CLICKERS_INSTRUCTIONS_MOUSE=<button=INPUT_ACTION_VIEW_HOTSPOTS> или колесико мыши <spr=CONTROL_mousemiddle> в режиме исследования.
+HELP_CLICKERS_INSTRUCTIONS_NEXT=##Но некоторые особые предметы, как, например флаеры, отображаться не будут!
+
+
+HELP_SKIPDIALOG=Пропустить диалог
+HELP_SKIPDIALOG_INSTRUCTIONS=Ты можешь <col=BOLD>пропустить диалог</col>, который уже видел!##Для этого удерживай кнопку : 
+HELP_SKIPDIALOG_INSTRUCTIONS_GAMEPAD=<button=INPUT_ACTION_SKIPDIALOG>
+HELP_SKIPDIALOG_INSTRUCTIONS_MOUSE=<button=INPUT_ACTION_SKIPDIALOG> или <spr=CONTROL_mousemiddle>
+HELP_SKIPDIALOG_INSTRUCTIONS_NEXT=##Ты не упустишь ничего, так как данная функиция не работает на диалогах, <col=BOLD>которые ты еще не видел</col>!
+
+HELP_FALL=Не падай!
+HELP_FALL_INSTRUCTIONS=Брок только что перешел в режим исследований.##Почему? Потому, что в этом режиме он <col=BOLD>не может упасть</col>!</col>##Помни об этом, когда захочешь исследовать высокое место!
+
+HELP_RUN=Бег
+HELP_RUN_INSTRUCTIONS1=Брок может бегать!##
+HELP_RUN_INSTRUCTIONS_GAMEPAD=Удерживай <spr=GAMEPAD_TRIGGERRIGHT>
+HELP_RUN_INSTRUCTIONS_MOUSE=<col=BOLD>Дважды кликни</col> на место
+HELP_RUN_INSTRUCTIONS2=для быстрого перемещения... чтобы сбежать от смертоносных лазеров, например?
+
+HELP_SWITCHCHAR=Смена персонажа
+HELP_SWITCHCHAR_INSTRUCTIONS=Брок может задержаться здесь.##А чем Грэфф сейчас занимается? Давай выясним это!##<col=BOLD>Переключайся между Броком и Грэффом</col> в любое время
+HELP_SWITCHCHAR_INSTRUCTIONS_GAMEPAD=нажав <spr=GAMEPAD_SELECT>!
+HELP_SWITCHCHAR_INSTRUCTIONS_MOUSE=нажав на правую верхнюю иконку или <button=INPUT_ACTION_SWITCH_CHAR>!
+
+HELP_LUCKYCHARM=Талисман на удачу
+HELP_LUCKYCHARM_INSTRUCTIONS=Этот особый предмет позволит тебе использовать <col=BOLD>особую атаку</col> в любое время! Но будь осторожен - если ты используешь талисман, не заполнив шкалу, он <col=BOLD>отнимет</col> некоторое количество здоровья!##Это единственный предмет, который сохранится в инвентаре на протяжении всех прохождений.
+
+HELP_MINE=Решения...
+HELP_MINE_INSTRUCTIONS=В ходе этого приключения ты можешь принимать <col=BOLD>альтернативные решения</col> (чаще, чем кажется на первый взгляд!)##Например, можно обойти мины. Но, возможно, существует способ их деактивировать...##<col=BOLD>Помни!</col> Возможность выбора не всегда лежит на поверхности, но зачастую она есть. Исследуй возможности!
+
+HELP_SUMMARY=Прохождение
+HELP_SUMMARY_INSTRUCTIONS=Поздравляю! Но детектив никогда не отдыхает!##Вот <col=BOLD>результаты</col> этого прохождения. Твои действия перечислены здесь.##Сыграй еще раз, чтобы посмотреть, что будет, если ты <col=BOLD>примешь другое решение</col>!
+
+HELP_SUMMARY2=Решения и характеристики
+HELP_SUMMARY2_INSTRUCTIONS=Пожалуйста, учти, что записываются только <col=BOLD>важные решения</col>.##Однако, незначительные решения оказывают эффект на <col=BOLD>отношения</col> между персонажами и на показатель <col=BOLD>интеллекта/агрессии</col>, что в свою очередь может повлиять на концовку!
+
+HELP_SUMMARYCLOSE=Дальнейшие приключения...
+HELP_SUMMARYCLOSE_INSTRUCTIONS=В таблице <col=BOLD>"Прогресс"</col> появилась новая иконка. Можешь использовать ее в любой момент в последующих прохождениях, чтобы посмотреть общую статистику.##Таким образом, ты можешь проверить влияние на игру принятых решений в режиме "реального времени"!
+
+HELP_SUMMARYCLOSE2=Открытие концовок
+HELP_SUMMARYCLOSE2_INSTRUCTIONS=В игре можно разблокировать <col=BOLD>11 концовок</col> (а также сцену после титров, если ты собрал все флаеры).
+HELP_SUMMARYCLOSE2_INSTRUCTIONS2=##Если для тебя это слишком много, открой хотя бы <col=BOLD>Каноничную концовку!</col>
+HELP_SUMMARYCLOSE2_INSTRUCTIONS3=##Помни - не обязательно каждый раз проходить всю игру заново, чтобы открыть концовки. (Наведя курсор мыши на концовку в окне Результатов, можешь получить подсказку, как ее разблокировать)
+
+
+
+HELP_SUMMARYCLOSE3=Перезапуск...
+HELP_SUMMARYCLOSE3_INSTRUCTIONS=Начни игру сначала или переиграй с конкретного места, выбрав желаемую <col=BOLD>"Главу"</col> в меню сохранений!##Также можно перезапустить любую главу прямо из вкладки "Результаты" (нажав на <col=BOLD>название главы</col>)
+
+
+HELP_SKIPFIGHT=Пропустить бой
+HELP_SKIPFIGHT_INSTRUCTIONS=Этот бой был не таким уж сложным, но кто знает, что будет дальше!##Если ты попал в неприятности, можешь <col=BOLD>пропустить бой</col>, нажав на эту иконку (вверху справа).
+
+HELP_DIFFICULTYUNLOCK=Сложность Мания разблокирована!
+HELP_DIFFICULTYUNLOCK_INSTRUCTIONS=Поздравляем! Вы разблокировали новую настройку сложности.##Начните новую игру, чтобы использовать ее!
+
+HELP_SKIPACTION=Пропустить ролик
+HELP_SKIPACTION_INSTRUCTIONS=Ты также можешь пропустить <col=BOLD>ролик и сопутствующие события</col> нажав на эту кнопку, когда она появляется.##Пропуская события и ролики ты <col=BOLD>ничего не теряешь</col>, но все же рекомендую хоть раз их увидеть!
+
+
+HELP_GRAFFVR=VR-арена Грэффа
+HELP_GRAFFVR_INSTRUCTIONS=Грэфф может тренироваться при помощи этой программы на его компьютере!##Это симуляция настоящих VR-боев, так что можешь заработать на ней <col=BOLD>опыт</col>, но <col=BOLD>не деньги</col>!
+
+
+HINTCOMBINE=Продолжить допрос и объединить эти две улики : <col=BOLD>{clue1}</col> и <col=BOLD>{clue2}</col>.
+HINTSINGLE=Продолжить допрос и использовать эту улику : <col=BOLD>{clue1}</col>.
+
+
+#----- Keyboard keys --------
+# NB : If your country uses a standard keyboard with English letters you don't have to translate these
+#In any case, make sure these are not longer than 10 characters to stay readable
+KEY_BACKSPACE=Backspace
+KEY_TAB=Tab
+KEY_ENTER=Enter
+KEY_SHIFT=Shift
+KEY_CTRL=Ctrl
+KEY_ALT=Alt
+KEY_PAUSE=Pause
+KEY_CAPSLOCK=Capslock
+KEY_ESC=Esc
+KEY_SPACE=Пробел
+KEY_PAGEUP=Page Up
+KEY_PAGEDOWN=Page Down
+KEY_END=End
+KEY_HOME=Home
+KEY_INSERT=Insert
+KEY_DELETE=Delete
+KEY_NUMPAD=Numpad
+KEY_NUMLOCK=Num Lock
+KEY_SCROLLLOCK=Scroll Lock
+
+
+#----- Messages --------
+
+#Vertical space is not limited for messages.
+#The name of the character who writes the message is included in the key (ex : SIN, GRAFF)
+MSIN1_TITLE=СРОЧНО! Мне нужна помощь!
+MSIN1_TEXT=У меня есть для вас работа!##Пожалуйста, придите ко мне как можно скорее : #<col=BOLD>Центр Бейсик 568, Квартира 54</col>. Код от передней двери <col=BOLD>4098</col>.##Поспешите!!!
+
+MGRAFF1_TITLE=Не забудь!
+MGRAFF1_TEXT=Привет! Я знаю, что ты все время обо всем забываешь, так что вот напоминалка: совещание и церемония научной ярмарки начнутся в 5 часов. Ты ДОЛЖЕН быть там!
+
+MGRAFF2_TITLE=Ну, ты идешь?
+MGRAFF2_TEXT=Ярмарка скоро начнется.
+
+MGRAFF3_TITLE=Эй!
+MGRAFF3_TEXT=Я пытался до тебя дозвониться! Немедленно приходи сюда!
+
+MGRAFF4_TITLE=Алло!
+MGRAFF4_TEXT=Клянусь, если тебя не будет вовремя...
+
+MGRAFF5_TITLE=ОТВЕЧАЙ, ЧЕРТ ПОБЕРИ
+MGRAFF5_TEXT=ВОЗЬМИ ТЫ ЭТУ ПРОКЛЯТУЮ ТРУБКУ!!!
+
+MGRAFF6_TITLE=НУ ВСЁ.
+MGRAFF6_TEXT=С МЕНЯ ХВАТИТ. Справлюсь без тебя. ОПЯТЬ.
+
+MGRAFF7_TITLE=Молодец...
+MGRAFF7_TEXT=Полное фиаско. Как и ты сам.
+
+
+MGRAFF10_TITLE=Ушел рано
+MGRAFF10_TEXT=Ты опять проспал. Ушел в Центр. Директриса будет тебя ждать. Хоть раз, пожалуйста, исправь ситуацию и постарайся все не испортить...
+
+MGRAFF11_TITLE=Нужна таблетка!
+MGRAFF11_TEXT=Эй, как только сможешь... Позвони мне. Клэй забрал мою ежедневную таблетку. А она мне скоро понадобится!
+
+MGRAFF12_TITLE=Ну же!
+MGRAFF12_TEXT=Куда ты опять пропал?! Ответь мне!
+
+#This one is badly spelled on purpose, this happens when Graff is about to collapse from lack of pill
+MGRAFF13_TITLE=...
+MGRAFF13_TEXT=Я здыхваюсь
+
+
+
+MDIRECTOR_SCORES=Текущие результаты
+MDIRECTOR_FINALSCORES=Финальные результаты
+
+MDIRECTOREXCL_TITLE=Грэфф исключен
+MDIRECTOREXCL_TEXT=Мистер,##По неизвестным причинам, сегодня днем Грэфф вел себя очень неподобающим образом. К сожалению, в связи с этим, он исключен из нашего Центра. Не стесняйтесь позвонить мне, если захотите узнать подробности.##Директриса
+
+MDIRECTORLATE_TITLE=Научная ярмарка
+MDIRECTORLATE_TEXT=Мистер,##Ваш ребенок, должно быть, Вам сообщил, что присутствие родителя или учителя на данном мероприятии - обязательно. Так или иначе, Вас не было во время голосования. Поэтому, у меня нет другого выхода, кроме как поставить Грэффу ноль за этот экзамен..##Данный пункт существует для того, чтобы проверить отношение родителей к ребенку, поскольку доказано, что конфликты в семье оказывают негативное влияние на будущую карьеру студентов. Надеюсь на Ваше понимание.##Директриса
+
+MDIRECTOR1_TITLE=Результат 2-ого дня испытания
+MDIRECTOR1_TEXT=Грэфф,##Ты получил {amount} баллов по результатам сегодняшнего испытания.##{ranking}##Последний этап начнется завтра в 8 утра. Удачи!##Директриса
+
+MDIRECTOR2_TITLE=И еще...
+MDIRECTOR2_TEXT=Грэфф.##Я хотела бы лично подтвердить, что ты восстановлен, как студент Центра. Не беспокойся об этом.## Директриса
+
+MDIRECTOR3_TITLE=Результат 1-ого дня испытания
+
+#I know, this one is super long. Make sure you don't jump lines though or it will not work correctly
+#These are the replies for Graff's first exam so make sure the replies are named exactly the same as the ones in TPC10! Question 9 also needs to be the same name of the item sold in the pharmacy TPC04C.
+#Also some replies like colors must be appropriately translated - see global instructions.
+MDIRECTOR3_TEXT=Грэфф,##Как было заявлено на сегодняшнем уроке, ты получаешь всего <col=BOLD>{amountexam}</col> баллов за этот экзамен.##{ranking0}##В ходе научной ярмарки тебе присудили <col=BOLD>{amountfair}</col> баллов за твое изобретение.{additional}##{ranking}##Далее предоставлены правильные ответы на экзаменационные вопросы, с комментариями.##Вопрос 1 - <col=BOLD>"Ничего."</col> Триботы не могут нападать на горожан. Они были созданы по всей строгости протокола безопасности. До сих пор не сообщалось ни об одном инциденте с ними.##Вопрос 2 - <col=BOLD>"11 и 24."</col> Четные числа увеличиваются на два, а нечетные на четыре.##Вопрос 3 - <col=BOLD>"Зять."</col> Семья очень важна, потому ты должен знать такие вещи.##Вопрос 4 - <col=BOLD>"НИЧЕГО"</col> Попробуй изменить.##Вопрос 5 - <col=BOLD>"ФИОЛЕТОВЫЙ"</col> Это цвета радуги. КРАСНЫЙ, ОРАНЖЕВЫЙ и так далее... Значит, последний должен быть - фиолетовый.##Вопрос 6 - <col=BOLD>Правильного ответа нет</col>, но ты обязательно должен выбрать один из двух вариантов.#Пожалуйста, учти, что если твой друг является драмером, а десять незнакомцев - сламерами, то правильным ответом будет - спасти своего друга.##Вопрос 7 - Ты, разумеется, все унаследуешь, когда тебе исполнится <col=BOLD>16</col> лет. Ответ был на первой странице в сводке правил, так что неверному ответу оправданий быть не может.##Вопрос 8 - <col=BOLD>3026 П.П.</col> Скоро состоится празднество по случаю десятилетия.##Вопрос 9 - <col=BOLD>Молодин</col>##Директриса
+
+MDIRECTOR3_TEXT_INVENTIONREMOVED=, которое, к сожалению, было удалено, в связи с причинами тебе известными
+
+MDIRECTOR3_TEXT_ADDITIONALPROTECT=##Должна отметить, что твоя "анти-Клэй защита" весьма интересна. (Да, я заметила) Хотела бы я, чтобы вы с моим сыном были более дружны, но это ваше дело.
+MDIRECTOR3_TEXT_ADDITIONALMESS=##Разумеется, я заметила твою попытку косвенно "поработать" над изобретениями других участников, но учитывая тот факт, что выявить их недостатки было весьма умным ходом и не противоречит правилам, я сделаю поблажку.
+
+MDIRECTOR4_TITLE=Финальный результат
+MDIRECTOR4_TEXT=Грэфф,##Ты получил {amount} баллов по результатам финального испытания.##{ranking}## Директриса
+
+#These messages are sent by Dee but at this point we don't know yet. Make them informal
+MDEE1_TITLE=ОСТОРОЖНО
+MDEE1_TEXT=НЕ ДОВЕРЯЙ ЭТОМУ ПАРНЮ
+
+MDEE2_TITLE=ЛОЖЬ
+MDEE2_TEXT=ОН ВРЕТ О СЕБЕ. ДЕЛАЙ СВОЕ ДЕЛО, НО БУДЬ ОСТОРОЖЕН
+
+MDEEFINAL_TITLE=Нужна помощь!
+MDEEFINAL_TEXT=Я в беде!
+
+
+MCITIZEN1_TITLE=Добро пожаловать под Купол!
+MCITIZEN1_TEXT=Пожалуйста, примите свод правил для безопасного ознакомления с вашим новым домом! Ваш гражданский сертификат - 368745.##**Прикрепленный файл удален (помечено, как спам)**.
+
+
+MOTT1_TITLE=Нехватка таблеток
+MOTT1_TEXT=Привет. Похоже, что нехватка во всем Сламс. Убедись, что у тебя есть с собой таблетка, прежде чем уходить на экзамен!
+
+
+MOTT2_TITLE=Окей!
+MOTT2_TEXT=Буду знать! Хотя, есть повод беспокоиться... Надеюсь, это ненадолго.
+
+MMUSEUM_TITLE=Бесплатный вход в музей
+MMUSEUM_TEXT=Сегодня ежегодный день открытых дверей музея! Мы ждем всех жителей Атлазии. Не пропустите возможность увидеть наш новый экспонат древней забытой расы, жившей тысячу лет назад!##Вход возле западной границы.
+
+MWES1_TITLE=Я перезвоню
+MWES1_TEXT=Спасибо за помощь в расследовании этого дела. Отличная работа. А пока я освобождаю тебя от полицейских обязанностей. Постарайся сегодня хорошенько выспаться. Сиди дома до заката. Ты это заслужил. 
+
+
+
+#----- Gameover --------
+
+GAMEOVER_DEFEND_GAMEPAD=Не забывай защищаться с помощью <button=INPUT_ACTION_GUARD>!
+GAMEOVER_PC01_HOOVER_DIEBY=Лучше не упорствовать, а найти способ избавиться от него БЕЗ прямого контакта...
+GAMEOVER_PC05B_RATS_FIRST=Эти крысы круты. Не обязательно драться с ними, можно поискать другой выход...
+GAMEOVER_PC05B_CHIEFRAT_FIRST=Главарь уязвим только когда атакует. Подожди, пока он откроется!
+GAMEOVER_PC07B_SIN_MOUSE=Нажми <button=INPUT_ACTION_GUARD>, чтобы предотвратить получение урона от стаканов!
+GAMEOVER_PC07B_SIN_GAMEPAD=Нажми <button=INPUT_ACTION_GUARD>, чтобы предотвратить получение урона от стаканов!
+GAMEOVER_PC08B_SAW=Какого черта?! Так... Тебе лучше избегать этой пилы в следующий раз!
+
+#----- Clues --------
+
+CLUETYPE_SECTOR56X=Сектор 56-Экс
+CLUETYPE_DRUMERSTREET=Драмер стрит
+CLUETYPE_SEWERS=Канализация
+CLUETYPE_SLUMS=Сламс
+CLUETYPE_ALLEY=Двор хакера
+CLUETYPE_GARAGE=Гараж Шэй
+CLUETYPE_TRIANGLE=Треугольник
+CLUETYPE_POLICE=Отделение полиции
+CLUETYPE_HUSH=Д-р Хуш
+CLUETYPE_LAB=Лаборатория
+CLUETYPE_MURDER=Дело об убийстве
+CLUETYPE_SENDER=Отправитель сообщений
+CLUETYPE_PILL=Таблетки
+
+
+#---------------------
+#Day 1 SIN
+#---------------------
+CLUE_SIN_STRESSED=Син - очень нервный клиент
+CLUE_DRUMERSTREET_STATUE=День Аутаркизма сделал нынешнее общество таким, какое оно есть
+CLUE_DRUMERSTREET_CARDBOARD=Кто-то сложил в переулке картонные коробки
+CLUE_SLUMS_MAILBOXES=В Сламс многие пневмо-капсулы вышли из строя
+CLUE_SIN_ALCOHOL=Син любит крепкие алкогольные напитки
+CLUE_SIN_WORRIEDGUN=Син очень боится, что кто-то найдет его пистолет
+CLUE_SIN_REMOTECONTROL=Пульт управления Сина выключает камеры
+CLUE_SIN_GUNNOTHIM=Действительно ли пистолет принадлежит Сину?
+CLUE_SIN_CAMERAOFF=Пульт управления Сина отключил камеру в аптеке?
+CLUE_SIN_SLEEP=Син усыпил полицейского?
+CLUE_SIN_PHARMACY=Син причастен к краже в аптеке?
+CLUE_SIN_STEAL=Син своровал у полицейского?
+CLUE_SIN_THIEF=Син - вор!
+CLUE_SIN_HANDKERCHIEF=Син потерял свой синий платок ручной работы
+CLUE_SEWERS_INITIALSGUN=Инициалы на пистолете Сину не подходят
+#Blackout as in 'fainting'
+CLUE_DRUMERSTREET_PILL=Антидепрессанты Сина могут вызвать потерю сознания
+CLUE_DRUMERSTREET_CAMERAOFF=Камера в аптеке была отключена
+CLUE_DRUMERSTREET_DRAWERFORCED=Ящик в аптеке был вскрыт
+CLUE_DRUMERSTREET_SEMBLANCE=Общество драмеров очень зависимо от имиджа
+CLUE_SECTOR56X_SLEEPING=Полицейский спал в одних трусах на улице неподалеку
+
+#---------------------
+#Day 2
+#---------------------
+CLUE_BROK_IMMUNE=Брок не подвержен воздействию Смога
+CLUE_OTT_HYBRID=Отт - гибрид, что является большой редкостью
+
+
+#---------------------
+#Day 2 case BEFORE
+#---------------------
+#Dr. Hush room
+CLUE_HUSH_TRACKING=Отслеживание жизни доктора Хуша остановилось примерно в 5:00
+CLUE_HUSH_MANIAC=Доктор Хуш одержим чистотой и порядком
+CLUE_HUSH_LASTLOGIN=Доктор Хуш воспользовался своим планшетом в 4:45
+CLUE_HUSH_LEFT=Последняя запись о том, что доктор Хуш покидал свою комнату, была в 5:04
+CLUE_HUSH_RECORDING=Доктор Хуш : "Мне надо уладить дела с доктором Минком"
+CLUE_TIDY_CHARGING=Тайди стоял на зарядке с 4:50 до 11:10
+CLUE_TIDY_STRETCH=Тайди может вытягивать руки вертикально и горизонтально
+CLUE_TIDY_NOKILLCREATOR=Согласно золотому правилу, Тайди не может атаковать своего создателя
+CLUE_LAB_CRUMBS=Крошки на пандусе в комнате доктора Хуша
+CLUE_LAB_FLOORCOFFEE=Пятно от кофе на полу в комнате доктора Хуша
+CLUE_LAB_FLOORCOFFEE2=Наниты на кофейном пятне в комнате доктора Хуша
+
+#Dr. Mink room
+CLUE_HUSH_BLACKSTAINS=Черные пятна на руках доктора Хуша
+CLUE_HUSH_LAMPNEXT=Лампа, найденная рядом с телом доктора Хуша
+CLUE_HUSH_LAMPBLOOD=Красное пятно на лампе, найденной рядом с телом
+CLUE_HUSH_NEVERCOME=Доктор Хуш ни разу не заходил в комнату доктора Минка сегодня
+CLUE_HUSH_MAGIC=Тело "магическим" образом появилось, когда Брок вошел в комнату
+
+CLUE_MINK_ACID=Кислотные растворы на верстаке доктора Минка
+CLUE_MINK_MUSIC=Доктор Хуш слушал музыку "TechDream" в 11:00
+CLUE_MINK_BUDGET=Бюджет на нанотехнологии снизили
+
+CLUE_TIDY_DRMINKROOM=Тайди не может открыть дверь доктора Минка
+
+CLUE_LAB_COLUMN=Колонна в комнате доктора Минка 3 метра в высоту
+CLUE_LAB_STAIN=Красное пятно под кроватью доктора Минка
+
+#Restroom
+CLUE_LAB_WRAPPING=Упаковка "экстра томатного соуса" в мусорной дробилке в туалете
+CLUE_MINK_COFFEE=Доктор Минк пил кофе с 4:40 до 5:04
+
+#Others
+CLUE_HUSH_TENSE=В последнее время доктора общались редко и напряженно
+CLUE_TIDY_CONSCIOUSNESS=Во время зарядки Тайди переключается между различными стадиями сознания
+
+CLUE_GUARD_CHECK=Охранники регулярно проверяют комнаты
+CLUE_GUARD_SQUEALER=Охранник не любит, когда упоминают, что он Визгун
+
+CLUE_HUSH_FAKEBLOOD=Пятна крови доктора Хуша ненастоящие
+
+#---------------------
+#Day 2 case AFTER
+#---------------------
+
+#Dr. Hush room
+CLUE_LAB_RAMP=Доктор Хуш создал пандус, чтобы Тайди мог забраться на верстак
+CLUE_LAB_FAKEWALL=Поддельная стена между комнатами ученых
+CLUE_HUSH_DATATRANSFER=Планшет доктора Хуша передал ИИ-данные в 4:45
+CLUE_HUSH_NANITES=Наниты на руке доктора Хуша
+CLUE_HUSH_NAKED=Доктор Хуш любит раздеваться
+
+#Restroom
+CLUE_LAB_MEETYME=В Мити-ми имеется запись голоса доктора Хуша
+CLUE_MINK_BURGERUNFROZEN=Муравьебургер доктора Хуша был уже разморожен
+CLUE_LAB_SINKNANITES=Наниты и цветок в раковине в туалете
+CLUE_HUSH_COFFEE=Доктор Хуш всегда пьет кофе в туалете
+
+#Dr. Mink
+CLUE_MINK_LAMP=Лампа в комнате доктора Хуша получила сильный удар в 5:10
+CLUE_HUSH_ACCEL500=Доктор Хуш принимает Аксел 500, повышающий физическую активность
+CLUE_LAB_PLANTNANITES=Смешивание Фениксовых цветов с нанитами может привести к смерти
+CLUE_HUSH_LAMP=Лампа, найденная рядом с телом, получила удар в 11:02
+CLUE_LAB_WRONGLAMP=Лампа в комнате доктора Минка принадлежит доктору Хушу
+
+#Guard and others
+CLUE_GUARD_MONITORING=Только охранники имеют доступ к мониторингу
+CLUE_GUARD_SHIFT=Охранник принял свою смену в 3:00
+CLUE_LAB_MAINENTRANCE=Охранник зашел в лабораторию в 4:38
+CLUE_GUARD_DRHUSHROOM=Охранник открыл комнату доктора Хуша в 5:10
+CLUE_HUSH_MINKDOOR=Ни Доктор Хуш, ни Тайди не открывали дверь доктора Минка
+CLUE_LAB_TOMATOVENTILATION=Томатный соус в вентиляционной системе
+CLUE_TIDY_LASTROOM=В последний раз Тайди заходил в туалет в 4:24
+CLUE_GUARD_MUSIC=Когда охранник отвлекся на телефон, играла музыка "TechDream"
+CLUE_HUSH_ONLYCHECK=В 5:10 охранник проверил только комнату доктора Хуша
+
+#Deductions
+CLUE_GUARD_AWAY=Охранник отвлекся на минуту в 4:38
+CLUE_GUARD_NOTBACK=Согласно мониторингу, охранник вышел в 4:38 и не вернулся
+CLUE_GUARD_NOISE=Охранник услышал шум в комнате доктора Хуша в 5:10
+CLUE_HUSH_GONE1=В 5:10 доктора Хуша не было ни в его комнате, ни в холле
+CLUE_HUSH_GONE2=В 5:10 доктора Хуша не было ни в холле, ни в его офисе, ни в туалете
+CLUE_GUARD_NOTWORRIED=Охранника одурачили с помощью записи голоса на Мити-ми
+
+#Deductions Tidy big explanation
+CLUE_MURDER_DEATHSTAGED=Соус муравьебургера как-то связан со смертью доктора Хуша
+CLUE_MURDER_BURGERUNFROZEN=Бургер разморозили, чтобы приправить томатным соусом
+CLUE_MURDER_WEAPON=Лампа не является орудием убийства
+CLUE_MURDER_TRUECAUSE=Доктор Хуш был убит с помощью отравленных нанитов
+CLUE_MURDER_COFFEEPOISON=Кофе был отравлен
+CLUE_MURDER_COFFEESINK=Кофе вылили в раковину
+CLUE_MURDER_ACCESSNANITES=Тайди мог дотянуться до нанитов через поддельную стену
+CLUE_MURDER_TIDYWRONG=Возможно, Тайди врет о том, в какое время где был и что делал
+CLUE_MURDER_DRHUSHWHERE=В 5:10 доктора Хуша нигде не было видно
+CLUE_MURDER_VENTILATION=В 5:10 тело доктора Хуша находилось в вентиляционной системе
+CLUE_MURDER_WHEREPOISONED=Доктора Хуша отравили в туалете
+CLUE_MURDER_CARRY=Тайди перенес тело доктора Хуша из туалета в его офис
+CLUE_MURDER_TIMEOFDEATH=Доктор Хуш умер между 4:24 и 4:38
+CLUE_MURDER_STRETCH=Тайди поместил доктора Хуша в вентиляцию, вытянув руки
+CLUE_MURDER_RAMP=Тайди поднялся по пандусу и поместил доктора Хуша в вентиляцию
+CLUE_MURDER_CRUMBS=Тайди раздавил печенье, поднимаясь по пандусу
+CLUE_MURDER_LAMPPUSH=Тайди протолкал тело вместе с лампой доктора Минка
+CLUE_MURDER_LAMPHUSH=Лампа доктора Минка показывает, что ее повредили в 5:02, но...
+CLUE_MURDER_TAKELAMP=Тайди взял лампу доктора Минка через отверстие в стене
+CLUE_MURDER_LAMPOFF=Лампа доктора Минка какая-то странная
+CLUE_MURDER_BODYFALL=Тело выпало из вентиляционной трубы в 11:02
+CLUE_MURDER_BODYMUSIC=Доктор Минк не слышал, как упало тело из-за того, что играла музыка
+CLUE_MURDER_AWAKEN=Тайди был в сознании и совершал эти действия, подключенным к розетке
+CLUE_MURDER_ALIVE=Доктор Хуш жив, благодаря его таблеткам Аксел 500
+CLUE_MURDER_MOTIVE=Тайди сделал это из-за своего старого дефективного обновления ИИ
+
+
+#Charge Hush deductions
+CLUE_HUSH_NEEDROOM=Доктору Хушу нужно было попасть в комнату доктора Минка
+CLUE_HUSH_KILLMINK=Доктор Хуш хотел убить доктора Минка
+CLUE_HUSH_INVENT=Доктор Хуш был в вентиляции
+CLUE_HUSH_TRAP=Доктор Хуш попросил Тайди помочь ему подняться к люку
+CLUE_HUSH_HEAR=Доктор Минк слушал музыку, когда доктор Хуш упал
+
+
+#Charge Guard deductions
+CLUE_GUARD_STAGED=Охранник инсценировал преступление, используя томатный соус
+CLUE_GUARD_BED=Труп доктора Хуша был спрятан под кроватью
+CLUE_GUARD_MONITORING2=Записи мониторинга были подделаны охранником
+CLUE_GUARD_MOTIVE=Он убил доктора Хуша, чтобы продать Визгунам новые технологии
+
+
+
+#Useless ones
+CLUE_HUSH_SUICIDE=Доктор Хуш в последнее время вел себя очень странно. Дошло до суицида?
+CLUE_GUARD_INSPECTTRASH=Только охранники проверяют мусор
+CLUE_HUSH_FIRMWARESENT=Доктор Хуш получил от неизвестного ученого незавершенную прошивку бота
+
+
+#-------------------------
+# Day 3 Interrogate Dee
+#-------------------------
+#Here we don't know the Journalist is female
+CLUE_GHERKIN_DEECALL=Журналист звонил доктору Геркину, скрывая свою личность
+#Here we know it
+CLUE_SENDER_JOURNALIST=Сообщения, предупреждающие о д-ре Геркине от некого журналиста
+CLUE_SIN_PICTURE=Фото счастливой женщины и девочки с Сином
+CLUE_SENDER_RESEARCHSIN=Отправитель сообщения искал информацию о Сине
+CLUE_SENDER_RESEARCHGOVERNMENT=Отправитель сообщения искал информацию о Правительстве
+CLUE_SENDER_RESEARCHPOLLUTION=Отправитель сообщения искал информацию о пневмокапсулах
+
+CLUE_SECTOR56X_GOVERNMENT=Правительство полностью контролирует все СМИ
+CLUE_GHERKIN_PARTOF=Доктор Геркин сказал, что он "часть"... чего-то
+
+CLUE_DEE_GHERKINWARN=Ди - журналистка, предупреждавшая меня о докторе Геркине
+CLUE_DEE_WORRIEDSIN=Ди беспокоится за своего мужа Сина
+CLUE_DEE_GHERKINTHREAT=Ди подозревает, что доктор Геркин опасен
+CLUE_DEE_GHERKINGOVERNMENT=Доктор Геркин - член Правительства?!
+
+
+#-----------------------------
+# Day 3 Interrogate Gherkin
+#-----------------------------
+CLUE_BROK_BOTS=Триботы целенаправленно атакуют Брока
+CLUE_GHERKIN_BOTS=Доктор Геркин заметил перемены в поведении Триботов сегодня утром
+CLUE_TRIBOT_FIRMWARE=Правительство контролирует все обновления Триботов
+
+CLUE_GHERKIN_FIXES=Миссия доктора Геркина заключается в том, чтобы починить пневмокапсулы
+CLUE_PILL_NOTWORK=Починенные пневмокапсулы все еще не работают
+CLUE_GHERKIN_SIGNATURE=Только доктор Геркин знает, какая подпись нужна, чтобы они заработали
+
+CLUE_GHERKIN_GHERKINGOVERNMENT2=Доктор Геркин - член Правительства
+CLUE_SECTOR56X_TRIANGLE=Правительство также называют Треугольником
+CLUE_GHERKIN_TRIANGLE=Доктор Геркин - один из трех членов Треугольника
+CLUE_TRIANGLE_JUDGEMENT=Треугольник выносит приговоры заключенным
+CLUE_TRIANGLE_APPROVE=Для принятия любого решения необходимо одобрение каждого из трех членов Треугольника
+CLUE_TRIANGLE_DISAPPROVE=Если один член Треугольника не дал своего одобрения, это перекроет решение остальных
+CLUE_TRIANGLE_TRIBOTSUPDATE=Член Треугольника натравил Триботов на Брока
+CLUE_DEE_LIFE=Жизнь Ди пошла под откос из-за ее расследований
+CLUE_TRIANGLE_DEELIFE=Член Треугольника испоганил жизнь Ди, чтобы заставить ее молчать
+CLUE_DEE_CRIMINALSDISAPPEAR=Все больше и больше заключенных пропадают без вести
+CLUE_GHERKIN_PRISONERSKILLED=Все заключенные были убиты Треугольником, вопреки решению доктора Геркина
+CLUE_SIN_PRISONER=Син сейчас в тюрьме
+CLUE_SIN_DANGER=Син в опасности!
+
+
+#------------------------------------------
+# DAY 3 Interrogate Wes
+#------------------------------------------
+
+CLUE_WES_REMNFOLDER=У Уэса есть папка под названием "Р.Филш"
+CLUE_WES_DEEFOLDER=У Уэса есть папка под названием "Д.Сильвер"
+CLUE_DEE_DEELASTNAME=Ди замужем за Сином Сильвером
+CLUE_WES_DEEINVESTIGATED=Уэс искал информацию о Ди
+
+CLUE_WES_INCORRECTWORDS=Уэс страдает от внезапных провалов в речи и использует неподходящие слова
+CLUE_WES_BROKNAME=Уэс ни разу не произнес имя Брока правильно
+CLUE_WES_MENTALISSUES=Уэс психически нездоров
+
+CLUE_WES_INVESTIGATOR=Уэс расследовал дело Лии 5 лет назад
+CLUE_POLICE_CARACCIDENT=Полицейский попал в летомобильную аварию 5 лет назад
+CLUE_WES_ACCIDENT=Уэс остался в живых после серьезной аварии на летомобиле 5 лет назад
+
+CLUE_WES_CARMENTAL=У Уэса появились проблемы с психикой после летомобильной аварии
+
+CLUE_POLICE_WEIRDRAWINGS=Непонятные рисунки в офисе Уэса
+CLUE_POLICE_NOTE=Шеф полиции внезапно перестал рисовать фотороботы
+CLUE_WES_DRAW=Уэс разучился рисовать?
+CLUE_LAB_AIINEPT=ИИ не обладает артистическими способностями
+CLUE_WES_BRAINAI=Уэс иногда ведет себя, как ИИ
+
+CLUE_WES_AICONTROL=ИИ как-то управляет разумом Уэса?
+
+CLUE_POLICE_BURNTSOCKET=В офисе Уэса сгорела розетка
+CLUE_LAB_OVERLOADSOCKET=Только боты старых моделей могут стать причиной перенагрузки на розетку
+CLUE_POLICE_OLDMODEL=Бот старой модели недавно подключался к розетке Уэса
+
+CLUE_POLICE_WESBOT=Экспериментальный бот контролирует Уэса, чтобы тот делал за него грязные дела?
+CLUE_DIRECTOR_ANOTHER=Я уже встречал бота еще более навороченного, чем директриса
+CLUE_WES_ROBOT=Уэс - робот!
+
+
+#------------------------------------------
+# DAY 3 Interrogate "Shay"
+#------------------------------------------
+
+CLUE_GARAGE_BLANKET=Шэй отказалась говорить мне, что за изобретение она прячет под покрывалом
+CLUE_SHAY_STRESSED=Шэй, похоже, чем-то встревожена и будет недоступна весь день
+CLUE_SHAY_SECRET=Шэй взяла перерыв, чтобы завершить свое секретное изобретение
+
+CLUE_GARAGE_ITEMCLOCK=Среди элементов, которые Шэй просила меня достать, был ультраточный таймер
+CLUE_SHAY_TIMETHEORY=Шэй любит напрягать меня своими теориями о времени и пространстве
+CLUE_SHAY_TIME=Одержимость Шэй временем должна быть связана с ее изобретением
+
+CLUE_SHAY_NODIE=Шэй никогда не беспокоится о том, что я могу отбросить копыта
+CLUE_ALLEY_DIED=В темном переулке я чувствовал себя так, будто вернулся из мертвых...?
+CLUE_SHAY_SAVED=Шэй спасла меня в том темном переулке?
+
+
+CLUE_SHAY_LETTER=Конверт "Открой это, когда будешь в отчаянии"
+CLUE_SHAY_FUTURE=Это невозможно, но... Шэй может предсказывать будущее...?
+
+CLUE_BROK_PICTURE=Фото Брока 4-х летней давности, изображающее события, которых тогда не могло быть
+CLUE_CHIEFRAT_RESPONSIBLE=На меня повесили вину за изгнание Визгунов
+CLUE_CHIEFRAT_WHAT=Не может быть... Неужели это событие девятилетней давности правда произошло?
+
+CLUE_SPECIAL_CHANGES=Мы переживаем одни и те же события, но с изменениями?
+
+CLUE_GARAGE_EGG=Машина в форме яйца под покрывалом в гараже
+CLUE_GHERKIN_EGG=Яицо символизирует цикл
+CLUE_GARAGE_LOOP=Изобретение Шэй может циклировать?
+
+CLUE_GARAGE_CHANGEEVENTS=Изобретение Шэй может изменять произошедшие события...?!
+CLUE_SHAY_BUILT=Неужели Шэй создала...?!
+
+
+
+#-------------------------
+# Others
+#-------------------------
+CLUE_BROK_PENDANT=Кулон Брока сделан из гептамида - очень мощного сплава
+CLUE_RJ_COPCLOTHES=Р.Джей сохранил полицейскую форму после увольнения
+CLUE_POLICE_TROPHY=Уэс был назначен главой отделения полиции в 3030 году
+CLUE_GRAFF_NOTOUCH=Грэфф не хочет, чтобы его трогали
+CLUE_GRAFF_DRONE=Дрон принес Броку таблетку
+CLUE_GHERKIN_LIADISCOVERY=Слух о том, что Лиа совершила прорывное открытие в медицине
+
+
+
+#-------------------------
+# Dialog
+#-------------------------
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MONEY_NONE1-1=Ну... Хотя бы не в минусе!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MONEY_NOTMUCH1-1=Денег у меня негусто...
+# Brok                                 
+INTERFACE_MONEY_NOTMUCH1-2=Значит, сегодня буду работать в два раза усерднее!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MONEY_MEDIUM1-1=Круто! У меня достаточно... денег на сегодня... Я надеюсь.
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MONEY_RICH1-1=Что?! У меня и правда столько денег?
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_REFUSE1-1=Да, мне это не нужно! Я доверяю своей интуиции.
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_REFUSE2-1=Не стоит. Не доверяю я этим штукам.
+#----------------------------------------------------
+# Graff                                 
+INTERFACE_HINT_GRAFF_REFUSE1-1=Мне нужно время, чтобы все обдумать!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_NONE1-1=Эм... Похоже, я сейчас не могу получить подсказку...
+# Brok                                 
+INTERFACE_HINT_NONE1-2=Надо собрать рекламных флаеров и просканировать их телефоном.
+# Brok                                 
+INTERFACE_HINT_NONE1-3=Или же, я могу положиться на свои навыки...!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_NONE2-1=Не выйдет. У меня нет флаеров для телефона!
+#----------------------------------------------------
+# Graff                                 
+INTERFACE_HINT_GRAFF_NONE1-1=Ой-ой... Флаеры закончились.
+# Graff                                 
+INTERFACE_HINT_GRAFF_NONE1-2=Надо бы еще поискать!
+#----------------------------------------------------
+# Graff                                 
+INTERFACE_MONEY_GRAFF1-1=На моем аккаунте ограничения.
+# Graff                                 
+INTERFACE_MONEY_GRAFF1-2=Я могу хранить лишь небольшую сумму денег. Все свыше 50 юнисов будет переведено обратно на счет Брока в конце дня...
+# Graff                                 
+INTERFACE_MONEY_GRAFF1-3=Если я нажму эту кнопку, то могу попросить перевести мне денег.
+# Graff                                 
+INTERFACE_MONEY_GRAFF1-4=Ну, попросить не напрямую у "него". Решение принимает специальный алгоритм...
+#----------------------------------------------------
+# Graff                                 
+INTERFACE_MONEY_GRAFF2-1=Через несколько дней мне стукнет 16 и я получу настоящий аккаунт. Жду не дождусь!!
+# Graff                                 
+INTERFACE_MONEY_GRAFF2-2=Может, попросить перевести мне немного денег...?
+#----------------------------------------------------
+# Various                                 
+INTERFACE_MONEY_REQUEST_NOTENOUGH-1=На аккаунте опекуна недостаточно средств. ({amount} юнисов доступно)
+# Graff                                 
+INTERFACE_MONEY_REQUEST_NOTENOUGH-2=(Вздыхает...)
+#----------------------------------------------------
+# Various                                 
+INTERFACE_MONEY_REQUEST_OK-1=Проверка...
+# Various                                 
+INTERFACE_MONEY_REQUEST_OK-2=Перевод одобрен.
+#----------------------------------------------------
+# Various                                 
+INTERFACE_MONEY_REQUEST_NOTOK-1=Проверка...
+# Various                                 
+INTERFACE_MONEY_REQUEST_NOTOK-2=В переводе отказано. Пожалуйста, попробуйте позже, с меньшей суммой запроса.
+# Graff                                 
+INTERFACE_MONEY_REQUEST_NOTOK-3=(Вздыхает...)
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_YES1-1=Итак... Надо отсканировать штрих-код этого флаера?
+# Brok                                 
+INTERFACE_HINT_YES1-2=Похоже, сработало, но я могу использовать каждый флаер лишь раз.
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_YES2-1=Получи флаер и дай мне подсказку!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_HINT_YES3-1=Так, посмотрим...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT1-1=Могу ли я совместить... Хмм...
+# Brok                                 
+COMBINE_INV_DEFAULT1-2=Не-а!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT2-1=Э-э... Не думаю, что это сработает.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT3-1=Я пытаюсь, пытаюсь! Но ничего не происходит!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT4-1=Все же сломается! А мне это не нужно.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT5-1=Это просто глупо.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT6-1=Ммм... Нет.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT7-1=Ну конечно! Знать бы еще, что я делаю.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT8-1=Не-а...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT9-1=Эх, как бы я хотел быть таким же умным, как Грэфф... Все мои идеи такие глупые...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT10-1=В этом нет никакого смысла! Кажется, у меня мозг выключается...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT11-1=Если бы Шэй была здесь, она бы сказала: "Продолжай пробовать и, может быть, произойдет что-нибудь потрясающее!"
+# Brok                                 
+COMBINE_INV_DEFAULT11-2=Но ее здесь нет.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT12-1=И тогда мы получим...
+# Brok                                 
+COMBINE_INV_DEFAULT12-2=А что конкретно?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT13-1=Я хочу это сделать, но не получается!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT14-1=...
+# Brok                                 
+COMBINE_INV_DEFAULT14-2=Ой-ой... Лучше остановиться, пока я ничего не сломал.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT15-1=О, да! Это было бы забавно!
+# Brok                                 
+COMBINE_INV_DEFAULT15-2=Но я не могу так рисковать.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT16-1=Так много возможностей...
+# Brok                                 
+COMBINE_INV_DEFAULT16-2=И так много провалов.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT17-1=Не видел ни одного детектива, который бы делал подобное.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT18-1=Это как пытаться запихнуть квадратный колышек в круглое отверстие.
+# Brok                                 
+COMBINE_INV_DEFAULT18-2=Срабатывает только иногда!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT19-1=Будем считать, что это сработало...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_DEFAULT20-1=Смешивать все подряд - не всегда хороший план. Этому я научился, когда готовил, используя странные ингредиенты...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY-1=Посмотрим поближе...
+# Brok                                 
+COMBINE_INV_MAGNIFY-2=Ага. Выглядит так же, только больше.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR-1=Мои вещи уже и так все в кошачьей шерсти...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_APARTMENTKEY-1=Эту штуку не нужно отпирать... или развинчивать.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HANDKERCHIEF-1=Вот. Как новенький!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MINEBROKEN-1=Хмм... Сомневаюсь, что это починит мину.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_BILL-1=Эх, если бы этой штукой можно было расплатиться за счет...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HOOVER-1=Думаю, бот-уборщик смог бы всосать эту штуку... Но не в нынешнем состоянии.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PILL-1=Единственный способ использовать эту таблетку с пользой - проглотить ее.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_TRAMPPRESCR-1=Он бесполезен... Видимо, мне все же придется найти доктора.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_EARBUDSB-1=Думаю, эта штука не хотела бы оглохнуть!
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_SCREWDRIVER-1=В этой штуке нет винтов...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_STATUETTE-1=Тут даже молитва не поможет...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_STICKER-1=Вот, приклеил.
+# Graff                                 
+COMBINE_GRAFF_INV_STICKER-2=...
+# Graff                                 
+COMBINE_GRAFF_INV_STICKER-3=Толку ноль... Сниму обратно.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_FLOUR-1=Из этого вышел бы ужасный пирог.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_EARBUDS-1=У этой штуки нет ушей...! Я так думаю.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_FORCEFIELD-1=Ух ты! Притягивается, как магнит!
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DETECTOR-1=Это не то, что мне нужно обнаружить детектором...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_NEON-1=Теперь светит ярче... Но она все так же бесполезна.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEATHBUTTON-1=Нет... Я могу что-нибудь повредить.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_SELFIE-1=Мне нравится эта фотография... но не настолько, чтобы везде ее развешивать.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_WINGS-1=Этой штуке не нужно летать...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_RUBBERCUTTER-1=Лучше подумать дважды, прежде чем резать свои вещички!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PRED-1=Я бы не удивился, если бы игрушка сказала мне...
+# Brok                                 
+COMBINE_INV_PRED-2="Какого черта ты делаешь?!"
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNK-1=Я не могу прикрепить это к трубе...
+# Brok                                 
+COMBINE_INV_PIPECHUNK-2=Да и какой в этом смысл?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_STRING-1=Отлично! Завязал...!
+# Brok                                 
+COMBINE_INV_STRING-2=(Вздыхает) Иногда у меня возникают странные идеи...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HACKPHONE-1=...Дурацкий телефон! Он отказывается делать то, что я хочу!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PHOTO-1=Незачем везде развешивать его фото.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_SPEAKER-1=Странно. Ни звука.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_LAMP-1=Не похоже на светлую мысль.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_LABFLOWER-1=Бедный цветочек... Ему и так досталось...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_TABLETHUSH-1=Не похоже, что этот планшет может что-нибудь проанализировать...
+# Brok                                 
+COMBINE_INV_TABLETHUSH-2=А может, наоборот?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_WRAPPING-1=Не... Я могу случайно облить ее соусом.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_POLLUTIONPILLG-1=Надо ее приберечь.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_WEIGHT-1=Это только добавит веса...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_WEIGHT_WEIGHT-1=Они почти одинаковые, если не считать их рисунок в форме цветка.
+# Graff                                 
+COMBINE_GRAFF_INV_WEIGHT_WEIGHT-2=Гири, вроде, немного отличаются, но...
+# Graff                                 
+COMBINE_GRAFF_INV_WEIGHT_WEIGHT-3=Не могу точно сказать, которая легче. Не могу позволить себе ошибаться...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_TRIANGLEBUNKER-1=Это сюда не влезет.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_BANKSTATEMENT-1=Это не поможет мне понять эти фигуры...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_INVOICEHACKER-1=Оставлю оплату на Брока...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_BILLC-1=Не. Для оплаты лучше поискать пневмопочту.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_PRINT-1=Я уверен, что эти фигуры нужны для других целей...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_PHONEMUSEUM-1=Это старье даже не включается...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_PARCHMENT-1=Этот пергамент очень хрупкий... Не стоит этого делать.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PENDANT-1=Лиа не хотела бы, чтобы я его так использовал.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_REMOTECONTROL-1=Странно! Не могу выключить...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_STICK-1=Сомневаюсь, что бить эту штуку - хороший план.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY_CATFUR-1=Хмм...
+# Brok                                 
+COMBINE_INV_MAGNIFY_CATFUR-2=Блох нет. Это хорошо!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY_LABFLOWER-1=Нужно придумать другой способ узнать, что это за цветок.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_STICK_SOMETHING-1=Не-а! Я не буду это доламывать!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR_HOOVER-1=В нем все еще полно шерсти...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR_PRED-1=Она и так пушистая.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR_MINE-1=Вряд ли кошачья шерсть сойдет за топливо для мины.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR_DISGUISE-1=Я не буду пытаться маскироваться под кота...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_TABLETHUSH_ANALYZE-1=Планшет доктора Хуша заблокирован...
+# Brok                                 
+COMBINE_INV_TABLETHUSH_ANALYZE-2=Может, я могу использовать планшет доктора Минка, чтобы проанализировать эту штуку?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_APARTMENTKEY_UNSCREW-1=Хай-тек технологии... без винтов.
+# Brok                                 
+COMBINE_INV_APARTMENTKEY_UNSCREW-2=Их обычно не чинят, а просто заменяют на новые!
+#----------------------------------------------------
+# Graff                                 
+COMBINE_INV_SCREWDRIVER_TRY-1=Разобрать эту штуку? А зачем?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_WINGS_STRING-1=Ага! К моему удивлению, на каждом крыле уже есть по отверстию, так что, если я продену веревку сюда...
+# Brok                                 
+COMBINE_INV_WINGS_STRING-2=И сюда...
+# Brok                                 
+COMBINE_INV_WINGS_STRING-3=Выглядит неплохо!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNK_STRING-1=Хорошо... Я проделал отверстие с обеих сторон...
+# Brok                                 
+COMBINE_INV_PIPECHUNK_STRING-2=Теперь веревка...
+# Brok                                 
+COMBINE_INV_PIPECHUNK_STRING-3=Отлично!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNKSTRING_WINGSSTRING-1=Ага, должно сработать!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNKSTRING_WINGS-1=Хмм... Привяжу этот конец веревки к крыльям...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNK_WINGSSTRING-1=Хмм... Привяжу этот конец веревки к трубе...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_PIPECHUNK_WINGS-1=Хмм... Я чувствую, как в моей голове зарождается идея, но пока не уверен, какая...
+# Brok                                 
+COMBINE_INV_PIPECHUNK_WINGS-2=Наверное, я что-то упустил.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HACKPHONE_PHOTOWES1-1=Давай-ка сделаем фото этого... фото!
+# Brok                                 
+COMBINE_INV_HACKPHONE_PHOTOWES1-2=...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HACKPHONE3D_OK-1="Анализ 2D фото завершен. 3D модель сгенерирована."
+# Brok                                 
+COMBINE_INV_HACKPHONE3D_OK-2=Теперь устройство показывает голографическое изображение Уэса! Отлично!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HACKPHONE3D_NOTOK-1=Сработало. Но теперь мне нужен полупрофиль лица...
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_HOOVER_MINEBROKEN-1=Я могу засунуть ее внутрь, но... Какой в этом смысл?
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_CATFUR_MINEBROKEN-1=Это не годится в качестве топлива!
+#----------------------------------------------------
+# Graff                                 
+COMBINE_INV_EARBUDS_DETECTOR-1=Их использовала только Шэй... Я не хочу ее обнаруживать.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY1-1=Хмм... Если посмотреть поближе...
+# Brok                                 
+COMBINE_INV_MAGNIFY1-2=Выглядит точно так же.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY2-1=Эй! Эта штука очень грязная!
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY3-1=Я только зря глаза напрягаю.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY4-1=И тогда, используя свое любимое увеличительное стекло, детектив нашел...
+# Brok                                 
+COMBINE_INV_MAGNIFY4-2=Ничего.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_MAGNIFY5-1=Ха-ха! Муравей!
+# Brok                                 
+COMBINE_INV_MAGNIFY5-2=Хмм... Отличная закуска.
+#----------------------------------------------------
+# Brok                                 
+COMBINE_INV_RADAR_REMOTECONTROL-1=Шэй разозлится, если я выключу ее радар...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT1-1=Хмм... Нет.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT2-1=Страшно подумать, что получится, если я это сделаю...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT3-1=Не могу...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT4-1=Это казалось хорошей идеей... в теории.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT5-1=Нет, это глупо...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT6-1=Мне стыдно, что я подумал о такой глупости...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT7-1=Люди говорят, я умный...
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT7-2=Это потому, что они не видели, что я сейчас делаю.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT8-1=Пфффф.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT9-1=Я схожу с ума...?
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT10-1=Брок бы точно так сделал... Но это не сработает.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT11-1=Ух ты. Какие-то у меня странные идеи.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT12-1=Может быть... а может и не быть.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT13-1=Попробуем...
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT13-2=Не-а... Не работает.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT14-1=Хорошо, что Отт этого не видел...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT15-1=Я так уже делал. И мне не понравилось.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT16-1=Я не для того так усердно учился, чтобы делать такие глупости, верно...?
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT17-1=Ага! А потом я это немного посолю и отлично перекушу.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT18-1=Я так уже пробовал! Когда был котенком.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT19-1=Протестируем...
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT19-2=Ой. Виноват.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_DEFAULT20-1=Меня это начинает напрягать...
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_FORCEFIELD_DEATHBUTTON-1=Ага, это должно сработать!
+# Graff                                 
+COMBINE_GRAFF_INV_FORCEFIELD_DEATHBUTTON-2=Но для начала лучше поставить это силовое поле на мой рабочий стол.
+#----------------------------------------------------
+# Graff                                 
+COMBINE_GRAFF_INV_STICKER_FLOUR-1=Да, это точно может сработать!
+# Graff                                 
+COMBINE_GRAFF_INV_STICKER_FLOUR-2=Но сначала стоит нанести муку непосредственно на поверхность, отпечаток которой я хочу.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_BLANKET1-1=Какой-то декоративный плед. Очень добротный!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_METALBAR1-1=Это должно сработать...
+# Brok                                 
+DESCRIBE_INV_METALBAR1-2=Скорее, нужно помочь Лии!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PENDANT1-1=Он пренадлежал Лии...
+# Brok                                 
+DESCRIBE_INV_PENDANT1-2=Я всегда его ношу... чтобы помнить.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_APARTMENTKEY1-1=Ключ от моей квартиры.
+# Brok                                 
+DESCRIBE_INV_APARTMENTKEY1-2=Изначально у двери был автозамок, но он часто не распознавал меня.
+# Brok                                 
+DESCRIBE_INV_APARTMENTKEY1-3=Вот я и заменил его на старомодный замок!
+# Brok                                 
+DESCRIBE_INV_APARTMENTKEY1-4=А ключ работает еще и как отвертка! Очень удобно!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_MAGNIFY1-1=Мое старое доброе увеличительное стекло!
+# Brok                                 
+DESCRIBE_INV_MAGNIFY1-2=С его помощью, я могу приближать объекты на расстоянии, чтобы разглядеть их.
+# Brok                                 
+DESCRIBE_INV_MAGNIFY1-3=Нечасто его использую. При выполнении прочих заданий и починке водопроводов оно обычно не требуется...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_STICK1-1=Дедушкина трость для ходьбы и драк.
+# Brok                                 
+DESCRIBE_INV_STICK1-2=Идеальный размер, так что ее удобно носить с собой!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PREDNORMAL1-1=Наполняемая водой мягкая игрушка. Намочи ее и она раздуется, как шар!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PREDINFLATED1-1=Теперь она большая и милая!
+# Brok                                 
+DESCRIBE_INV_PREDINFLATED1-2=Чтобы вернуть ей первоначальный вид, можно просто подождать или нажать эту кнопку.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_REMOTECONTROLDAMAGED1-1=Это точно пульт управления планшетом...?
+# Brok                                 
+DESCRIBE_INV_REMOTECONTROLDAMAGED1-2=Надо отнести его Шэй.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_REMOTECONTROL1-1=Шэй починила его! И... думаю, Сину он больше не понадобится.
+# Brok                                 
+DESCRIBE_INV_REMOTECONTROL1-2=Эта штука нужна для управления электронными устройствами...
+# Brok                                 
+DESCRIBE_INV_REMOTECONTROL1-3=Хмм.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PILL1-1=Одно я знаю точно - это не детоксикационная таблетка.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_POLLUTIONPILL1-1=Примите таблетку, чтобы защититься от смога.
+# Brok                                 
+DESCRIBE_INV_POLLUTIONPILL1-2=Гарантированная защита от загрязнения. Мне она не нужна.
+# Brok                                 
+DESCRIBE_INV_POLLUTIONPILL1-3=Очень своеобразная форма... Скорее всего, это сделали для того, чтобы ее легко можно было отличить от менее важных таблеток.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_AD_PC01_FRIDGE-1=Я уже не ем конфеты, но ел в молодости!
+# Brok                                 
+DESCRIBE_AD_PC01_FRIDGE-2=Благо, у меня каждый год меняются зубы!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_HANDKERCHIEF1-1=Фуу... Грязный.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_HOOVER1-1=Надеюсь, его можно починить.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_CATFUR1-1=Эта кошачья шерсть такая липкая! Никак от нее не избавлюсь!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_MINEBROKEN1-1=Видимо, сломана. Надеюсь, она не сработает сама по себе...
+# Brok                                 
+DESCRIBE_INV_MINEBROKEN1-2=Фуу... Откуда воняет гнилым пампалосом?
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_MINELOADED1-1=Хорошая мина! Ты не взорвала меня... пока что.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_TRAMPPRESCR1-1=Старик дал мне его. Попробуем достать ему лекарство!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_BILLA1-1=Я должен {amount} юнисов... Нужно оплатить этот счет через пневмопочту в течении двух дней.
+# Brok                                 
+DESCRIBE_INV_BILLA1-2=Грэфф проводит все больше и больше времени перед экраном. Видимо, возраст такой...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_SCREW1-1=Память о такой недолгой дружбе...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_GUN1-1=Этим пистолетом нельзя убить, но все же стоит быть осторожнее.
+# Brok                                 
+DESCRIBE_INV_GUN1-2=Готов поспорить, что он отслеживается, когда спускаешь курок...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_USBKEY1-1=Надо подключить это к главному серверу...
+# Brok                                 
+DESCRIBE_INV_USBKEY1-2=Шэй сказала, что все заработает автоматически, но зная ее... надо быть готовым ко всему.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_BILLB1-1=Надо найти {amount} юнисов, срочно...
+# Brok                                 
+DESCRIBE_INV_BILLB1-2=Почему все счета приходят одновременно...? (Вздыхает)
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_RADAR1-1=Как Шэй опять умудрилась заставить меня поработать на нее...?
+# Brok                                 
+DESCRIBE_INV_RADAR1-2=Ну, что ж. Стоит проверять эту штуку время от времени.
+# Brok                                 
+DESCRIBE_INV_RADAR1-3=Может, я найду то, что ей нужно... и заработаю немного!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_WINGS1-1=Я их отодрал, как вандал... Надеюсь, оно того стоило.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_LEVER1-1=Странно... Это точно рычаг?
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_RUBBERCUTTER1-1=Я думал, что это рычаг!
+# Brok                                 
+DESCRIBE_INV_RUBBERCUTTER1-2=Эта штука режет только резину. По крайней мере, так она сказала...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PIPECHUNK1-1=Вот это большая труба!
+# Brok                                 
+DESCRIBE_INV_PIPECHUNK1-2=Если б я только знал, зачем она мне.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_STRING1-1=Веревка! Что за прекрасная штуковина.
+# Brok                                 
+DESCRIBE_INV_STRING1-2=С ее помощью, я могу перевязать всякие штуковины и даже...
+# Brok                                 
+DESCRIBE_INV_STRING1-3=Перевязать еще больше штуковин!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_WINGSSTRING1-1=Это первый шаг...
+# Brok                                 
+DESCRIBE_INV_WINGSSTRING1-2=Но к чему...?
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PIPECHUNKSTRING1-1=Ладно... Дальше что?
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_DISGUISE1-1=Идеально!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_HACKPHONE1-1=Тут полно разъемов... Это слоты для расширений...?
+# Brok                                 
+DESCRIBE_INV_HACKPHONE1-2=О, глядите-ка! Если нажать сюда, он начинает светиться! Я впечатлен.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PHOTOWES1-1=С ним лучше особо не расхаживать. Кто-то может неправильно меня понять.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PHOTORJ1-1=Ага, никаких сомнений. Это большой медведь!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_HACKPHONE3D1-1=Он проецирует трехмерную голограмму Уэса!
+# Brok                                 
+DESCRIBE_INV_HACKPHONE3D1-2=Жуть.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_SPEAKER1-1=Ой-ой... Надеюсь, я ее не сломал...
+# Brok                                 
+DESCRIBE_INV_SPEAKER1-2=Он больше не издает звуков!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_LAMPMINK1-1=Эту лампу я нашел рядом с телом в комнате доктора Минка.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_LAMPHUSH1-1=Эта лампа была на полке в комнате доктора Хуша.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_TABLETHUSH1-1=Заблокирован, нужен отпечаток пальца...
+# Brok                                 
+DESCRIBE_INV_TABLETHUSH1-2=Кто знает, сколько секретов хранится в этом устройстве...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_PILLHUSH1-1=Нашел это в туалете...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_LABFLOWER1-1=Это от того странного растения в холле.
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_MAPBUILDING1-1=Повезло, что это здание небольшое...
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_BATTERY1-1=В этой штуке хранится энергия!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_TRAMPMEDICINE1-1=Поспешим к нему как можно скорее!
+#----------------------------------------------------
+# Brok                                 
+DESCRIBE_INV_EARBUDSB1-1=Их мне дал Грэфф...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_SCREWDRIVER1-1=Самая обычная отвертка. Но все равно полезная!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_STATUETTE1-1=Мне... все еще не верится, что я ее забрал...
+# Graff                                 
+DESCRIBE_INV_STATUETTE1-2=Как-то неприятно из-за этого. Надо от нее избавиться, да поскорее!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_STICKER1-1=Моя любимая группа! Но цена...
+# Graff                                 
+DESCRIBE_INV_STICKER1-2=Сомневаюсь, что Брок когда-нибудь даст мне столько денег... (Вздыхает)
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_FLOUR1-1=Секундочку... И что мне с этим делать...?
+# Graff                                 
+DESCRIBE_INV_FLOUR1-2=С ней лучше быть осторожнее при ходьбе...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_EARBUDS1-1=Эти наушники дала мне Шэй. Они блокируют внешние звуки.
+# Graff                                 
+DESCRIBE_INV_EARBUDS1-2=Они предназначались для Брока, но...
+# Graff                                 
+DESCRIBE_INV_EARBUDS1-3=Ну... Он храпит по ночам.
+# Graff                                 
+DESCRIBE_INV_EARBUDS1-4=Может, я оставлю их себе... по крайней мере, до конца экзаменов.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_FORCEFIELD1-1=Это устойство все покрывает силовым полем вокруг, в том месте, где его ставят.
+# Graff                                 
+DESCRIBE_INV_FORCEFIELD1-2=Оно предназначено для использования с другими устройствами.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_DEATHBUTTON1-1=Ай!
+# Graff                                 
+DESCRIBE_INV_DEATHBUTTON1-2=Какого?! Она ведь уже не работает! Почему меня ударило током...?
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_DETECTOR1-1=Эта штука издает сигнал, когда к ней приближается угроза.
+# Graff                                 
+DESCRIBE_INV_DETECTOR1-2=А определить "угрозу" поможет уже другой предмет...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_OPERATOR1-1=Это устройство заработает, если его подключить к детектору.
+#----------------------------------------------------
+# Graff                                 
+#Because he burnt the religious statuette.
+DESCRIBE_INV_MELTPLASTIC1-1=О, Боже... Надеюсь, я не попаду за это в ад.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_NEON1-1=Вот это я называю ярким светом!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_FINGERPRINT1-1=Отпечатки пальцев Клэй.
+# Graff                                 
+DESCRIBE_INV_FINGERPRINT1-2=Не трогать... Ни за что больше этого не сделаю!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_SELFIE1-1=Это фото... Прям в его стиле.
+# Graff                                 
+DESCRIBE_INV_SELFIE1-2=Такой всегда непредсказуемый!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_POLLUTIONPILLG1-1=Единственная вещь, которая помогает нам тут, в Сламс, оставаться живыми... Или почти живыми.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_WEIGHT1-1=Боюсь, я слишком плох в определении веса гирь.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_WEIGHT2-1=Странная форма...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_WEIGHT3-1=Интересно, как выяснить, сколько весит каждая гиря?
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_WEIGHT4-1=...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_TRIANGLEBUNKER1-1=Я это выиграл...?
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_BANKSTATEMENT1-1=Что это за счет? Почему на нем имя моей матери...?
+# Graff                                 
+DESCRIBE_INV_BANKSTATEMENT1-2=Что еще более важно... Откуда все эти деньги?!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_INVOICEHACKER1-1=Я точно не знаю почему, но... Этот счет выглядит подозрительно.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_BILLC1-1=150 юнисов...
+# Graff                                 
+DESCRIBE_INV_BILLC1-2=Я уже почти совершеннолетний. Надо бы внести свой вклад в оплату счетов.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_TRIANGLEPRINT1-1=Также называется пирамидой... с треугольным кончиком.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_HALFCIRCLEPRINT1-1=Сфера, разрезанная напополам.
+# Graff                                 
+DESCRIBE_INV_HALFCIRCLEPRINT1-2=Что-то мне это напоминает...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_FULLCIRCLEPRINT1-1=Кристальная сфера. Крутая!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_RECTANGLEPRINT1-1=Прямоугольная коробка... сделана из кристалла.
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_MUSEUMKEY1-1=Мысль о том, что он был спрятан у меня под носом...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_PHONEMUSEUM1-1=Древнее устройство...
+# Graff                                 
+DESCRIBE_INV_PHONEMUSEUM1-2=Интересно, какие существа его использовали. Наверняка, они были страшные!
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_PARCHMENT1-1=Должно быть, это часть пазла...
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_CHIEFRATPIC1-1=...
+# Graff                                 
+DESCRIBE_INV_CHIEFRATPIC1-2=Действительно, он похож на Брока...
+# Graff                                 
+DESCRIBE_INV_CHIEFRATPIC1-3=Что это значит...?
+#----------------------------------------------------
+# Graff                                 
+DESCRIBE_INV_GRAFF_GIVEN1-1=Брок подарил мне это...
+# Graff                                 
+DESCRIBE_INV_GRAFF_GIVEN1-2=Я... даже не могу вспомнить, когда в последний раз получал подарок...
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MATERIALS1-1=Не ожидал, что цифровой список будет выглядеть столь... старомодно!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MATERIAL_TOFIND1-1=Это надо найти!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MATERIAL_TOFIND2-1=Не в курсе, что это, но... Шэй за это щедро заплатит!
+#----------------------------------------------------
+# Brok                                 
+INTERFACE_MATERIAL_FOUND-1=Это я нашел!
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_NOT_ENOUGH_MONEY-1=У меня недостаточно денег...
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_TOOMANY_ITEM1-1=Носить при себе больше запрещено правительством...
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_TOOMANY_ITEM2-1=Я и так ношу с собой слишком много.
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_MISSINGCLUES_DEFAULT1-1=(Я упустил важную улику, связанную с этим...?)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_MISSINGCLUES_DEFAULT2-1=(Что-то не так... Надо продолжить расследование.)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_INTERROGATE_WEAKLINK-1=(Должна быть связь, но... не пойму, какая)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_INTERROGATE_MISSINGSTEP-1=(Хмм... В этом есть смысл, но я чувствую, что что-то упустил...)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_INTERROGATE_NOTBRING-1=(Вижу связь, но это не дает никакой новой информации...?)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_INTERROGATE_TOOSOON-1=(Да, в этом что-то есть... Но я оставлю это до подходящего момента!)
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_COMBINECLUES_DEFAULT1-1=Я... не вижу связи между этими уликами.
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_COMBINECLUES_DEFAULT2-1=Эм... Может... Нет, это глупо...
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_COMBINECLUES_DEFAULT3-1=Мой мозг плавится!
+#----------------------------------------------------
+# Brok                                 
+GAMEPLAY_COMBINECLUES_DEFAULT4-1=Я начинаю сомневаться, гожусь ли я в детективы...
+#----------------------------------------------------
+# Brok                                 
+GAMEOVER_TUTORIAL1-1=Ох... Что это было...?
+#----------------------------------------------------
+# Brok                                 
+CH_CALL_SIN-1=Боюсь, из тюрьмы он ответить не сможет...
+#----------------------------------------------------
+# Brok                                 
+COMMON_OTT_INV_DEFAULT1-1=Вот!
+# Ott                                 
+COMMON_OTT_INV_DEFAULT1-2=Это мне?!
+# Ott                                 
+COMMON_OTT_INV_DEFAULT1-3=Это очень мило с вашей стороны, но... я не возьму!
+# Brok                                 
+COMMON_OTT_INV_DEFAULT1-4=Ладно... Может, хочешь что-то другое?
+# Ott                                 
+COMMON_OTT_INV_DEFAULT1-5=Не понимаю...
+# Ott                                 
+COMMON_OTT_INV_DEFAULT1-6=Вы что... пытаетесь меня подкупить или типа того?
+# Brok                                 
+COMMON_OTT_INV_DEFAULT1-7=Н-нет! Просто подумал...
+# Brok                                 
+COMMON_OTT_INV_DEFAULT1-8=(Лучше остановиться, пока окончательно не опозорился)
+#----------------------------------------------------
+# Brok                                 
+COMMON_OTT_INV_DEFAULT2-1=Эм...
+# Ott                                 
+COMMON_OTT_INV_DEFAULT2-2=О, вы ищите улики! Прикольно!
+# Brok                                 
+COMMON_OTT_INV_DEFAULT2-3=Да...! Именно...!
+#----------------------------------------------------
+# Brok                                 
+COMMON_OTT_INV_APARTMENTKEY-1=Тебе бы переехать жить к нам!
+# Ott                                 
+COMMON_OTT_INV_APARTMENTKEY-2=Эм... С вами и Грэффом...?
+# Ott                                 
+COMMON_OTT_INV_APARTMENTKEY-3=Разве это не... неловко...?
+# Ott                                 
+COMMON_OTT_INV_APARTMENTKEY-4=У меня есть дом, знаете ли.
+# Brok                                 
+COMMON_OTT_INV_APARTMENTKEY-5=А.
+#----------------------------------------------------
+# Ott                                 
+COMMON_OTT_INV_BILL1-1=Да, знаю... Квитанции всех нас доконают.
+# Ott                                 
+COMMON_OTT_INV_BILL1-2=Простите, не могу с этим помочь.
+# Brok                                 
+COMMON_OTT_INV_BILL1-3=Не беспокойся! Я справлюсь.
+#----------------------------------------------------
+# Ott                                 
+COMMON_OTT_INV_CATFUR-1=Осторожно...! Вы покрылись шерстью!
+# Brok                                 
+COMMON_OTT_INV_CATFUR-2=Это Грэффа!
+# Ott                                 
+COMMON_OTT_INV_CATFUR-3=Оу...
+# Ott                                 
+COMMON_OTT_INV_CATFUR-4=Круто.
+# Brok                                 
+COMMON_OTT_INV_CATFUR-5=(...? я ожидал другой реакции)
+#----------------------------------------------------
+# Ott                                 
+COMMON_OTT_INV_MAGNIFY-1=Круть!
+# Ott                                 
+COMMON_OTT_INV_MAGNIFY-2=Готов поспорить, вы многие дела раскрыли, благодаря этой штуке!
+# Brok                                 
+COMMON_OTT_INV_MAGNIFY-3=Эм... По крайней мере, почистил много забитых стоков!
+#----------------------------------------------------
+# Ott                                 
+COMMON_OTT_INV_POLLUTIONPILL-1=Спасибо, не надо! Отдайте ее Грэффу.
+#----------------------------------------------------
+# Ott                                 
+COMMON_OTT_INV_PREDNORMAL-1=О, я знаю, что это! У меня такая была, когда я был маленький.
+# Brok                                 
+COMMON_OTT_INV_PREDNORMAL-2=У Грэффа тоже! Я собираюсь ему ее отдать.
+# Ott                                 
+COMMON_OTT_INV_PREDNORMAL-3=Эм... Хорошо...
+#----------------------------------------------------
+# Brok                                 
+COMMON_OTT_THINK-1=(Он создает впечатление искренне доброго человека... которого проблемы в жизни не обошли стороной.)
+# Brok                                 
+COMMON_OTT_THINK-2=(Я понимаю, почему они с Грэффом так близки. Очень рад, что они друзья.)
+#----------------------------------------------------
+# Ott                                 
+PC_GRAFF_CALL_OTT_SAMEROOM-1=Грэфф? Что ты делаешь?!
+# Graff                                 
+PC_GRAFF_CALL_OTT_SAMEROOM-2=В чем проблема?
+# Ott                                 
+PC_GRAFF_CALL_OTT_SAMEROOM-3=Я же рядом с тобой!
+# Graff                                 
+PC_GRAFF_CALL_OTT_SAMEROOM-4=Ага.
+#----------------------------------------------------
+# Graff                                 
+PC_GRAFF_CALL_KLAYDEAD-1=...
+# Graff                                 
+PC_GRAFF_CALL_KLAYDEAD-2=Это... теперь невозможно...
+#----------------------------------------------------
+# Shay                                 
+PC_GRAFF_CALL_SHAY-1=Алло?
+# Graff                                 
+PC_GRAFF_CALL_SHAY-2=Эм... Мисс Шэй?
+# Shay                                 
+PC_GRAFF_CALL_SHAY-3=И да, и нет.
+# Shay                                 
+PC_GRAFF_CALL_SHAY-4=Настоящая Шэй сейчас занята. Я бот-ответчик!
+# Shay                                 
+PC_GRAFF_CALL_SHAY-5=Я могу вам чем-нибудь помочь?
+# Graff                                 
+PC_GRAFF_CALL_SHAY-6=Сомневаюсь, что можете...
+# Shay                                 
+PC_GRAFF_CALL_SHAY-7=Вы меня недооцениваете, но ничего страшного!
+# Shay                                 
+PC_GRAFF_CALL_SHAY-8=Пока!
+#----------------------------------------------------
+
+
+
+
+CHAR_WOMAN=Женщина
+CHAR_GIRL=Девочка
+CHAR_AI=ИИ
+# This one is used during fights, when a hit doesn't work
+INTERFACE_MISSED=Промах!
+INTERFACE_OPTION_FPS=FPS
+INTERFACE_OPTION_AUTOMATICPLAY=Проигрывать диалоги автоматически
+ITEM_INTERFACE_OPTION_AUTOMATICPLAY_MSG=Проигрывать диалоги автоматически, без взаимодействия?
+ITEM_INTERFACE_OPTION_FPS_MSG=По умолчанию установлено 60 FPS. Если игра медленно прогружается, установи 30 FPS
+ITEM_INTERFACE_OPTION_REDEFINE_MSG=Перераспределить клавиши
+INTERFACE_OPTION_REDEFINE_MESSAGE=Нажми на клавишу!
+INTERFACE_OPTION_REDEFINE_RESET=Установить по умолчанию
+#----- Keyboard options
+INPUT_ACTION_VALIDATE=Подтвердить
+INPUT_ACTION_CANCEL=Отменить
+INPUT_ACTION_VIEW_HOTSPOTS=Просмотреть точки действий
+INPUT_ACTION_SKIPDIALOG=Пропустить диалог
+INPUT_MOVE_LEFT=Движение влево
+INPUT_MOVE_RIGHT=Движение вправо
+INPUT_MOVE_UP=Движение вверх
+INPUT_MOVE_DOWN=Движение вниз
+INPUT_ACTION_JUMP=Прыжок
+INPUT_ACTION_HIT=Атака / действие
+INPUT_ACTION_GUARD=Защита
+INPUT_ACTION_JUMPKICK=Удар в прыжке
+INPUT_ACTION_POWERFULATTACK=Мощный удар
+INPUT_ACTION_QUICKSELECT_INV=Быстрый выбор предметов
+INPUT_ACTION_QUICKSELECT_FOOD=Быстрый выбор еды
+INPUT_ACTION_SPECIALMOVE=Особая атака
+INPUT_ACTION_COMBINEITEMS=Объединить предметы
+INPUT_ACTION_SWITCH_MODE=Переключить режим
+INPUT_ACTION_SWITCH_CHAR=Сменить персонажа
+INPUT_ACTION_MENU=Меню
+INPUT_ACTION_PAUSE=Пауза
+INPUT_ACTION_SCROLL_INV_LEFT=Прокрутить инвентарь влево
+INPUT_ACTION_SCROLL_INV_RIGHT=Прокрутить инвентарь вправо
+INPUT_ACTION_SCROLL_PANEL_LEFT=Прокрутить панель влево
+INPUT_ACTION_SCROLL_PANEL_RIGHT=Прокрутить панель вправо
+GOAL_STORY_110=Использовать компьютер
+ENDING_TITLE99=Секретная сцена
+INTERFACE_PERCENT_CHOICE={nb}% игроков сделали такой выбор
+INTERFACE_PERCENT_ENDING=Первая открытая концовка для {nb}% игроков
+TUTORIAL_FIGHTMODE_MSG_MOUSE=Переключись на режим действий с помощью колесика мыши <spr=CONTROL_mousescroll> или иконки шляпы <button=INPUT_ACTION_SWITCH_MODE>.
+TUTORIAL_SETPRIORITY=Добавить в быстрый выбор
+HELP_SKIPFIGHT_INSTRUCTIONS_GAMEPAD=Этот бой был не таким уж и сложным, но кто знает, что ждет впереди!##Если у тебя возникнут сложности, можешь <col=BOLD>пропустить бой</col> удерживая <spr=GAMEPAD_SELECT> пару секунд.
+# Tutorials for VR arena
+HELP_TUTORIALVR=Обучение на легкой сложности
+HELP_TUTORIALVR_INSTRUCTIONS=Играя на легкой сложности, ты можешь пропускать бои, так что изучение приемов <col=BOLD>для прогресса - не обязательно</col>.##Это позволит тебе победить сильных противников без "читерства"!
+HELP_KEYBOARDVR=Игра на клавиатуре
+HELP_KEYBOARDVR_INSTRUCTIONS=Можешь атаковать противников, используя мышь. Но для большей эффективности попробуй <col=BOLD>управление клавиатурой</col>!##Можно переключиться на управление клавиатурой в любое время, отпустив мышь и нажав на любую клавишу направления <button=INPUT_MOVE_UP><button=INPUT_MOVE_LEFT><button=INPUT_MOVE_DOWN><button=INPUT_MOVE_RIGHT>!##Примечание: Просмотреть все назначения клавиш и переназначить их ты можешь в настройках игры.
+HELP_QUICKSELECT_INSTRUCTIONS_MOUSE=удерживай <button=INPUT_ACTION_QUICKSELECT_INV>
+HELP_QUICKSELECT_INSTRUCTIONS_GAMEPAD=удерживай <spr=GAMEPAD_SHOULDERLEFT>
+HELP_SPECIALATTACK1=Особый удар (1)
+HELP_SPECIALATTACK1_INSTRUCTIONS=Враги, лучше не злите этого крокодила!##Когда его <col=BOLD>здоровье понижается</col> (меньше 50%), шкала рядом с его портретом начинает медленно заполняться. Когда она начнет мигать, {command}, чтобы нанести разрушительный особый удар!
+HELP_SPECIALATTACK1_INSTRUCTIONS_MOUSE=Щелкни на Брока (или нажми <button=INPUT_ACTION_SPECIALMOVE>)
+HELP_SPECIALATTACK1_INSTRUCTIONS_GAMEPAD=нажми <spr=GAMEPAD_TRIGGERLEFT>
+HELP_SPECIALATTACK2=Особый удар (2)
+HELP_SPECIALATTACK2_INSTRUCTIONS=Хочешь ускорить процесс? Удерживай кнопку особой атаки, чтобы заполнить шкалу быстрее, используя <col=BOLD>собственное здоровье</col>.##Верная стратегия для победы в любой драке - держать здоровье на отметке <col=BOLD>меньше половины</col>, чтобы иметь возможность применять особый удар как можно чаще.##Однако не забывай - наш герой силен, но не бессмертен!
+HELP_SPECIALATTACK2_INSTRUCTIONS_MOUSE=щелкни на персонажа (или нажми <button=INPUT_ACTION_SPECIALMOVE>)
+HELP_SPECIALATTACK2_INSTRUCTIONS_GAMEPAD=нажми <spr=GAMEPAD_TRIGGERLEFT>
+HELP_QUICKSELECT=Быстрый выбор инвентаря
+HELP_QUICKSELECT_INSTRUCTIONS=Во время боя нажми {command}, чтобы открыть быстрое меню и выбрать оружие.##Также можно выбрать еду, используя {command2}.
+HELP_QUICKSELECT_INSTRUCTIONS2_MOUSE=и <button=INPUT_ACTION_QUICKSELECT_FOOD>
+HELP_QUICKSELECT_INSTRUCTIONS2_GAMEPAD=и <spr=GAMEPAD_SHOULDERRIGHT>
+HELP_QUICKSELECT2=Приоритет быстрого выбора
+HELP_QUICKSELECT2_INSTRUCTIONS_GAMEPAD=нажми <button=INPUT_ACTION_SETPRIORITYITEM>
+HELP_QUICKSELECT2_INSTRUCTIONS=Плохой выбор пунктов в меню быстрого выбора? Настрой его <col=BOLD>под себя</col>! ##Открой меню в режиме боя. {command} на значке предмета или еды, чтобы установить его в качестве приоритетного.
+HELP_QUICKSELECT2_INSTRUCTIONS_MOUSE=Нажми <spr=CONTROL_mouseright> или <button=INPUT_ACTION_SETPRIORITYITEM>.
+HELP_QUICKSELECT2_INSTRUCTIONS_GAMEPAD=Нажми <button=INPUT_ACTION_SETPRIORITYITEM>.
+
+KEY_MOUSELEFT=Клик ЛКМ
+KEY_MOUSEMIDDLE=Клик колесико мыши
+KEY_MOUSERIGHT=Клик ПКМ
+#----------------------------------------------------
+# Brok
+COMMON_AD_GET1-1=Эй, это же коллекционный флаер!
+#----------------------------------------------------
+# Brok
+COMMON_AD_GET2-1=Отлично... Рекламный купон!
+#----------------------------------------------------
+# Brok
+COMMON_AD_GET3-1=У меня такого не было!
+#----------------------------------------------------
+# Graff
+COMMON_AD_GRAFF_GET1-1=Коллекционный флаер? Отлично!
+#----------------------------------------------------
+# Graff
+COMMON_AD_GRAFF_GET2-1=Здорово, я нашел еще один!
+#----------------------------------------------------
+# Graff
+COMMON_AD_GRAFF_GET3-1=Еще один в коллекцию!
+
+
+
+
+CHAR_RATS=Визгуны
+NAME_CRATE=Ящик
+NAME_DRONE=Дрон
+NAME_TARGET=Мишень
+#For gameovers, the group for all deaths not specific to one chapter
+INTERFACE_GENERIC=Общее
+INTERFACE_GAMEOVERS_DESCRIPTION=Все неудачи за все прохождения. Ты не получишь награды, умерев всеми доступными способами в игре!
+INTERFACE_GAMEOVERS_RIP=R.I.P.
+INTERFACE_MAXLEVEL=МАКСИМАЛЬНЫЙ УРОВЕНЬ!
+INTERFACE_ENTERDESCRIPTION=Ввести описание
+# Used for separating possible button combinations. Eg : "Press X or CTRL"
+INTERFACE_OR=или
+INTERFACE_USE_CONTROLS=Используй любое управление, которое тебе по душе!
+INTERFACE_CHOOSE_DIFFICULTY=Сложность боев
+INTERFACE_CHOOSE_DIFFICULTY1=Новичок
+INTERFACE_CHOOSE_DIFFICULTY1_TXT=Я играю ради сюжета
+INTERFACE_CHOOSE_DIFFICULTY2=Стандарт
+INTERFACE_CHOOSE_DIFFICULTY2_TXT=Хочется немного экшена
+INTERFACE_CHOOSE_DIFFICULTY3=Хардкор
+INTERFACE_CHOOSE_DIFFICULTY3_TXT=Давай-ка на полную!
+INTERFACE_CHOOSE_DIFFICULTY4=Мания
+INTERFACE_CHOOSE_DIFFICULTY4_TXT=Давай-ка на полную!
+INTERFACE_CLUE_REMOVE=Удалить
+INTERFACE_CONCEPTART=Концепт-арт
+INTERFACE_FANART=Фан-арт
+INTERFACE_OST=Саундтрек
+INTERFACE_EXTRAPOINTS=Дополнительные очки
+INTERFACE_YOURARTHERE=Размести свой арт!
+INTERFACE_MOREINFO=Подробнее
+INTERFACE_MOREINFOHOVER=Правила подачи рисунков
+INTERFACE_UNLOCKFOR=Разблокировать ({amount} очков)
+INTERFACE_SENDARTGUIDE1=Пришли мне свой рисунок и я добавлю его в этот раздел! Вне зависимости от уровня мастерства, будут приняты все арты, соответствующие следующим требованиям :
+INTERFACE_SENDARTGUIDE2=Изображены только персонажи из игры (оригинальные персонажи не принимаются)
+INTERFACE_SENDARTGUIDE3=Только дружелюбный арт, подходящий к просмотру для всей семьи
+INTERFACE_SENDARTGUIDE4=Для участия просто выполни <col=BOLD>одно</col> из следующих действий :
+INTERFACE_SENDARTGUIDE5=<col=BOLD>Соц. сети</col> (Facebook, Twitter или Instagram) : сделай пост с твоей картинкой и упомяни <col=BLUE>@COWCATGames</col>. Я с радостью ретвитну твой пост!
+INTERFACE_SENDARTGUIDE6=<col=BOLD>Email</col> : Отправь электронное письмо с твоим рисунком на <col=BLUE>contact@cowcatgames.com</col>
+INTERFACE_SENDARTGUIDE7=Полное руководство доступно на <col=BLUE>www.brokgame.com</col>
+INTERFACE_SWITCH_SPECIALEFFECTS=Это изменение вступит в силу при переходе в другую комнату.
+INTERFACE_COMPLETEDOBJECTIVENEW=Новая цель
+INTERFACE_COMPLETEDOBJECTIVEUPDATE=Цель обновлена
+INTERFACE_OPTION_FPS60=60
+INTERFACE_OPTION_FPS30=30
+INTERFACE_OPTION_SKIPBUTTON_ALL=Все диалоги
+INTERFACE_OPTION_SKIPBUTTON_NORMAL=Ранее просмотренные диалоги
+INTERFACE_OPTION_SKIPBUTTON_NONE=Никакие
+INTERFACE_OPTION_SKIPBUTTON=Пропустить диалог
+INTERFACE_OPTION_SKIPCUTSCENE=Пропустить сцену
+ITEM_INTERFACE_OPTION_SKIPBUTTON_MSG=Хочешь, чтобы эта кнопка пропускала ранее просмотренные диалоги, все диалоги или никакие?
+ITEM_INTERFACE_OPTION_SKIPCUTSCENE_MSG=Хочешь, чтобы кнопка пропуска ускоряла кат-сцены? (полезно для повторных прохождений)
+INTERFACE_DEBUG_PLAYER=Игрок
+INTERFACE_DEBUG_ONOFF=Дебаг вкл/выкл
+INTERFACE_DEBUG_SETXP=Изменить количество очков опыта
+INTERFACE_DEBUG_SETSTRENGTH=Изменить силу
+INTERFACE_DEBUG_SETDEFENSE=Изменить защиту
+INTERFACE_DEBUG_ANIM=Анимация персонажа
+INTERFACE_DEBUG_LOWDAMAGE=Низкий урон
+INTERFACE_DEBUG_HIGHDAMAGE=Высокий урон
+INTERFACE_DEBUG_MAXPLAYERHEALTH=Максимальное здоровье персонажа
+INTERFACE_DEBUG_UNLOCKFPS=Разблокировать FPS
+INTERFACE_DEBUG_CLEARGAMEOVER=Очистить историю проигрышей
+INTERFACE_DEBUG_ADDONEGAMEOVER=Добавить один проигрыш
+INTERFACE_DEBUG_REMOVEONEGAMEOVER=Удалить один проигрыш
+INTERFACE_DEBUG_GETALLGAMEOVER=Открыть все проигрыши
+INTERFACE_DEBUG_GETALLCHAPTERS=Получить доступ ко всем главам
+INTERFACE_DEBUG_GETALLSUMMARY=Просмотреть результаты выборов
+INTERFACE_DEBUG_CHECKVARS=Проверять изменения показателя агрессии / ума... регулярно
+INTERFACE_DEBUG_INTERROGATION=Дебагнуть один допрос
+OBJECTIVE_TRAMPUPDATE2=А пока, дай Бродяге другое лекарство
+ENDING_TITLE9999=Продолжение следует...
+#----- Ads --------
+#Keep these as short as possible!
+ROOM_PC01=Квартира Брока
+ROOM_PC02=Коридор Брока
+ROOM_PC03=Двор Брока
+ROOM_PC04=Драмер Стрит
+ROOM_PC04B=Переулок
+ROOM_PC04C=Аптека
+ROOM_PC05=Канализация (вход)
+ROOM_PC05B=Канализация (внутри)
+ROOM_PC05C=Канализация (двигатель)
+ROOM_PC05D=Канализация (внизу)
+ROOM_PC06=Сектор 56-Экс
+ROOM_PC07=Коридор Сина
+ROOM_PC07B=Квартира Сина
+ROOM_PC08=Гараж (снаружи)
+ROOM_PC08B=Гараж (внутри)
+ROOM_PC08C=VR-арена
+ROOM_PC09=Полиция (вход)
+ROOM_PC09B=Полиция (тюрьма)
+ROOM_PC09C=Полиция (офис)
+ROOM_PC09D=Полиция (допрос)
+ROOM_PC10=Школа
+ROOM_PC11=У Лии (вход)
+ROOM_PC11B=У Лии (гостиная)
+ROOM_PC11C=У Лии (спальная)
+ROOM_PC11D=Второй ночной кошмар
+ROOM_PC12=Граница
+ROOM_PC12B=Внутри Пирамиды
+ROOM_PC13=Вид
+ROOM_PC14=Хакер (улица)
+ROOM_PC14B=Хакер (снаружи)
+ROOM_PC14C=Хакер (внутри)
+ROOM_PC15=Вход в лабораторию
+ROOM_PC15B=Лаборатория (холл)
+ROOM_PC15C=Лаборатория (Хуша)
+ROOM_PC15D=Лаборатория (Минка)
+ROOM_PC15E=Лаборатория (туалет)
+ROOM_PC16=Охота на свалкоценности
+ROOM_PC17=Музей
+ROOM_PC18=Фабрика
+ROOM_PC19=Бункер (Грэфф)
+ROOM_PC19B=Бункер (главный корпус)
+ROOM_PC19C=Бункер (вход)
+ROOM_PC19D=Бункер (передний)
+ROOM_PC20=Утилизация мусора
+ROOM_EV_MAP=Карта
+AD_PC01_FRIDGE=Холодильник
+AD_PC01_CLOTHES=Одежда
+AD_PC01_BED=Кровать
+AD_PC02_MAILBOX=Почтовый ящик
+AD_PC02_JOBBOARD=Доска объявлений
+AD_PC02_FLOORCRACK=Трещина в полу
+AD_PC03_WOOD=Верхний этаж
+AD_PC03_CAR=Машина
+AD_PC03_STICKER=Стикер
+AD_PC04_VENDING=Торговый автомат
+AD_PC04_HOLOGRAMB=Голограмма
+AD_PC04_TRASH=Мусор
+AD_PC04B_TARGET=Цель
+AD_PC04B_PIPE=Труба
+AD_PC04B_GRID=Сетка
+AD_PC04C_PRODUCTS=Лекарства
+AD_PC04C_PANEL=Медицинская панель
+AD_PC04C_BUBBLE=Рекламный пузырь
+AD_PC05_RATHOLE=Нора
+AD_PC05_WALL=Стена
+AD_PC05_BRIDGE=Мост
+AD_PC05B_BASKET=Корзина
+AD_PC05B_FLOOR=Пол
+AD_PC05B_ACID=Кислота
+AD_PC05C_GUN=Пистолет
+AD_PC05C_PIPE=Труба
+AD_PC05C_MACHINEB=Машина
+AD_PC06_WALL=Стена
+AD_PC06_PIPEPILL=Пневмокапсула
+AD_PC06_BRIDGEATOP=Вершина моста
+AD_PC07_DOOR=Дверь
+AD_PC07_MAILBOX=Почтовый ящик
+AD_PC07_AROCK=Камень
+AD_PC07B_JACKET=Пиджак
+AD_PC07B_WALLB=Стена
+AD_PC07B_GLASSESB=Стаканы
+AD_PC08_FBARRIER=Барьер
+AD_PC08_BOAT=Лодка
+AD_PC08_FAR=Даль
+AD_PC08B_CHAIR=Кресло
+AD_PC08B_FOOD=Еда
+AD_PC08B_DESKB=Рабочий стол
+AD_PC08C_FLOOR=Пол
+AD_PC08C_BED=Кровать
+AD_PC08C_WALLRIGHT=Правая стена
+AD_PC12_TOP=Верх
+AD_PC12_FLOOR=Этаж
+AD_PC12_AVENDING=Торговый автомат
+AD_PC16_TREASURE=Сокровище
+AD_PC16_CONTROLS=Управление
+AD_PC16_STATUE=Статуя
+AD_EV_MAP_TOP=Верх
+AD_EV_MAP_DOME=Купол
+AD_EV_MAP_HOME=Дом
+PC_WALL=Стена
+PC_THING=Штука
+#----- Tutorials (on screen) --------
+TUTORIAL_GENERICINV_MSG_MOUSE=#
+TUTORIAL_GENERICINV_MSG_GAMEPAD=<spr=GAMEPAD_DPAD> Управлять
+TUTORIAL_LOAD=Загрузить
+TUTORIAL_REMOVEPRIORITY=Убрать из меню быстрого выбора
+TUTORIAL_HIDEDESCR=Скрыть описание
+HELP_HINTS=Застрял?
+HELP_HINTS_INSTRUCTIONS=Если нужна помощь, не забывай использовать <col=BOLD>флаеры</col>, которые ты собрал, чтобы получать подсказки!##Нажми на эту иконку в меню.##Если одной подсказки не хватило, нажми на нее <col=BOLD>несколько раз</col> и получишь полное решение.
+#----- Group of messages --------
+MSG_GROUP_FAMILY=Семья
+MSG_GROUP_FRIEND=Друг
+MSG_GROUP_JOB=Работа
+MSG_GROUP_SCHOOL=Школа
+MSG_GROUP_OFFICIAL=Официальные
+MSG_GROUP_UNKNOWN=Неизвестные
+#----- Gameover type --------
+# GENERIC
+GAMEOVERTYPE_FALLDAMAGE=Упал свысока
+GAMEOVERTYPE_EV_MAP_NUCLEAR=Слишком долго находился рядом с ядерными отходами
+GAMEOVERTYPE_GEV_MAP_NUCLEAR=Слишком долго находился рядом с ядерными отходами
+GAMEOVERTYPE_MINEEXPLODE=Наступил на мину
+# CHAPTER1
+GAMEOVERTYPE_PC01_HOOVER_DIEBY=Получил удар током от пылесоса
+GAMEOVERTYPE_PC03_FIRSTFIGHTLOSE=Дрался с Визгунами, чтобы спасти Бродягу, и проиграл
+GAMEOVERTYPE_PC04_ROBOT_FIGHT=Убит триботом-копом
+GAMEOVERTYPE_PC08B_SAW=Убит пилой Шэй
+GAMEOVERTYPE_PC12B_LASERS=Получил смертельный удар током в Пирамиде
+GAMEOVERTYPE_PC05B_RATS_FIRST=Первая стычка с Визгунами в канализации
+GAMEOVERTYPE_PC05B_CHIEFRAT_FIRST=Первая схватка с шефом
+GAMEOVERTYPE_PC05B_TRYESCAPE=Пытался сбежать от Визгунов
+GAMEOVERTYPE_PC04C_PANEL=Убит машиной для проверки здоровья
+GAMEOVERTYPE_GENERIC_MINELOADED=Подорвался, бросив заряженную мину
+GAMEOVERTYPE_PC07B_WALL=Погребен заживо в квартире Сина
+GAMEOVERTYPE_PC07B_SIN_GAMEOVER=Убил своего клиента
+GAMEOVERTYPE_PC07B_SIN_HIT=Убит своим клиентом
+GAMEOVERTYPE_PC12_BOLT_GUARDS=Был устранен ботами при попытке спасти Болта
+GAMEOVERTYPE_PC12_CAMERA=Получил удар током от камеры на Пограничном Посту
+GAMEOVERTYPE_PC05C_FALL=Упал в канализацию
+GAMEOVERTYPE_PC05_ACID=Растворился в кислоте
+GAMEOVERTYPE_PC05B_MINEEXPLODE=Подорвался на минах в канализации
+# CHAPTER2
+GAMEOVERTYPE_PC09D_ELECTROCUTED=Получил смертельный удар током во время допроса
+# CHAPTER3
+GAMEOVERTYPE_PC14_FLOOR_HOLE=Провалился в яму в темном переулке
+# CHAPTER4
+GAMEOVERTYPE_PC15_FLOOR_HOLE=Упал с трассы перед Оттом
+GAMEOVERTYPE_PC15_JET=Был переехан летомобилем
+GAMEOVER_FULLHEALTH=Ты можешь восстановить здоровье, вздремнув на кровати.
+GAMEOVER_RESTBED=Не упускай возможность вздремнуть на кровати, чтобы бесплатно восстановить здоровье.
+GAMEOVER_ATTACKVARY=Некоторые атаки наносят больше урона, чем другие. Внимательно изучи их, чтобы знать, какие являются наиболее эффективными!
+
+#----- Generic but for some events only  --------
+GAMEOVER_FALLDAMAGE=Оставайся в режиме исследования, чтобы избежать падений.
+GAMEOVER_ALTERNATIVE1=Не хватает сил? Должен быть другой выход...
+GAMEOVER_ALTERNATIVE2=Эй, крепыш, почему бы тебе не начать использовать свой маленький рептилий мозг?
+GAMEOVER_SILLY1=Ты только что выставил себя на посмешище.
+GAMEOVER_SILLY2=Должно быть, было больно.
+GAMEOVER_VIOLENT1=Черт. Как много жестокости.
+GAMEOVER_VIOLENT2=Может, тебе... поумерить свой пыл?
+GAMEOVER_MINEEXPLODE=Мины становятся видимыми с определенной дистанции. Ходи медленнее!
+GAMEOVER_WATCHSTEP=Смотри под ноги!
+GAMEOVER_PC07B_SIN2=Син на время прекращает швырять стаканы после определенного количества бросков. Используй эту возможность!
+GAMEOVER_RAT=Визгуны не очень сильны, но нападают группами. Не позволяй им тебя окружить!
+GAMEOVER_BUY_FOOD=Приобретай еду в торговых автоматах, чтобы восполнить запас здоровья и восстановить силу.
+GAMEOVER_VA_TRAIN=Тренируйся на VR-арене, чтобы получить опыт для облегчения сражений!
+GAMEOVER_DEFEND_MOUSE=Не забывай защищаться с помощью <button=INPUT_ACTION_GUARD>!
+GAMEOVER_WEAPONS_STRONG=Используй оружие вроде палки для более сильных атак, но помни - с голыми кулаками быстрее!
+GAMEOVER_THROW_ITEMS=Бросай во врагов предметы из своего инвентаря, чтобы нанести им урон!
+
+
+#----- Specific to characters --------
+GAMEOVER_CHIEFRAT1=Шеф уязвим после того, как применит свою особую атаку. Жди, пока он откроется!
+GAMEOVER_CHIEFRAT2=Шеф может украсть твою еду. Восстанавливай здоровье только когда он чем-то занят или выдохся!
+GAMEOVER_DART1=Не стой рядом с Дартом, когда он поднимается на ноги, иначе получишь удар!
+GAMEOVER_DART2=В промежутках между атаками Дарт довольно медлителен. Используй это в свое преимущество!
+GAMEOVER_DARTKINS=Дарту легко можно нанести удар в прыжке, но с Кинсом такое не пройдет.
+#-------------------------
+# Dialog
+#-------------------------
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Unknown
+DEMO_WARNING-1=Данный пролог содержит первую главу игры, которая все еще находится в разработке. К моменту выпуска полной версии игры будут внесены улучшения анимации, геймплея сражений и искуственного интеллекта.
+#----------------------------------------------------
+# Unknown
+SPECIAL_EFFECTS_SWITCH-1=Это изменение вступит в силу при следующем переходе в другую комнату.
+#----------------------------------------------------
+# Brok
+COMMON_AD_CLOSER-1=Хмм... Надо подобраться поближе.
+#----------------------------------------------------
+# Graff
+COMMON_AD_GRAFF_CLOSER-1=Хмм... Надо подойти поближе.
+
+
+
+CHAR_GROUP=Группа
+INTERFACE_OPTION_PROMPTS=Тип геймпада
+INTERFACE_OPTION_DEADZONE=Мертвая зона геймпада
+INTERFACE_OPTION_PROMPTS_CONSOLE=Тип
+INTERFACE_OPTION_DEADZONE_CONSOLE=Мертвая зона
+INTERFACE_OPTION_VIBRATION=Вибрация геймпада
+ITEM_INTERFACE_OPTION_PROMPTS_MSG=Выбери значки отображаемых подсказок в соответствие с твоим контроллером
+сенсорная панель
+
+INTERFACE_OPTION_TOUCHPAD_ENABLED=Сенсорная панель активна
+ITEM_INTERFACE_OPTION_TOUCHPAD_ENABLED_MSG=Использовать сенсорную панель?
+INTERFACE_OPTION_TOUCHPAD_SPEED=Скорость сенсорной панели
+ITEM_INTERFACE_OPTION_TOUCHPAD_SPEED_MSG=Установить скорость перемещения курсора
+INTERFACE_OPTION_TOUCHSCREEN_ENABLED=Сенсорный экран активен
+ITEM_INTERFACE_OPTION_TOUCHSCREEN_ENABLED_MSG=Использовать сенсорный экран?
+INTERFACE_OPTION_CONTROLLERSPEAKER_ENABLED=Динамик контроллера
+ITEM_INTERFACE_OPTION_CONTROLLERSPEAKER_ENABLED_MSG=Использовать динамик контроллера?
+
+ITEM_INTERFACE_OPTION_DEADZONE_MSG=Установи мертвую зону стика (полезно, если твой аналоговый стик немного изношен или дрейфует)
+ITEM_INTERFACE_OPTION_DEADZONE_PS_MSG=Установи мертвую зону для джойстика
+ITEM_INTERFACE_OPTION_VIBRATION_MSG=Выбери силу вибрации
+#----- Demo --------
+DEMO_WISHLIST=Добавь игру в список желаемых!
+DEMO_SUPPORT=Поддержи нас!
+DEMO_FANART=Присылай свои фан-арты!
+DEMO_FOLLOW=Подпишись на нас!
+
+
+PC_CABIN=Кабинка
+PC08C_CABIN_TRAINING=Принять участие в тренировочном бою?
+PC08C_MOVES_TUTORIAL=Обучение
+PC08C_TRAINING1=Тренировка (Легкая)
+PC08C_TRAINING2=Тренировка (Средняя)
+PC08C_TRAINING3=Тренировка (Хардкор)
+PC08C_TRAINING4=Тренировка (Мания)
+
+
+
+CHAR_DART=Дарт
+CHAR_BROKGRAFF=Брок и Грэфф
+CHAR_COMPUTER=Компьютер
+INTERFACE_HINTSDISABLED=(Подсказки отключены в настройках игры)
+INTERFACE_USE_FOOD_CANNOTEAT=Есть нельзя!
+INTERFACE_SUMMARY_CANNOT=Экран результатов можно будет открыть только после того, как ты первый раз полностью пройдешь игру.
+INTERFACE_LUCKYCHARM=Талисман удачи
+INTERFACE_COMBINE=Объединить предметы
+INTERFACE_COMBINE_DESCRIPTION=Выбери первый предмет
+INTERFACE_CHOOSE_AD=Выбери флаер
+#Do not translate
+ITEM_XBOXONE=Xbox One / Series
+ITEM_XBOX360=Xbox 360
+ITEM_PS4=PS4
+ITEM_PS5=PS5
+ITEM_SWITCHPRO=Контроллер Switch Pro
+INPUT_ACTION_SUMMARY=Быстрый доступ к экрану результатов
+INPUT_ACTION_RUN=Бежать
+GOAL_STORY_255_BROK=Войти в бункер
+GOAL_STORY_300=Концовка
+GOAL_STORY_301=Концовка (Драмер)
+GOAL_STORY_310=Правда о Шэй
+GOAL_STORY_330=Концовка
+OBJECTIVEDONE_HOOVERNOTSOLD=Ты не продал бота-уборщика Шэй.
+OBJECTIVEDONE_HOOVERSOLDMINK=Ты продал бота-уборщика доктору Минку.
+OBJECTIVE_CHECKSHAY=Проведать Шэй
+OBJECTIVE_PAYHACKER=Заплатить хакеру за Шэй
+OBJECTIVEDONE_GIVEUPMODIFIER=Ты решил не добывать самомодифицирующийся чип.
+OBJECTIVEDONE_PAIDHACKER=Ты заплатил хакеру за Шэй.
+OBJECTIVEDONE_NOPAIDHACKER=Ты не заплатил хакеру за Шэй.
+#----- Graff Day 1 -------------
+ITEM_KEYGRAFF=Ключ от квартиры
+AD_PC09B_DEBUG=Дебаг режим
+AD_PC09B_CHEST=Сундук
+AD_PC09B_RJ=Р.Джей
+AD_PC15B_BOX=Коробка
+AD_PC15D_SINK=Раковина
+ITEM_HOTJUICE=Горячий сок
+ITEM_HOTJUICE_MSG=Безалкогольный напиток, который воспроизводит эффект опьянения химическим путем!#<col=BOLD>Делает тебя слабее на 50%</col>.
+ITEM_PIZZANT=Муравьицца
+ITEM_PIZZANT_MSG=Пицца, полностью покрытая вашими любимыми жучками!#<col=BOLD>Позволяет немедленно применить особую атаку</col>.
+ITEM_FLOWINGHONEY=Текущий мед
+ITEM_FLOWINGHONEY_MSG=Укрепите свою имунную систему!#<col=BOLD>Повышает защиту на 30 секунд</col>.
+ITEM_ENERGYSERUM=Энергетическая сыворотка
+ITEM_ENERGYSERUM_MSG=Два вкуса, два эффекта!#<col=BOLD>Повышает силу и защиту на 30 секунд</col>.
+PC_CHOICE_TAKE=Взять?
+PC_CHOICE_READINSTRUCTIONS=Прочесть инструкции?
+PC_CHOICE_BUY=Купить это?
+PC_CHOICE_SELL=Продать это?
+HELP_CHAPTERFORWARD=Двигаться дальше
+HELP_CHAPTERFORWARD_INSTRUCTIONS=Пожалуйста, учти, что прогресс текущего раздела главы <col=BOLD>{currentchapter}</col> и последующих будет установлен по умолчанию.
+HELP_LUCKYCHARMNEW=Талисман удачи
+##It has been added to your progress tab and will persist between your playthroughs.
+HELP_LUCKYCHARMNEW_INSTRUCTIONS=Этот особый предмет автоматически поглощает <col=BOLD>один смертельный удар</col>. Будь осторожен! Он срабатывает только один раз за битву!
+HELP_SUMMARYSHORTCUT=Быстрый экран результатов
+HELP_SUMMARYSHORTCUT_INSTRUCTIONS=Не нужно выходить в главное меню!##
+HELP_SUMMARYSHORTCUT_INSTRUCTIONS_MOUSE=Нажми <button=INPUT_ACTION_SUMMARY>, чтобы открывать/закрывать экран результатов в любое время, в ходе игры.
+HELP_SUMMARYSHORTCUT_INSTRUCTIONS_GAMEPAD=Нажми <spr=GAMEPAD_SHOULDERRIGHT>, чтобы открывать/закрывать экран результатов в любое время, в ходе игры.
+MOTT0_TITLE=По поводу вчерашнего
+MOTT0_TEXT=Привет! Спасибо еще раз, что пришел ко мне вчера. Я и мои родители не часто принимаем гостей. Я рад, что у меня есть такой друг. Ты знаешь, как ко мне относятся все остальные... Не думаю, что это изменится, когда я стану драмером.
+MDIRECTOR2B_TITLE=И еще...
+MDIRECTOR2B_TEXT=Грэфф.##Благодаря стараниям мистера Брока, ты был награжден дополнительными 10 очками.## Директриса
+MDIRECTOR3_TEXT_CHEAT=Однако, как выяснилось при дальнейшей проверке, система зафиксировала, что ты списал ответы у своего друга. Поэтому ты получаешь штраф в <col=BOLD>5</col> очков.
+MWESEND_TITLE=Повержен
+MWESEND_TEXT=Когда ты получишь это сообщение, меня уже не будет. П-19 победила. Ты победил. Я остаюсь верен своей позиции. Так или иначе, я передаю тебе волю своего друга и создателя. Что бы ни случилось. Защищай Грэффа. Защищай Клэя. Защищай моего племянника.
+MSHAY1_TITLE=Приди ко мне в гараж
+MSHAY1_TEXT=Привет, Бро! Мне тут нужна твоя помощь кое с чем. Пожалуйста, приди сюда быстрее!
+GAMEOVERTYPE_BUY_CAPSULE=Купить Успокоин-3000
+GAMEOVERTYPE_BUY_INFLATE=Купить Вкуснамин
+GAMEOVERTYPE_BUY_HAIR=Купить Молодин
+GAMEOVERTYPE_PC12B_TRIBOT=Убит триботами в пирамиде
+GAMEOVERTYPE_GPC06_RIGHTPANEL=Тронул поврежденную кнопку
+GAMEOVERTYPE_GPC06_WIRE_GAS=Выпустил токсичный газ
+GAMEOVERTYPE_GPC08B_BOLT_DESTROY=Уничтожен взрывом Болта
+GAMEOVERTYPE_PC09_STORY100_ESCAPEJAIL=Был побежден триботами во время побега из тюрьмы
+GAMEOVERTYPE_PC09B_RJ=Побежден Р.Джейем в тюрьме
+GAMEOVERTYPE_PC09B_LASERS=Убит тюремными лазерами
+GAMEOVERTYPE_PC14B_RJ=Проиграл в схватке с Р.Джейем перед входом в логово хакера
+GAMEOVERTYPE_PC03_SECONDFIGHTLOSE=Месть крыс
+GAMEOVERTYPE_PC03_STORY175_DRONES=Если не оплатить счета вовремя, будет больно
+GAMEOVERTYPE_PC08B_BOLT_DESTROY=Уничтожен взрывом Болта
+GAMEOVERTYPE_PC09C_OTTJAIL=Отт удивил Брока
+GAMEOVERTYPE_PC14C_HACKERFIGHT=Охранная система хакера победила
+GAMEOVERTYPE_PC09_BLINDBOT=Слепой бот победил
+GAMEOVERTYPE_CPC15_JAIL=Был отправлен обратно в тюрьму охранником
+GAMEOVERTYPE_CPC15_GUARDFIGHT=Проиграл в битве с охранником
+GAMEOVERTYPE_CPC15_TIDY_HIT=Тайди не нравится, когда его бьют
+GAMEOVERTYPE_GPC19B_BUTTON=Получил удар током при попытке уничтожить кнопку
+GAMEOVERTYPE_PC01_DAY2END_GRAFFKO=Брок избил Грэффа в его спальне
+GAMEOVERTYPE_SP01_TRIBOT=Погоня на летоцикле
+GAMEOVERTYPE_PC15D_GUARDCHARGE_LOSE=Проиграл в битве с охранником
+GAMEOVERTYPE_PC15B_FIGHTTIDY=Проиграл бой против Тайди
+# CHAPTER5
+GAMEOVERTYPE_GPC17_LASER=Смертоносные лазеры в музее
+GAMEOVERTYPE_CH5_TRIBOTCOPS=В одиночку сражался с триботами-копами и проиграл
+GAMEOVERTYPE_COMMON_DEE_HIT=Ди надоело терпеть
+# CHAPTER6
+GAMEOVERTYPE_GPC14_GRAFF_LOSE=Грэфф не пожелал быть похищенным и погиб
+GAMEOVERTYPE_CH6_GRAFF_HIT_OTT=Грэфф бил Отта
+GAMEOVERTYPE_GPC14C_HACKERHIT=Хакера побили
+GAMEOVERTYPE_PC20_WES_HIT=Уэса побили до драки
+GAMEOVERTYPE_PC19D_TRIBOTSWAVE=Волна триботов
+GAMEOVERTYPE_PC19B_GHERKIN_DEAD=Доктора Геркина убили
+GAMEOVERTYPE_PC20_FIGHT1=Первая битва с Уэсом
+GAMEOVERTYPE_PC20_FIGHT2=Вторая битва с Уэсом
+GAMEOVERTYPE_CH6_TRIBOTCOPSWITHDEE=Вместе с Ди, проиграл бой триботам-копам
+GAMEOVERTYPE_GPC05D_FLOOR_HOLE=Упал в дыру
+GAMEOVERTYPE_GPC05D_RATFIGHT=Грэфф не смог сбежать от крыс
+GAMEOVERTYPE_PC20_DIETOGETHER=Оба героя погибли вместе
+GAMEOVERTYPE_PC05D_BROKLOSE=Брок не смог спасти Грэффа
+GAMEOVERTYPE_PC20_INTERROGATIONFAIL=Допрос Уэса провалился
+GAMEOVERTYPE_PC08B_BOLT_EXPLODE=Ударил Болта во время последней сцены
+GAMEOVERTYPE_SP02_POWEROUTLET=Не суй руки в розетки
+CLUE_GHERKIN_BROKBOTS_ALT=Триботы атакуют только доктора Геркина
+CLUE_TRIANGLE_TRIBOTSUPDATALT=Член Треугольника отправил триботов за доктором Геркиным
+#-------------------------
+# Dialog
+#-------------------------
+XBOX_DISCONNECT=Контроллер Игрока 1 отключен.#Пожалуйста, подключи контроллер и нажми кнопку
+XBOX_WRONG=Профиль Игрока изменен!##Нажми A, чтобы продолжить (прогресс будет потерян)#Нажми B, чтобы переключиться обратно на {user}
+XBOX_COOP=Контроллер Игрока 2 отключен.#Чтобы продолжить, подключи контроллер.
+XBOX_PROFILEGAMEPAD=Использовать контроллер, связанный с профилем {profilename}
+
+#----------------------------------------------------
+# Brok
+INTERFACE_HACKPHONE_INSTRUCTIONS-1="Перед тем, как использовать это приложение, сделайте два снимка субъекта."
+# Brok
+INTERFACE_HACKPHONE_INSTRUCTIONS-2="Один - в анфас, второй с видом на 3/4."
+#----------------------------------------------------
+# Graff
+DESCRIBE_INV_KEYGRAFF1-1=Ключ от нашей квартиры.
+# Graff
+DESCRIBE_INV_KEYGRAFF1-2=Начал ржаветь. Значит, некачественный...
+#----------------------------------------------------
+# Ott
+#If Graff dies when Ott is around
+COMMON_OTT_GRAFFDIES-1=Грэфф!!!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - When Graff hits Ott
+# *****************************************************************
+# Ott
+COMMON_GRAFF_HITOTT1-1=Аргх!!!
+# Ott
+COMMON_GRAFF_HITOTT1-2=Это, вообще-то, больно!
+# Graff
+COMMON_GRAFF_HITOTT1-3=Ой...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - When Graff hits Ott
+# *****************************************************************
+# Ott
+COMMON_GRAFF_HITOTT2-1=Ай!
+# Ott
+COMMON_GRAFF_HITOTT2-2=За что...?
+# Graff
+COMMON_GRAFF_HITOTT2-3=Прости...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - When Graff hits Ott
+# *****************************************************************
+# Ott
+COMMON_GRAFF_HITOTT3-1=Нет...!
+# Ott
+COMMON_GRAFF_HITOTT3-2=Хватит!!! Я все понял!
+# Ott
+COMMON_GRAFF_HITOTT3-3=Сам разбирайся с испытанием. Я ухожу!
+#----------------------------------------------------
+# Ott
+COMMON_GRAFF_OTT_FOLLOWS1-1=Зачем мы здесь?
+#----------------------------------------------------
+# Ott
+COMMON_GRAFF_OTT_FOLLOWS2-1=Что-то я не пойму, что ты ищешь...
+#----------------------------------------------------
+# Ott
+COMMON_GRAFF_OTT_FOLLOWS3-1=Грэфф...?
+#----------------------------------------------------
+# Tribot
+COMMON_TRIBOT_GAMEOVER1-1=Отличная работа. Толстый крок утихомирился.
+# Tribot
+COMMON_TRIBOT_GAMEOVER1-2=Пора доложить от этом и получить свою награду.
+#----------------------------------------------------
+# Tribot
+COMMON_TRIBOT_GAMEOVER2-1=Ошибка 404: Цели больше не существует.
+#----------------------------------------------------
+# Tribot
+COMMON_TRIBOT_GAMEOVER3-1=В следующий раз прислушайся к тем, кто лучше и умнее тебя.
+# Tribot
+COMMON_TRIBOT_GAMEOVER3-2=Ошибка: Мертвые не могут слушать.
+# Tribot
+COMMON_TRIBOT_GAMEOVER3-3=В таком случае, неважно.
+#----------------------------------------------------
+# Tribot
+COMMON_TRIBOTWITHDEE_GAMEOVER1-1=Двух зайцев одним выстрелом!
+#----------------------------------------------------
+# Tribot
+COMMON_TRIBOTWITHDEE_GAMEOVER2-1=Игра окончена!
+#----------------------------------------------------
+# Dee
+COMMON_DEE_BROKLOSE-1=Неееет...!
+#----------------------------------------------------
+# Brok
+COMMON_DEE_LOSE-1=Ди!
+#----------------------------------------------------
+# Dee
+COMMON_DEE_HITATTACK1-1=Аргх!!!
+#----------------------------------------------------
+# Dee
+COMMON_DEE_HITATTACK2-1=Эй! Перестань!
+#----------------------------------------------------
+# Dee
+COMMON_DEE_HITATTACK3-1=С ума сошел...?
+#----------------------------------------------------
+# Dee
+COMMON_DEE_BROKDEAD-1=О, нет!
+#----------------------------------------------------
+# Ott
+COMMON_OTT_BREAK-1=Зачем ты это сделал...?
+#----------------------------------------------------
+# Gherkin
+COMMON_GHERKIN_BREAK-1=...
+
+
+CHOICE_GIVEUP=Сдаться
+
+
+CHAR_TRIBOTMILITARY=Военный
+CHAR_TRIBOTPOUND=Надзиратель
+CHAR_BLINDBOT=Слепой бот
+# For final boss
+NAME_LEFT_LEG=Левая нога
+NAME_RIGHT_LEG=Правая нога
+NAME_LEFT_ARM=Левая рука
+NAME_RIGHT_ARM=Правая рука
+NAME_SHIELD=Щит
+INTERFACE_CREDITS=Титры
+INTERFACE_MOVESLIST=Движения
+INTERFACE_GAMEOVER=Игра окончена
+INTERFACE_OPTION_DAMAGEPOINTS=Очки урона
+MOVE_REGULARCOMBO=Комбо атака
+MOVE_JUMP=Прыжок
+MOVE_JUMPKICK=Удар в прыжке
+MOVE_JUMPKICKDOWN=Удар сверху
+MOVE_UPPERCUT=Апперкот в воздухе
+MOVE_GUARD=Защита
+MOVE_ATTACKBEHIND=Атака сзади
+MOVE_DODGE=Уклонение
+MOVE_RUN=Бег
+MOVE_POWERFULPUNCH=Мощный удар
+MOVE_THROWNGETBACKUP=Быстрое восстановление
+MOVE_PICKUP=Подобрать предмет
+MOVE_QUICKWEAPON=Быстрый выбор оружия
+MOVE_QUICKITEM=Быстрый выбор еды
+MOVE_WEAPONCOMBO=Комбо оружие
+MOVE_WEAPONTHROW=Бросить оружие
+MOVE_SPECIALQUICK=Быстрая особая атака
+MOVE_SPECIALCHARGE=Зарядить особую атаку
+MOVE_SPECIALATTACK=Особая атака
+MOVE_COMMANDS_REPEAT=Повторить
+MOVE_COMMANDS_OR=или
+MOVE_COMMANDS_THEN=затем
+MOVE_COMMANDS_JUMPTHEN=Прыжок и
+MOVE_COMMANDS_GUARDTHEN=Защита и
+MOVE_COMMANDS_PUNCHTHEN=Удар и
+MOVE_COMMANDS_RUNTHEN=Бег и
+MOVE_COMMANDS_BRIEFPRESS=Краткое нажатие
+MOVE_COMMANDS_HOLD=Удерживать
+MOVE_COMMANDS_CLICKONENEMY=на противника
+MOVE_COMMANDS_CLICKONPLAYER=на игрока
+MOVE_COMMANDS_CLICKONITEM=на предмет
+MOVE_COMMANDS_CLICKANYWHERE=куда угодно
+MOVE_COMMANDS_ALTERNATIVE=Альтернатива
+MOVE_COMMANDS_THROWN=После броска
+MOVE_COMMANDS_EQUIP=Экипировать
+MOVE_COMMANDS_SPECIALFILLED1=Когда
+MOVE_COMMANDS_SPECIALFILLED2=шкала особой атаки
+MOVE_COMMANDS_SPECIALFILLED3=заполнена
+MOVE_COMBOFINISH=Финальная комбо-аттака
+MOVE_COMMANDS_DURING=Во время
+MOVE_COMMANDS_COMBO=комбо
+ITEM_INTERFACE_OPTION_DAMAGEPOINTS_MSG=Отображать очки урона, когда персонаж получает удар
+INTERFACE_OPTION_VIBRATION_CONSOLE=Вибрация
+ITEM_STEAMDECK=Steam Deck
+#When there's a # symbol in front, it means they don't appear in the game so no need to translate
+GOAL_STORY_90=Пройти допрос
+GOAL_STORY_120=Участвовать в бою на арене
+GOAL_STORY_170_BROK=Не дать Тайди сбежать
+GOAL_STORY_205=После боя
+OBJECTIVE_HOOVERNOTSOLD=Ты оставил бота-уборщика, дальше что?
+OBJECTIVEDONE_GOTMISSIONONLY=Ты выполнил миссию хакера.
+AD_PC05D_CENTER=Рядом с лестницей
+AD_PC05D_RIGHT=Стена в правой комнате
+AD_PC05D_LEFT=Шкаф в левой комнате
+AD_PC09_WINDOWOFF=Окно в офисе
+AD_PC09_RWANTED=Монитор с надписью "Разыскивается"
+AD_PC09_RDOOR=Главная дверь
+AD_PC09B_FRONT=Фасадное дерево
+AD_PC09C_BOXDESK=Коробка на столе
+AD_PC09C_BOARD=Полицейская доска
+AD_PC09C_COMPUTER=Экран комьютера
+AD_PC09D_RPLANT=Растение справа
+AD_PC09D_RALLEY=Коридор
+AD_PC09D_RCAMERA=Камера слева
+AD_PC10_RSTATUE=Нижняя часть правой скульптуры
+AD_PC10_RIGHTDESK=Прикрепленный к главному столу (справа)
+AD_PC10_RBACK=Задний план (справа)
+AD_PC14_RTOP=Верхняя платформа
+AD_PC14_RGUTTER=Желоб
+AD_PC14_RTRASH=Мешки мусора
+AD_PC14B_RPIPEPILL=Пневмотруба
+AD_PC14B_RCOLUMNLEFT=Левая колонка
+AD_PC14B_RFRONT=Мусор на переднем плане
+AD_PC14C_PLANKS=Доски
+AD_PC14C_RMESS=Вещи на заднем плане
+AD_PC14C_RPIZZA=Коробка от пиццы
+AD_PC15_BIKE=Байк
+AD_PC15_ELEVATOR=Конвейерная лента
+AD_PC15_JUMP=Край дороги
+AD_PC15B_SHELF=Светильник над полкой
+AD_PC15B_CENTER=Центр комнаты
+AD_PC15C_FRONT=Передняя розетка
+AD_PC15C_MESS=Материалы (справа)
+AD_PC15C_PAINTNG=Рисунок
+AD_PC15D_PAINTING=Окно
+AD_PC15D_MESS=Провода
+AD_PC15E_COFFEE=Внутри ящика для кофе
+AD_PC15E_CLOTHES=Гардероб справа
+AD_PC15E_SHOWER=Душ
+AD_PC17_ROCKS=Экспозиция Антейл
+AD_PC17_ROOF=Крыша справа
+AD_PC17_TABLEL=Дальний стол справа
+AD_PC18_GROUND=На земле (сзади голограммы)
+AD_PC18_INHOUSE=Караульная будка
+AD_PC18_INGREEN=Контейнер
+AD_PC19_RBUTTON=Кнопка
+AD_PC19_RWALLSHADOW=Правая стена в тени
+AD_PC19_RTOP=Центральная комната вверху слева
+AD_PC19B_RBED=Кровать
+AD_PC19B_RDOORSIDE=Рядом с треугольной дверью
+AD_PC19B_RBEHIND=На яйцах
+AD_PC19D_FRONT=Передний план
+AD_PC19D_PIPEPILL=Пневмотруба
+AD_PC19D_ROCKS=Камни возле пирамиды
+PC_PEBBLES=Галька
+PC_CHOICE_ENTER=Войти?
+PC_CHOICE_GIVEFOOD=Дать еду...
+#For Graff request money
+MONEY_10=10
+MONEY_20=20
+MONEY_50=50
+MONEY_200=200
+HELP_RADAR=Поиск материалов
+HELP_RADAR_INSTRUCTIONS=Во вкладку <col=BOLD>"Прогресс"</col> была добавлена новая иконка.
+GAMEOVERTYPE_EAT_SEWAGESLUDGE=Съел осадок от сточной воды
+GAMEOVERTYPE_BM02_GAMEOVER=Итог ночного VR боя
+GAMEOVERTYPE_BM02_DEE_NOGIVEUP=Отказался сдаваться
+GAMEOVERTYPE_GPC06_DRONE_GAMEOVER=Не смог спасти продавщицу
+GAMEOVERTYPE_GPC03_TRAMP_DEAD=Грэфф убил бездомного
+GAMEOVERTYPE_PC02_APARTMENT_LASERS=Настоял на выходе из квартиры
+GAMEOVERTYPE_PC09_POLICE_LASERS=Настоял на входе в полицейский участок
+GAMEOVERTYPE_PC10_DIRECTOR_HIT=Ударил директрису
+GAMEOVERTYPE_PC16_TRIBOTS=Проиграл в бою Триботам в "Охоте на свалкоценности"
+GAMEOVERTYPE_PC15_OTT_HIT=Ударил Отта
+GAMEOVERTYPE_PC15E_TRAP=Повредил пальцы ног
+GAMEOVERTYPE_PC15_BIKE=Байк взорвался
+GAMEOVERTYPE_BM02_RJ_NOGIVEUP=Отказался сдаваться
+GAMEOVERTYPE_GPC19B_GRAFFLOSE=Не смог защитить Клэя
+GAMEOVERTYPE_PC14_STORY200_BADGUYS=Возвращаясь с ночного VR боя, проиграл крысам в драке
+GAMEOVERTYPE_PC14_DRONES=Дроны-убийцы
+GAMEOVERTYPE_PC17_TRIBOTHIT=Ударил Триботов в музее
+GAMEOVERTYPE_PC17_PIANO=Проиграл бой Триботам в музее после того, как допустил ошибку
+GAMEOVERTYPE_PC17_TRIBOT_TOOMANY=Слишком много ошибок
+GAMEOVERTYPE_PC18_FIXBOT=Убит ботом-ремонтником
+GAMEOVERTYPE_PC08B_PREMATURE=Убит ботом-ремонтником
+GAMEOVERTYPE_PC19D_BIGFIGHT_GAMEOVER=Проиграл бой волне Триботов (в бункере)
+GAMEOVERTYPE_PC08_TILLENDTIME_HITGRAFF=Ударил Грэффа во время концовки
+GAMEOVERTYPE_PC10_BROK_STUBOT=Убит Стюботом
+GAMEOVERTYPE_PC05B_RATS=Убит канализационными крысами
+GAMEOVER_ENERGYDRINK=Используй энергитический напиток, чтобы временно стать сильнее! Это поможет тебе сломить защиту даже самых сильных врагов.
+GAMEOVER_VENDING=Приобретай еду в торговых автоматах, чтобы восполнить запас здоровья.
+GAMEOVER_SHADOW=Наблюдай за тенями летающих врагов, чтобы отслеживать их местоположение
+GAMEOVER_SPECIAL_MOUSE=Не забывай пользоваться особой атакой, нажав на <button=INPUT_ACTION_SPECIALMOVE>
+GAMEOVER_SPECIAL_GAMEPAD=Не забывай пользоваться особой атакой, нажав на <spr=GAMEPAD_TRIGGERLEFT>
+GAMEOVER_POWERFUL_MOUSE=Используй сильные атаки с расстояния, нажав <button=INPUT_ACTION_POWERFULATTACK>
+GAMEOVER_POWERFUL_GAMEPAD=Используй сильные атаки с расстояния, нажав <spr=GAMEPAD_TRIGGERRIGHT> + <button=INPUT_ACTION_HIT>
+GAMEOVER_UPPERCUT_GAMEPAD=Нажми <button=INPUT_ACTION_JUMP> + <button=INPUT_ACTION_HIT> чтобы выполнить апперкот и нанести мощный удар!
+GAMEOVER_BUYPRODUCTS=Богатый дурак!
+GAMEOVER_SHAME=Позор! Позор! Позор!
+GAMEOVER_GIVEUP=Иногда нужно просто признать поражение.
+GAMEOVER_SP01_TRIBOT_GAMEPAD=Чтобы ударить Тайди, используй ускорение: <button=INPUT_ACTION_VIEW_HOTSPOTS>
+GAMEOVER_PC20_INTERROGATIONFAIL=Передохни и попробуй снова.
+GAMEOVER_TRIBOT1=Когда Триботы приближаются, блокируй их атаки, а затем выложись на полную.
+GAMEOVER_DRONE1=Дроны атакую по таймингу, так что ты можешь предугадать, когда они будут стрелять.
+GAMEOVER_DRONE2=Пульт управления очень эффективен против дронов!
+GAMEOVER_MILITARY1=Военные боты уязвимы при атаке со спины.
+GAMEOVER_MILITARY2=Мощные атаки могут сломать защиту военного бота, но эффективнее нападать сзади.
+GAMEOVER_RJ1=Когда Р.Джей начинает блокировать твою атаку, немедленно уклоняйся!
+GAMEOVER_RJ2=Р.Джей медленный и имеет запас здоровья. Используй мощные атаки, но будь осторожен.
+GAMEOVER_GENERICRAT1=Есть три типа крыс. Вооруженные крысы атакуют медленно!
+GAMEOVER_POUND1=Подожди, пока бот-надзиратель не спустится к земле, чтобы применить к нему комбо атаки.
+GAMEOVER_POUND2=Бот-надзиратель может следовать за тобой по воздуху. Уклоняйся, когда он падает, чтобы раздавить тебя!
+GAMEOVER_TRIBOTCOP1=Триботы-копы бегут стрелять лазерами издалека. Избавься от них в первую очередь!
+GAMEOVER_TRIBOTCOP2=Блокируй или уклоняйся, когда Триботы-копы начинают наносить удары.
+GAMEOVER_TIDY1=Когда Тайди начинает применяет свой особый прием, ничто не может его остановить. Просто увернись от него, а потом атакуй!
+GAMEOVER_DEE1=Ди очень быстрая, так что изучи ее движения, чтобы предвидеть ее атаки.
+GAMEOVER_GUARD1=Щит охранника может быть разрушен атаками. Продолжай наносить удары и не позволяй ему создать новый щит!
+GAMEOVER_WES1=Уклоняйся вверх и вниз, когда Уэс скользит.
+GAMEOVER_WES2=Уэс скользкий тип, он хочет держаться от тебя на расстоянии. Не позволяй ему!
+GAMEOVER_HUGEBOT1=Атакуй обе ноги, пока он не упадет, затем руки и, наконец, корпус.
+GAMEOVER_HUGEBOT2=Огромный бот атакует в соответствии с твоей позицией. Не оставайся перед ним слишком долго и всегда будь готов увернуться!
+CLUETYPE_SPECIAL=Особая атака
+FULL_REVIEW=Оставь свой отзыв
+#-------------------------
+# Achievements
+#-------------------------
+ACHIEVE_CHAPTER1=Глава 1 завершена
+ACHIEVE_CHAPTER2=Глава 2 завершена
+ACHIEVE_CHAPTER3=Глава 3 завершена
+ACHIEVE_CHAPTER4=Глава 4 завершена
+ACHIEVE_CHAPTER5=Глава 5 завершена
+ACHIEVE_CHAPTER6=Глава 6 завершена
+ACHIEVE_ADS=Фанат флаеров
+ACHIEVE_MAINENDINGS=Главные концовки
+ACHIEVE_LOCKERENDING=Секретный шкафчик
+ACHIEVE_SUMMARYFULL=Сводка заполненна
+ACHIEVE_BEDS=Матрасный мастер
+ACHIEVE_TABLES=Весь мир - мой коврик
+ACHIEVE_FOODTHIEF=Вор еды
+ACHIEVE_WORSTDETECTIVE=Худший. Следователь. В истории.
+ACHIEVE_BEARCOP=Медведь-коп
+ACHIEVE_TOILETSMAN=Туалетный Мучитель
+ACHIEVE_PILLSLOVER=Любитель сахарных пилюль
+ACHIEVE_PIANOMUSIC=Музыкальная лапа
+ACHIEVE_HIGHWAYSURVIVE=Выживший на шоссе
+ACHIEVE_PACIFIST=Пацифист
+ACHIEVE_PUSHY=Напористый
+ACHIEVE_CHIPMUNK=Бурундук
+ACHIEVE_SWIM=Это в моей природе
+ACHIEVE_MATERIALS=Все материалы
+ACHIEVE_HEALTHCHECKUP=Твои дни сочтены
+ACHIEVE_WAKEUPHUSH=Просыпаться сложно
+ACHIEVE_TRAMPSAVER=Спасатель бездомного
+ACHIEVE_BESTSTUDENT=Лучший ученик
+ITEM_CHAPTER1_MSG=Заверши главу 1
+ITEM_CHAPTER2_MSG=Заверши главу 2
+ITEM_CHAPTER3_MSG=Заверши главу 3
+ITEM_CHAPTER4_MSG=Заверши главу 4
+ITEM_CHAPTER5_MSG=Заверши главу 5
+ITEM_CHAPTER6_MSG=Заверши главу 6
+ITEM_ADS_MSG=Получи все флаеры в игре, чтобы открыть дополнительную сцену
+ITEM_MAINENDINGS_MSG=Открой все игровые концовки, чтобы открыть дополнительную сцену
+ITEM_LOCKERENDING_MSG=Переведи язык игры и найди код, чтобы открыть шкафчик
+ITEM_SUMMARYFULL_MSG=Открой все пути в таблице результатов
+ITEM_BEDS_MSG=Попрыгай на каждой кровати
+ITEM_TABLES_MSG=Прыгай на каждом столе до тех пор, пока не сработает диалог с NPC
+ITEM_FOODTHIEF_MSG=Кради еду при любой возможности (без драк)
+ITEM_WORSTDETECTIVE_MSG=Хотя бы раз попробуй ударить каждого персонажа в игре (сценарные драки, Триботы и крысы не считаются)
+ITEM_BEARCOP_MSG=Распечатай фотографию Р.Джея с фотороботом
+ITEM_TOILETSMAN_MSG=Изводи мужчину в туалете в течение 3-х дней
+ITEM_PILLSLOVER_MSG=Купи все лекарства в аптеке
+ITEM_PIANOMUSIC_MSG=Играй на пианино 10 секунд, ходя по нему ногами
+ITEM_HIGHWAYSURVIVE_MSG=Стоя на шоссе пешком, выживи более 10 секунд
+ITEM_PACIFIST_MSG=Играй от начала игры до самого конца, ни разу не участвуя напрямую в схватке с врагами (обучение и пропуски боя не считаются)
+ITEM_PUSHY_MSG=Толкай персонажей в лаборатории
+ITEM_CHIPMUNK_MSG=Выпей воду из раковины доктора Минка
+ITEM_SWIM_MSG=Заставь Брока 10 секунд плавать в болоте, рядом с гаражом Шэй
+ITEM_MATERIALS_MSG=Найди все материалы, нужные Шэй
+ITEM_HEALTHCHECKUP_MSG=Проверь здоровье Брока в аптеке
+ITEM_WAKEUPHUSH_MSG=Разбуди ключевого персонажа, попрыгав по нему
+ITEM_TRAMPSAVER_MSG=Сделай так, чтобы бездомный оставался жив до конца игры
+ITEM_BESTSTUDENT_MSG=Получи финальный счет лучше, чем у Клэя
+ACH_NAME=Достижение
+ACH_TOOLATE_PACIFIST=Поздно! {nb} врагов убито за это прохождение
+#-------------------------
+# Dialog
+#-------------------------
+INTERFACE_PROFILE=Профайл
+#----------------------------------------------------
+# RJ
+COMMON_RJ_CATFUR-1=А--пхии!
+
+
+INTERFACE_CHAPTER_CANNOT=Эту часть главы нельзя выбрать напрямую.#Выбери предыдущую часть и нажми кнопку смены персонажа
+INTERFACE_CHAPTER6AG=Похищен
+GAMEOVERTYPE_GPC02_APARTMENT_LASERS=Настойчиво хотел выйти из дома
+ACHIEVE_INTRO=Пролог пройден
+ITEM_INTRO_MSG=Заверши пролог 
+
+
+PC_CHOICE_WATCHANYWAY=Хочешь увидеть эту сцену в любом случае?
+INTERFACE_OPTION_ENEMYBLINK=Мигание противника
+ITEM_INTERFACE_OPTION_ENEMYBLINK_MSG=Должны ли враги мигать желтым цветом при подготовке атаки?
+INTERFACE_OPTION_MOVESLIST=Движения
+ITEM_INTERFACE_OPTION_MOVESLIST_MSG=Движения
+INTERFACE_ARTBOOK=Артбук
+
+TUTORIAL_ACCESSIBILITYMENU=Меню доступности
+
+INTERFACE_OPTION_ACCESSIBILITY=Доступность
+ITEM_INTERFACE_OPTION_ACCESSIBILITY_MSG=Меню доступности
+INTERFACE_ACCESSIBILITY_FULLYNARRATED=Полное повествование
+ITEM_INTERFACE_ACCESSIBILITY_FULLYNARRATED_MSG=Все озвучивается: взаимодействия, меню, сообщения...
+INTERFACE_ACCESSIBILITY_SOUND3D=Позиционное аудио
+ITEM_INTERFACE_ACCESSIBILITY_SOUND3D_MSG=Шум персонажей позиционируется в пространстве в зависимости от того, где они находятся.
+INTERFACE_ACCESSIBILITY_VIBRATEWALL=Вибрация стен
+ITEM_INTERFACE_ACCESSIBILITY_VIBRATEWALL_MSG= При столкновении со стенами происходит вибрация, указывающая на их положение.
+INTERFACE_ACCESSIBILITY_REPEATBUTTONS=Кнопки повтора
+ITEM_INTERFACE_ACCESSIBILITY_REPEATBUTTONS_MSG=Добавляет два входа для повтора последних инструкций и диалоговой речи.
+INTERFACE_ACCESSIBILITY_SIMPLIFIEDROOMS=Упрощенные комнаты
+ITEM_INTERFACE_ACCESSIBILITY_SIMPLIFIEDROOMS_MSG=Добавляет некоторые комнаты, чтобы избежать прыжков и опасных ловушек.
+INTERFACE_ACCESSIBILITY_BLINDPUZZLES=Загадки для слепых
+ITEM_INTERFACE_ACCESSIBILITY_BLINDPUZZLES_MSG=Адаптирует головоломки для слепых и добавляет больше вариантов пропуска.
+INTERFACE_ACCESSIBILITY_HIGHCONTRAST=Высокая контрастность
+ITEM_INTERFACE_ACCESSIBILITY_HIGHCONTRAST_MSG= Фоны изменены для более легкого чтения, персонажи и враги выделены.
+INTERFACE_ACCESSIBILITY_LARGEFONTS=Крупные шрифты
+ITEM_INTERFACE_ACCESSIBILITY_LARGEFONTS_MSG=Большие шрифты в целом по игре.
+
+
+HELP_BLINDCONTROLS=Управления, адаптированные для слепых
+HELP_BLINDCONTROLS_INSTRUCTIONS_GAMEPAD=Большую часть игры вы будете проходить, выбирая горячие точки с помощью <spr=GAMEPAD_DPAD> и нажимая <button=INPUT_ACTION_VALIDATE> для взаимодействия. ##В любой момент нажмите <button=INPUT_ACTION_ACCESSIBILITY_REPEAT_INSTRUCTIONS> для повторения последних инструкций и <button=INPUT_ACTION_ACCESSIBILITY_REPEAT_DIALOGUE> для повторения последней диалоговой речи.##Нажмите <button=INPUT_ACTION_VALIDATE> для продолжения.
+HELP_BLINDCONTROLS_INSTRUCTIONS_MOUSE=Большая часть игры будет пройдена путем выбора горячих точек с помощью <spr=CONTROL_dkeys> и нажатия <button=INPUT_ACTION_VALIDATE> для взаимодействия. ##В любой момент нажмите <button=INPUT_ACTION_ACCESSIBILITY_REPEAT_INSTRUCTIONS> для повторения последних инструкций и <button=INPUT_ACTION_ACCESSIBILITY_REPEAT_DIALOGUE> для повторения последней диалоговой речи.##Нажмите <button=INPUT_ACTION_VALIDATE> для продолжения.
+
+
+MOVE_GRAFF_JUMPKICKDOWN=Удар ногой по ногам
+MOVE_GRAFF_UPPERCUT=Сдавливающий прыжок
+MOVE_GRAFF_ATTACKBEHIND=Замах ногой
+MOVE_GRAFF_POWERFULPUNCH=Удар по полу
+OBJECTIVEDONE_DAY2FIGHTGIVEUP=Вы сдались и не нанесли последний удар Р.Дж. на VR-арене.
+PC_CHOICE_BLINDPUZZLESKIP=Пропустить эту головоломку?
+TUTORIAL_PREVIOUS=Предыдущий
+TUTORIAL_NEXT=Следующий
+GAMEOVER_UPPERCUT_MOUSE=Во время комбо нажмите <button=INPUT_ACTION_JUMPKICK>, чтобы выполнить мощный апперкот, а затем удар для удара по земле!
+GAMEOVER_SP01_TRIBOT_MOUSE=Чтобы ударить Тайди, используйте ускорение: <button=INPUT_ACTION_VIEW_HOTSPOTS>.
+THANKS_PLAYING=Спасибо за игру!
+INTERFACE_ACCESSIBILITY_DPAD=Дополнительные направленные входы
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_MSG=Позволяет выбирать горячие точки с помощью направленных входов, даже вне обзора комнаты (для слепых).
+INTERFACE_ACCESSIBILITY_HIGHCONTRASTTEXT=Высококонтрастный текст
+ITEM_INTERFACE_ACCESSIBILITY_HIGHCONTRASTTEXT_MSG=Фоны диалогов изменены для более удобного чтения
+INTERFACE_ACCESSIBILITY_HIGHCONTRASTENEMIES=Высококонтрастные символы
+ITEM_INTERFACE_ACCESSIBILITY_HIGHCONTRASTENEMIES_MSG=Игрок и враги выделены.
+MOVE_COMMANDS_TIMES2=x 2
+MOVE_COMMANDS_TIMES3=x 3
+MOVE_COMMANDS_TIMES5=x 5
+MOVE_COMMANDS_PLUS=+
+INPUT_ACTION_ACCESSIBILITY_REPEAT_INSTRUCTIONS=Доступность - повторение инструкций
+INPUT_ACTION_ACCESSIBILITY_REPEAT_DIALOGUE=Доступность - повтор речи
+HELP_BLINDCOMBAT=Базовый бой
+HELP_BLINDCOMBAT_INSTRUCTIONS_GAMEPAD=Для перемещения Брока во время боя нажмите <spr=GAMEPAD_DPAD> или <spr=GAMEPAD_STICKLEFT>.##Для атаки нажмите <button=INPUT_ACTION_HIT>.#Для защиты удерживайте <button=INPUT_ACTION_GUARD>.
+HELP_BLINDCOMBAT_INSTRUCTIONS_MOUSE=Чтобы перемещать Брока во время боя, нажмите <button=INPUT_MOVE_UP> <button=INPUT_MOVE_LEFT> <button=INPUT_MOVE_DOWN> <button=INPUT_MOVE_RIGHT> или <spr=CONTROL_dkeys>. ##Для атаки нажмите <button=INPUT_ACTION_HIT> или <spr=CONTROL_mouseleft>.## Для защиты удерживайте <button=INPUT_ACTION_GUARD>.
+ACCESSIBILITY_JUMP_SKIP=Пропустить этот прыжок
+HELP_BLINDMENU=Навигация по полному меню
+HELP_BLINDMENU_INSTRUCTIONS=Вы теперь имеете доступ к полному меню. ##Там много всего, организованного по панелям, которые можно переключать с помощью <button=INPUT_ACTION_SCROLL_INV_LEFT><button=INPUT_ACTION_SCROLL_INV_RIGHT> и <button=INPUT_ACTION_SCROLL_PANEL_LEFT><button=INPUT_ACTION_SCROLL_PANEL_RIGHT>. ## Например, при входе в меню будет показан инвентарь, а на правой панели - еда.
+HELP_BLINDMENU_INSTRUCTIONS_GAMEPAD=Не стесняйтесь перемещаться по <spr=GAMEPAD_DPAD>, чтобы найти все.
+HELP_BLINDMENU_INSTRUCTIONS_MOUSE=Не стесняйтесь перемещаться по <spr=CONTROL_dkeys>, чтобы найти все.
+PC_CLIMBUP=Подниматься вверх
+PC_CLIMBDOWN=Спускаться вниз
+PC_CLIMBMORE=Подниматься больше
+
+INTERFACE_ACCESSIBILITY_NOSCREENSHAKE=Нет дрожания экрана
+ITEM_INTERFACE_ACCESSIBILITY_NOSCREENSHAKE_MSG=Отключить дрожание экрана в боях и сценах.
+INTERFACE_ACCESSIBILITY_ASKSKIPFIGHTAUTO=Автоматически предлагать пропустить бои
+ITEM_INTERFACE_ACCESSIBILITY_ASKSKIPFIGHTAUTO_MSG=В начале боя автоматически спрашивать, стоит ли его пропустить
+
+INTERFACE_ACCESSIBILITY_DPAD_PS=Дополнительные кнопки направлений
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_PS_MSG=Позволяет выбирать горячие точки с помощью кнопки направлений, даже за пределами обзора комнаты (для слепых).
+
+INTERFACE_ACCESSIBILITY_DPAD_NS=Дополнительные кнопки направлений
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_NS_MSG=Позволяет выбирать горячие точки с помощью кнопки направлений, даже за пределами обзора комнаты (для слепых).
+
+
+HELP_DEMODETECTED=Обнаружено сохранение из демо-версии
+HELP_DEMODETECTED_INSTRUCTIONS=Обнаружен файл сохранения из демо-версии.##Выберите "Продолжить" в меню, чтобы продолжить с места, где вы остановились.
+
+THANKS_PLAYING_DEMO=Спасибо за игру в демо-версию!
+THANKS_PLAYING_SHOP=Полная версия игры доступна на
+THANKS_PLAYING_SHOP2=Ваш прогресс сохранения автоматически переносится.
+
+DEMO_FORBID_TITLE=Демо-версия
+
+INTERFACE_ACCESSIBILITY_CLIPBOARDNARRATED=Повествование с помощью буфера обмена
+ITEM_INTERFACE_ACCESSIBILITY_CLIPBOARDNARRATED_MSG=Отправьте текст доступности в буфер обмена вместо использования предварительно записанных файлов, делегируя повествование программе преобразования текста в речь, установленной на вашем компьютере.
+
+SAVE_FILE_UNKNOWN=Неправильное сохранение
+SAVE_FILE_UNKNOWN_DESCRIPTION=Это сохранение было удалено или повреждено. Загрузите другое сохранение или начните новую игру.
+
+HELP_RADAR_INSTRUCTIONS_GAMEPAD=Используйте <spr=GAMEPAD_STICKLEFT> для перемещения во время поиска.
+HELP_RADAR_INSTRUCTIONS_MOUSE=Используйте <button=INPUT_MOVE_UP><button=INPUT_MOVE_LEFT><button=INPUT_MOVE_DOWN><button=INPUT_MOVE_RIGHT> или мышь для перемещения во время поиска.
+
+INTERFACE_ACCESSIBILITY_DPADLINE=Выравнивание горячих точек
+ITEM_INTERFACE_ACCESSIBILITY_DPADLINE_MSG=Помещает игровые точки в линию для более удобного выбора (не применяется к меню и крупным планам)
+
+MENU_CARD_PROMPTEXT=Дополнительная информация
+
+MENU_CARD_NEWS=Новости
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACCESSIBILITY_JUMP_SKIP=Пропустить данный прыжок
+DEMO_FORBID_DESCRIPTION=Демонстрационная версия не позволяет загрузить данный сохраненный файл, который не относится к Главе 1.
+
+INTERFACE_DEBUG_KILLCOOP=Убить игрока в кооперативном режиме
+INTERFACE_DEBUG_DISPLAYSHADOWADS=Отобразить местоположения теневых реклам
+INTERFACE_RECONNECT_CONTROLLER=Подключиться повторно
+INTERFACE_NEW_CONTROLLER_TITLE=Обнаружен новый контроллер
+INTERFACE_NEW_CONTROLLER=Нажмите, чтобы присоединиться в кооператив
+INTERFACE_NEW_CHARACTER_TITLE=Открыт новый персонаж
+INTERFACE_NEW_CHARACTER=Игрок(и) в кооперативе теперь могут играть за {whoname}!
+COOP_MAIN_GATOR=аллигатор
+COOP_MAIN_CAT=кот
+NAME_COOP_BROK2=Блук
+NAME_COOP_BROK3=Крок
+NAME_COOP_BROK4=Двок
+NAME_COOP_GRAFF2=Блафф
+NAME_COOP_GRAFF3=Крафф
+NAME_COOP_GRAFF4=Драфф
+NAME_COOP_RJ2=Б.Дж.
+NAME_COOP_RJ3=С.Дж.
+NAME_COOP_RJ4=Д.Дж.
+NAME_COOP_OTT2=Ботт
+NAME_COOP_OTT3=Котт
+NAME_COOP_OTT4=Дотт
+NAME_COOP_DEE2=Би
+NAME_COOP_DEE3=Си
+NAME_COOP_DEE4=Дид
+NAME_COOP_RAT_GENERIC2=Бат
+NAME_COOP_RAT_GENERIC3=Крат
+NAME_COOP_RAT_GENERIC4=Дат
+GAMEOVER_KILLEDCOOP=Остерегайтесь вашего... друга?...
+GAMEOVER_KILLEDCOOPGRAFF=Этот котик не должен был доверять своему другу.
+INTERFACE_ADSCOOP=Рекламы
+INTERFACE_PLAYER=Игрок
+INTERFACE_CHARACTER=Персонаж
+INTERFACE_TUTORIALSCOOP=Уроки кооператива
+INTERFACE_ADSSHADOW=Теневые рекламы
+INTERFACE_GAMEOPTIONSCOOP=Настройки кооператива
+INTERFACE_OPTIONSCOOP=Кооперация
+INTERFACE_STORE=Магазин
+INTERFACE_STORECOOP=Магазин кооператива
+ITEM_LEVELUP=Улучшение опыта
+ITEM_LEVELUP_MSG=Получите 25% уровня повышения
+ITEM_HINTS=Получите подсказку
+ITEM_HINTS_MSG=Застряли? Получите одну подсказку, чтобы решить текущую ситуацию!
+ITEM_MONEY_MSG=Получите <col=BOLD>100 Единиц</col>
+INTERFACE_OPTION_CONTROLLERSLIST=Список контроллеров
+ITEM_INTERFACE_OPTION_CONTROLLERSLIST_MSG=Просмотреть список подключенных контроллеров и назначить их игрокам
+ITEM_INTERFACE_GAMEOPTIONSCOOP_MSG=Специфические настройки кооперативного режима
+INTERFACE_BUY_FOOD_TOOMANY=Уже слишком много!
+INTERFACE_NO_CONTROLLER=Контроллер не подключен.
+INTERFACE_UNUSED_CONTROLLER=Не используется
+INTERFACE_ACTIVE_CONTROLLER=Активен
+INTERFACE_SLOT_CONTROLLER=слот
+INTERFACE_ASSIGN_CONTROLLER=Назначить игроку
+INTERFACE_UNKNOWNDISCONNECTED_CONTROLLER=Неизвестный или отключенный контроллер
+INTERFACE_PLAYER_NUMBER=Игрок {playernumber}
+INTERFACE_CHOOSE_FRIENDLYFIRE_NONE=Без столкновения / Без урона
+INTERFACE_CHOOSE_FRIENDLYFIRE_NODAMAGE=Столкновение / Без урона
+INTERFACE_CHOOSE_FRIENDLYFIRE_DAMAGE=Столкновение / Урон
+INTERFACE_OPTION_COOP_FRIENDLYFIRE=Дружественный огонь
+ITEM_INTERFACE_OPTION_COOP_FRIENDLYFIRE_MSG=Могут ли персонажи в кооперации атаковать друг друга? Если да, получают ли они урон?
+INTERFACE_CHOOSE_CHOICETYPE_RANDOM=Случайный
+INTERFACE_CHOOSE_CHOICETYPE_ALWAYSTHISONE=Всегда тот же игрок (для определения)
+INTERFACE_CHOOSE_CHOICETYPE_ALWAYSTHISPLAYER=Всегда игрок {playernumber}
+INTERFACE_CHOOSE_CHOICETYPE_ROCKPAPERSCISSORS=Камень, ножницы, бумага
+INTERFACE_CHOOSE_CHOICETYPE_BALL=Игра в мяч
+INTERFACE_CHOOSE_CHOICETYPE_ANYGAME=Любая игра
+INTERFACE_OPTION_COOP_CHOICE=Кто принимает решения?
+ITEM_INTERFACE_OPTION_COOP_CHOICE_MSG=Когда нужно принимать решения (вне меню и разговоров персонажей), какой игрок принимает решение?
+INTERFACE_OPTION_COOP_DROPOUT=Выйти из кооперации
+ITEM_INTERFACE_OPTION_COOP_DROPOUT_MSG=Используйте это, когда игрок не хочет продолжать играть. Он всегда может вернуться позже.
+INTERFACE_COOP_CHARACTER_BOTTOM=В режиме приключений используйте <button=INPUT_ACTION_SCROLL_INV_LEFT> / <button=INPUT_ACTION_SCROLL_INV_RIGHT>, чтобы переключаться между персонажами и их скинами.
+INTERFACE_WAIT_START=Сеанс кооператива начнется как можно скорее.
+INTERFACE_WAIT_START_TITLE=Пожалуйста, подождите
+INTERFACE_SHADOWADS_ENDMESSAGE=Теневые рекламы можно обменять в магазине в меню. Нет дополнительной награды за их всеобъемлющее нахождение. В отличие от обычной рекламы, они не сохраняются между прохождениями.
+CHOICE_HOWMANY_PLAYERS=Сколько игроков?
+CHOICE_START_COOP=Начать сессию для двух игроков в кооперативе?
+INTERFACE_LEVELUP_GIVEXP=Передать бонус другому игроку
+CHOICE_BUY_COOP=Подарить это...
+CHOICE_PLAYER=Игрок {playernumber}
+HELP_COOPINFO=Опция кооперативного приключения
+HELP_COOPINFO_INSTRUCTIONS=Игра поддерживает локальный кооп!##Во время приключения новому игроку нужно нажать <button=INPUT_ACTION_MENU>, чтобы начать сеанс для двух игроков (и до четырех игроков!)
+HELP_COOPNEW=Кооператив
+HELP_COOPNEW_INSTRUCTIONS=Игрок(и) в кооперативе - это метаморфические призрачные сущности.##Они могут:#- Участвовать в <col=BOLD>боях</col>#- Изучать <col=BOLD>окружение</col>#- Изменять <col=BOLD>внешний вид</col>#- Находить свои <col=BOLD>скрытые рекламы</col> в комнатах#- И многое другое!
+HELP_COOPNEW2=Кооператив (продолжение)
+HELP_COOPNEW2_INSTRUCTIONS=Могут присоединиться до четырех игроков! Во время приключения ни один из персонажей не видит или не взаимодействует с этими сущностями.##Поэтому любое воздействие, которое они оказывают, будет <col=BOLD>непосредственно приписано главному игроку</col>!
+HELP_SHADOWADS=Кооператив - Теневые рекламы
+HELP_SHADOWADS_INSTRUCTIONS=У каждого игрока в кооперативе <col=BOLD>теневые рекламы</col> для наград.##Они невидимы. Обратите внимание на вибрации и эффекты, указывающие на близость.##При усилении <col=BOLD>остановитесь на 2 секунды</col>, чтобы их автоматически получить!
+HELP_MENUCOOP=Кооператив - Меню
+HELP_MENUCOOP_INSTRUCTIONS=Игроки в кооперативе могут получить доступ к собственному <col=BOLD>отдельному меню</col>, нажав <button=INPUT_ACTION_MENU>.##Проверьте его для получения дополнительной информации!
+HELP_SHADOWPOINTS=Кооператив - Теневые очки
+HELP_SHADOWPOINTS_INSTRUCTIONS=Когда вы находите теневые рекламы, вам начисляются очки. Обменяйте эти очки на полезные предметы в <col=BOLD>магазине в меню</col> (еда, опыт, подсказки, деньги...).##Решайте, оставить их себе или передать главному игроку!
+HELP_EMOJIS=Кооператив - Эмодзи
+HELP_EMOJIS_INSTRUCTIONS=Игрок(и) в кооперативе могут выражать эмоции, используя <spr=GAMEPAD_STICKRIGHT>.##Отлично подходит, чтобы донимать главного игрока!
+MENU_CARD_TITLE_COOP=Режим кооператива
+MENU_CARD_SHORTDESCRIPTION_COOP=Играйте со своими друзьями!
+MENU_CARD_FULLDESCRIPTION_COOP=Теперь игра поддерживает локальный кооператив для полного приключения, до 4 игроков. Подключайте свои контроллеры!
+
+
+
+
+PC_ACCESSIBILITY=Доступность
+
+INTERFACE_KEYBOARDMOUSE=Клавиатура/Мышь
+INTERFACE_NEW_CONTROLLER_PC=(Для одиночной игры нажмите другую кнопку)
+
+
+COOP_INTERACT_DOOR1-1=Я не могу открыть эту дверь!
+COOP_INTERACT_DOOR2-1=Я призрак! Я не могу проходить сквозь двери!
+COOP_INTERACT_DOOR2-2=Хм... Я начинаю сомневаться в своем существовании.
+COOP_INTERACT_DOOR3-1=Надо попросить {whomain} открыть её.
+
+COOP_INTERACT_PASSAGE1-1=Мне нужно оставаться рядом с моим хозяином.
+COOP_INTERACT_PASSAGE2-1=Я существую только, чтобы помогать {whomain}. Поэтому я не могу идти туда, пока они не решат.
+COOP_INTERACT_PASSAGE3-1=Слишком далеко для меня!
+
+COOP_INTERACT_UNKNOWN1-1=Ага?...
+COOP_INTERACT_UNKNOWN2-1=Понятия не имею, что это.
+COOP_INTERACT_UNKNOWN3-1=Мой ограниченный мозг не может это понять.
+
+COOP_INTERACT_USE1-1=Я не могу этого тронуть! Я призрак!
+COOP_INTERACT_USE1-2=Тебе нужно поверить мне!
+COOP_INTERACT_USE2-1=Этим можно пользоваться только настоящему человеку.
+COOP_INTERACT_USE3-1=Я бы хотел, но могу только разрушать вещи.
+
+COOP_INTERACT_AD1-1=Отлично! {whomain} будет рад, что я нашел этот объявление для него!
+COOP_INTERACT_AD2-1=Классно, с этим должно получиться подсказка!
+COOP_INTERACT_AD3-1=Еще одно для его коллекции!
+
+COOP_INTERACT_ITEMPICK1-1=Выглядит интересно, мне нужно сказать {whomain}, чтобы забрать это!
+COOP_INTERACT_ITEMPICK2-1=Я хочу это, но мои призрачные руки не могут его коснуться.
+COOP_INTERACT_ITEMPICK2-2=Не раньше, чем главный игрок его не возьмет, в любом случае.
+COOP_INTERACT_ITEMPICK3-1=Эй, посмотри, нам нужно это взять!
+
+COOP_INTERACT_CANNOTINTERRUPT1-1=Я бы сделал это, если бы главный игрок не был занят разговором или чем-то еще.
+COOP_INTERACT_CANNOTINTERRUPT2-1=Надо подождать немного.
+COOP_INTERACT_CANNOTINTERRUPT3-1=Да, как только главный игрок, наконец, замолчит.
+
+COOP_INTERACT_NOTENOUGHMONEY1-1=Денег недостаточно...
+
+COOP_OTT1-1=Он лучший из нас.
+COOP_OTT1-2=Мы должны быть близко и защищать его любой ценой!
+
+COOP_STUBOT1-1=Вот так вот.
+COOP_STUBOT1-2=Я никогда не доверял этим жестянкам, и этот не исключение.
+
+COOP_KLAY1-1=Я не помню этого ребенка...
+COOP_KLAY1-2=Может потому, что он ничем не примечателен.
+
+COOP_GUARD1-1=Круглый, но крепкий парень.
+COOP_GUARD1-2=Очень дружелюбен, несмотря на внешность.
+
+COOP_MINK1-1=Спойлер: этот зануда из лаборатории ни при чем.
+COOP_MINK1-2=Верь мне или нет, мне все равно! В конце концов, я не существую.
+
+COOP_TIDY1-1=Раб лаборатории.
+
+COOP_HUSH1-1=Я стараюсь, но он не хочет говорить ни слова!
+COOP_HUSH1-2=Ученые такие невежливые.
+
+COOP_GHERKIN1-1=Отлично, сегодня у нас гериатрия!
+
+COOP_DEE1-1=Журналистика уже не та.
+
+GAMEOVERTYPE_KILLEDCOOP=Убит другом
+GAMEOVERTYPE_KILLEDCOOPGRAFF=Убит другом
+
+INTERFACE_NEW_PLAYER_TITLE=Обнаружен новый игрок
+MENU_CARD_FULLDESCRIPTION_COOP_CONSOLE=Теперь игра поддерживает локальный кооператив на протяжении всего приключения, до 4 игроков!

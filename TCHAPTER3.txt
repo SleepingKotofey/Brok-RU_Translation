@@ -1,0 +1,73 @@
+#-------------------------------------
+#=CHAPTER 3 ROOMS
+#-------------------------------------
+
+# Brok                                 
+CH3_CALL_GRAFF_MORNING-1=...
+# Brok                                 
+CH3_CALL_GRAFF_MORNING-2=Не отвечает...
+# Brok                                 
+CH3_CALL_GRAFF_MORNING-3=Оно и понятно. Сегодня он занят со своим испытанием. Лучше его не беспокоить.
+#----------------------------------------------------
+# Brok                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-1=Привет!
+# Shay                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-2=Привет, Бро. Че как?
+# Brok                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-3=Ну... Нужно сделать кучу дел.
+# Shay                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-4=Какое совпадение. Мне тоже!
+# Unknown                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-5=[...]
+# Brok                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-6=Нет, стой...
+# Brok                                 
+CH3_CALL_SHAY_BEFORESELFMODIFIER-7=Арр, опоздал.
+#----------------------------------------------------
+# Brok                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-1=Привет.
+# Shay                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-2=Бро! Нашел какие-нибудь материалы?
+# Brok                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-3=Я... в процессе.
+# Shay                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-4=Хорошо! Будет замечательно, если сможешь принести их сегодня к вечеру.
+# Brok                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-5=Я постараюсь...
+# Shay                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-6=Ты чем-то встревожен?
+# Brok                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-7=Вообще-то...
+# Brok                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-8=А, не бери в голову. Я зайду позже.
+# Shay                                 
+CH3_CALL_SHAY_AFTERSELFMODIFIER-9=Заметано.
+#----------------------------------------------------
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-1=Алло, Уэс.
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-2=Где вы?
+# Wes                                 
+#None of your business - We only hear bits because of the bad line
+CH3_CALL_WES_BEFOREMEET-3=Н... т... дел...
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-4=Ваш офис закрыт! Впустите меня!
+# Wes                                 
+#Wait for me outside. I'll be here any minute
+CH3_CALL_WES_BEFOREMEET-5=П... ... ме... жи... т... с... ...н...т...
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-6=Я не слышу!
+# Wes                                 
+#Forget it
+CH3_CALL_WES_BEFOREMEET-7=П... з...
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-8=Связь прерывается.
+# Unknown                                 
+CH3_CALL_WES_BEFOREMEET-9=[...]
+# Brok                                 
+CH3_CALL_WES_BEFOREMEET-10=Отлично...
+#----------------------------------------------------
+CH3_GRAFF_BUNKER1-1=...
+CH3_GRAFF_BUNKER1-2=Что это за место такое?
+CH3_GRAFF_BUNKER1-3=Сигнал не ловит...
+CH3_GRAFF_BUNKER2-1=Бесполезно... Отсюда я не до кого не дозвонюсь.

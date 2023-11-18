@@ -1,0 +1,1122 @@
+#-------------------------------------
+#=CHAPTER 6 ROOMS
+#-------------------------------------
+
+CH6_CHOICE_BREAK=Вломиться в Центр
+CH6_CHOICE_BROK=Позвонить Броку
+CH6_CHOICE_SHAY=Позвонить Шэй
+CH6_CHOICE_INVENTORY=Проверить инвентарь
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff                                 
+CH6_OTTFOLLOWED1-1=...
+# Graff                                 
+CH6_OTTFOLLOWED1-2=Столько усилий... Столько лет...
+# Graff                                 
+CH6_OTTFOLLOWED1-3=И ради чего?
+# Graff                                 
+CH6_OTTFOLLOWED1-4=Что я скажу Броку...?
+# Graff                                 
+CH6_OTTFOLLOWED1-5=Нет. Мне не в чем себя винить.
+# Graff                                 
+CH6_OTTFOLLOWED1-6=Это он виноват, что я оказался в такой ситуации!
+# Graff                                 
+CH6_OTTFOLLOWED1-7=Я просто не понимаю...
+# Graff                                 
+CH6_OTTFOLLOWED1-8=Почему столько людей верят в Антейл... Какая-то сущность присматривает за всеми?
+# Graff                                 
+CH6_OTTFOLLOWED1-9=Если это правда... Почему она допускает, чтобы люди так страдали...?
+# Graff                                 
+CH6_OTTFOLLOWED1-10=Наши жизни постоянно под угрозой... Умрем мы от заражения, чьего-то нападения или еще чего...
+# Graff                                 
+CH6_OTTFOLLOWED1-11=Это просто бред! Никто не присматривает за мной!
+# Graff                                 
+CH6_OTTFOLLOWED1-12=Я... совсем один...
+#----------------------------------------------------
+# Graff                                 
+CH6_OTTFOLLOWED2-1=...!
+# Graff                                 
+CH6_OTTFOLLOWED2-2=Что...? Ты пошел за мной?
+# Ott                                 
+CH6_OTTFOLLOWED2-3=Ты уже забыл, что я сказал?
+# Ott                                 
+CH6_OTTFOLLOWED2-4=Я с тобой. Несмотря ни на что!
+# Graff                                 
+CH6_OTTFOLLOWED2-5=Хочешь сказать...
+# Graff                                 
+CH6_OTTFOLLOWED2-6=Нет! Нельзя...!
+# Graff                                 
+CH6_OTTFOLLOWED2-7=Ты же так упорно трудился! Ты заслужил это!
+# Ott                                 
+CH6_OTTFOLLOWED2-8=Мне плевать! Какое будущее меня ждет, если я буду лишен свободы?
+# Ott                                 
+CH6_OTTFOLLOWED2-9=Если... Я не смогу видеться со своим лучшим другом...?
+# Graff                                 
+CH6_OTTFOLLOWED2-10=Что скажут твои родители? А твой дядя?
+# Ott                                 
+CH6_OTTFOLLOWED2-11=Решение принимать мне, а не им.
+# Ott                                 
+CH6_OTTFOLLOWED2-12=Если ты остаешься в Сламс, то и я тоже.
+# Graff                                 
+CH6_OTTFOLLOWED2-13=...
+# Graff                                 
+CH6_OTTFOLLOWED2-14=В таком случае...
+# Graff                                 
+CH6_OTTFOLLOWED2-15=Я не могу позволить тебе загубить свое будущее из-за меня...
+# Graff                                 
+CH6_OTTFOLLOWED2-16=Надо что-то придумать, чтобы мы оба могли отправиться в Драмс.
+# Ott                                 
+CH6_OTTFOLLOWED2-17=Вот это другое дело!
+# Ott                                 
+CH6_OTTFOLLOWED2-18=И... У меня есть идея.
+#----------------------------------------------------
+# Ott                                 
+CH6_THEIDEA1-1=Директриса сказала, что результаты испытаний будут переданы на центральный компьютер правительства сегодня вечером.
+# Ott                                 
+CH6_THEIDEA1-2=А значит...
+# Graff                                 
+CH6_THEIDEA1-3=Они их еще не отправили!
+# Ott                                 
+CH6_THEIDEA1-4=Да! Она давала нам подсказку!
+# Graff                                 
+CH6_THEIDEA1-5=Если мы найдем способ изменить данные в Центре до того, как их отправят...
+# Ott                                 
+CH6_THEIDEA1-6=То тебя примут!
+# Graff                                 
+CH6_THEIDEA1-7=Это жульничество...
+# Ott                                 
+CH6_THEIDEA1-8=Всего один раз! И цель благая.
+# Graff                                 
+CH6_THEIDEA1-9=А еще это очень рискованно. Ты уверен, что хочешь в это ввязаться?
+# Ott                                 
+CH6_THEIDEA1-10=А есть выбор?
+# Graff                                 
+CH6_THEIDEA1-11=Пожалуй, нет...
+# Ott                                 
+CH6_THEIDEA1-12=Вопрос только в том... С чего начать?
+#----------------------------------------------------
+# Graff                                 
+CH6_CHOICE_BREAK-1=Давай вломимся в Центр.
+# Ott                                 
+CH6_CHOICE_BREAK-2=Ты шутишь!
+# Ott                                 
+CH6_CHOICE_BREAK-3=Он сейчас закрыт и там повсюду камеры.
+# Graff                                 
+CH6_CHOICE_BREAK-4=Точно...
+#----------------------------------------------------
+# Graff                                 
+CH6_CHOICE_SHAY-1=Я знаю кое-кого, кто может взломать компьютер...!
+# Unknown                                 
+CH6_CHOICE_SHAY-2=(...)
+# Graff                                 
+CH6_CHOICE_SHAY-3=Черт... Она не отвечает!
+# Graff                                 
+CH6_CHOICE_SHAY-4=И это очень странно...
+# Ott                                 
+CH6_CHOICE_SHAY-5=Есть еще варианты?
+#----------------------------------------------------
+# Graff                                 
+CH6_CHOICE_BROK-1=Так, выбора нет. Придется звонить Броку.
+# Ott                                 
+CH6_CHOICE_BROK-2=А как он нам поможет?
+# Graff                                 
+CH6_CHOICE_BROK-3=Пока не знаю, но стоит попробовать...
+# Unknown                                 
+CH6_CHOICE_BROK-4=(Звонит...)
+# Brok                                 
+CH6_CHOICE_BROK-5=...Алло?
+# Graff                                 
+CH6_CHOICE_BROK-6=Привет... Эм... Мне тут пригодилась бы твоя...
+# Brok                                 
+CH6_CHOICE_BROK-7=Не вовремя, сынок... Мы тут пытаемся попасть в какой-то бункер и...
+# Brok                                 
+CH6_CHOICE_BROK-8=О, Боже! Еще идут!
+# Unknown                                 
+CH6_CHOICE_BROK-9=(Звуки ударов)
+# Unknown                                 
+CH6_CHOICE_BROK-10=(...)
+# Ott                                 
+CH6_CHOICE_BROK-11=Что происходит...? Похоже, ему сейчас больше нужна помощь, чем нам!
+# Graff                                 
+CH6_CHOICE_BROK-12=Просто супер...
+# Graff                                 
+CH6_CHOICE_BROK-13=Я без понятия, во что он там впутался, но... На кону мое будущее!
+# Graff                                 
+CH6_CHOICE_BROK-14=Я его знаю. С ним все будет хорошо.
+# Ott                                 
+CH6_CHOICE_BROK-15=Ну, раз ты так уверен...
+# Ott                                 
+CH6_CHOICE_BROK-16=Еще идеи есть?
+#----------------------------------------------------
+# Graff                                 
+CH6_CHOICE_INVENTORY-1=У меня в вещах...
+# Graff                                 
+CH6_CHOICE_INVENTORY-2=...?
+# Graff                                 
+CH6_CHOICE_INVENTORY-3=Знаю! Сегодня утром в почте...
+# Graff                                 
+CH6_CHOICE_INVENTORY-4=...Там. Был счет от... "МИСТЕРА РЕКАХА".
+# Ott                                 
+CH6_CHOICE_INVENTORY-5=Реках? Какое странное имя.
+# Graff                                 
+CH6_CHOICE_INVENTORY-6=Да, звучит подозрительно.
+# Graff                                 
+CH6_CHOICE_INVENTORY-7=И теперь я все понял!
+# Ott                                 
+CH6_CHOICE_INVENTORY-8=А! Если прочесть наоборот, то получится...
+# Graff                                 
+CH6_CHOICE_INVENTORY-9=Хакер! Да!
+# Ott                                 
+CH6_CHOICE_INVENTORY-10=Что это за хакер, который присылает счета?!
+# Graff                                 
+CH6_CHOICE_INVENTORY-11=Может такой, которому нужна дополнительная работенка...
+# Graff                                 
+CH6_CHOICE_INVENTORY-12=Тут даже адрес есть... "Действителен всего несколько дней"
+# Ott                                 
+CH6_CHOICE_INVENTORY-13=Это просто глупо.
+# Graff                                 
+CH6_CHOICE_INVENTORY-14=Может, благодаря этому его еще не обнаружила автоматическая система безопасности.
+# Graff                                 
+CH6_CHOICE_INVENTORY-15=Иногда самое простое решение оказывается самым действенным!
+# Ott                                 
+CH6_CHOICE_INVENTORY-16=Хорошо. Думаю, стоит попробовать.
+# Graff                                 
+CH6_CHOICE_INVENTORY-17=Ага. К тому же, интересно что за дела у него с моим стариком.
+# Ott                                 
+CH6_CHOICE_INVENTORY-18=Давай выясним!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Ott with Graff in the city
+# *****************************************************************
+# Ott                                 
+CH6_OTT_HACKER1-1=Пойдем к тому хакеру!
+#----------------------------------------------------
+# Graff                                 
+CH6_OTT_HACKER2-1=Нужно придумать, как убедить хакера помочь нам...
+# Ott                                 
+CH6_OTT_HACKER2-2=Да и не знаю...
+# Ott                                 
+CH6_OTT_HACKER2-3=Прости.. Что-то я начинаю сомневаться, что это хороший план.
+# Graff                                 
+CH6_OTT_HACKER2-4=Уже поздно сдаваться!
+#----------------------------------------------------
+# Graff                                 
+CH6_OTT1-1=Я не понимаю...
+# Graff                                 
+CH6_OTT1-2=Зачем директриса дала мне подсказку? Она что, не могла сама изменить результаты?
+# Ott                                 
+CH6_OTT1-3=Думаю, у нее связаны "руки".
+# Ott                                 
+CH6_OTT1-4=Или это еще одно испытание, специально для тебя... Кто знает.
+# Ott                                 
+CH6_OTT1-5=Или у тебя на это есть другой ответ?
+# Graff                                 
+CH6_OTT1-6=Не-а...
+#----------------------------------------------------
+# Graff                                 
+CH6_OTT2-1=Я так устал... У меня нет сил...
+# Graff                                 
+CH6_OTT2-2=Может, стоит просто отпустить ситуацию и начать искать какую-нибудь жалкую работенку в Сламс...
+# Ott                                 
+CH6_OTT2-3=Ты прикалываешься? Мы почти у цели!
+# Ott                                 
+CH6_OTT2-4=Да и что плохого может случиться?!
+# Graff                                 
+CH6_OTT2-5=Не знаю... Может, меня в тюрьму упекут?
+# Ott                                 
+CH6_OTT2-6=Слушай. Если не хочешь стараться ради себя... Сделай это ради меня.
+# Ott                                 
+CH6_OTT2-7=Если ты не хочешь рисковать, то рискну я за тебя!
+# Graff                                 
+CH6_OTT2-8=Отт...
+#----------------------------------------------------
+# Graff                                 
+CH6_OTT3-1=(Надо прекратить жаловаться и взять себя в руки...)
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various phone calls (or attempts)
+# *****************************************************************
+# Brok                                 
+CH6_CALL_GRAFF_STORY280-1=...
+# Brok                                 
+CH6_CALL_GRAFF_STORY280-2=Ну же... Отвечай!
+# Brok                                 
+CH6_CALL_GRAFF_STORY280-3=Я начинаю беспокоиться...
+# Brok                                 
+CH6_CALL_GRAFF_STORY280-4=(Вздыхает)
+#----------------------------------------------------
+# Brok                                 
+CH6_CALL_WES_STORY280-1=...
+# Brok                                 
+CH6_CALL_WES_STORY280-2=Ну же, старик! Дело срочное!
+#----------------------------------------------------
+# Brok                                 
+CH6_CALL_SHAY_STORY280-1=Шэй...
+# Brok                                 
+CH6_CALL_SHAY_STORY280-2=Чем ты там занимаешься...?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - After the whole bunker scene, Brok is nervous
+# *****************************************************************
+# Brok                                 
+CH6_TO_BROK-1=Покидая отделение полиции...
+# Brok                                 
+CH6_TO_BROK-2=Я внезапно почувствовал необъяснимую тревогу.
+# Brok                                 
+CH6_TO_BROK-3=Расследование подходило к концу... Я чувствовал это.
+# Brok                                 
+CH6_TO_BROK-4="Приготовься."
+# Brok                                 
+CH6_TO_BROK-5=Это слово эхом повторялось в моей голове...
+# Brok                                 
+CH6_TO_BROK-6=И я не мог понять, почему.
+# Brok                                 
+CH6_TO_BROK-7=Мой мозг уловил что-то, чего я еще не понял...?
+# Brok                                 
+CH6_TO_BROK-8=И тут я понял, что нужно поспешить домой и проверить, как там Грэфф. От него с самого утра ничего не слышно...
+# Brok                                 
+CH6_TO_BROK-9=Надеюсь, у него день прошел поспокойнее...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Various phone calls (or attempts)
+# *****************************************************************
+# Brok                                 
+CH6_CALL_SIN_AFTER-1=Ди за ним присматривает.
+#----------------------------------------------------
+# Graff                                 
+CH6_GRAFF_CALL_BROK_STORY270-1=...
+# Graff                                 
+CH6_GRAFF_CALL_BROK_STORY270-2=Нет смысла ему звонить.
+# Graff                                 
+CH6_GRAFF_CALL_BROK_STORY270-3=Мы тут сами справимся!
+#----------------------------------------------------
+# Graff                                 
+CH6_GRAFF_CALL_KLAY-1=Не.
+# Graff                                 
+CH6_GRAFF_CALL_KLAY-2=Со мной Отт... А большего мне и не нужно.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Ending "fight together" - after the big fight, they come back home
+# *****************************************************************
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER1-1=Дом, милый дом...
+#----------------------------------------------------
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER2-1=Брок...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER2-2=Я должен тебе кое-что сказать...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER2-3=Ты не прошел...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER2-4=И поэтому связался с хакером.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER2-5=Ты все знал?
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER2-6=Догадался.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER2-7=Ты хороший детектив...
+#----------------------------------------------------
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER3-1=(Вздыхает) Мне очень жаль...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER3-2=Видимо... Это из-за меня все пошло не так.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER3-3=Нет...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER3-4=Не беспокойся...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER3-5=Я тут подумал и...
+#----------------------------------------------------
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-1=Отт...?
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER4-2=Твои родители в порядке?
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-3=Да...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-4=Грэфф... Мне только что звонила директриса...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-5=Ситуация в Сламс вынудила их поторопиться с приготовлениями.
+# Ott                                 
+#Move as in, quit the Slums and live forever in the Drums.
+CH6_ENDING_FIGHTTOGETHER4-6=Я переезжаю в Драмс... Прямо сейчас.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-7=...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-8=Ну...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-9=Удачи там, Отт.
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-10=Грэфф...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-11=Я... Я не уверен...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-12=Как я могу бросить тебя... Бросить своих родителей...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-13=Учитывая все, что сейчас происходит?
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-14=Отт!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-15=Ты должен!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-16=Это твой единственный шанс выбраться из этой помойки.
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-17=Но...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-18=Никаких "но".
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-19=Мы хотели отправиться вместе!
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-20=Обещали друг другу!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-21=Я... передумал...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-22=У тебя все будет хорошо...?
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-23=Тут небезопасно!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-24=Это не в новинку.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-25=И у меня есть Брок. Ты же видел, на что мы способны...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-26=...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-27=Положись на нас. Мы позаботимся о Сламс.
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-28=Грэфф...
+# Ott                                 
+#Ott is almost crying
+CH6_ENDING_FIGHTTOGETHER4-29=Я...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-30=Я буду очень скучать...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-31=Просто пообещай иногда приходить в гости. Хорошо?
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-32=Конечно... Буду.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER4-33=Ну, тебе пора.
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-34=...
+# Ott                                 
+CH6_ENDING_FIGHTTOGETHER4-35=До встречи...
+#----------------------------------------------------
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-1=До встречи, Отт...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-2=...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER5-3=Грэфф...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER5-4=Я найду способ отправить тебя в Драмс. Клянусь.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-5=Послушай...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-6=Когда мы с тобой сражались вместе...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-7=Я никогда не испытывал ничего подобного...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-8=Я думал, что могу умереть и выложился на максимум...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-9=И мне понравилось.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-10=И тогда я понял.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-11=Все это время...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-12=Я врал сам себе.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-13=Я остаюсь в Сламс.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER5-14=Что...?
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-15=Это...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-16=Это мое решение...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-17=Я хочу сделать жизнь в Сламс лучше.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER5-18=Грэфф...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER5-19=Ты же понимаешь, что это очень опасный путь...?
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-20=Понимаешь...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER5-21=Но за эти дни... Я уже столкнулся со смертью лицом к лицу несколько раз.
+#----------------------------------------------------
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-1=Я больше не боюсь.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-2=Ты откажешься от своей мечты...?
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-3=Эта мечта никогда не была моей.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-4=Это ты всегда говорил, что для меня так будет лучше...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-5=Я тебя не виню, просто...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-6=Решение за мной.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-7=Ты мне поможешь...?
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-8=...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-9=Спрашиваешь еще!
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-10=Хотя я все еще думаю, что ты принял поспешное решение...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-11=Нет.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-12=Ха-ха. Если бы мы были связаны по крови...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-13=Я бы сказал, что это ты унаследовал от меня!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-14=Может, так и есть!
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-15=Мне бы надо заставить тебя передумать, но...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-16=Даже не надейся.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-17=Пока что...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-18=Давай спасем Сламс...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-19=Вместе.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-20=...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-21=Спасибо...
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-22=За понимание...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-23=Не стоит благодарности.
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-24=Ну, не будем терять время!
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-25=Вперед!
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-26=Хох...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-27=В смысле... Сейчас...?
+# Graff                                 
+CH6_ENDING_FIGHTTOGETHER6-28=Город сам себя не спасет!
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER6-29=Точно!
+#----------------------------------------------------
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-1=Я такого и представить не мог.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-2=Грэфф... остался со мной...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-3=Он избрал такой опасный путь...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-4=Чтобы помогать мне каждый день...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-5=В моей детективной (и мастера на все руки) работе...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-6=И в сражениях.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-7=Каждый новый день как испытание...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-8=Но он по-прежнему наслаждается жизнью...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-9=Так же, как я наслаждаюсь его компанией.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-10=Я все еще думаю, сколького он мог достичь в Драмс с его-то интеллектом.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-11=В любом случае... Он очень храбрый и я безумно горжусь им.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-12=А что до меня...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-13=Я упустил свою возможность докапаться до истины в деле.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-14=Кто стоял за нехваткой таблеток?
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-15=Кто контролировал триботов? Почему они за мной охотились?
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-16=Может, я никогда этого не узнаю, но я пообещал себе...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-17=Я отомщу за Ди.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-18=Из-за моей ошибки маленькая девочка будет расти без матери.
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-19=Если бы только я мог повернуть время вспять, я бы все исправил...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-20=Но сейчас...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-21=Мы продолжим сражаться...
+# Brok                                 
+CH6_ENDING_FIGHTTOGETHER_END-22=Вместе.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - "Till end of time" ending - Graff & Brok arrive in Shay's garage
+# *****************************************************************
+# Brok                                 
+CH6_TILLENDTIME_ENDING1-1=...
+# Brok                                 
+#They're in front of the time machine.
+CH6_TILLENDTIME_ENDING1-2=Ну же! Нам нужно войти.
+# Graff                                 
+CH6_TILLENDTIME_ENDING1-3=Ты хоть понимаешь...
+# Graff                                 
+CH6_TILLENDTIME_ENDING1-4=...что говоришь?
+# Graff                                 
+CH6_TILLENDTIME_ENDING1-5=Ты считаешь... что такое вообще возможно?
+# Brok                                 
+CH6_TILLENDTIME_ENDING1-6=Ты же знаешь Шэй.
+# Brok                                 
+CH6_TILLENDTIME_ENDING1-7=Если кто и мог сделать это реальным, то это она.
+# Graff                                 
+CH6_TILLENDTIME_ENDING1-8=...
+# Brok                                 
+CH6_TILLENDTIME_ENDING1-9=Черт... Закрыто.
+# Brok                                 
+CH6_TILLENDTIME_ENDING1-10=Жди здесь.
+#----------------------------------------------------
+# Graff                                 
+CH6_TILLENDTIME_TALK-1=...
+# Brok                                 
+CH6_TILLENDTIME_TALK-2=(Он с головой ушел в мысли.)
+#----------------------------------------------------
+# Brok                                 
+#In case we hit Graff during that scene
+CH6_TILLENDTIME_HITGRAFF2-1=Он без сознания...
+# Brok                                 
+CH6_TILLENDTIME_HITGRAFF2-2=Зачем я это сделал...?!
+#----------------------------------------------------
+# Brok                                 
+#Slumer (good) ending - Brok comes back after the big fight with Wes and sees Graff waiting for him
+CH6_STORY300_INITSLUMER1-1=Ты здесь...!
+# Brok                                 
+CH6_STORY300_INITSLUMER1-2=Слава небесам.
+# Graff                                 
+CH6_STORY300_INITSLUMER1-3=...
+# Graff                                 
+CH6_STORY300_INITSLUMER1-4=Тот мужик...
+# Graff                                 
+CH6_STORY300_INITSLUMER1-5=Ты же почти...
+# Brok                                 
+CH6_STORY300_INITSLUMER1-6=Знаю... Не нужно было так.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-7=Но...
+# Brok                                 
+CH6_STORY300_INITSLUMER1-8=Когда я увидел тебя таким, обездвиженны на полу...
+# Brok                                 
+CH6_STORY300_INITSLUMER1-9=Я не мог остановиться.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-10=Я никому не позволю причинить тебе боль. Никогда.
+# Graff                                 
+CH6_STORY300_INITSLUMER1-11=Никому, кроме себя...?
+# Brok                                 
+CH6_STORY300_INITSLUMER1-12=Что...?
+# Graff                                 
+CH6_STORY300_INITSLUMER1-13=Я знаю, что ты не нарочно, но...
+# Graff                                 
+CH6_STORY300_INITSLUMER1-14=...все твои действия и решения имеют ужасные последствия.
+# Graff                                 
+CH6_STORY300_INITSLUMER1-15=Сегодня... Я не прошел.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-16=О, нет...
+# Brok                                 
+CH6_STORY300_INITSLUMER1-17=Что произошло?
+# Graff                                 
+CH6_STORY300_INITSLUMER1-18=Я получил штраф...
+# Graff                                 
+CH6_STORY300_INITSLUMER1-19=Ты не должен был быть Драммером.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-20=Я? Драмер...?
+# Brok                                 
+CH6_STORY300_INITSLUMER1-21=А... Понятно...
+# Brok                                 
+CH6_STORY300_INITSLUMER1-22=Какой я дурак!
+# Graff                                 
+CH6_STORY300_INITSLUMER1-23=Ты не сказал мне правду... Опять.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-24=Ты прав... Я не думал, что это так важно.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-25=Два дня назад мне пришлось немного сжульничать, чтобы попасть под купол для расследования.
+# Brok                                 
+CH6_STORY300_INITSLUMER1-26=Я и подумать не мог...
+# Graff                                 
+CH6_STORY300_INITSLUMER1-27=...
+#----------------------------------------------------
+# Graff                                 
+CH6_STORY300_INITSLUMER2-1=Это не важно.
+# Brok                                 
+CH6_STORY300_INITSLUMER2-2=Как ты можешь такое говорить?
+# Brok                                 
+CH6_STORY300_INITSLUMER2-3=Я ведь разрушил твою мечту...
+# Brok                                 
+CH6_STORY300_INITSLUMER2-4=Послушай...
+# Brok                                 
+CH6_STORY300_INITSLUMER2-5=Я с этим разберусь.
+# Brok                                 
+CH6_STORY300_INITSLUMER2-6=Выход есть всегда.
+# Brok                                 
+CH6_STORY300_INITSLUMER2-7=Даже если мне опять придется пробираться через комнату, полную смертоносных лазеров...
+# Brok                                 
+CH6_STORY300_INITSLUMER2-8=Да. Я сделаю это!
+# Graff                                 
+CH6_STORY300_INITSLUMER2-9=...
+# Graff                                 
+CH6_STORY300_INITSLUMER2-10=Ты всегда оптимистично настроен...
+# Graff                                 
+CH6_STORY300_INITSLUMER2-11=Ты сказал, что никому не позволишь навредить мне.
+# Graff                                 
+CH6_STORY300_INITSLUMER2-12=Но... Ты не там ищешь проблему.
+# Graff                                 
+CH6_STORY300_INITSLUMER2-13=Несчастным я делаю себя сам...
+# Graff                                 
+CH6_STORY300_INITSLUMER2-14=Я - сплошная ощибка...
+# Brok                                 
+CH6_STORY300_INITSLUMER2-15=Это не правда, и ты это знаешь!
+# Graff                                 
+CH6_STORY300_INITSLUMER2-16=Ты не прав...
+# Graff                                 
+CH6_STORY300_INITSLUMER2-17=Сегодня... я сделал кое-что ужасное.
+# Graff                                 
+CH6_STORY300_INITSLUMER2-18=И, боюсь...
+# Graff                                 
+CH6_STORY300_INITSLUMER2-19=Когда ты об этом узнаешь... ты больше не знахочешь меня видеть.
+# Brok                                 
+CH6_STORY300_INITSLUMER2-20=Что бы ты ни сделал... я делал и похуже. Готов поспорить!
+# Brok                                 
+CH6_STORY300_INITSLUMER2-21=Давай, расскажи мне все.
+#----------------------------------------------------
+# Graff                                 
+CH6_STORY300_INITSLUMER3-1=Вот...
+# Brok                                 
+CH6_STORY300_INITSLUMER3-2=О...
+# Brok                                 
+CH6_STORY300_INITSLUMER3-3=Это должно было быть сюрпризом.
+# Graff                                 
+CH6_STORY300_INITSLUMER3-4=Сюрпризом...?
+# Brok                                 
+CH6_STORY300_INITSLUMER3-5=Когда мы сюда переехали, после того несчастного случая...
+# Brok                                 
+CH6_STORY300_INITSLUMER3-6=Неожиданно для меня, ответственность за тебя легла на мои плечи.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-7=Мы оставили все позади ради этого паршивого места, из-за меня.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-8=Я пообещал себе, что сделаю все, чтобы вернуть тебя в Драмс.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-9=Но ты не смог бы начать новую жизнь с пустыми карманами.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-10=Поэтому... я копил деньги.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-11=Пять лет. Перечислял по 50 юнисов в день на тот аккаунт.
+# Graff                                 
+CH6_STORY300_INITSLUMER3-12=Погоди...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-13=Это не мамины деньги...?
+# Brok                                 
+CH6_STORY300_INITSLUMER3-14=Нет.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-15=Она открыла для тебя аккаунт, но ни разу не делала зачислений.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-16=Возможно, тебе в это сложно поверить, но...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-17=О, Боже...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-18=Так даже хуже...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-19=Твои деньги...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-20=Я... Я потратил их.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-21=Что?
+# Graff                                 
+CH6_STORY300_INITSLUMER3-22=После оглашения результатов... Я был опустошен.
+# Graff                                 
+CH6_STORY300_INITSLUMER3-23=Отт и я нашли выход из ситуации. Он состоял в том, чтобы хакнуть компьютер в Центре.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-24=Значит... Хакер?
+# Graff                                 
+CH6_STORY300_INITSLUMER3-25=Да.
+# Graff                                 
+CH6_STORY300_INITSLUMER3-26=Я... отдал деньги ему...
+# Graff                                 
+CH6_STORY300_INITSLUMER3-27=А потом он сдал нас Визгунам.
+# Brok                                 
+CH6_STORY300_INITSLUMER3-28=Ууууу... Как же я его ненавижу!
+# Graff                                 
+CH6_STORY300_INITSLUMER3-29=Я... (хлюпает носом)
+# Graff                                 
+CH6_STORY300_INITSLUMER3-30=Я так виноват...!
+#----------------------------------------------------
+# Brok                                 
+CH6_STORY300_INITSLUMER4-1=Не переживай.
+# Graff                                 
+CH6_STORY300_INITSLUMER4-2=...
+# Graff                                 
+CH6_STORY300_INITSLUMER4-3=Ты... не в ярости?
+# Brok                                 
+CH6_STORY300_INITSLUMER4-4=Ну, не могу сказать, что новость меня порадовала...
+# Brok                                 
+CH6_STORY300_INITSLUMER4-5=Но и корить себя не стоит.
+# Brok                                 
+CH6_STORY300_INITSLUMER4-6=Ты сделал то, что посчитал правильным.
+# Brok                                 
+CH6_STORY300_INITSLUMER4-7=Это просто деньги. Еще достанем.
+# Graff                                 
+CH6_STORY300_INITSLUMER4-8=Значит... Ты прощаешь меня?
+# Brok                                 
+CH6_STORY300_INITSLUMER4-9=Конечно прощаю!
+# Graff                                 
+CH6_STORY300_INITSLUMER4-10=Почему...?
+# Graff                                 
+CH6_STORY300_INITSLUMER4-11=Ты же не должен!
+# Graff                                 
+CH6_STORY300_INITSLUMER4-12=Я просто маленький нытик... Слабак...
+# Graff                                 
+CH6_STORY300_INITSLUMER4-13=Ты стараешься изо всех сил, а я постоянно обвиняю тебя во всех своих проблемах...
+# Graff                                 
+CH6_STORY300_INITSLUMER4-14=Я просто жалок...
+# Graff                                 
+CH6_STORY300_INITSLUMER4-15=И не заслуживаю прощения!
+# Brok                                 
+CH6_STORY300_INITSLUMER4-16=Грэфф...
+# Graff                                 
+CH6_STORY300_INITSLUMER4-17=Почему ты так добр ко мне, когда вокруг столько людей, которые заслуживают этого гораздо больше, чем я?!
+# Graff                                 
+CH6_STORY300_INITSLUMER4-18=Я хочу знать!
+# Brok                                 
+CH6_STORY300_INITSLUMER4-19=Потому что...
+#----------------------------------------------------
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-1=Ты рядом.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-2=Ты рядом, когда я поздно возвращаюсь домой, и ты единственный, кто мне всегда рад за весь дерьмовый день.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-3=Ты рядом, когда я выбираю не первой свежести продукты, чтобы приготовить ужин.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-4=Ты рядом и притворяешься, что играешь в видеоигры, а сам поглядываешь, чем я занимаюсь.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-5=С того несчастного случая...
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-6=Ты всегда был рядом.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-7=Казалось бы, это все маленькие, незначительные детали.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-8=Но хочешь ты это признать или нет... Я знаю, что тоже тебе дорог.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-9=Мне хочется верить, что я забочусь о тебе, но...
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-10=На деле все наоборот.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-11=Ты - единственная причина, по которой я борюсь за жизнь.
+# Graff                                 
+CH6_STORY300_INITSLUMER4B-12=...
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-13=Когда я был твоего возраста... Я сам через это прошел.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-14=Дедуля говорил мне те же слова. Он сделал меня тем, кто я есть.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-15=Поэтому я не позволю тебе опустить руки!
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-16=Ты храбрый. Усердный.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-17=У тебя есть все, чтобы добиться в жизни, чего пожелаешь.
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-18=Просто доверься мне и поверь в себя.
+# Graff                                 
+CH6_STORY300_INITSLUMER4B-19=...
+# Graff                                 
+CH6_STORY300_INITSLUMER4B-20=Я тебе доверяю...
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-21=Тогда ты знаешь, что нужно сделать.
+# Graff                                 
+CH6_STORY300_INITSLUMER4B-22=Но...
+# Brok                                 
+CH6_STORY300_INITSLUMER4B-23=Никаких "но".
+# Graff                                 
+CH6_STORY300_INITSLUMER4B-24=...Ладно.
+#----------------------------------------------------
+# Graff                                 
+#Graff reacts to being touched. He hates that.
+CH6_STORY300_INITSLUMER5-1=Ух...!
+# Brok                                 
+CH6_STORY300_INITSLUMER5-2=Прости... Я просто хотел приободрить тебя...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-3=Знаю...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-4=Я... Я просто терпеть не могу, когда меня трогают...
+# Brok                                 
+CH6_STORY300_INITSLUMER5-5=Все хорошо. Я понимаю.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-6=Может, когда-нибудь и это изменится.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-7=Ну, что ж! Похоже, придется заставить хакера сделать его работу.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-8=Тебе ведь все еще нужно как-то попасть в Драмс...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-9=Нет!
+# Graff                                 
+CH6_STORY300_INITSLUMER5-10=Я не хочу.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-11=Что...?
+# Graff                                 
+CH6_STORY300_INITSLUMER5-12=Ты меня не слушаешь!
+# Graff                                 
+CH6_STORY300_INITSLUMER5-13=Я не хочу под Купол!
+# Graff                                 
+CH6_STORY300_INITSLUMER5-14=Потому что...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-15=Ты не сможешь там быть.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-16=Я хочу остаться с тобой.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-17=...
+# Brok                                 
+CH6_STORY300_INITSLUMER5-18=Грэфф... Это большая ошибка.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-19=Значит это моя ошибка. Мой выбор!
+# Graff                                 
+CH6_STORY300_INITSLUMER5-20=Пожалуйста... Пойми.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-21=Если ты действительно этого хочешь...
+# Brok                                 
+CH6_STORY300_INITSLUMER5-22=Хорошо.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-23=Должен признать... Я этому рад.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-24=Хотя мне непонятно, почему после всего, что мы пережили, ты хочешь продолжать жить такой ужасной жизнью.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-25=Она не такая!
+# Graff                                 
+CH6_STORY300_INITSLUMER5-26=Ты всегда защищал меня... Ты дал мне крышу над головой, еду...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-27=Я не жалею ни о секунду, проведенной здесь.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-28=Даже о тех моментах, когда мы ругались?
+# Graff                                 
+CH6_STORY300_INITSLUMER5-29=Да, даже о них.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-30=Потому что они помогли мне многое понять.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-31=Благодаря тебе, я понял, кто я на самом деле.
+# Graff                                 
+CH6_STORY300_INITSLUMER5-32=И это делает тебя лучшим детективом из всех.
+# Brok                                 
+CH6_STORY300_INITSLUMER5-33=Ну, не думаю, что я заслужил такой похвалы...
+# Graff                                 
+CH6_STORY300_INITSLUMER5-34=Значит, мы квиты!
+# Brok                                 
+CH6_STORY300_INITSLUMER5-35=Ха-ха! Точно!
+# Brok                                 
+CH6_STORY300_INITSLUMER5-36=Пора нам уже перестать себя жалеть.
+#----------------------------------------------------
+# Brok                                 
+CH6_STORY300_INITSLUMER6-1=...?
+# Brok                                 
+CH6_STORY300_INITSLUMER6-2=Это странно...
+# Brok                                 
+CH6_STORY300_INITSLUMER6-3=Что-то щекотится в кармане...
+#----------------------------------------------------
+# Graff                                 
+CH6_STORY300_INITSLUMER7-1=Конверт?
+# Brok                                 
+CH6_STORY300_INITSLUMER7-2="Откртой в момент отчаяния"...?
+# Brok                                 
+CH6_STORY300_INITSLUMER7-3=...!
+#----------------------------------------------------
+# Graff                                 
+CH6_STORY300_INITSLUMER8-1=Что произошло...?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-2=Не знаю...
+# Graff                                 
+CH6_STORY300_INITSLUMER8-3=А ты только что... не держал что-то в руках...?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-4=Разве...?
+# Graff                                 
+CH6_STORY300_INITSLUMER8-5=Ну... Это странно. Я не помню.
+# Brok                                 
+CH6_STORY300_INITSLUMER8-6=Ха-ха...
+# Brok                                 
+CH6_STORY300_INITSLUMER8-7=Приятно знать, что я не единственный, у кого провалы в памяти!
+# Graff                                 
+CH6_STORY300_INITSLUMER8-8=Да уж... Терять воспоминания вместе намного лучше!
+# Brok                                 
+CH6_STORY300_INITSLUMER8-9=Определенно!
+# Brok                                 
+CH6_STORY300_INITSLUMER8-10=Так-с! А как насчет того, чтобы создать новые воспоминания?
+# Graff                                 
+CH6_STORY300_INITSLUMER8-11=В смысле...?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-12=Пойдем, за мной!
+# Graff                                 
+CH6_STORY300_INITSLUMER8-13=Куда мы идем?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-14=Купить нормальной еды! В нашем холодильнике так же пусто, как в моем кошельке.
+# Brok                                 
+CH6_STORY300_INITSLUMER8-15=А когда мы вернемся...
+# Brok                                 
+CH6_STORY300_INITSLUMER8-16=Я приготовлю лучшее блюдо, каких ты никогда не пробовал!
+# Graff                                 
+CH6_STORY300_INITSLUMER8-17=Ууу... Идея хорошая!
+# Graff                                 
+CH6_STORY300_INITSLUMER8-18=Но у тебя же не осталось денег?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-19=Ну, скажем... День прошел не совсем впустую.
+# Brok                                 
+CH6_STORY300_INITSLUMER8-20=Ах, и еще ...
+# Brok                                 
+CH6_STORY300_INITSLUMER8-21=По дороге я приподнесу тебе сюрприз.
+# Graff                                 
+CH6_STORY300_INITSLUMER8-22=Хороший?
+# Brok                                 
+CH6_STORY300_INITSLUMER8-23=Отличный!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Brok bought tickets for the music band Graff wanted  (and invited Ott too)
+# *****************************************************************
+# Various                                 
+CH6_SLUMER_END1-1=Леди и джентльмены...
+# Various                                 
+CH6_SLUMER_END1-2=Пожалуйста попривествуйте нашумевшую группу, которую вы все так ждали...
+# Various                                 
+CH6_SLUMER_END1-3=MasterTweaks!
+# Graff                                 
+CH6_SLUMER_END1-4=Даже не знаю, как мне тебя отблагодарить за то, что купил эти билеты!
+# Ott                                 
+CH6_SLUMER_END1-5=Да! Спасибо, мистер Брок!
+# Brok                                 
+CH6_SLUMER_END1-6=Не за что, ребятки.
+# Graff                                 
+CH6_SLUMER_END1-7=Так... Когда ты переезжаешь, Отт?
+# Ott                                 
+CH6_SLUMER_END1-8=Завтра...
+# Ott                                 
+CH6_SLUMER_END1-9=На самом деле, я не уверен...
+# Ott                                 
+CH6_SLUMER_END1-10=Если ты остаешься здесь, значит...
+# Graff                                 
+CH6_SLUMER_END1-11=Отт, ты должен переехать!
+# Graff                                 
+CH6_SLUMER_END1-12=Ты так долго ради этого трудился!
+# Ott                                 
+CH6_SLUMER_END1-13=Как и ты. Что изменилось?
+# Graff                                 
+CH6_SLUMER_END1-14=Просто я понял...
+# Graff                                 
+CH6_SLUMER_END1-15=Что мое место здесь.
+# Ott                                 
+CH6_SLUMER_END1-16=...
+# Graff                                 
+CH6_SLUMER_END1-17=Но это ведь не значит, что мы не сможем работать вместе!
+# Graff                                 
+CH6_SLUMER_END1-18=Находясь по разные стороны, мы можем сотрудничать, чтобы лучше понять этот мир и усовершенствовать его.
+# Ott                                 
+CH6_SLUMER_END1-19=Может, ты и прав...
+# Ott                                 
+CH6_SLUMER_END1-20=У тебя все будет хорошо?
+# Graff                                 
+CH6_SLUMER_END1-21=Не беспокойся. Мы с Броком позаботимся друг о друге.
+# Ott                                 
+CH6_SLUMER_END1-22=(Вздыхает) Хорошо...
+# Ott                                 
+CH6_SLUMER_END1-23=Пойду принесу напитки!
+# Graff                                 
+CH6_SLUMER_END1-24=Давай!
+# Brok                                 
+CH6_SLUMER_END1-25=Мне горячую текущую воду!
+# Ott                                 
+CH6_SLUMER_END1-26=Ладно!
+#----------------------------------------------------
+# Brok                                 
+CH6_SLUMER_END2-1=У него все будет хорошо.
+# Graff                                 
+CH6_SLUMER_END2-2=Я знаю.
+# Brok                                 
+CH6_SLUMER_END2-3=Слушай...
+# Brok                                 
+CH6_SLUMER_END2-4=Завтра мне надо будет как-то заработать денег.
+# Brok                                 
+CH6_SLUMER_END2-5=Теперь, когда все утряслось, я вернусь к своим повседневным занятиям.
+# Brok                                 
+CH6_SLUMER_END2-6=Не хочешь помочь мне в этом?
+# Graff                                 
+CH6_SLUMER_END2-7=Правда?!
+# Brok                                 
+CH6_SLUMER_END2-8=Ну... Это будет не так увлекательно, как ты ожидаешь.
+# Brok                                 
+CH6_SLUMER_END2-9=Обычно я занимаюсь разными скучными простыми поручениями.
+# Graff                                 
+CH6_SLUMER_END2-10=Это не важно.
+# Graff                                 
+CH6_SLUMER_END2-11=Жду не дождусь!
+# Brok                                 
+CH6_SLUMER_END2-12=Отлично.
+# Brok                                 
+CH6_SLUMER_END2-13=...
+# Brok                                 
+CH6_SLUMER_END2-14=Грэфф...
+# Brok                                 
+CH6_SLUMER_END2-15=Есть еще кое-что, что я от тебя скрывал.
+# Brok                                 
+CH6_SLUMER_END2-16=И я чувствую, что никогда не заслужу твоего полного доверия, если не скажу тебе этого...
+# Brok                                 
+CH6_SLUMER_END2-17=У тебя есть семья.
+# Graff                                 
+CH6_SLUMER_END2-18=Спасибо... Я рад, что ты у меня есть.
+# Brok                                 
+CH6_SLUMER_END2-19=Нет. Я имею ввиду...
+# Brok                                 
+CH6_SLUMER_END2-20=Родственник, по маминой линии.
+# Graff                                 
+CH6_SLUMER_END2-21=Что...?
+# Brok                                 
+CH6_SLUMER_END2-22=У меня была причина тебе об этом не рассказывать, но...
+# Brok                                 
+CH6_SLUMER_END2-23=Что ж.
+# Brok                                 
+CH6_SLUMER_END2-24=Его зовут...
+# Graff                                 
+CH6_SLUMER_END2-25=Нет.
+# Brok                                 
+CH6_SLUMER_END2-26=Нет...?
+# Graff                                 
+CH6_SLUMER_END2-27=Не хочу знать.
+# Graff                                 
+CH6_SLUMER_END2-28=Я доверяю твоему решению.
+# Graff                                 
+CH6_SLUMER_END2-29=Ты единственная семья, которая мне нужна.
+# Brok                                 
+CH6_SLUMER_END2-30=...
+# Brok                                 
+CH6_SLUMER_END2-31=А ты моя.
+# Brok                                 
+CH6_SLUMER_END2-32=Спасибо, парнишка.
+# Brok                                 
+CH6_SLUMER_END2-33=Спасибо... что ты рядом.
+# Various                                 
+CH6_SLUMER_END2-34=(Аплодисменты)
+#----------------------------------------------------
+
+
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - When Graff hits Ott
+# *****************************************************************
+# Graff
+CH6_GRAFF_HITOTT3-1=...!
+# Graff
+CH6_GRAFF_HITOTT3-2=О... Н... Нет...!
+# Graff
+CH6_GRAFF_HITOTT3-3=Я стал... монстром... Аррр...
+# Graff
+CH6_GRAFF_HITOTT3-4=Не могу... дышать...
+# Graff
+CH6_GRAFF_HITOTT3-5=Помогите... (Кашляет)
+
+
+
+
+# Brok                                 
+CH6_CALL_STORY255-1=На это нет времени...!
+#----------------------------------------------------
+# Brok                                 
+CH6_CALL_STORY260-1=Тут связь не ловит...
+#----------------------------------------------------

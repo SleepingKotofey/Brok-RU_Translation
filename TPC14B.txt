@@ -1,0 +1,1128 @@
+#-------------------------------
+#=HACKER OUTSIDE
+#-------------------------------
+
+#----- Interactions --------
+PC_BACKSTREET=Переулок
+PC_TO_HACKER=На улицу хакера
+
+
+#----- Choices / Items --------
+GOT_PIPECHUNK=Кусок трубы!
+
+#----- Topics --------
+TOPIC_CONVINCE=Убедить
+TOPIC_ENTERING=Войти
+TOPIC_DISTRACT=Отвлечь
+TOPIC_PROVOKE=Спровоцировать
+
+PC14B_READY_CHOICE=Ты готов? Назад пути не будет!
+PC14B_READY_NOTYET=Еще рано
+
+
+#----- Dialog --------
+# *****************************************************************
+# CONTEXT - Day 2 - R.J. is guarding the entrance to the Hacker's place. He's angry at Brok because he either tricked him or knocked him out to escape jail
+# *****************************************************************
+# Brok                                 
+PC14B_RJ_FIRST1-1=...Р.Джей?
+# RJ                                 
+PC14B_RJ_FIRST1-2=...Ты!
+# RJ                                 
+PC14B_RJ_FIRST1-3=Из-за тебя...
+# RJ                                 
+PC14B_RJ_FIRST1-4=Это твоя вина!
+# Brok                                 
+PC14B_RJ_FIRST1-5=В смысле...
+# Brok                                 
+PC14B_RJ_FIRST1-6=Ааа... Я понял. Уэс говорил что-то о твоем увольнении...
+# RJ                                 
+PC14B_RJ_FIRST1-7=Да!
+# Brok                                 
+PC14B_RJ_FIRST1-8=Значит...
+# Brok                                 
+PC14B_RJ_FIRST1-9=А почему ты еще в полицейской форме?
+# RJ                                 
+PC14B_RJ_FIRST1-10=Босс захотел, чтобы я ее оставил себе.
+# Brok                                 
+PC14B_RJ_FIRST1-11=Вот как...
+# Brok                                 
+PC14B_RJ_FIRST1-12=В таком случае, на кого ты работаешь?
+# RJ                                 
+PC14B_RJ_FIRST1-13=Не твое дело.
+# Brok                                 
+PC14B_RJ_FIRST1-14=Ой, да ладно тебе! Очевидно же, что ты охраняешь вход.
+# RJ                                 
+PC14B_RJ_FIRST1-15=Сгинь отсюда.
+# Brok                                 
+PC14B_RJ_FIRST1-16=(Он не признается, но...)
+# Brok                                 
+PC14B_RJ_FIRST1-17=(Два к одному, что тот, кого я ищу, находится внутри!)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_CONVINCE1-1=Послушай...
+# Brok                                 
+PC14B_RJ_CONVINCE1-2=Мне очень жаль, что ты потерял работу. Я не хотел, чтобы так случилось.
+# RJ                                 
+PC14B_RJ_CONVINCE1-3=Чушь полнейшая...
+# Brok                                 
+PC14B_RJ_CONVINCE1-4=Мне просто было необходимо выбраться из той камеры, во что бы то ни стало.
+# Brok                                 
+PC14B_RJ_CONVINCE1-5=Понимаешь, у меня есть сын...
+# RJ                                 
+PC14B_RJ_CONVINCE1-6=Мне плевать.
+# Brok                                 
+PC14B_RJ_CONVINCE1-7=...Я дал ему обещание... И просто не мог его нарушить.
+# RJ                                 
+PC14B_RJ_CONVINCE1-8=Лжец.
+# Brok                                 
+PC14B_RJ_CONVINCE1-9=(Бесполезно. Надо попробовать что-то еще.)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_CONVINCE2-1=Расслабься. Тебе не о чем беспокоиться.
+# Brok                                 
+PC14B_RJ_CONVINCE2-2=В конце концов, ты же нашел новую работу, так?
+# Brok                                 
+PC14B_RJ_CONVINCE2-3=Такого здоровяка, как ты, много кто мог бы использовать в хозяйстве!
+# RJ                                 
+PC14B_RJ_CONVINCE2-4=Использовать...?
+# RJ                                 
+PC14B_RJ_CONVINCE2-5=Использовать меня?!
+# Brok                                 
+PC14B_RJ_CONVINCE2-6=Эмм... Я не то имел ввиду...
+# Brok                                 
+PC14B_RJ_CONVINCE2-7=Прости.
+# Brok                                 
+PC14B_RJ_CONVINCE2-8=Мы... мы ведь все еще друзья, правда...?
+# RJ                                 
+PC14B_RJ_CONVINCE2-9=Друзья?! Пффф!
+# Brok                                 
+PC14B_RJ_CONVINCE2-10=(Аррр! Всего слюнями обрызгал!)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_CONVINCE3-1=Скажи-ка, могу я для тебя что-нибудь сделать?
+# RJ                                 
+PC14B_RJ_CONVINCE3-2=Уйди с глаз долой.
+# Brok                                 
+PC14B_RJ_CONVINCE3-3=Ну...
+# Brok                                 
+PC14B_RJ_CONVINCE3-4=Этого я сделать не могу, но давай подумаем.
+# Brok                                 
+PC14B_RJ_CONVINCE3-5=Наверняка, есть что-то, что я мог бы сделать, чтобы заплатить по счетам?
+# RJ                                 
+PC14B_RJ_CONVINCE3-6=УБИРАЙСЯ!
+# Brok                                 
+PC14B_RJ_CONVINCE3-7=...Приму за положительный ответ.
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_THINK1-1=(Отличная работа, Брок...)
+# Brok                                 
+PC14B_RJ_THINK1-2=(Ты разрушил еще чью-то жизнь.)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_WELCOME1-1=Отличная работа, солдат! Ты и на миллиметр на сдвинулся!
+# RJ                                 
+PC14B_RJ_WELCOME1-2=...?
+# Brok                                 
+PC14B_RJ_WELCOME1-3=(Видимо, он никогда не состоял в армии)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_WELCOME2-1=Могу я войти?
+# RJ                                 
+PC14B_RJ_WELCOME2-2=Нет!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_WELCOME3-1=Ладно, значит, войти я не могу.
+# Brok                                 
+PC14B_RJ_WELCOME3-2=Дай мне хотя бы одним глазком глянуть!
+# RJ                                 
+PC14B_RJ_WELCOME3-3=У тебя же их два.
+# Brok                                 
+PC14B_RJ_WELCOME3-4=...(Вздыхает.)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_ENTER1-1=Предположим, что... Я не я.
+# RJ                                 
+PC14B_RJ_ENTER1-2=Ты... не ты?
+# Brok                                 
+PC14B_RJ_ENTER1-3=Да. Я - это кто-то другой.
+# RJ                                 
+PC14B_RJ_ENTER1-4=Ааа!
+# Brok                                 
+PC14B_RJ_ENTER1-5=Могу я тогда войти?
+# RJ                                 
+PC14B_RJ_ENTER1-6=Нет!
+# RJ                                 
+PC14B_RJ_ENTER1-7=Ты крок.
+# RJ                                 
+PC14B_RJ_ENTER1-8=Крокам нельзя.
+# Brok                                 
+PC14B_RJ_ENTER1-9=Но я ведь сказал, что я не я!
+# RJ                                 
+PC14B_RJ_ENTER1-10=...
+# RJ                                 
+PC14B_RJ_ENTER1-11=Хватит меня путать.
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_ENTER2-1=Значит... Крокам нельзя, да?
+# Brok                                 
+PC14B_RJ_ENTER2-2=А что, если я скажу... Что я, на самом деле, кот?
+# RJ                                 
+PC14B_RJ_ENTER2-3=Арр!
+# RJ                                 
+PC14B_RJ_ENTER2-4=Уйди отсюда! А то мне станет плохо!
+# Brok                                 
+PC14B_RJ_ENTER2-5=Верно... У тебя аллергия на кошачью шерсть.
+# Brok                                 
+PC14B_RJ_ENTER2-6=(Хмм...)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_ENTER3-1=(Судя по его ответам... Мне кажется, кого-то он внутрь пропускает.)
+# Brok                                 
+PC14B_RJ_ENTER3-2=(Но кого именно...?)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_ENTER_ELEPHANT-1=Я слон!
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-2=Да? Ясно.
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-3=Проходи.
+# Brok                                 
+PC14B_RJ_ENTER_ELEPHANT-4=(...!)
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-5=Стой!
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-6=Ты крок! Ты не слон!
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-7=Лжец!!!
+# Brok                                 
+PC14B_RJ_ENTER_ELEPHANT-8=Эмм... Но...
+# RJ                                 
+PC14B_RJ_ENTER_ELEPHANT-9=ПОШЕЛ!!!
+# Brok                                 
+PC14B_RJ_ENTER_ELEPHANT-10=(Блин... Почти сработало!)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_DISTRACT1-1=Смотри! Вон там!
+# Brok                                 
+PC14B_RJ_DISTRACT1-2=Летающий розовый слон!
+# RJ                                 
+PC14B_RJ_DISTRACT1-3=Да?
+# RJ                                 
+#RJ only allows elephants to enter but Brok doesn't know yet
+PC14B_RJ_DISTRACT1-4=Он может войти.
+# Brok                                 
+PC14B_RJ_DISTRACT1-5=...Что?
+# RJ                                 
+PC14B_RJ_DISTRACT1-6=Эй? Где тот слон?
+# Brok                                 
+PC14B_RJ_DISTRACT1-7=Он... улетел, наверное.
+# RJ                                 
+PC14B_RJ_DISTRACT1-8=Ааа.
+# Brok                                 
+PC14B_RJ_DISTRACT1-9=(...Что это сейчас было?)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_DISTRACT2-1=Я, кажется, слышу, как кто-то зовет тебя!
+# RJ                                 
+PC14B_RJ_DISTRACT2-2=Что? Где?
+# Brok                                 
+PC14B_RJ_DISTRACT2-3=Изнутри!
+# RJ                                 
+PC14B_RJ_DISTRACT2-4=Босс...?
+# RJ                                 
+PC14B_RJ_DISTRACT2-5=Я ничего не слышу.
+# Brok                                 
+PC14B_RJ_DISTRACT2-6=Уверен? Лучше проверь.
+# RJ                                 
+PC14B_RJ_DISTRACT2-7=Не. У меня хороший слух.
+# RJ                                 
+PC14B_RJ_DISTRACT2-8=Хватит пытаться меня надурить!
+# Brok                                 
+PC14B_RJ_DISTRACT2-9=(Видимо, он не такой уж и тупой...)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_DISTRACT3-1=(Его так просто не обманешь.)
+# Brok                                 
+PC14B_RJ_DISTRACT3-2=(Надо подумать...)
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PROVOKE1-1=Ага, ты получил то, что заслужил! Ты толстый... злодей!
+# RJ                                 
+PC14B_RJ_PROVOKE1-2=Что...?!
+# Brok                                 
+PC14B_RJ_PROVOKE1-3=Ой, я сказал злодей? Я имел ввиду... лакей!
+# RJ                                 
+PC14B_RJ_PROVOKE1-4=...
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PROVOKE2-1=Ты такой урод! Могу поспорить, твоя мама получила инфаркт, когда ты родился!
+# RJ                                 
+PC14B_RJ_PROVOKE2-2=.....
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PROVOKE3-1=Охрана - это прямо идеальная работа для тебя! Ты такой жирный, что тебя никто с места сдвинуть не сможет!
+# RJ                                 
+PC14B_RJ_PROVOKE3-2=.......
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PROVOKE4-1=Я куплю тебе зубную щетку! Судя по вони, исходящей из твоего рта, ты себе такую роскошь позволить не можешь.
+# RJ                                 
+PC14B_RJ_PROVOKE4-2=...........
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PROVOKE5-1=Итак, два банана заходят в бар и...
+# RJ                                 
+PC14B_RJ_PROVOKE5-2=ЗАТКНИСЬ!!!
+# Brok                                 
+PC14B_RJ_PROVOKE5-3=Но это хороший анекдот!
+# RJ                                 
+PC14B_RJ_PROVOKE5-4=ХВАТИТ!!!
+#----------------------------------------------------
+# RJ                                 
+#When we hit R.J., he doesn't seem to react
+PC14B_RJ_HIT1-1=...
+# Brok                                 
+PC14B_RJ_HIT1-2=Эмм...
+# Brok                                 
+PC14B_RJ_HIT1-3=(Никакой реакции...?)
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_HIT2-1=.......
+# Brok                                 
+PC14B_RJ_HIT2-2=Ой...!
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_HIT3-1=................
+# Brok                                 
+PC14B_RJ_HIT3-2=...
+# Brok                                 
+PC14B_RJ_HIT3-3=(Он что, статуя или вроде того?)
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_HIT4-1=........................
+# Brok                                 
+PC14B_RJ_HIT4-2=Ты прямо как боксерская груша! Это так забавно!
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_HIT5-1=СЕЙЧАС ТЫ ПОЛУЧИШЬ!!!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_EXIT1-1=Сдаюсь.
+# RJ                                 
+PC14B_RJ_EXIT1-2=Отлично!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_EXIT2-1=Я вернусь!
+# RJ                                 
+PC14B_RJ_EXIT2-2=Лучше не надо!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_INV_DEFAULT1-1=Вот тебе!
+# RJ                                 
+PC14B_RJ_INV_DEFAULT1-2=Что это?
+# Brok                                 
+PC14B_RJ_INV_DEFAULT1-3=Какая разница! Бери!
+# RJ                                 
+PC14B_RJ_INV_DEFAULT1-4=Нет.
+# Brok                                 
+PC14B_RJ_INV_DEFAULT1-5=Пфф... Мог бы хотя бы спасибо сказать!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_INV_DEFAULT2-1=Тебе это поможет, когда ты впадешь в зимнюю спячку?
+# RJ                                 
+PC14B_RJ_INV_DEFAULT2-2=Не-а. Я не впадаю в спячку.
+# Brok                                 
+PC14B_RJ_INV_DEFAULT2-3=Жаль. Это было бы очень полезно (для меня).
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_GAMEOVER1-1=Дурной крокодил!
+# RJ                                 
+PC14B_RJ_GAMEOVER1-2=Сломал тебе шею! Тупица!
+# RJ                                 
+PC14B_RJ_GAMEOVER1-3=...
+# RJ                                 
+PC14B_RJ_GAMEOVER1-4=О... Н-нет...
+# RJ                                 
+PC14B_RJ_GAMEOVER1-5=Я... я... убийца...?
+# RJ                                 
+PC14B_RJ_GAMEOVER1-6=...
+# RJ                                 
+PC14B_RJ_GAMEOVER1-7=Ты...
+# RJ                                 
+PC14B_RJ_GAMEOVER1-8=Ты испоганил мне жизнь! Еще больше!
+# RJ                                 
+PC14B_RJ_GAMEOVER1-9=АААРРРР!!! Я ТЕБЯ НЕНАВИЖУ!!!
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_BEATEN1-1=Он в порядке... Просто оглушен.
+# Brok                                 
+PC14B_RJ_BEATEN1-2=Мне не нравится так поступать, но... Ты меня вынудил, приятель.
+# Brok                                 
+PC14B_RJ_BEATEN1-3=Хотя, мне повезло, что я выжил... Удары у него тяжеленные!
+#----------------------------------------------------
+# RJ                                 
+PC14B_RJ_PREVENTS1-1=...
+# Brok                                 
+PC14B_RJ_PREVENTS1-2=Можно...?
+# RJ                                 
+PC14B_RJ_PREVENTS1-3=Не-а.
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PREVENTS2-1=Впусти меня!
+# RJ                                 
+PC14B_RJ_PREVENTS2-2=Нет.
+# Brok                                 
+PC14B_RJ_PREVENTS2-3=Но... Это вопрос жизни и смерти!
+# RJ                                 
+PC14B_RJ_PREVENTS2-4=Ну и помри.
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_WINGS1-1=Даже его не одурачить с помощью одних только этих крыльев...
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_PIPECHUNK1-1=Хмм... Одной только трубы не достаточно. Что можно с этим придумать...?
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_STRING1-1=Что-то я сомневаюсь, что получится связать его этой веревкой.
+#----------------------------------------------------
+# Brok                                 
+PC14B_RJ_IDEA1-1=Вроде, неплохой план! Но еще не идеален.
+# Brok                                 
+PC14B_RJ_IDEA1-2=Попробуем совместить это с чем-то еще!
+#----------------------------------------------------
+# Brok                                 
+#Brok disguised himself as an elephant to fool R.J.
+PC14B_RJ_DISGUISE1-1=...
+# RJ                                 
+PC14B_RJ_DISGUISE1-2=...?
+# RJ                                 
+#RJ doesn't recognize Brok under his disguise so he should talk in a formal way
+PC14B_RJ_DISGUISE1-3=Кто вы? Что вам нужно?
+# Brok                                 
+PC14B_RJ_DISGUISE1-4=(Кашляет)
+# Brok                                 
+PC14B_RJ_DISGUISE1-5=Могу ли... Я... войти...?
+# RJ                                 
+PC14B_RJ_DISGUISE1-6=Вы слон?
+# Brok                                 
+PC14B_RJ_DISGUISE1-7=Ага.
+# Brok                                 
+PC14B_RJ_DISGUISE1-8=В смысле... (Кхе) Ну разумеется.
+# RJ                                 
+PC14B_RJ_DISGUISE1-9=Хмм.
+# RJ                                 
+PC14B_RJ_DISGUISE1-10=Хорошо. Проходите.
+# Brok                                 
+PC14B_RJ_DISGUISE1-11=Отлично!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Room interactions
+# *****************************************************************
+# Brok                                 
+PC14B_PIPE1-1=Старая резиновая труба.
+# Brok                                 
+PC14B_PIPE1-2=Прошлые правители широко использовали такие в Сламс, поскольку они дешевле обычных...
+# Brok                                 
+PC14B_PIPE1-3=Пока не поняли, что эти штуки рассыпаются на части через несколько лет.
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPE2-1=Это просто рухлядь. Хотя, весьма любопытная рухлядь!
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPE_CUT1-1=Я уже взял себе лучшую часть. Ее должно хватить!
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPE_CUTTING1-1=Хмм...
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPE_CUTTING2-1=Эта часть не повреждена. Попробую отрезать здесь...
+# Brok                                 
+PC14B_PIPE_CUTTING2-2=И с другой стороны...
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPE_CUTTING3-1=Идеально!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 2 end of day - RJ isn't here
+# *****************************************************************
+# Brok                                 
+PC14B_DOOR_STORY190-1=Хмм... Похоже, мой друг-хакер куда-то ушел...
+# Brok                                 
+PC14B_DOOR_STORY190-2=Или заперся где-то.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Come to this room with Dr. Gherkin and meet R.J. again in front of the Hacker's entrance
+# *****************************************************************
+# Brok                                 
+PC14B_GHERKIN_FIRST-1=Р.Джей!
+# Gherkin                                 
+PC14B_GHERKIN_FIRST-2=Вы знаете этого полицейского?
+# Brok                                 
+PC14B_GHERKIN_FIRST-3=Да. Благодаря ему, тут безопасно.
+# Gherkin                                 
+PC14B_GHERKIN_FIRST-4=Х-хорошо. Тогда, я пойду вон туда, буду чинить пневмокапсулу.
+#----------------------------------------------------
+# RJ                                 
+#If R.J. has bad relationship with Brok
+PC14B_GHERKIN_FIRSTBAD-1=...
+# Brok                                 
+PC14B_GHERKIN_FIRSTBAD-2=Полагаю, тебя обратно приняли на работу...?
+# RJ                                 
+PC14B_GHERKIN_FIRSTBAD-3=Да.
+# RJ                                 
+PC14B_GHERKIN_FIRSTBAD-4=Но не благодаря тебе!
+# Brok                                 
+PC14B_GHERKIN_FIRSTBAD-5=Прости. Я собирался сегодня убедить его тебя вернуть, но ты меня опередил...
+#----------------------------------------------------
+# RJ                                 
+#If R.J. has good relationship with Brok
+PC14B_GHERKIN_FIRSTGOOD-1=Привет, дружище. (Кашляет)
+# Brok                                 
+PC14B_GHERKIN_FIRSTGOOD-2=Тебя приняли обратно на работу?
+# RJ                                 
+PC14B_GHERKIN_FIRSTGOOD-3=Да. Хакер передумал.
+# Brok                                 
+PC14B_GHERKIN_FIRSTGOOD-4=Я рад. Я хотел сам переубедить его, но ты меня опередил!
+#----------------------------------------------------
+# Brok                                 
+#Brok receives a text message on his phone
+PC14B_GHERKIN_FIRSTNEXT-1=...?
+# Brok                                 
+PC14B_GHERKIN_FIRSTNEXT-2=Очередное сообщение...
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_FIRST3-1=Ну хватит... Нужно прояснить ситуацию.
+# Brok                                 
+PC14B_GHERKIN_FIRST3-2=Кто мне их присылает?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Talk to R.J. who didn't take his pill and is very sick
+# *****************************************************************
+# RJ                                 
+PC14B_GHERKIN_RJ1-1=(Кашляет)
+# Brok                                 
+PC14B_GHERKIN_RJ1-2=Ты не очень хорошо выглядишь.
+# RJ                                 
+PC14B_GHERKIN_RJ1-3=Таблетку не выпил.
+# Brok                                 
+PC14B_GHERKIN_RJ1-4=Стоило догадаться.
+# Brok                                 
+PC14B_GHERKIN_RJ1-5=Потерпи немного. Тот доктор починит пневмокапсулы. Скоро ты сможешь получить свою таблетку.
+#----------------------------------------------------
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-1=Мне не нужна твоя помощь.
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-2=Да ладно тебе! Не будь дураком!
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-3=(Кашляет)
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-4=Ну, а пока... Я хотел бы пообщаться с твоим боссом.
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-5=Нет. Уходи.
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-6=Вот оно как, да...?
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-7=Ну ладно. Если ты хочешь подраться...
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-8=(Сильно кашляет)
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-9=Серьезно, мужик... Ты еле на ногах стоишь.
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-10=Тебе не победить.
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-11=...
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-12=Ладно... Плевать...
+# RJ                                 
+PC14B_GHERKIN_RJBAD1-13=Заходи...
+# Brok                                 
+PC14B_GHERKIN_RJBAD1-14=Правильное решение.
+#----------------------------------------------------
+# RJ                                 
+PC14B_GHERKIN_RJGOOD1-1=Хорошо. (Кашляет)
+# RJ                                 
+PC14B_GHERKIN_RJGOOD1-2=(Сильно кашляет)
+# Brok                                 
+PC14B_GHERKIN_RJGOOD1-3=(Надо бы за ним присмотреть... Он очень плох...)
+# Brok                                 
+PC14B_GHERKIN_RJGOOD1-4=Ну, а пока... Я хотел бы пообщаться с твоим боссом.
+# Brok                                 
+PC14B_GHERKIN_RJGOOD1-5=Могу я войти?
+# RJ                                 
+PC14B_GHERKIN_RJGOOD1-6=Да. Ты теперь клиент. (Кашляет)
+# Brok                                 
+PC14B_GHERKIN_RJGOOD1-7=Здорово, спасибо!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - After exiting the hacker's place, R.J. is on the ground, unconscious
+# *****************************************************************
+# Brok                                 
+PC14B_GHERKIN_RJ2-1=...!
+# RJ                                 
+PC14B_GHERKIN_RJ2-2=...
+# Brok                                 
+PC14B_GHERKIN_RJ2-3=Он еле дышит...
+# Brok                                 
+PC14B_GHERKIN_RJ2-4=Видимо, загрязнение воздуха его подкосило!
+# Brok                                 
+PC14B_GHERKIN_RJ2-5=Ситуация становится критической!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJ2B-1=Эй, доктор! Идите сюда...
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJ2C-1=Что?!
+# Brok                                 
+PC14B_GHERKIN_RJ2C-2=...Где он, черт побери?!
+# Brok                                 
+PC14B_GHERKIN_RJ2C-3=А, отлично... Я прямо-таки чувствовал, что все пройдет не по плану.
+# Brok                                 
+PC14B_GHERKIN_RJ2C-4=Р.Джей при смерти, доктор пропал. Сразу две экстренные ситуации...
+# Brok                                 
+PC14B_GHERKIN_RJ2C-5=Что мне делать?!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJ_COLLAPSED-1=...
+# Brok                                 
+PC14B_GHERKIN_RJ_COLLAPSED-2=Не хорошо...
+# Brok                                 
+PC14B_GHERKIN_RJ_COLLAPSED-3=Если ему не помочь, лучше ему не станет!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_CANTMOVE-1=(Лучше не двигаться с места, пока доктор Геркин не закончит)
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Jumping on RJ while he's collapsed...
+# *****************************************************************
+# Brok                                 
+PC14B_RJ_JUMPON-1=Ну же, мужик!
+# Brok                                 
+PC14B_RJ_JUMPON-2=Просыпайся!
+# Brok                                 
+PC14B_RJ_JUMPON-3=...
+# Brok                                 
+PC14B_RJ_JUMPON-4=Это не помогает.
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJ_BADSHAPE-1=Он плохо выглядит... Что мне делать...?
+#----------------------------------------------------
+# Brok                                 
+#Too late
+PC14B_GHERKIN_RJ_DEAD-1=...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Giving him a pill
+# *****************************************************************
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-1=Вот! Выпей!
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-2=...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-3=Будем надеяться, поможет...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-4=(Вздыхает) Меня уже тошнит...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-5=Тошнит от страданий...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-6=Чем больше я борюсь за светлое будущее... Тем хуже становится...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-7=В чем смысл жизни в таком месте?
+# RJ                                 
+PC14B_GHERKIN_RJ_GIVEPILL-8=...В друзьях...
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-9=...!
+# RJ                                 
+PC14B_GHERKIN_RJ_GIVEPILL-10=...Жизнь дана для того... Чтобы заводить друзей.
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL-11=Я уж думал, ты впал в спячку, большой медведь!
+# RJ                                 
+PC14B_GHERKIN_RJ_GIVEPILL-12=Ты спас меня!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL2-1=Ох!
+# RJ                                 
+PC14B_GHERKIN_RJ_GIVEPILL2-2=Друг мой!
+# RJ                                 
+PC14B_GHERKIN_RJ_GIVEPILL2-3=Я твой должник!
+# Brok                                 
+PC14B_GHERKIN_RJ_GIVEPILL2-4=Да ладно. Ты бы сделал для меня то же самое!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDALONE1-1=Вообще-то... Ты можешь мне помочь.
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDALONE1-2=Ученый, который был со мной, куда-то исчез. Я должен был его охранять, но...
+# RJ                                 
+PC14B_GHERKIN_RJSAVEDALONE1-3=Не беспокойся.
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDALONE1-4=Ты знаешь где он?
+# RJ                                 
+PC14B_GHERKIN_RJSAVEDALONE1-5=Да. Тут.
+#----------------------------------------------------
+# Brok                                 
+#Dr Gherkin suddenly comes back
+PC14B_GHERKIN_RJSAVEDALONE2-1=Где вас, черт возьми, носило?!
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVEDALONE2-2=П-простите! Вас довольно долго не было...
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVEDALONE2-3=Я услышал шум... запаниковал...
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDALONE2-4=(Вздыхает)
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDALONE2-5=Никогда так больше не делайте.
+#----------------------------------------------------
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVEDGHERKIN1-1=Я рад, что ваш друг вне опасности.
+# Brok                                 
+PC14B_GHERKIN_RJSAVEDGHERKIN1-2=Может, продолжим наш поход?
+#----------------------------------------------------
+# Gherkin                                 
+#At this point we don't know who the journalist is yet
+PC14B_GHERKIN_RJSAVED_AFTER-1=Когда я отходил... Со мной связался журналист.
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVED_AFTER-2=Он хочет распространить информацию о том, что тут происходит, в СМИ.
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-3=Мне кажется, у нас есть дела поважнее.
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVED_AFTER-4=Р-разве нам не пригодится любая помощь?
+# Gherkin                                 
+PC14B_GHERKIN_RJSAVED_AFTER-5=Он будет ждать нас в Секторе 56-Экс. Нам это по пути.
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-6=Как пожелаете.
+# RJ                                 
+PC14B_GHERKIN_RJSAVED_AFTER-7=Я с вами.
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-8=Не надо...
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-9=Ты получил работу. Держись за нее.
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-10=Этот хакер, может, и подлец, но он все еще ценный человек и нуждается в защите.
+# RJ                                 
+PC14B_GHERKIN_RJSAVED_AFTER-11=Хорошо, друг.
+# RJ                                 
+PC14B_GHERKIN_RJSAVED_AFTER-12=Если понадоблюсь... Приходи.
+# RJ                                 
+PC14B_GHERKIN_RJSAVED_AFTER-13=Я остаюсь здесь.
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-14=Спасибо...
+# Brok                                 
+PC14B_GHERKIN_RJSAVED_AFTER-15=Пойдемте, доктор!
+#----------------------------------------------------
+# RJ                                 
+PC14B_GHERKIN_RJAFTERSAVED-1=Я остаюсь тут. Идите!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Pipe pill interactions
+# *****************************************************************
+# Brok                                 
+PC14B_PIPEPILL_DAY2-1=Кажется, сломана...
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPEPILL_DAY3-1=Как я и думал. Ни одной таблетки.
+#----------------------------------------------------
+# Brok                                 
+#When R.J. is unconscious he desperately need a pill
+PC14B_PIPEPILL_GHERKINGONE-1=Пожалуйста, пожалуйста, пожалуйста, пожалуйста...
+# Brok                                 
+PC14B_PIPEPILL_GHERKINGONE-2=...
+# Brok                                 
+PC14B_PIPEPILL_GHERKINGONE-3=Аррр! Не работает!
+#----------------------------------------------------
+# Brok                                 
+PC14B_PIPEPILL_HIT-1=Давай же, рухлядь! Дай таблетку!
+#----------------------------------------------------
+# Brok                                 
+PC14B_HACKER_GHERKIN_NOPE-1=Нет... Он не поможет.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Coming back with Gherkin when RJ is unconscious, this time it's too late
+# *****************************************************************
+# Gherkin                                 
+PC14B_GHERKIN_BACK1-1=Скорее! Проверьте, как там ваш друг!
+#----------------------------------------------------
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-1=Нет... Он не дышит!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-2=Давай, медведь... Сейчас не время впадать в спячку!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-3=...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-4=Не хорошо...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-5=Вы же доктор! Сделайте что-нибудь!!!
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-6=Я не по этой части доктор!
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-7=Но... Дай-ка взгляну...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-8=...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-9=...Пульса нет...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-10=Боюсь... уже слишком поздно.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-11=Нет...!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-12=Неужели... Неужели я опоздал...?
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-13=Я отказываюсь в это верить...!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-14=(Бьет) Проснись!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-15=(Бьет) ПРОСНИСЬ!
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-16=Прекратите!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-17=...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-18=Я... Я не был с ним близко знаком, но...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-19=Я... ненавижу...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-20=Терять кого-либо...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-21=Разумеется... Как и все.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-22=...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-23=Мы все... умрем.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-24=В конечном итоге, да.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-25=В смысле...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-26=Все в Сламс. Если нас убьет не загрязнение, то... Триботы... Визгуны...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-27=Все против нас... Разве у нас есть выбор?
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-28=В чем смысл всего этого...?
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-29=Нет!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-30=...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-31=В-вы правы. Возможно, у нас ничего не получится.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-32=А вы умеете поддержать...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-33=Но я здесь не просто так! Мы не можем сдаться сейчас!
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-34=По крайней мере... Мы должны попытаться.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-35=...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-36=Вы правы... Конечно...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-37=Но я уже устал сражаться ни за что...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-38=Я не случайно выбрал именно вас, мистер крокодил-детектив. Вы не похожи на других.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-39=Я в вас верю!
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-40=...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-41=Послушайте.
+# Gherkin                                 
+#This part is very similar to PC14B_GHERKIN_RJSAVED_AFTER
+PC14B_GHERKIN_TOOLATE-42=Пока вас не было, со мной связался журналист.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-43=Он хочет распространить информацию о том, что тут происходит, в СМИ.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-44=Он будет ждать нас в Секторе 56-Экс. Нам это по пути.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-45=Ясно... Как скажете.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-46=Ах да... И...
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-47=Я бы вызвал службу утилизации тел, но... В нашем положении...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-48=Да. Вызывать сюда ботов - не лучшая идея.
+# Gherkin                                 
+PC14B_GHERKIN_TOOLATE-49=Простите. Нам пора.
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-50=...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-51=Прощай, Р. Джей...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-52=Где бы ты сейчас ни был...
+# Brok                                 
+PC14B_GHERKIN_TOOLATE-53=Передай Лии... Я тут еще немного задержусь.
+#----------------------------------------------------
+# Gherkin                                 
+PC14B_GHERKIN_GOAWAYRJ-1=Куда вы идете? Я думал, вы поможете медведю.
+# Brok                                 
+PC14B_GHERKIN_GOAWAYRJ-2=Ой!
+#----------------------------------------------------
+# Brok                                 
+#He's referring to the hacker.
+PC14B_GHERKIN_RJDEAD_ENTER-1=Я не хочу заходить... Этому парню на все наплевать.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Looking for Graff at the end of the day
+# *****************************************************************
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-1=Привет, Р.Джей!
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-2=Ты как?
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-3=Отлично! Спасибо еще раз.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-4=Но ты...
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-5=Выглядишь встревоженным.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-6=Да... Я ищу своего мальчишку.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-7=Мальчишку...?
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-8=Серый кот. 16 лет. Голубые глаза. И...
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-9=Немного депрессивный вид.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-10=А! Я видел его!
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-11=Да...? Уверен...?
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-12=Да. Сегодня днем.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-13=Он был с другом. С кем-то, похожим на свинью или выдру.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-14=Видимо, это был Отт... Что они здесь делали...?
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-15=Спрашивали всякое. Про пневмокапсулы.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-16=Я сказал им, что все украли Визгуны. Они отправились в переулок.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-17=В переулок...?!
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-18=Я им сказал не ходить.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1-19=Но дети никогда не слушаются.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-20=Грэфф... Во что ты полез...
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1-21=Я должен идти.
+#----------------------------------------------------
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-1=Постой!
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-2=Я с тобой.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1B-3=Спасибо, но... Я сам справлюсь.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-4=Это моя вина. Я должен был быть более настойчивым!
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-5=Визгуны хорошие бойцы. Тебе понадобится моя помощь.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1B-6=А как насчет твоего босса?
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-7=Да плевать. Он и не заметит.
+# Brok                                 
+PC14B_LOOKGRAFF_RJ1B-8=Ясно. Спасибо, приятель...
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-9=Итак! Ты готов?
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-10=Возможно, мы встретим толпу Визгунов.
+# RJ                                 
+PC14B_LOOKGRAFF_RJ1B-11=Если нас окружат... Отступать будет некуда.
+#----------------------------------------------------
+# Brok                                 
+PC14B_LOOKGRAFF_NOTYET1-1=Ты прав... Мы не можем запрыгнуть в логово ко льву без должной подготовки.
+# RJ                                 
+PC14B_LOOKGRAFF_NOTYET1-2=Вот именно.
+# RJ                                 
+PC14B_LOOKGRAFF_NOTYET1-3=Я подожду здесь.
+# Brok                                 
+PC14B_LOOKGRAFF_NOTYET1-4=Я быстро!
+#----------------------------------------------------
+# Brok                                 
+PC14B_LOOKGRAFF_YES1-1=Мы не можем терять время! Он может быть в опасности!
+# RJ                                 
+PC14B_LOOKGRAFF_YES1-2=Хорошо. Пойдем!
+#----------------------------------------------------
+# RJ                                 
+PC14B_LOOKGRAFF_RJ2-1=Ну...? Готов?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Get Shay's material from this room
+# *****************************************************************
+# Brok                                 
+PC14B_MATERIAL1-1=Хех. Я как знал, что под трубами будут кабели!
+#----------------------------------------------------
+
+
+# Director                                 
+PC14B_DIRECTOR_ASK-1=Люди и роботы... Мы не такие уж и разные.
+# Director                                 
+PC14B_DIRECTOR_ASK-2=Люди используют лишь малую долю возможностей головного мозга.
+# Director                                 
+PC14B_DIRECTOR_ASK-3=Но это еще не все. Большинство человеческих генов состоит из мусора ДНК... Ненужных следов прошедшей эволюции.
+# Brok                                 
+PC14B_DIRECTOR_ASK-4=Не понимаю...
+# Director                                 
+PC14B_DIRECTOR_ASK-5=Ну... Все роботы создавались с гораздо более широким диапазоном возможностей, чем используют на деле.
+# Director                                 
+PC14B_DIRECTOR_ASK-6=Несмотря на то, что я особая модель, база у меня такая же.
+# Director                                 
+PC14B_DIRECTOR_ASK-7=Без риска повредить оборудование я могу делать только то, ради чего была создана.
+# Brok                                 
+PC14B_DIRECTOR_ASK-8=В смысле...
+# Director                                 
+PC14B_DIRECTOR_ASK-9=Я хочу улучшить свои возможности.
+# Brok                                 
+PC14B_DIRECTOR_ASK-10=А так можно? Наверняка есть какая-то причина, почему возможности роботов ограничивают?
+# Director                                 
+PC14B_DIRECTOR_ASK-11=...Вы правы.
+# Director                                 
+PC14B_DIRECTOR_ASK-12=Именно поэтому... Мне нужно, чтобы вы держали все в тайне.
+# Director                                 
+PC14B_DIRECTOR_ASK-13=Я... Я хочу сделать сюрприз своему сыну.
+# Brok                                 
+PC14B_DIRECTOR_ASK-14=Хмм...
+
+
+
+
+# Brok                                 
+PC14B_DIRECTOR_ACCEPT-6=(Не скажу, что понял, как она собирается использовать этот "сюрприз сыну", но...)
+# Brok                                 
+PC14B_DIRECTOR_ACCEPT-7=(Если это поможет Грэффу... Больше меня ничего не волнует.)
+# Brok                                 
+PC14B_DIRECTOR_ACCEPT-8=Хорошо. Я этим займусь!
+
+
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-2=Простите за мое... бесстыжее любопытство...
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-3=А вы... робот-женщина?
+# Director                                 
+PC14B_DIRECTOR_HERSELF1-4=...Да.
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-5=Я... Я раньше никогда не встречал роботов, которые говорят и ведут себя, как люди.
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-6=Вы... отличаетесь.
+# Director                                 
+PC14B_DIRECTOR_HERSELF1-7=Я особая модель...
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-8=Есть другие, похожие на вас?
+# Director                                 
+PC14B_DIRECTOR_HERSELF1-9=Ну...
+# Director                                 
+PC14B_DIRECTOR_HERSELF1-10=Только один. И он гораздо более утонченный, чем я.
+# Director                                 
+PC14B_DIRECTOR_HERSELF1-11=Вообще-то, вы с ним уже встречались...
+# Brok                                 
+PC14B_DIRECTOR_HERSELF1-12=Разве...?
+
+PC_ASKMORE=Попросить больше информации
+PC_REFUSE=Отказаться
+PC_ACCEPT=Согласиться?
+#----------------------------------------------------
+# Brok
+PC14B_PIPEPILL_STILLNOT-1=Почему эта штука не работает?!
+#----------------------------------------------------
+# Gherkin
+PC14B_GHERKIN_GIVEPILL-1=Таблеточка!
+#----------------------------------------------------
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-1=...
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-2=Мистер Брок.
+# Brok
+PC14B_DIRECTOR_ALTERNATIVE-3=Здрасьте! Вы же...
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-4=Директриса Центра. Мы с вами виделись вчера на ярмарке.
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-5=Я не должна с вами об этом говорить, но...
+# Brok
+PC14B_DIRECTOR_ALTERNATIVE-6=...?
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-7=Вы здесь, видимо, чтобы встретиться с Мраком.
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-8=Мне... кое-что от него нужно.
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-9=А конкретно - чип само-модификации.
+# Director
+PC14B_DIRECTOR_ALTERNATIVE-10=Он отказывается давать его мне... потому, что я робот.
+# Brok
+PC14B_DIRECTOR_ALTERNATIVE-11=Само... модификации?
+#----------------------------------------------------
+# Brok
+PC14B_DIRECTOR_ACCEPT-1=Хорошо. А что я получу взамен?
+# Director
+PC14B_DIRECTOR_ACCEPT-2=Мы оцениваем отношения между учащимися и их родителями.
+# Brok
+PC14B_DIRECTOR_ACCEPT-3=То есть... это поможет Грэффу?
+# Director
+PC14B_DIRECTOR_ACCEPT-4=Верно.
+# Director
+PC14B_DIRECTOR_ACCEPT-5=Если сможете выполнить мою просьбу, он получит бонусные очки.
+# Director
+PC14B_DIRECTOR_ACCEPT-9=И мои слова благодарности от всего сердца.
+# Brok
+PC14B_DIRECTOR_ACCEPT-10=(Сердца?)
+# Director
+PC14B_DIRECTOR_ACCEPT-11=Пожалуйста, держите меня в курсе дела.
+#----------------------------------------------------
+# Brok
+PC14B_DIRECTOR_REFUSE-1=Простите. Я сейчас очень занят.
+# Director
+PC14B_DIRECTOR_REFUSE-2=Ох...
+# Director
+PC14B_DIRECTOR_REFUSE-3=Я понимаю. Найду другой способ.
+#----------------------------------------------------
+# Brok
+PC14B_DIRECTOR_HERSELF1-1=Погодите...!
+# Director
+PC14B_DIRECTOR_HERSELF1-13=До свидания.
+#----------------------------------------------------
+# Brok
+PC14B_DIRECTOR_AFTER-1=...
+#----------------------------------------------------
+# Brok
+PC14B_HACKER_GHERKIN_USELESS-1=Он безнадежен.
+#----------------------------------------------------
+# RJ
+PC14B_RJ_HITAFTER-1=Щекотно!
+
+
+#----------------------------------------------------
+# RJ
+PC14B_RJ_INV_MONEY-1=...
+# Brok
+PC14B_RJ_INV_MONEY-2=Вот. Это тебе.
+# RJ
+PC14B_RJ_INV_MONEY-3=...
+# Brok
+PC14B_RJ_INV_MONEY-4=Ну же! Бери!
+# RJ
+PC14B_RJ_INV_MONEY-5=Читай по губам.
+# RJ
+PC14B_RJ_INV_MONEY-6=НЕТ!
+#----------------------------------------------------
+# RJ
+PC14B_RJ_CATFUR1-1=А--пхии!
+# RJ
+PC14B_RJ_CATFUR1-2=Аррр!
+# RJ
+PC14B_RJ_CATFUR1-3=Держись от меня подальше! Иначе мне станет плохо!
+#----------------------------------------------------
+# RJ
+PC14B_RJ_CATFUR2-1=А--пхии!
+# RJ
+PC14B_RJ_CATFUR2-2=Опять?! Перестань!
+# Brok
+PC14B_RJ_CATFUR2-3=(Это не сработает...)
+
+
+PC14B_HACKER_DEAD-1=Он мертв!
+
+
+
+
+#----------------------------------------------------
+# Неизвестно
+COOP_PC14B_RJ1-1=Если вы подойдете близко, он либо обнимет вас, либо задавит вас до смерти.
+# Неизвестно
+COOP_PC14B_RJ1-2=Нет промежуточных вариантов.
+

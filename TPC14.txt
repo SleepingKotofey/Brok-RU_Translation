@@ -1,0 +1,532 @@
+#-------------------------------
+#= HACKER BACK STREET
+#-------------------------------
+
+#----- Interactions --------
+PC_STATUE=Статуя
+PC_WINGS=Крылья
+PC_PLANK=Доска
+PC_BRACKET=Крепеж
+PC_STRING=Веревка
+PC_TO_HACKER=На улицу Хакера
+PC_TRASHCONTAINER=Мусорный контейнер
+
+#----- Choices / Items --------
+
+GOT_WINGS=Пластиковые крылья!
+GOT_STRING=Веревка!
+
+CHOICE_GODEE=Спасти Сламс
+CHOICE_KEEPLOOKING=Спасти Грэффа
+
+#----- Topics --------
+
+
+#----- Dialog --------
+# *****************************************************************
+# CONTEXT - Brok comes to this street for the first time
+# *****************************************************************
+# Brok                                 
+PC14_INTRO1-1=Фуу... Ну и вонь...
+# Brok                                 
+PC14_INTRO1-2=Хакер должен быть где-то здесь. Надо найти его поскорее, пока меня не стошнило...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Brok comes back to this street just after losing the fight and wonders what happened (time reverted itself)
+# *****************************************************************
+# Brok                                 
+PC14_INTRO2-1=...
+# Brok                                 
+PC14_INTRO2-2=Эта вонь...
+# Brok                                 
+PC14_INTRO2-3=И...
+# Brok                                 
+PC14_INTRO2-4=Такое знакомое чувство...
+# Brok                                 
+PC14_INTRO2-5=Будто... Я...
+# Brok                                 
+PC14_INTRO2-6=Проиграл в бою...
+# Brok                                 
+PC14_INTRO2-7=И погиб...?
+# Brok                                 
+PC14_INTRO2-8=Хмм...
+# Brok                                 
+PC14_INTRO2-9=Лучше здесь не задерживаться. У меня плохое предчувствие насчет этого места.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Rats ambush Brok
+# *****************************************************************
+# Rat                                 
+PC14_BADGUYS1-1=Куда-то собрался, крок?
+# Brok                                 
+PC14_BADGUYS1-2=Отстаньте. Мне не нужны неприятности.
+# Rat                                 
+PC14_BADGUYS1-3=Хааа...
+# Rat                                 
+PC14_BADGUYS1-4=Тогда те не стоило доставлять неприятности нам.
+# Brok                                 
+PC14_BADGUYS1-5=Что...?
+# Rat                                 
+PC14_BADGUYS1-6=Не прикидывайся идиотом.
+# Rat                                 
+PC14_BADGUYS1-7=Ты проявил неуважуху к нашему боссу. Напал на него...
+# Brok                                 
+PC14_BADGUYS1-8=...и унизил его. Да, я помню.
+# Brok                                 
+PC14_BADGUYS1-9=Он сам напросился.
+# Dart                                 
+PC14_BADGUYS1-10=Никто не может нападать на босса безнаказанно!
+# Brok                                 
+PC14_BADGUYS1-11=Уйдите с дороги, пока я не...
+# Dart                                 
+PC14_BADGUYS1-12=Пока ты не че?
+# Dart                                 
+PC14_BADGUYS1-13=Ты от нас никуда не денешься. Ща у нас получишь по заслугам.
+# Brok                                 
+PC14_BADGUYS1-14=Правда что ли? Сильно сомневаюсь!
+# Brok                                 
+PC14_BADGUYS1-15=Ну же, нападайте!
+# Dart                                 
+PC14_BADGUYS1-16=Ты труп!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Brok loses the fight
+# *****************************************************************
+# Rat                                 
+PC14_BADGUYS_LOSE-1=Ха-ха! Получил!
+# Rat                                 
+PC14_BADGUYS_LOSE-2=И кто терь обнижен, а?!
+# Dart                                 
+PC14_BADGUYS_LOSE-3="Унижен", тупица!
+# Rat                                 
+PC14_BADGUYS_LOSE-4=Да-да, ну, он не двигается и холодный.
+# Rat                                 
+PC14_BADGUYS_LOSE-5=Давайте отнесем эту тушку боссу. Он нас наградит!
+# Dart                                 
+PC14_BADGUYS_LOSE-6=Ага!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - We win the fight - but actually more rats come and Brok loses anyway
+# *****************************************************************
+# Brok                                 
+PC14_BADGUYSWON1-1=...
+#----------------------------------------------------
+# Brok                                 
+PC14_BADGUYSWON2-1=Черт...
+# Rat                                 
+PC14_BADGUYSWON2-2=Мы загнали его в угол!
+# Rat                                 
+PC14_BADGUYSWON2-3=Ты отсюда живым не уйдешь!
+# Brok                                 
+PC14_BADGUYSWON2-4=Это мы еще посм...
+#----------------------------------------------------
+# Brok                                 
+PC14_BADGUYSWON3-1=Агх! Не может быть!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Room interactions
+# *****************************************************************
+# Brok                                 
+PC14_STATUE1-1=Это статуя Антейл?
+# Brok                                 
+PC14_STATUE1-2=Не в лучшем своем виде...
+#----------------------------------------------------
+# Brok                                 
+PC14_STATUE2-1=Эти крылья не похожи на часть статуи...
+# Brok                                 
+PC14_STATUE2-2=Больше похоже на то, что кто-то заменил оригинальные крылья на легкий дешевый пластик.
+#----------------------------------------------------
+# Brok                                 
+PC14_STATUE_DESTROYED1-1=Приношу извинения скульптору, кем бы он ни был...
+# Brok                                 
+PC14_STATUE_DESTROYED1-2=Честно говоря, я просто ускорил процесс. В конечном счете, это бы сделало время.
+#----------------------------------------------------
+# Brok                                 
+#Trying to pick up the wings
+PC14_WINGS1-1=...Ухх!
+# Brok                                 
+PC14_WINGS1-2=Несмотря на дешевый вид, эти крылья так просто не снять...
+#----------------------------------------------------
+# Brok                                 
+PC14_WINGS_PICK1-1=Заберу эти крылья.
+# Brok                                 
+PC14_WINGS_PICK1-2=Кто знает... Может они пригодятся.
+#----------------------------------------------------
+# Brok                                 
+PC14_PLANK1-1=Похоже на одну из этих выдвижных скамеек.
+#----------------------------------------------------
+# Brok                                 
+PC14_STRING_TOOFAR-1=Грязные рваные вещи... Видимо, висят тут очень давно.
+# Brok                                 
+PC14_STRING_TOOFAR-2=Думаю, никто не будет против, если их кто-то заберет, но они слишком далеко.
+#----------------------------------------------------
+# Brok                                 
+PC14_STRING_TAKE-1=Ага... Эта веревка может мне пригодиться.
+#----------------------------------------------------
+# Brok                                 
+PC14_STRING_TAKE2-1=...Порвана пополам.
+#----------------------------------------------------
+# Brok                                 
+PC14_STRING_TAKE3-1=Ну, что ж. Этого должно хватить.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Before fight (coming back from VR fight day 2)
+# *****************************************************************
+# Brok                                 
+PC14_STORY180_FIRST-1=Я начинаю переживать за Шэй. В последнее время все мои знакомые ведут себя странно...
+#----------------------------------------------------
+# Dart                                 
+PC14_BADGUYS2-1=Собрался куда-нить, крок?
+# Brok                                 
+PC14_BADGUYS2-2=Странно... Почему у меня возникло чувство дежавю...?
+# Dart                                 
+PC14_BADGUYS2-3=Мы не в том настроении, чтобы шутки шутить.
+# Brok                                 
+PC14_BADGUYS2-4=Отстаньте. Мне не нужны неприятности.
+# Dart                                 
+PC14_BADGUYS2-5=Конечно. Отдавай нам все, что у тебя есть, и можешь идти.
+# Brok                                 
+PC14_BADGUYS2-6=Только через мой труп, дружок.
+# Rat                                 
+PC14_BADGUYS2-7=Эмм... Дарт, ты уверен?
+# Rat                                 
+PC14_BADGUYS2-8=Ну, типа... В тот раз он нас побил...
+# Dart                                 
+PC14_BADGUYS2-9=Трус! Нас больше!
+# Dart                                 
+PC14_BADGUYS2-10=Он ниче не сможет нам сделать, пока мы вместе!
+# Dart                                 
+PC14_BADGUYS2-11=Вперед, парни! Этот крок отдаст нам то, что принадлежит нам по праву.
+# Dart                                 
+PC14_BADGUYS2-12=Хочет он того или нет!
+# Brok                                 
+PC14_BADGUYS2-13=Ну, нападайте!
+#----------------------------------------------------
+# Rat                                 
+PC14_BADGUYS2B-1=Дарт! Нам лучше сдаться!
+# Dart                                 
+PC14_BADGUYS2B-2=Еще че! Босс бы этого не одобрил!
+# Dart                                 
+PC14_BADGUYS2B-3=И ваще... Смотри, че я стащил, пока он избивал тебя!
+# Rat                                 
+PC14_BADGUYS2B-4=Его телефон! Молодца!
+# Brok                                 
+PC14_BADGUYS2B-5=Что?!
+# Rat                                 
+PC14_BADGUYS2B-6=Теперь отдай остальное, чешуйчатый!
+# Brok                                 
+PC14_BADGUYS2B-7=Хотите еще? Сейчас я дам вам еще!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Coming to this room with Dr. Gherkin
+# *****************************************************************
+# Brok                                 
+PC14_GHERKIN_FIRST-1=Подождите.
+#----------------------------------------------------
+# Gherkin                                 
+PC14_GHERKIN_FIRST2-1=Э-этот человек доставит нам неприятности?
+# Brok                                 
+PC14_GHERKIN_FIRST2-2=Конечно, доставит.
+#----------------------------------------------------
+# Gherkin                                 
+PC14_GHERKIN_FIRST3-1=Что же нам тогда делать...?
+# Brok                                 
+PC14_GHERKIN_FIRST3-2=Хмм...
+#----------------------------------------------------
+# Gherkin                                 
+PC14_GHERKIN_LEAVE1-1=Подождите меня!
+#----------------------------------------------------
+# Brok                                 
+PC14_GHERKIN_BACK-1=Он ушел.
+# Gherkin                                 
+PC14_GHERKIN_BACK-2=Отличная работа! Всегда лучше избегать неприятностей!
+# Brok                                 
+PC14_GHERKIN_BACK-3=Не всегда.
+#----------------------------------------------------
+# Rat                                 
+#Rat talks on the phone
+PC14_GHERKIN_RATPHONE-1=Да, босс.
+# Rat                                 
+PC14_GHERKIN_RATPHONE-2=Угу.
+# Rat                                 
+PC14_GHERKIN_RATPHONE-3=Как вы там с этими спиногрызами?
+# Rat                                 
+PC14_GHERKIN_RATPHONE-4=Ха-ха. Эти избалованные детки без понятия, что происходит!
+# Rat                                 
+PC14_GHERKIN_RATPHONE-5=Хорошо. Буду рядом.
+# Rat                                 
+PC14_GHERKIN_RATPHONE-6=Да.
+#----------------------------------------------------
+# Rat                                 
+#He notices Brok
+PC14_GHERKIN_RATNOTICES1-1=Эй! Ты кто...?
+# Brok                                 
+PC14_GHERKIN_RATNOTICES1-2=Я ужас, навалявший вам по задницам вчера ночью!
+# Rat                                 
+PC14_GHERKIN_RATNOTICES1-3=Не может быть!
+# Brok                                 
+PC14_GHERKIN_RATNOTICES1-4=Что...?
+# Brok                                 
+PC14_GHERKIN_RATNOTICES1-5=Ну и слабак...
+# Gherkin                                 
+PC14_GHERKIN_RATNOTICES1-6=Мистер Брок!
+# Gherkin                                 
+PC14_GHERKIN_RATNOTICES1-7=Дроны...!
+# Brok                                 
+PC14_GHERKIN_RATNOTICES1-8=А... Теперь я понял.
+#----------------------------------------------------
+# Rat                                 
+#He falls
+PC14_GHERKIN_RATFALLS-1=Аааа!
+#----------------------------------------------------
+# Gherkin                                 
+PC14_GHERKIN_RATFALLS2-1=Вы что, убили этого человека?!
+# Brok                                 
+PC14_GHERKIN_RATFALLS2-2=Не-е! Тут не так высоко падать!
+# Brok                                 
+PC14_GHERKIN_RATFALLS2-3=Вроде бы...
+#----------------------------------------------------
+# Brok                                 
+PC14_GHERKIN_DRONEEND-1=Надеюсь, этот был последним.
+# Gherkin                                 
+PC14_GHERKIN_DRONEEND-2=Т-такие вещи вы должны знать наверняка! Что, если...
+# Brok                                 
+PC14_GHERKIN_DRONEEND-3=Пойдемте, доктор! У нас есть работа!
+# Gherkin                                 
+PC14_GHERKIN_DRONEEND-4=Ох...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - At the end of the day, Brok looks for Graff with R.J.
+# *****************************************************************
+# Brok                                 
+PC14_LOOKGRAFF1-1=...У меня уже бывали неприятные встречи с Визгунами на этой улице.
+# RJ                                 
+PC14_LOOKGRAFF1-2=Отбросы. Они заслуживают взбучки.
+# Brok                                 
+PC14_LOOKGRAFF1-3=Если из-за них с Грэффа упадет хоть шерстинка...
+# Brok                                 
+PC14_LOOKGRAFF1-4=...
+# Brok                                 
+PC14_LOOKGRAFF1-5=Стой. Кто-то звонит...
+#----------------------------------------------------
+# Brok                                 
+#Dee calls
+PC14_LOOKGRAFF_DEECALL_NOSIN-1=(Клик) Алло?
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-2=Привет...
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-3=Я не смогла найти Сина...
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-4=Черт...
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-5=Шеф полиции звонил.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-6=Он хочет, чтобы мы встретились.
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NOSIN-7=Да, знаю... Но...
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL-1=(Клик) Алло?
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL-2=Ты где, ковбой?!
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL-3=Время!
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_DEECALLAFTER-1=Не могу. Мой сын пропал.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-2=Что...?
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-3=Я тебе помогу!
+# Brok                                 
+PC14_LOOKGRAFF_DEECALLAFTER-4=Не надо!
+# Brok                                 
+PC14_LOOKGRAFF_DEECALLAFTER-5=Просто... Убеди Уэса прийти.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-6=Честно говоря... Мне не очень-то хочется одной с ним работать.
+# Brok                                 
+PC14_LOOKGRAFF_DEECALLAFTER-7=Не говори, что ты боишься этого старика?
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-8=Конечно нет...! Я просто...
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-9=Ну... Дело слишком серьезное. У нас осталось не так много времени.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-10=От этой встречи может зависеть судьба всего Сламс.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALLAFTER-11=Выбор за тобой!
+#----------------------------------------------------
+# RJ                                 
+PC14_LOOKGRAFF1_RJ-1=Иди. Я найду Грэффа.
+# Brok                                 
+PC14_LOOKGRAFF1_RJ-2=Ты уверен...?
+# RJ                                 
+PC14_LOOKGRAFF1_RJ-3=Доверься мне. Эти Визгуны получат свое.
+# Brok                                 
+PC14_LOOKGRAFF1_RJ-4=...
+# Brok                                 
+PC14_LOOKGRAFF1_RJ-5=Хорошо. Я тебе верю.
+# Brok                                 
+PC14_LOOKGRAFF1_RJ-6=Но... Я вернусь сразу, как смогу.
+# RJ                                 
+PC14_LOOKGRAFF1_RJ-7=Разумеется.
+# Brok                                 
+PC14_LOOKGRAFF1_RJ-8=Найди моего мальчишку...!
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_YES1-1=Хорошо. Выдвигаюсь!
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_YES1-2=[...]
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_YES1-3=Грэфф... Держись.
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-1=Прости...
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-2=Последнее время меня не было рядом с моим мальчиком, когда он во мне нуждался.
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-3=В этот раз... Сламс подождет.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NO1-4=...
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NO1-5=Понимаю.
+# Dee                                 
+PC14_LOOKGRAFF_DEECALL_NO1-6=Я сделаю все, что в моих силах.
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-7=Будь осторожна.
+# Unknown                                 
+PC14_LOOKGRAFF_DEECALL_NO1-8=[...]
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-9=...
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO1-10=Эй...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - If R.J. isn't there and Brok decides to keep looking for Graff, he goes down the manhole
+# *****************************************************************
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO2-1=Комок серой шерсти...?
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO2-2=Грэфф...!
+# Brok                                 
+PC14_LOOKGRAFF_DEECALL_NO2-3=Нужно спуститься туда!
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_DOWN1-1=Блин... Тут так темно.
+# Brok                                 
+PC14_LOOKGRAFF_DOWN1-2=...?
+# Brok                                 
+PC14_LOOKGRAFF_DOWN1-3=Кто... Кто здесь?!
+#----------------------------------------------------
+# Ott                                 
+#Brok meets Ott in the sewers
+PC14_LOOKGRAFF_ONLYOTT1-1=Мистер Брок?!
+# Brok                                 
+PC14_LOOKGRAFF_ONLYOTT1-2=Отт...!
+# Ott                                 
+PC14_LOOKGRAFF_ONLYOTT1-3=Визгуны взяли нас в заложники!
+# Ott                                 
+PC14_LOOKGRAFF_ONLYOTT1-4=Они за мной гонятся! Грэфф там, внизу!
+# Brok                                 
+PC14_LOOKGRAFF_ONLYOTT1-5=Убегай! Я обо всем позабочусь!
+# Ott                                 
+PC14_LOOKGRAFF_ONLYOTT1-6=Но...
+# Brok                                 
+PC14_LOOKGRAFF_ONLYOTT1-7=Доверься мне!
+# Brok                                 
+PC14_LOOKGRAFF_ONLYOTT1-8=Этих Визгунов ждет хорошая взбучка!
+# Ott                                 
+PC14_LOOKGRAFF_ONLYOTT1-9=Ладно...
+# Ott                                 
+PC14_LOOKGRAFF_ONLYOTT1-10=Я буду ждать вас обоих на поверхности!
+#----------------------------------------------------
+# Graff                                 
+#Another version where Graff is also there
+PC14_LOOKGRAFF_WITHGRAFF1-1=Брок!
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-2=Мальчики! Я так рад вас обоих видеть!
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-3=Что вы здесь делаете?
+# Ott                                 
+PC14_LOOKGRAFF_WITHGRAFF1-4=Нет времени объяснять! Нас преследуют Визгуны!
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-5=Что?!
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-6=На этот раз они заплатят за все...
+# Graff                                 
+PC14_LOOKGRAFF_WITHGRAFF1-7=Нет! Их слишком много!
+# Ott                                 
+PC14_LOOKGRAFF_WITHGRAFF1-8=Надо бежать!
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-9=Хмм...
+# Brok                                 
+PC14_LOOKGRAFF_WITHGRAFF1-10=Ладно. Идите за мной!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - They all got out of the sewers, escaping rats
+# *****************************************************************
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE1-1=Вот. Мы в безопасности, по крайней мере, на какое-то время.
+#----------------------------------------------------
+# Ott                                 
+#Ott refers to both Brok and Graff
+PC14_LOOKGRAFF_SURFACE_OTT-1=Я знал, что вы выберетесь!
+#----------------------------------------------------
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-1=Итак... Можете объяснить?
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-2=Почему они вас преследовали?
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-3=Ну...
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-4=Я заключил сделку с тем хакером.
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-5=Он... предал нас.
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-6=Вот черт...
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-7=А почему ты...?
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-8=Позже! Сейчас есть дела поважнее!
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-9=Дефицит таблеток... Визгуны к нему не причастны.
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-10=Они сказали, что виноваты триботы!
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-11=А почему мы должны верить их словам?
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-12=...
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-13=Черт! Ди в беде!
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-14=Кто такая Ди?
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-15=Мне надо бежать!
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-16=Подожди!
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-17=Мы с тобой!
+# Ott                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-18=Вот именно!
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-19=...
+# Brok                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-20=Хорошо, но... Будьте осторожны!
+# Brok                                 
+#Tribots are attracted to Brok and want to kill him
+PC14_LOOKGRAFF_SURFACE_NEXT-21=У меня небольшая проблемка... с привлечением Ботов.
+# Graff                                 
+PC14_LOOKGRAFF_SURFACE_NEXT-22=Что...?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Click on the thing covering manhole
+# *****************************************************************
+# Brok                                 
+PC14_TRASHCONTAINER1-1=Хмм...
+# Brok                                 
+PC14_TRASHCONTAINER1-2=Он здесь всегда стоял...?
+#----------------------------------------------------
+
+
+#----------------------------------------------------
+# Brok
+PC14_DOOR_LATER1-1="Скоро состоится торжественное открытие". Хмм...?

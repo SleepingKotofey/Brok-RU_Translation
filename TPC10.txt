@@ -1,0 +1,763 @@
+#-------------------------------
+#=SCHOOL INSIDE
+#-------------------------------
+
+#----- Interactions --------
+PC_SCORES=Счет
+# A device Graff can use (like a headset) to learn things on a topic in a very fast way
+PC_VRLEARNER=VR-Обучатор
+PC_VIEW=Осмотр
+PC_INVENTIONA=Изобретение
+PC_INVENTIONB=Изобретения
+
+PC_SWITCHPAGE=Перевернуть страницу
+PC_HOMEBUTTON=Главная
+PC_SENDBUTTON=Отправить
+PC_INSTRUCTIONS=Инструкция
+PC_RULES=Правила
+
+PC_LEFTPART=Левая часть
+PC_RIGHTPART=Правая часть
+PC_TABLE=Стол
+
+# These are parts of the inventions
+PC_ROUNDPART=Круглая часть
+PC_CONTAINER=Контейнер
+PC_WHEEL=Колесо
+PC_ENERGYBOX=Блок питания
+PC_MACHINE=Машина
+
+PC_MACHINE_STUBOT=Изобретение Стюбота
+PC_MACHINE_GRAFF=Изобретение Грэффа
+PC_MACHINE_OTT=Изобретение Отта
+PC_MACHINE_KLAY=Изобретение Клэя
+
+PC_DETECTOR=Детектор
+PC_OPERATOR=Оператор
+PC_SEAT=Кресло
+
+PC_CHEAT=Сжульничать
+
+#----- Topics --------
+PC10_DIRECTOR_EXCUSEHIM=Простите его
+PC10_DIRECTOR_BLAMEBROK=Переложите вину на меня
+
+PC10_ATTACK=Атаковать
+PC10_FLEE=Убежать
+
+INTERFACE_ERASE=Стереть
+
+# Here we mean "Gift"
+TOPIC_PRESENT=Подарок
+
+#----- Dialog --------
+# *****************************************************************
+# CONTEXT - End of day 1 - Brok arrives too late at Graff's science fair
+# *****************************************************************
+# Brok                                 
+PC10_BROK_ARRIVES-1=(Тяжело дышит) Я... здесь...!
+# Graff                                 
+PC10_BROK_ARRIVES-2=...
+# Graff                                 
+PC10_BROK_ARRIVES-3=Ты опоздал.
+# Brok                                 
+PC10_BROK_ARRIVES-4=... Знаю, но...
+# Brok                                 
+PC10_BROK_ARRIVES-5=Понимаешь... У меня были неприятности...
+# Brok                                 
+PC10_BROK_ARRIVES-6=И...
+# Brok                                 
+PC10_BROK_ARRIVES-7=Эй, стой!
+# Brok                                 
+PC10_BROK_ARRIVES-8=Куда ты идешь?
+# Brok                                 
+PC10_BROK_ARRIVES-9=...
+# Brok                                 
+PC10_BROK_ARRIVES-10=6 часов...
+# Brok                                 
+PC10_BROK_ARRIVES-11=6 новых сообщений и 7 пропущенных...
+# Brok                                 
+PC10_BROK_ARRIVES-12=О нет...
+# Brok                                 
+PC10_BROK_ARRIVES-13=...
+# Brok                                 
+PC10_BROK_ARRIVES-14=Подожди меня...!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Begin day 2 - Brok comes to see the Director and convince her to let Graff get the mark he deserves
+# *****************************************************************
+# Brok                                 
+PC10_TO_DOOR_DAY2-1=...
+# Brok                                 
+PC10_TO_DOOR_DAY2-2=Эм... Где все ученики?
+# Director                                 
+PC10_TO_DOOR_DAY2-3=На испытании.
+#----------------------------------------------------
+# Brok                                 
+PC10_TO_DOOR_DAY2B-1=Испытании? А где директриса?
+# Director                                 
+PC10_TO_DOOR_DAY2B-2=Это я.
+# Brok                                 
+PC10_TO_DOOR_DAY2B-3=Стоп... Что?
+# Director                                 
+PC10_TO_DOOR_DAY2B-4=Мистер Брок, верно? Опекун Грэффа?
+# Brok                                 
+PC10_TO_DOOR_DAY2B-5=Да...?
+# Director                                 
+PC10_TO_DOOR_DAY2B-6=Мы с вами виделись несколько лет назад, когда вы привели Грэффа присоединиться к нашей программе.
+# Director                                 
+PC10_TO_DOOR_DAY2B-7=Вы просили за него. Я удивлена, что вы не помните.
+# Brok                                 
+PC10_TO_DOOR_DAY2B-8=Простите... В последнее время у меня все чаще случаются провалы в памяти.
+# Director                                 
+PC10_TO_DOOR_DAY2B-9=Как удачно...
+# Brok                                 
+PC10_TO_DOOR_DAY2B-10=...?
+# Director                                 
+PC10_TO_DOOR_DAY2B-11=В любом случае.
+# Director                                 
+PC10_TO_DOOR_DAY2B-12=Грэфф примерный студент.
+# Director                                 
+PC10_TO_DOOR_DAY2B-13=Что объясняет тот факт, что нам с вами не приходилось встречаться все эти годы.
+# Director                                 
+PC10_TO_DOOR_DAY2B-14=До сих пор...
+# Brok                                 
+PC10_TO_DOOR_DAY2B-15=...Да, именно об этом я и хотел поговорить...
+# Director                                 
+PC10_TO_DOOR_DAY2B-16=Прошу. Вижу, вы встревоженны.
+# Director                                 
+PC10_TO_DOOR_DAY2B-17=Не стесняйтесь задавать мне любые вопросы.
+#----------------------------------------------------
+# Brok                                 
+PC10_BROK_TOOFAR-1=Слишком далеко...
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1-1=Так, конкурс научной ярмарки был последним экзаменом?
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1-2=Верно. Последние события вынудили нас провести экзамен раньше, чем было запланированно.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-1=Он усердно работал над своим проектом...
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-2=Я слышал, как он работает ночью, что-то шепчет, стучит, пробует воплотить разные идеи...
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-3=А в итоге все впустую.
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-4=Только потому, что я не пришел вовремя.
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-5=Это не справедливо... Во всем виноват только я!
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1B-6=К сожалению, таковы правила. Ответственность была поделена между детьми и родителями.
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1B-7=Как показывает статистика, родители, у которых было трудное детство, не могут привить никаких ценностей следующему поколению...
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1B-8=Пунктуальность - очень важная черта для таких мероприятий.
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-9=Но ваша статистика не учитывает чрезвычайные случаи!
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1B-10=Например...?
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-11=Эм... А "быть запертым в тюремной камере" считается...?
+# Director                                 
+PC10_DIRECTOR_FAIR_LATE1B-12=В камере...?
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-13=...Длинная история. Но важно то, что...
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-14=У меня не было выбора! Иногда происходят события, на которые никто не в силах повлиять.
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-15=Я просто не смогу жить, зная, что испоганил мальчику будущее...
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-16=Прошу... простите его и верните заслуженные баллы!
+# Brok                                 
+PC10_DIRECTOR_FAIR_LATE1B-17=Я что угодно сделаю!
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1-1=Похоже, ярмарка прошла не совсем так, как задумывали, да...?
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1-2=Да, она определенно... была полна событий.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1-3=Я бы хотел выслушать вашу версию произошедшего.
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_FAIR_CHEATED1-1=Ваш сын сжульничал. Он испортил изобретения других учеников.
+# Brok                                 
+PC10_DIRECTOR_FAIR_CHEATED1-2=Грэфф...? Он бы никогда так не поступил!
+# Brok                                 
+PC10_DIRECTOR_FAIR_CHEATED1-3=У вас есть доказательства?
+# Director                                 
+PC10_DIRECTOR_FAIR_CHEATED1-4=Состояние изобретений говорит само за себя... Но это не важно.
+# Director                                 
+PC10_DIRECTOR_FAIR_CHEATED1-5=Согласно правилам, родитель обязательно должен присутствовать на научной ярмарке во время голосования.
+# Director                                 
+PC10_DIRECTOR_FAIR_CHEATED1-6=Вас не было.
+# Brok                                 
+PC10_DIRECTOR_FAIR_CHEATED1-7=Послушайте...
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-1=Меня лично там не было, когда все это случилось, так что я могу только пересказать вам, что слышала от других.
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-2=Грэфф внезапно взбесился безо всякой причины.
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-3=Он сломал все изобретения.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-4=Без причины? Этого не может быть...
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-5=Я знаком с Грэффом уже очень давно. Он никогда ничего не делает без причины.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-6=Как и все, в общем-то.
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-7=Согласна. Но тут... его мотивация даже не имеет особого значения.
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-8=Что сделано, то сделано. Вы не можете изменить прошлое.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-9=Ну, да, но...
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-10=Я допустила работу Грэффа до сегодняшнего испытания только до тех пор, пока мне не выдастся возможность обсудить эту проблему с вами.
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-11=Однако...
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-12=Такое поведение карается дисквалификацией.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-13=Дисквалификацией...! Вы не можете так поступить!
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-14=Правила есть правила.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-15=Да ладно вам... Вы же директриса.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-16=Разумеется вы можете... нарушить эти ваши правила... Ну немножечко?
+# Director                                 
+PC10_DIRECTOR_FAIR_BROKEN1B-17=И вы осмелитесь предложить...?
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-1=Послушайте.
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-2=Вы же сами сказали, что Грэфф все эти годы был очень прилежным учеником.
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-3=Он многое пережил... С самого его рождения этот мир был был к нему жесток.
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-4=И все же, он желает сделать этот отвергающий его мир лучше.
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-5=С приближением конкурса, повседневными проблемами и всякой всячиной он просто перенервничал и...
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-6=В общем, он сорвался.
+# Brok                                 
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-7=Не ломайте ему будущее из-за одной единственной ошибки...
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-1=Вот что я вам скажу.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-2=Вы не смогли найти оправдание его действиям. Но у меня есть предположение...
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-3=Вы ошиблись с виновником... Это я. Я во всем виноват.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-4=Он сказал мне придти вовремя. Я должен был быть рядом с ним...
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-5=И ко всему прочему... Он больше не драмер тоже из-за меня.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-6=Так что, прошу... Дайте ему шанс... И переложите груз вины на мои плечи.
+# Brok                                 
+PC10_DIRECTOR_FAIR_BLAMEME1-7=Я сделаю что угодно.
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-1=...
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-2=...Этот...
+# Brok                                 
+PC10_DIRECTOR_FAIR_NEXT-3=...?
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-4=Этот ваш кулон.
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-5=Избавьтесь от него.
+# Brok                                 
+PC10_DIRECTOR_FAIR_NEXT-6=А?!
+# Brok                                 
+PC10_DIRECTOR_FAIR_NEXT-7=В каком смысле...?
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-8=...
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-9=Думаю, это уже не важно...
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-10=Просто... Послушайте.
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-11=Есть кое-что...
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-12=...что вы можете для меня сделать.
+# Brok                                 
+PC10_DIRECTOR_FAIR_NEXT-13=Да! Что угодно! Говорите!
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-14=...
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-15=Мой сын.
+# Director                                 
+PC10_DIRECTOR_FAIR_NEXT-16=В день, когда он получит свой диплом... я хочу сделать ему особенный подарок.
+# Brok                                 
+PC10_DIRECTOR_FAIR_NEXT-17=Подарок...?
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_FAIR2-1=(Думаю, не стоит так зацикливаться на наших плохих поступках...)
+# Brok                                 
+PC10_DIRECTOR_FAIR2-2=(Лучше посмотрим, что "она" хочет заполучить.)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_WELCOME1-1=Эм... Ээ... Мисс...?
+# Director                                 
+PC10_DIRECTOR_WELCOME1-2=Мадам.
+# Brok                                 
+PC10_DIRECTOR_WELCOME1-3=Эм, да.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_WELCOME2-1=Извините за беспокойство... У меня вопрос.
+# Director                                 
+PC10_DIRECTOR_WELCOME2-2=Я навострила уши.
+# Brok                                 
+PC10_DIRECTOR_WELCOME2-3=(Уши... или микрофоны?)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_WELCOME3-1=Я хотел спросить...
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_GRAFF1-1=А где Грэфф и остальные?
+# Director                                 
+PC10_DIRECTOR_GRAFF1-2=Испытание проводится в... другом месте.
+# Brok                                 
+PC10_DIRECTOR_GRAFF1-3=Ясно... Надеюсь, это не опасно?
+# Director                                 
+PC10_DIRECTOR_GRAFF1-4=Мы живем в опасном мире, мистер Брок. Они должны быть готовы к любым ситуациям.
+# Brok                                 
+PC10_DIRECTOR_GRAFF1-5=Это... вообще не успокаивает...
+# Director                                 
+PC10_DIRECTOR_GRAFF1-6=Не волнуйтесь. Вас известят, если что-нибудь случится.
+# Brok                                 
+PC10_DIRECTOR_GRAFF1-7=...Бррр.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_GRAFF2-1=Хотел бы знать, что вы думаете о Грэффе.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-2=В целом, он очень хороший ученик, хоть и зажатый.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-3=Просто ему недостает доверия к самому себе.
+# Brok                                 
+PC10_DIRECTOR_GRAFF2-4=Я знаю...
+# Brok                                 
+PC10_DIRECTOR_GRAFF2-5=Как только выдастся возможность провести с ним время, мы над этим поработаем.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-6=Хорошо.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-7=У меня сложилось впечатление, что вы с ним не особо часто общаетесь.
+# Brok                                 
+PC10_DIRECTOR_GRAFF2-8=Ну, понимаете... Я всегда очень занят.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-9=Позвольте напомнить, мистер Брок, это ваша обязанность, как родителя.
+# Director                                 
+PC10_DIRECTOR_GRAFF2-10=Наше учреждение не должно заменять родительское воспитание и заниматься формированием личности учащихся.
+# Brok                                 
+PC10_DIRECTOR_GRAFF2-11=(Будто бы я стремился стать родителем...)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-1=Простите за мое... бесстыжее любопытство...
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-2=А вы... робот-женщина?
+# Director                                 
+PC10_DIRECTOR_HERSELF1-3=...Да.
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-4=Я... Я раньше никогда не встречал роботов, которые говорят и ведут себя, как люди.
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-5=Вы... отличаетесь.
+# Director                                 
+PC10_DIRECTOR_HERSELF1-6=Я особая модель...
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-7=Есть другие, похожие на вас?
+# Director                                 
+PC10_DIRECTOR_HERSELF1-8=Ну...
+# Director                                 
+PC10_DIRECTOR_HERSELF1-9=Только один. И он гораздо более утонченный, чем я.
+# Director                                 
+PC10_DIRECTOR_HERSELF1-10=Вообще-то, вы с ним уже встречались...
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-11=Разве...?
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-12=Как подобные роботы вообще могут существовать?
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-13=В смысле...
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-14=Почему Правительство не производит больше таких роботов, как вы, вместо этих тупых триботов?
+# Director                                 
+PC10_DIRECTOR_HERSELF1-15=Все очень просто...
+# Director                                 
+PC10_DIRECTOR_HERSELF1-16=Правительство не имеет отношения к нашей разработке.
+# Director                                 
+PC10_DIRECTOR_HERSELF1-17=Наш создатель... покинул нас, сразу после нашего создания.
+# Director                                 
+PC10_DIRECTOR_HERSELF1-18=И концепция его трудов исчезла вместе с ним.
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-19=В таком случае, почему вас никто не изучал?
+# Director                                 
+PC10_DIRECTOR_HERSELF1-20=...
+# Director                                 
+PC10_DIRECTOR_HERSELF1-21=Простите, я больше ничего не могу вам сказать.
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-22=Хорошо...
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-23=Жаль... Более продвинутые ИИ могли бы принести человечеству пользу.
+# Brok                                 
+PC10_DIRECTOR_HERSELF1-24=(Или нет... Меня не покидает беспокойство. "Она" такая жуткая...)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-1=А почему вас создали женщиной?
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-2=В смысле... Это ведь необычно для бота.
+# Director                                 
+PC10_DIRECTOR_HERSELF2-3=Думаю, вам известно, с какими проблемами столкнулась наша цивилизация, судя по коэффициенту рождаемости.
+# Director                                 
+PC10_DIRECTOR_HERSELF2-4=Женщин в мире так мало, что, думаю, наш создатель хотел это компенсировать.
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-5=Но вы же не можете рожать детей... Или можете?
+# Director                                 
+PC10_DIRECTOR_HERSELF2-6=...
+# Director                                 
+PC10_DIRECTOR_HERSELF2-7=Теперь нет...
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-8=(Теперь...?)
+# Director                                 
+PC10_DIRECTOR_HERSELF2-9=В смысле... Нет, конечно же нет. Робот никогда не сможет дать жизнь человеческому ребенку.
+# Director                                 
+PC10_DIRECTOR_HERSELF2-10=Природа бы такого не допустила.
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-11=Минутку...
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-12=Помню, Грэфф рассказывал мне, что иногда ссорится с сыном директрисы...
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-13=Но если директриса - это вы... Тогда...?
+# Director                                 
+PC10_DIRECTOR_HERSELF2-14=Клэй... приемный ребенок.
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-15=Хмм... Тогда логично.
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-16=(...Совсем нет. Как, черт побери, робот может вырастить ребенка?!)
+# Brok                                 
+PC10_DIRECTOR_HERSELF2-17=(Мир сошел с ума...)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-1=Вы говорили о... подарке?
+# Director                                 
+PC10_DIRECTOR_PRESENT1-2=Да.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-3=Мне нужен чип само-модификации.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-4=Само... модификации...?
+# Director                                 
+PC10_DIRECTOR_PRESENT1-5=Люди и роботы... Мы не такие уж и разные.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-6=Люди используют лишь малую долю возможностей головного мозга.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-7=Но это еще не все. Большинство человеческих генов состоит из мусора ДНК... Ненужных следов прошедшей эволюции.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-8=Не понимаю...
+# Director                                 
+PC10_DIRECTOR_PRESENT1-9=Ну... Все роботы создавались с гораздо более широким диапазоном возможностей, чем используют на деле.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-10=Несмотря на то, что я особая модель, база у меня такая же.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-11=Без риска повредить оборудование я могу делать только то, ради чего была создана.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-12=В смысле...
+# Director                                 
+PC10_DIRECTOR_PRESENT1-13=Я хочу улучшить свои возможности.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-14=А так можно? Наверняка есть какая-то причина, почему возможности роботов ограничивают?
+# Director                                 
+PC10_DIRECTOR_PRESENT1-15=...Вы правы.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-16=Именно поэтому... Мне нужно, чтобы вы держали все в тайне.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-17=Я... Я хочу сделать сюрприз своему сыну.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-18=Хмм...
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-19=(Не скажу, что понял, как она собирается использовать этот "сюрприз сыну", но...)
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-20=(Если это поможет Грэффу... Больше меня ничего не волнует.)
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-21=Хорошо. Я этим займусь!
+# Director                                 
+PC10_DIRECTOR_PRESENT1-22=Прекрасно.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-23=В свою очередь, я притворюсь, что вчерашних событий не было.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-24=Если вас это успокоит... Этот чип не позволит мне перейти границы дозволенного.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-25=Я не собираюсь убить всех людей в мире!
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-26=А... Это... хорошо.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-27=Ну? Есть идеи, где мне достать такую штуку?
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-28=И... почему я...?
+# Director                                 
+PC10_DIRECTOR_PRESENT1-29=Как вы могли догадаться, вы не сможете найти такое аппаратное обеспечение в магазинчике за углом.
+# Director                                 
+PC10_DIRECTOR_PRESENT1-30=Вы детектив. Я вам доверяю.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-31=...Ясно.
+# Brok                                 
+PC10_DIRECTOR_PRESENT1-32=(Почему все думают, что детективы всесильны...?)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-1=Так, чип само-модификации...
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-2=А их не много разновидностей? Как я узнаю, что нашел нужный?
+# Director                                 
+PC10_DIRECTOR_PRESENT2-3=Не беспокойтесь. Я совместима с большинством рассчитанных на триботов периферийных устройств... и с чипами.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-4=Если понадобится, я могу сама сделать необходимый адаптер.
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-5=Буду знать.
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-6=Секундочку... В таком случае...
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-7=Почему вы не можете просто самостоятельно создать чип?
+# Director                                 
+PC10_DIRECTOR_PRESENT2-8=Это невозможно. Люди создали нас с некоторыми непреодолимыми ограничениями.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-9=К примеру, ни один бот с ИИ не может менять собственные или чужие настройки, также как и создавать аппаратное обеспечение для себя.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-10=Таким образом, только человек может это сделать.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-11=Возможно, вы слышали о движении за "Свободу ботов"?
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-12=Эти хиппи борются за права роботов?
+# Director                                 
+PC10_DIRECTOR_PRESENT2-13=Верно.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-14=В этом движении принимала участие лишь небольшая группа людей-драмеров, пока их не расформировали несколько лет назад.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-15=Они разработали чипы, предлагающие нам множество вариаций настройки.
+# Director                                 
+PC10_DIRECTOR_PRESENT2-16=С одним ограничением. Создание такого чипа подвластно лишь рукам человека.
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-17=Понимаю... Вроде бы.
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-18=(Группа людей создала эти штуки...? Напоминает охоту за священным Граалем.)
+# Brok                                 
+PC10_DIRECTOR_PRESENT2-19=(Но я должен справиться... Ради Грэффа.)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_PRESENT3-1=Все еще нет идей, где можно найти этот чип?
+# Director                                 
+PC10_DIRECTOR_PRESENT3-2=Ищите по неофициальным сетям...
+# Brok                                 
+PC10_DIRECTOR_PRESENT3-3=Хмм... Звучит разумно...
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_THINK1-1=(...)
+# Brok                                 
+PC10_DIRECTOR_THINK1-2=(Я еще никогда не видел робота, который выглядел столь... человекоподобным?)
+# Brok                                 
+PC10_DIRECTOR_THINK1-3=(Это меня пугает...)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_DEFAULT1-1=Возьмите!
+# Director                                 
+PC10_DIRECTOR_INV_DEFAULT1-2=Не поняла.
+# Brok                                 
+PC10_DIRECTOR_INV_DEFAULT1-3=Я... подумал...
+# Brok                                 
+PC10_DIRECTOR_INV_DEFAULT1-4=А, не важно.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_DEFAULT2-1=Вы не это просили?
+# Director                                 
+PC10_DIRECTOR_INV_DEFAULT2-2=Нет.
+# Brok                                 
+PC10_DIRECTOR_INV_DEFAULT2-3=Но... Вы это хотите, да?
+# Director                                 
+PC10_DIRECTOR_INV_DEFAULT2-4=Нет.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_APARTMENTKEY-1=А как насчет...
+# Director                                 
+PC10_DIRECTOR_INV_APARTMENTKEY-2=Я с вами жить не буду.
+# Brok                                 
+PC10_DIRECTOR_INV_APARTMENTKEY-3=Я не собирался это предлагать...!
+# Brok                                 
+PC10_DIRECTOR_INV_APARTMENTKEY-4=(Черт, придется найти кого-то другого на замену моему пылесосу.)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_MONEY-1=Вот.
+# Director                                 
+PC10_DIRECTOR_INV_MONEY-2=Должно быть, вы ошиблись. Я не просила денег.
+# Brok                                 
+PC10_DIRECTOR_INV_MONEY-3=Ну и хорошо! У меня самого мало.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_CATFUR-1=Это шерсть Грэффа.
+# Director                                 
+PC10_DIRECTOR_INV_CATFUR-2=И...?
+# Brok                                 
+PC10_DIRECTOR_INV_CATFUR-3=Разве это не убедит вас принять его обратно?
+# Director                                 
+PC10_DIRECTOR_INV_CATFUR-4=Да не особо.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_PREDNORMAL-1=Отдайте его своему сыну!
+# Director                                 
+PC10_DIRECTOR_INV_PREDNORMAL-2=Он не любит плюшевые игрушки.
+# Brok                                 
+PC10_DIRECTOR_INV_PREDNORMAL-3=Черт. А я думал, что это у меня проблемный ребенок!
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_REMOTECONTROL-1=Приказываю!
+# Brok                                 
+PC10_DIRECTOR_INV_REMOTECONTROL-2=Делайте все, что я говорю!
+# Director                                 
+PC10_DIRECTOR_INV_REMOTECONTROL-3=Что?
+# Brok                                 
+PC10_DIRECTOR_INV_REMOTECONTROL-4=Черт. Не сработало.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_INV_TRAMPPRESCR-1=Вы доктор? Вы ведь мультизадачны, верно?
+# Director                                 
+PC10_DIRECTOR_INV_TRAMPPRESCR-2=Боюсь, что нет.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_EXIT_NOTYET-1=(Нет...! Я должен спросить кое-что еще.)
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_EXIT1-1=Благодарю за внимание.
+# Director                                 
+PC10_DIRECTOR_EXIT1-2=Всегда к вашим услугам.
+#----------------------------------------------------
+# Brok                                 
+PC10_DIRECTOR_EXIT2-1=Ну, я пошел. Я достану то, что вам нужно!
+# Director                                 
+PC10_DIRECTOR_EXIT2-2=Хорошо.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - If we get the chip from the hacker (by giving money or hitting him)
+# *****************************************************************
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-1=Мистер детектив.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-2=Я нашел, что вы просили!
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-3=Замечательно!
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-4=Я уже подготовила все необходимое для восстановления Грэффа.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-5=Что...? Вы не стали ждать, пока я принесу то, что вы попросили?
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-6=Я в вас верила.
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-7=Может вы и имеете склонность вечно в чем-то сомневаться, но вы всегда хорошо выполняете свою работу.
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-8=Несмотря ни на что.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-9=Эм... Спасибо...?
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-10=(Она что, изучала мои прошлые дела или что?)
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-11=В любом случае... Рад, что все решилось.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-12=Надеюсь, теперь Грэфф получит свой диплом.
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-13=Позвольте напомнить. Он все еще должен доказать, что заслуживает его, пройдя экзамен.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-14=Мой мальчик вас не разочарует. Вот увидите!
+# Director                                 
+PC10_DIRECTOR_GOTCHIP-15=Держу за него пальцы крестиком.
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-16=(Она теперь так может...?)
+# Brok                                 
+PC10_DIRECTOR_GOTCHIP-17=До свидания!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Hitting the Director
+# *****************************************************************
+# Director                                 
+PC10_DIRECTOR_HIT1-1=Что вы делаете?!
+# Brok                                 
+PC10_DIRECTOR_HIT1-2=Простите...! Это... случайность!
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_HIT2-1=Нет, нет, нет.
+# Director                                 
+PC10_DIRECTOR_HIT2-2=Сделаете так еще раз и вас обоих изгонят из страны.
+# Brok                                 
+PC10_DIRECTOR_HIT2-3=Меня и Грэффа...? Вы правда можете это сделать?
+# Director                                 
+PC10_DIRECTOR_HIT2-4=Да.
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_HIT3-1=Предупреждаю в последний раз!
+# Director                                 
+PC10_DIRECTOR_HIT3-2=Теперь я понимаю, почему Грэфф такой проблемный мальчишка.
+#----------------------------------------------------
+# Director                                 
+PC10_DIRECTOR_HIT4-1=Ну хорошо. Вы сделали свой выбор.
+# Director                                 
+PC10_DIRECTOR_HIT4-2=Патрульные скоро будут здесь, чтобы проводить вас и вашего сына до ближайшей границы.
+# Brok                                 
+PC10_DIRECTOR_HIT4-3=Ой!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Player can visit the school but no one's there except Stubot - which, like all Tribots, became crazy and attack Brok
+# *****************************************************************
+# Brok                                 
+PC10_BROK_STUBOT_ATTACKS1-1=Э... Есть кто?
+#----------------------------------------------------
+# Stubot                                 
+PC10_BROK_STUBOT_ATTACKS2-1=...
+# Stubot                                 
+PC10_BROK_STUBOT_ATTACKS2-2=Человек.
+# Stubot                                 
+PC10_BROK_STUBOT_ATTACKS2-3=Готовься к смерти.
+#----------------------------------------------------
+# Brok                                 
+PC10_BROK_STUBOT_ATTACKS3-1=Какого черта?! Школьный бот... готовится напасть на меня!
+#----------------------------------------------------
+# Brok                                 
+#Fleeing away
+PC10_BROK_STUBOT_FLEE1-1=Фух... Он от меня отстал.
+# Brok                                 
+PC10_BROK_STUBOT_FLEE1-2=Что это вообще было...?
+#----------------------------------------------------
+# Brok                                 
+PC10_BROK_STUBOT_DEAD-1=...
+#----------------------------------------------------
+
+
+PC_ERASE=Стереть
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - End of day 1 - Brok arrives on time
+# *****************************************************************
+# Brok
+PC10_BROK_ARRIVEONTIME-1=(Тяжело дышит) Я... здесь...!
+# Graff
+PC10_BROK_ARRIVEONTIME-2=Наконец-то! Я думал, ты не придешь!
+# Graff
+PC10_BROK_ARRIVEONTIME-3=Скорее! Осталось всего несколько минут!
+#----------------------------------------------------
+# Director
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-1=Мистер детектив.
+# Brok
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-2=Ну... мне удалось найти чип, о котором вы просили!
+# Director
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-3=Чудесно!
+# Director
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-4=Грэффу будут начисленны дополнительные очки.
+#----------------------------------------------------
+# Stubot
+PC10_STUBOT_HELLO-1=Здравствуйте.
+# Stubot
+PC10_STUBOT_HELLO-2=Школа закрыта.
+# Brok
+PC10_STUBOT_HELLO-3=О... Ладно.
+
+
+
+
+COOP_PC10_DIRECTOR1-1=От психиатра до школьного бота.
+
+COOP_PC10_DIRECTOR1-2=Какая карьера!
+

@@ -1,0 +1,1165 @@
+#-------------------------------
+#=HACKER INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+TOPIC_PILLS=Нехватка таблеток
+TOPIC_TRIBOTS=Триботы
+TOPIC_MESSAGES=Сообщения
+
+#----- Topics --------
+PC14C_HACKER_ACCEPT=Принять
+PC14C_HACKER_ANOTHER=Найти другой способ
+PC14C_HACKER_THREATEN=Угрожать
+PC14C_HACKER_THINK=Подумать над этим
+PC14C_HACKER_INSIST=Настоять
+PC14C_HACKER_LETITGO=Забыть об этом
+TOPIC_MONEY=Деньги
+TOPIC_MISSION=Миссия
+PC14C_HACKER_LOWER=Снизить цену
+
+PC14C_HACKER_CHANGEMIND=Передумал?
+
+GOT_HACKPHONE=Взломофон!
+
+#----- Dialog --------
+# *****************************************************************
+# CONTEXT - Meet the hacker for the first time (after beating R.J.)
+# *****************************************************************
+# Hacker                                 
+PC14C_FIRST_BEATEN1-1=...Какого...?!
+# Hacker                                 
+PC14C_FIRST_BEATEN1-2=Вы кто, черт побери, такой?!
+# Brok                                 
+PC14C_FIRST_BEATEN1-3=Вы Мрак, верно?
+# Brok                                 
+PC14C_FIRST_BEATEN1-4=Мне нужна ваша помощь...
+# Hacker                                 
+PC14C_FIRST_BEATEN1-5=Вас здесь быть не должно!
+# Hacker                                 
+PC14C_FIRST_BEATEN1-6=Как вы прошли мимо охранника?!
+# Brok                                 
+PC14C_FIRST_BEATEN1-7=Ну, он...
+# Brok                                 
+PC14C_FIRST_BEATEN1-8=Обезврежен.
+# Hacker                                 
+PC14C_FIRST_BEATEN1-9=Уй!
+# Hacker                                 
+PC14C_FIRST_BEATEN1-10=П-п-пожалуйста! Не бейте меня...!
+# Brok                                 
+PC14C_FIRST_BEATEN1-11=Не глупите.
+# Brok                                 
+PC14C_FIRST_BEATEN1-12=Я же сказал, что мне нужна ваша помощь!
+# Hacker                                 
+PC14C_FIRST_BEATEN1-13=Эмм... Л-ладно...
+# Hacker                                 
+PC14C_FIRST_BEATEN1-14=Итак! Что вам нужно?
+# Brok                                 
+PC14C_FIRST_BEATEN1-15=Ну...
+# Hacker                                 
+PC14C_FIRST_BEATEN1-16=Выкладывайте! Вы тратите мое время!
+# Brok                                 
+PC14C_FIRST_BEATEN1-17=(Как резко он сменил манеру поведения...)
+# Brok                                 
+PC14C_FIRST_BEATEN1-18=Я ищу один очень особенный предмет.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Meet the hacker for the first time (with disguise)
+# *****************************************************************
+# Hacker                                 
+PC14C_FIRST1-1=...Какого...?!
+# Hacker                                 
+PC14C_FIRST1-2=Кто вы, черт побери, такой?!
+# Brok                                 
+PC14C_FIRST1-3=Мрак, верно?
+# Brok                                 
+PC14C_FIRST1-4=Мне нужна ваша помощь...
+# Hacker                                 
+PC14C_FIRST1-5=Вас здесь быть не должно!
+# Hacker                                 
+PC14C_FIRST1-6=Охранник пропустил вас?!
+# Brok                                 
+PC14C_FIRST1-7=Ну, я же слон! Разве не видно?
+# Hacker                                 
+PC14C_FIRST1-8=С... слон...?
+# Hacker                                 
+PC14C_FIRST1-9=Эй! Ты дубина! Почему ты впустил этого сюда?!
+# RJ                                 
+PC14C_FIRST1-10=Ну так! Вы мне сами сказали!
+# Hacker                                 
+PC14C_FIRST1-11=Чего?!
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Flashback - the hacker explains the job to R.J.
+# *****************************************************************
+# Hacker                                 
+PC14C_FIRST2-1=...в этом вся твоя работа. Стой здесь и охраняй дверь.
+# Hacker                                 
+PC14C_FIRST2-2=Никому нельзя входить, пока я не разрешу!
+# RJ                                 
+PC14C_FIRST2-3=Никому...?
+# RJ                                 
+PC14C_FIRST2-4=Мне нельзя входить?
+# Hacker                                 
+PC14C_FIRST2-5=Нет! Ты должен стоять снаружи!
+# RJ                                 
+PC14C_FIRST2-6=А котам можно? Ненавижу котов.
+# Hacker                                 
+PC14C_FIRST2-7=Никаких котов!
+# RJ                                 
+PC14C_FIRST2-8=Ну а... Собакам? Собачкам можно входить?
+# Hacker                                 
+PC14C_FIRST2-9=Нет!
+# RJ                                 
+PC14C_FIRST2-10=А коровам? Свиньям? Курам?
+# Hacker                                 
+PC14C_FIRST2-11=Нет, нет и нет!
+# RJ                                 
+PC14C_FIRST2-12=А как же слоны? Им-то можно, да?
+# Hacker                                 
+PC14C_FIRST2-13=Уггххх...! Ты, видно, издеваешься...!
+# RJ                                 
+PC14C_FIRST2-14=...?
+# RJ                                 
+PC14C_FIRST2-15=Ну, так...?
+# Hacker                                 
+PC14C_FIRST2-16=Тьфу ты...
+# Hacker                                 
+PC14C_FIRST2-17=Ладно! Как скажешь! Слонам входить можно!
+# RJ                                 
+PC14C_FIRST2-18=О! Круто.
+# Hacker                                 
+PC14C_FIRST2-19=...Пфф. Громилы такие болваны.
+# Hacker                                 
+PC14C_FIRST2-20=Будто слоны будут разгуливать по Сламс. Они же все работники богатеньких компаний.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Back to present
+# *****************************************************************
+# Hacker                                 
+PC14C_FIRSTB-1=Ты идиот?!
+# Hacker                                 
+PC14C_FIRSTB-2=Хотя, зачем я спрашиваю...
+# Hacker                                 
+PC14C_FIRSTB-3=Просто посмотри на этого парня! Он же в глупом маскировочном костюме!
+# RJ                                 
+PC14C_FIRSTB-4=Эмм... Вы уверены?
+# Hacker                                 
+PC14C_FIRSTB-5=СНИМАЙ!!!
+# Brok                                 
+PC14C_FIRSTB-6=Грр! Эй, больно вообще-то!
+# RJ                                 
+PC14C_FIRSTB-7=...?
+# RJ                                 
+PC14C_FIRSTB-8=Эй! Это ты!!!
+# Hacker                                 
+PC14C_FIRSTB-9=Медведь-болван...
+# Hacker                                 
+PC14C_FIRSTB-10=Ты уволен!
+# RJ                                 
+PC14C_FIRSTB-11=Что?! Но...
+# RJ                                 
+PC14C_FIRSTB-12=Но я же сделал все, как вы сказали!
+# Hacker                                 
+PC14C_FIRSTB-13=Я поищу на твое место здоровяка с мозгом побольше твоего.
+# Hacker                                 
+PC14C_FIRSTB-14=Ты бесполезен.
+# RJ                                 
+PC14C_FIRSTB-15=Гррр!!! АХ ТЫ...
+# RJ                                 
+PC14C_FIRSTB-16=Это твоя вина! ОПЯТЬ!
+# Brok                                 
+PC14C_FIRSTB-17=Ох!
+# RJ                                 
+PC14C_FIRSTB-18=Ты мне за это заплатишь!
+# Brok                                 
+PC14C_FIRSTB-19=(...Ой-ой.)
+# Brok                                 
+PC14C_FIRSTB-20=(Видимо, подружиться у нас не вышло...)
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Talk to Hacker
+# *****************************************************************
+# Hacker                                 
+PC14C_FIRSTC1-1=...Вы все еще здесь? Вы тратите мое время.
+# Brok                                 
+PC14C_FIRSTC1-2=Подождите! У меня есть просьба, это важно!
+# Hacker                                 
+PC14C_FIRSTC1-3=Важно для меня... или для вас?
+# Brok                                 
+PC14C_FIRSTC1-4=Как посмотреть...
+# Brok                                 
+PC14C_FIRSTC1-5=Просто... Пожалуйста, выслушайте меня!
+#----------------------------------------------------
+# Hacker                                 
+PC14C_FIRSTAGREE-1=(Вздыхает) Ладно, ладно.
+# Hacker                                 
+PC14C_FIRSTAGREE-2=Но сначала...
+# Hacker                                 
+PC14C_FIRSTAGREE-3=Приложите руки вот сюда.
+# Brok                                 
+PC14C_FIRSTAGREE-4=Зачем?
+# Hacker                                 
+PC14C_FIRSTAGREE-5=Просто выполняйте!
+# Brok                                 
+PC14C_FIRSTAGREE-6=...Ладно.
+# Unknown                                 
+PC14C_FIRSTAGREE-7=(Звуки компьютера)
+# Hacker                                 
+PC14C_FIRSTAGREE-8=Так, посмотрим...
+# Hacker                                 
+PC14C_FIRSTAGREE-9=О! Моя база знаний выдала результаты.
+# Hacker                                 
+PC14C_FIRSTAGREE-10=...!
+# Brok                                 
+PC14C_FIRSTAGREE-11=Что? В чем дело?
+# Hacker                                 
+PC14C_FIRSTAGREE-12=...Вы... коп?!
+# Brok                                 
+PC14C_FIRSTAGREE-13=Ну... Не совсем...
+# Hacker                                 
+PC14C_FIRSTAGREE-14=...Угх!
+#----------------------------------------------------
+# Hacker                                 
+#Hacker sent drones at Brok who defeated them
+PC14C_AFTERFIGHT_BEATEN-1=О, Боже...
+# Hacker                                 
+PC14C_AFTERFIGHT_BEATEN-2=Мне, как всегда, повезло... Агент-истребитель...
+# Brok                                 
+PC14C_AFTERFIGHT_BEATEN-3=Да ладно вам! Я не причиню вам вреда!
+# Hacker                                 
+PC14C_AFTERFIGHT_BEATEN-4=Ваше досье говорит об обратном...
+# Brok                                 
+PC14C_AFTERFIGHT_BEATEN-5=Поверьте мне. Если бы я хотел убить вас, то давно бы это сделал.
+# Brok                                 
+PC14C_AFTERFIGHT_BEATEN-6=Ой, я не совсем это хотел сказать...
+# Hacker                                 
+PC14C_AFTERFIGHT_BEATEN-7=О нет...
+#----------------------------------------------------
+# Hacker                                 
+PC14C_AFTERFIGHT_FIRED-1=О нет...!
+# Hacker                                 
+PC14C_AFTERFIGHT_FIRED-2=Мне... не стоило увольнять того парня...
+#----------------------------------------------------
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT-1=П-пожалуйста, не упекайте меня в тюрьму! Это же пустая трата моего великого интеллекта!
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT-2=Все не так, как вы думаете! Я не коп!
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT-3=Что...?
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT-4=В полиции нехватка кадров. Я детектив, им просто нужна была моя помощь.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT-5=Хмм.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT-6=Копы или детективы, все равно я их всех ненавижу.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT-7=Вечно они гадят людям, пытающимся заработать на честную жизнь торговлей на черном рынке...
+#----------------------------------------------------
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-1=Давайте забудем об этом и сфокусируемся на моей просьбе.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-2=С чего вы взяли, что я стану вам помогать?
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-3=А вы еще не поняли...?
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-4=...Вы один, ваша система безопастности накрылась, а я... скажем прямо...
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-5=Сильнее вас.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-6=...Убедительные доводы.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-7=Хорошо... Что вам надо?
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-8=Чип само-модификации.
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-9=И никаких вопросов.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-10=Отлично. Я могу вам такой достать, но они недешевые.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-11=С вас 100,000 юнисов.
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-12=Сотня... тысяч?!
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-13=Да вы шутите!
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-14=Эй, таковы условия сделки! Принимайте их или проваливайте!
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-15=Да вы хотя бы представляете, через какие трудности я прохожу, пытаясь добыть один такой чип?!
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-16=...То есть, один у вас уже есть?
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-17=...Уфф. Не умею я держать рот на замке.
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-18=Отдайте его мне.
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-19=Ни за что!
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-20=Отдайте, или...
+# Brok                                 
+PC14C_AFTERFIGHT_NEXT2-21=Мне придется...
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-22=Аааа!
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-23=Ладно, ладно... Тогда... 10,000 юнисов!
+# Hacker                                 
+PC14C_AFTERFIGHT_NEXT2-24=Дешевле не отдам... Именно столько я за него заплатил!
+#----------------------------------------------------
+# Brok                                 
+PC14C_FIRST_ACCEPT1-1=(Вздыхает) Хорошо. 10,000.
+# Brok                                 
+PC14C_FIRST_ACCEPT1-2=Вы получите бабки сегодня утром.
+# Hacker                                 
+PC14C_FIRST_ACCEPT1-3=П-приятно слышать!
+#----------------------------------------------------
+# Brok                                 
+PC14C_FIRST_ANOTHER1-1=Нет... Я не могу позволить себе заплатить такую сумму.
+# Brok                                 
+PC14C_FIRST_ANOTHER1-2=Наверняка я могу предложить вам что-то еще...?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-3=...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-4=Погодите-ка...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-5=Кулон, который вы носите...!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-6=А что с ним?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-7=Для большинства людей это обычная безделушка, но у меня глаз наметан на такие штучки...
+# Hacker                                 
+#Heptamide comes back one or two times during the game. If it doesn't sound good, change it to whatever you want.
+PC14C_FIRST_ANOTHER1-8=Я уже видел этот материал раньше. Это гептамид!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-9=Гептамид...?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-10=Очень мощный сплав. Одна лишь унция его может освещать целый город на протяжение года!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-11=Вы, видно, шутите.
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-12=Я абсолютно серьезен!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-13=Отдайте его мне!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-14=Ни за что! Вы его не получите!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-15=Он представляет для меня сентиментальную ценность.
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-16=Сентиментальную... Пффф.
+# Brok                                 
+PC14C_FIRST_ANOTHER1-17=Нет значит нет. Придумайте что-нибудь еще!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-18=...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-19=Ну, тогда...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-20=Придумал. Вы же коп!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-21=Я же сказал... Я не по-настоящему...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-22=Не важно. Наверняка у вас есть доступ!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-23=К чему?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-24=К серверу!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-25=Я не просто так обзавелся всеми этими машинами-убийцами...
+# Brok                                 
+PC14C_FIRST_ANOTHER1-26=Естественно. Вы же промышляете нелегальщиной.
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-27=Не в этом дело!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-28=Копы... У них есть досье на меня. В нем содержится моя подпись и другая личная информация.
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-29=В связи с этим, все дроны, камеры и триботы автоматически меня выслеживают и докладывают обо мне!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-30=Это делает мою жизнь невыносимой!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-31=Я могу хакнуть систему, но даже гений, вроде меня, может максимум получить доступ к файлам в режиме "Только чтение".
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-32=Если... "кто-нибудь" удалил бы этот файл...
+# Brok                                 
+PC14C_FIRST_ANOTHER1-33=То вы могли бы сбежать...?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-34=Я был бы свободен! Боты не ждали бы меня за каждым углом!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-35=Звучит прекрасно, но...
+# Brok                                 
+PC14C_FIRST_ANOTHER1-36=Как я должен это сделать?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-37=Вы же коп. Получить доступ к серверу должно быть проще простого!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-38=Я в этом не так уверен...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-39=Удалите этот файл и чип ваш!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-40=Хмм...
+# Brok                                 
+PC14C_FIRST_ANOTHER1-41=А там не будет пароля или чего-то такого?
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-42=Ага. Распознавание лиц.
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-43=Найдите лицо владельца компьютера и используйте мое потрясающее приложение - ЛицеСтройХакс!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-44=Проще некуда! Сейчас отправлю на ваш мобильник...
+# Brok                                 
+PC14C_FIRST_ANOTHER1-45=...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-46=Ух! Какого?! Ваш телефон...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-47=Что это за древняя технология?! Аппаратная и программная части устарели десятилетия назад!
+# Brok                                 
+PC14C_FIRST_ANOTHER1-48=Да плевать! Он работает!
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-49=Серьезно...
+# Hacker                                 
+PC14C_FIRST_ANOTHER1-50=Ладно. Возьмите этот телефон.
+#----------------------------------------------------
+# Hacker                                 
+PC14C_FIRST_ANOTHER2-1=Приложение на него уже установлено.
+# Hacker                                 
+PC14C_FIRST_ANOTHER2-2=Оно сгенерирует голографическую маску, с помощью которой вы сможете войти в систему.
+# Hacker                                 
+PC14C_FIRST_ANOTHER2-3=Для этого вам понадобятся фото анфаса и полупрофиля того, кто имеет доступ к системе.
+# Brok                                 
+PC14C_FIRST_ANOTHER2-4=Фото анфаса и полупрофиля. Ясно.
+# Hacker                                 
+PC14C_FIRST_ANOTHER2-5=Все, отправляйтесь!
+#----------------------------------------------------
+# Brok                                 
+PC14C_FIRST_EXIT1-1=Только посмейте сбежать, пока меня не будет!
+# Brok                                 
+PC14C_FIRST_EXIT1-2=Помните, я детектив...
+# Brok                                 
+PC14C_FIRST_EXIT1-3=Я нашел вас однажды и смогу сделать это снова!
+# Brok                                 
+PC14C_FIRST_EXIT1-4=А когда найду...
+# Hacker                                 
+PC14C_FIRST_EXIT1-5=Ой-ой!
+# Hacker                                 
+PC14C_FIRST_EXIT1-6=Х-хорошо... С места не сдвинусь! Буду прямо здесь, будто приклеен к креслу!
+# Brok                                 
+PC14C_FIRST_EXIT1-7=Лучше бы так оно и было!
+#----------------------------------------------------
+# Brok                                 
+PC14C_FIRST_MONEYEXIT1-1=(...)
+# Brok                                 
+PC14C_FIRST_MONEYEXIT1-2=(И откуда я должен достать такие деньги? Я столько и за месяц не зарабатываю...)
+# Brok                                 
+PC14C_FIRST_MONEYEXIT1-3=(Я уже начинаю жалеть, что ввязался в это...)
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_WELCOME_MONEY1-1=И...? Где мои деньги?
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_ANOTHERMONEY1-1=(10,000 юнисов - большая сумма...)
+# Brok                                 
+PC14C_HACKER_ANOTHERMONEY1-2=(Может, стоит поискать другое решение?)
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_CHANGEMIND1-1=Я передумал.
+# Hacker                                 
+PC14C_HACKER_CHANGEMIND1-2=Что? В смысле... Вы не собираетесь платить?!
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_MONEYAGAIN-1=Собираюсь. Но...
+# Brok                                 
+PC14C_HACKER_MONEYAGAIN-2=10,000 это слишком много.
+# Hacker                                 
+PC14C_HACKER_MONEYAGAIN-3=Мне очень жаль, но это не обсуждается.
+# Hacker                                 
+PC14C_HACKER_MONEYAGAIN-4=Если снижу цену еще, то останусь в минусе от этой сделки!
+# Brok                                 
+PC14C_HACKER_MONEYAGAIN-5=Меня это не волнует.
+# Hacker                                 
+PC14C_HACKER_MONEYAGAIN-6=Давайте деньги или проваливайте.
+# Brok                                 
+PC14C_HACKER_MONEYAGAIN-7=...
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_MISSION1-1=Давайте-ка проясним...
+# Brok                                 
+PC14C_HACKER_MISSION1-2=Сначала мне нужно найти компьютер в полицейском участке, чтобы получить доступ к мейнфрейму и удалить ваш файл.
+# Brok                                 
+PC14C_HACKER_MISSION1-3=Чтобы обойти защиту, я использую вашу телефонную... штуковину.
+# Hacker                                 
+PC14C_HACKER_MISSION1-4=Мое приложение ЛицеСтройХакс.
+# Brok                                 
+PC14C_HACKER_MISSION1-5=Ага, его.
+# Hacker                                 
+PC14C_HACKER_MISSION1-6=Идентифицируйте владельца компьютера и загрузите его фото в телефон.
+# Brok                                 
+PC14C_HACKER_MISSION1-7=Фото... Понял.
+# Hacker                                 
+PC14C_HACKER_MISSION1-8=Ну все, идите! Вы меня раздражаете.
+# Brok                                 
+PC14C_HACKER_MISSION1-9=Хмм...
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_WELCOME_MISSION1-1=И...? Чего вы тут стоите...?!
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_WELCOME_THINK1-1=Ну...?
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_MONEY1-1=Сколько я еще должен ждать?!
+# Brok                                 
+PC14C_HACKER_MONEY1-2=Деньги не растут на деревьях, знаете ли!
+# Hacker                                 
+PC14C_HACKER_MONEY1-3=Да не может быть! А почему, по-вашему, я занимаюсь этой работой?!
+# Hacker                                 
+PC14C_HACKER_MONEY1-4=Не забудьте. 10,000 юнисов.
+# Brok                                 
+PC14C_HACKER_MONEY1-5=Вы можете себе представить, чтобы у кого-то в Сламс были такие деньги?!
+# Hacker                                 
+PC14C_HACKER_MONEY1-6=Вы бы удивились.
+# Hacker                                 
+PC14C_HACKER_MONEY1-7=Некоторые люди просто очень надежно прячут свои карты.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_MONEYGIVE-1=Вот ваши деньги!
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE-2=Вы... действительно умудрились достать такую сумму?!
+# Brok                                 
+PC14C_HACKER_MONEYGIVE-3=Вы не представляете, как это было сложно сделать...
+# Brok                                 
+PC14C_HACKER_MONEYGIVE-4=Так что давайте сюда товар, приятель!!!
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE-5=Да-да. Вот.
+# Brok                                 
+PC14C_HACKER_MONEYGIVE-6=Наконец-то!
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE-7=И вот вам подарочек.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_MONEYGIVE2-1=Что это?
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE2-2=Особый телефон.
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE2-3=По этой линии вы можете безопастно связаться со мной.
+# Hacker                                 
+PC14C_HACKER_MONEYGIVE2-4=Также он обходит системы безопастности. Вы можете, с помощью чьей-то фото...
+# Brok                                 
+PC14C_HACKER_MONEYGIVE2-5=Нет времени объяснять. Я должен бежать.
+# Brok                                 
+PC14C_HACKER_MONEYGIVE2-6=Отнесу этот подарок одному счастливому роботу...
+#----------------------------------------------------
+# Brok                                 
+PC14C_FIRST_THREATEN1-1=Это неприемлемо!
+# Hacker                                 
+PC14C_FIRST_THREATEN1-2=Н-но я не согласен на меньшую сумму!
+# Hacker                                 
+PC14C_FIRST_THREATEN1-3=Я... Я должен денег Визгунам... Они прикончат меня!
+# Brok                                 
+#He's referring to the chip. Here specifically when threatening the hacker, Brok can be informal to him.
+PC14C_FIRST_THREATEN1-4=Я сам прикончу тебя, если не отдашь мне его сейчас же!
+# Brok                                 
+PC14C_FIRST_THREATEN1-5=Где эта чертова штуковина?!
+# Brok                                 
+PC14C_FIRST_THREATEN1-6=Говори!
+# Hacker                                 
+PC14C_FIRST_THREATEN1-7=Н-нет! прошу!
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_THREATEN_ANOTHER1-1=Хммф...
+# Brok                                 
+PC14C_HACKER_THREATEN_ANOTHER1-2=Ладно.
+# Hacker                                 
+PC14C_HACKER_THREATEN_ANOTHER1-3=Ладно? В смысле... Вы... заплатите?
+#----------------------------------------------------
+# Brok                                 
+#Again it's probably better if Brok is informal here.
+PC14C_HACKER_THREATENINSIST1-1=Это был твой последний шанс!
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-2=Ты напросился!
+# Hacker                                 
+PC14C_HACKER_THREATENINSIST1-3=Аааааагх!
+# Unknown                                 
+#Oops, that must have hurt
+PC14C_HACKER_THREATENINSIST1-4=(Треск)
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-5=...!
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-6=О, Боже...!
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-7=Что я...?!
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-8=...
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-9=Фух... Он еще дышит.
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-10=Чуть не убил... Надо научиться держать себя в руках...
+# Brok                                 
+PC14C_HACKER_THREATENINSIST1-11=И как мне теперь достать чип...?
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-1=(Вздыхает...)
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-2=(Если я сломаю ему шею, то рискую никогда не найти этот чип...)
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-3=(А с другой стороны, я не могу позволить себе такие затраты !)
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-4=(...)
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-5=(Но вопрос в том...)
+# Brok                                 
+PC14C_HACKER_THREATENTHINK1-6=(Насколько далеко я готов зайти, чтобы вытащить Грэффа из этого болота...?)
+#----------------------------------------------------
+# Brok                                 
+PC14C_TO_PC14B_NO-1=Нет!
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_BEATEN1-1=Вот так и нужно разбираться с подобными мошенниками.
+# Brok                                 
+PC14C_HACKER_BEATEN1-2=Теперь... Куда он мог спрятать чип...?
+#----------------------------------------------------
+# Brok                                 
+#Brok has beaten up the hacker
+PC14C_HACKER_SEARCH1-1=Он в порядке... По большей части.
+# Brok                                 
+PC14C_HACKER_SEARCH1-2=Хмм... (Ищет)
+# Brok                                 
+PC14C_HACKER_SEARCH1-3=Ха-ха! Чип!
+# Hacker                                 
+PC14C_HACKER_SEARCH1-4=Н-не...
+# Brok                                 
+PC14C_HACKER_SEARCH1-5=Что...?
+# Hacker                                 
+PC14C_HACKER_SEARCH1-6=Он... очень ценный...
+# Brok                                 
+PC14C_HACKER_SEARCH1-7=Заткнись. (Ударяет)
+# Hacker                                 
+PC14C_HACKER_SEARCH1-8=Ооох!
+# Brok                                 
+PC14C_HACKER_SEARCH1-9=Ну, он только что сам все подтвердил. Наверняка это именно то, что нужно директрисе!
+# Brok                                 
+PC14C_HACKER_SEARCH1-10=А... Это что...?
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_SEARCH1B-1=Отличный телефон!
+# Brok                                 
+PC14C_HACKER_SEARCH1B-2=Возьму себе. Уверен, у этого типа их еще куча!
+# Brok                                 
+PC14C_HACKER_SEARCH1B-3=Пора отсюда сматывать.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_SEARCH2-1=Я получил, что хотел.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_THINK1-1=(Надо держать уши востро... На лице этого парня прямо-таки написанно "мошенник".)
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Showing inventory to the hacker
+# *****************************************************************
+# Brok                                 
+PC14C_HACKER_INV_DEFAULT1-1=Хмм... Могу я обменять это?
+# Hacker                                 
+PC14C_HACKER_INV_DEFAULT1-2=Забудьте.
+# Brok                                 
+PC14C_HACKER_INV_DEFAULT1-3=Но... Эта штука такая красивая, разве нет?
+# Hacker                                 
+PC14C_HACKER_INV_DEFAULT1-4=...
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_DEFAULT2-1=Вот. Возьмите.
+# Hacker                                 
+PC14C_HACKER_INV_DEFAULT2-2=Вы что, издеваетесь?
+# Brok                                 
+PC14C_HACKER_INV_DEFAULT2-3=Но... Это ценная вещь!
+# Hacker                                 
+PC14C_HACKER_INV_DEFAULT2-4=Барахло.
+# Brok                                 
+PC14C_HACKER_INV_DEFAULT2-5=Приятель, вы слишком много времени проводите взаперти. У вас искаженные представления о ценности вещей.
+# Hacker                                 
+PC14C_HACKER_INV_DEFAULT2-6=Исчезни.
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_INV_PENDANT-1=Хмм...!
+# Brok                                 
+PC14C_HACKER_INV_PENDANT-2=...
+# Brok                                 
+PC14C_HACKER_INV_PENDANT-3=Простите... Не могу.
+# Hacker                                 
+PC14C_HACKER_INV_PENDANT-4=Боже! Как это глупо!
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_MONEY1-1=Это все, что у меня есть... Возьмите.
+# Hacker                                 
+PC14C_HACKER_INV_MONEY1-2=Вы издеваетесь?! Да я на это даже муравьебургер не куплю!
+# Brok                                 
+PC14C_HACKER_INV_MONEY1-3=Вы преувеличиваете. Я точно знаю, что на эту сумму вы можете купить целых два.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_APARTMENTKEY-1=Вы можете вести свой бизнес у меня дома!
+# Hacker                                 
+PC14C_HACKER_INV_APARTMENTKEY-2=Любопытно... Но.
+# Hacker                                 
+PC14C_HACKER_INV_APARTMENTKEY-3=У меня недавно был печальный опыт работы в подобной квартире.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_BILL1-1=Вы можете...
+# Hacker                                 
+PC14C_HACKER_INV_BILL1-2=Сделать эту квитанцию недействительной? Конечно!
+# Hacker                                 
+PC14C_HACKER_INV_BILL1-3=Это обойдется вам в 5,000 юнисов.
+# Brok                                 
+PC14C_HACKER_INV_BILL1-4=Нет, спасибо.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_HACKPHONE-1=Интересно, сколько он стоит...
+# Hacker                                 
+PC14C_HACKER_INV_HACKPHONE-2=Даже не думайте!
+# Hacker                                 
+PC14C_HACKER_INV_HACKPHONE-3=Я вас выслежу! И сотру вашу идентификацию!
+# Brok                                 
+PC14C_HACKER_INV_HACKPHONE-4=Возможно, это не такая уж плохая идея.
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_INV_RADAR-1=Что это...?
+# Brok                                 
+PC14C_HACKER_INV_RADAR-2=Радар для материалов.
+# Hacker                                 
+PC14C_HACKER_INV_RADAR-3=Что? Какой в этом смысл...? Разве вы не можете просто заказать все, что вам нужно?
+# Brok                                 
+PC14C_HACKER_INV_RADAR-4=Не все купаются в деньгах...
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_REMOTECONTROL-1=Я могу вам выменять этот пульт управления! Это редкое полицейское оборудование!
+# Hacker                                 
+PC14C_HACKER_INV_REMOTECONTROL-2=У меня таких двадцать штук.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_INV_RUBBERCUTTER-1=Вы можете прорубать себе путь сквозь ботов этой штукой!
+# Hacker                                 
+PC14C_HACKER_INV_RUBBERCUTTER-2=Я не прибегаю к насилию, чтобы защитить свою шкуру.
+# Brok                                 
+PC14C_HACKER_INV_RUBBERCUTTER-3=Конечно... А ваши дроны, я уверен, хотели меня зацеловать.
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Exit hacker talk
+# *****************************************************************
+# Brok                                 
+PC14C_HACKER_EXIT1-1=Я вернусь!
+# Hacker                                 
+PC14C_HACKER_EXIT1-2=Только попробуйте не вернуться...
+# Brok                                 
+PC14C_HACKER_EXIT1-3=Что?!
+# Hacker                                 
+PC14C_HACKER_EXIT1-4=Н-ничего!
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_EXIT2-1=Сидите тут!
+# Hacker                                 
+PC14C_HACKER_EXIT2-2=Пфф...
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-1=!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-2=АааАаа...! Только не вы!
+# Brok                                 
+PC14C_HACKER_GHERKIN_KO1-3=Эй! Хватит прятаться! Вы нужны мне!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-4=Н-но...
+# Brok                                 
+PC14C_HACKER_GHERKIN_KO1-5=Я не причиню вам вреда!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-6=О-обещаете...?
+# Brok                                 
+PC14C_HACKER_GHERKIN_KO1-7=Разумеется.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-8=...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_KO1-9=Ладно. Только не тратьте мое время зря!
+# Brok                                 
+PC14C_HACKER_GHERKIN_KO1-10=(Вздыхает)
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Talking to Hacker (when Gherkin around)
+# *****************************************************************
+# Hacker                                 
+PC14C_HACKER_GHERKIN_FIRST1-1=Мистер детектив.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_FIRST1-2=Должен вас предупредить, я сейчас очень занят и...
+# Brok                                 
+PC14C_HACKER_GHERKIN_FIRST1-3=Да-да. Слушайте.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_GHERKIN_PILL-1=Есть ли у вас информация о том, что вызвало нехватку таблеток?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_PILL-2=Если бы. Это настоящая катастрофа!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_PILL-3=Такими темпами, я останусь совсем без денег еще до конца недели.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_PILL-4=И без клиентов! Еще день и они все попередохнут, как мухи.
+# Brok                                 
+PC14C_HACKER_GHERKIN_PILL-5=Мы должны что-нибудь сделать!
+# Brok                                 
+PC14C_HACKER_GHERKIN_PILL-6=С вашим опытом и всеми этими примочками, наверняка вы можете разузнать что-нибудь!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_PILL-7=Вы думаете, я не пытался?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_PILL-8=Я обыскал весь Трайвеб. Ничего.
+# Brok                                 
+PC14C_HACKER_GHERKIN_PILL-9=Стоило догадаться.
+# Brok                                 
+PC14C_HACKER_GHERKIN_PILL-10=Тут поможет только реальное расследование.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-1=Что происходит с этими чертовыми ботами?!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_TRIBOT-2=С триботами? А что с ними не так?
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-3=Не говорите, что вы не знаете.
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-4=С сегодняшнего утра они совершили бесчисленное количество нападений на людей!
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-5=Даже не могу сосчитать, скольких мне пришлось переломать!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_TRIBOT-6=Вот и будете знать, как называть их "консервными банками".
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-7=Как смешно.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_TRIBOT-8=Я серьезно.
+# Brok                                 
+PC14C_HACKER_GHERKIN_TRIBOT-9=Так вы ничего не слышали?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_TRIBOT-10=Ничего. Но я буду настороже.
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-1=Кто-то присылает мне сообщения с неизвестного номера.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-2=Выясните, кто это.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-3=Сразу к делу, да?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-4=Проще простого. С вас будет 1,000 юнисов.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-5=У меня нет на это времени!
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-6=Сделайте это сейчас же, или я превращу ваше лицо в пюре!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-7=Эм... Ладно, ладно! Не надо горячиться из-за таких мелочей!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-8=Запишу это на ваш счет.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-9=Хорошо.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-10=...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-11=Так. Нашел.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-12=И? Кто это?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-13=Не могу сказать.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-14=Что...?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-15=Конфиденциальность. Это главное в моей профессии.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-16=На счету доверие между мной и моим клиентом. Она специально...
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-17=Она?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-18=Арр...!
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-19=Давай, выкладывай!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-20=Профессиональная этика не позволяет мне разглашать ее имя!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-21=Но... Думаю, я могу выдать вам пару фактов о ее запросе.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-22=Этика, говорите...?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-23=Два дня назад она попросила кое-что поискать и уведомить ее, если появятся какие-либо обновления по некоторым темам...
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-24=Это по каким?
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-25=Хмм... Вот список.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-26=Правительство...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-27=Различные статистики за последние несколько лет...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-28=Взлом почтового ящика какого-то журналиста...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-29=Финансы фармацевтических компаний... В особенности, касающиеся детоксикационных таблеток...
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-30=Ох-ох! Если бы я верил в совпадения...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-31=И информацию о мужчине по имени Син.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-32=Син?!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-33=Да. Кенгуру, раньше жил в Драмс.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-34=Ну точно... Это он.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-35=За время своей деятельности я научился распознавать эмоцианальное состояние людей. Это очень помогает в моем деле.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-36=И вот что я могу вам сказать.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-37=Она очень старалась скрыть это, но видно было, что она сильно переживает за этого мужика.
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-38=Син... Любопытно...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-39=Надеюсь, вы довольны.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_MESSAGES-40=А теперь, кыш!
+# RJ                                 
+PC14C_HACKER_GHERKIN_MESSAGES-41=(Сильно кашляет....)
+# Brok                                 
+PC14C_HACKER_GHERKIN_MESSAGES-42=...?
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - After RJ collapses due to lack of pill
+# *****************************************************************
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-1=Эй! Помоги мне!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-2=Твой охранник потерял сознание!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-3=Что?
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-4=Он давно не принимал таблетки!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-5=Дай одну! Это срочно!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-6=Эй! Вы так шутите?!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-7=Знаете, сколько они стоят на черном рынке?! Я себе-то одну с трудом могу позволить!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-8=Вопрос жизни и смерти!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-9=Ладно. С вам 20,000 юнисов.
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-10=Свихнулись?! У меня нет таких денег!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-11=Ну, тогда ответ вам известен.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-12=Мы в Сламс. Здесь выживает сильнейший.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-13=Если он не сможет, значит просто я нанял не того человека на эту должность.
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-14=Как вы можете быть таким эгоистом?!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-15=Это не эгоизм. Это ответственность.
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-16=Как, по-вашему, я держусь в этом бизнесе? Раздавая дорогостоящие предметы даром?!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-17=Жизнь второсортных граждан столько не стоит.
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-18=Точно. Вы не эгоистичный. Вы подлый.
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-19=Мое терпение лопнуло!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-20=Дайте таблетку, или я...
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-21=Ой! Угрожать мне смысла нету...!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-22=У меня сейчас нет ни одной таблетки! Клянусь...!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-23=Значит, спросите у своих контактов!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-24=Даже если бы и спросил... Доставить моментально мне ее не смогут!
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND-25=Медведь будет уже мертв.
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-26=Черт... От него мне толку мало...!
+# Brok                                 
+PC14C_HACKER_GHERKIN_SECOND-27=Нужно найти другой выход, и быстро!
+#----------------------------------------------------
+# Hacker                                 
+PC14C_HACKER_GHERKIN_SECOND2-1=...
+#----------------------------------------------------
+# Brok                                 
+PC14C_HACKER_GHERKIN_USELESS-1=Он бесполезен...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Day 3 - Coming back to look for Graff
+# *****************************************************************
+# Brok                                 
+PC14C_HACKER_END_FIRST-1=Вы еще здесь...?
+# Hacker                                 
+PC14C_HACKER_END_FIRST-2=...!
+# Hacker                                 
+PC14C_HACKER_END_FIRST-3=Хватит меня пугать!
+# Brok                                 
+PC14C_HACKER_END_FIRST-4=Я ищу своего сына.
+# Hacker                                 
+PC14C_HACKER_END_FIRST-5=И...?
+# Brok                                 
+PC14C_HACKER_END_FIRST-6=Кот. Серая шерсть, синие глаза. Красный свитшот.
+# Hacker                                 
+PC14C_HACKER_END_FIRST-7=...
+# Brok                                 
+PC14C_HACKER_END_FIRST-8=...?
+# Brok                                 
+PC14C_HACKER_END_FIRST-9=Вы... Вы его видели!
+# Hacker                                 
+PC14C_HACKER_END_FIRST-10=Ну...
+# Brok                                 
+PC14C_HACKER_END_FIRST-11=Рассказывайте!
+# Brok                                 
+PC14C_HACKER_END_FIRST-12=Где он?!
+# Hacker                                 
+PC14C_HACKER_END_FIRST-13=Он... Он ушел! Не так давно! Он был с другом!
+# Brok                                 
+PC14C_HACKER_END_FIRST-14=Не может быть... Что он здесь делал...?
+# Hacker                                 
+PC14C_HACKER_END_FIRST-15=Спрашивал что-то о детоксикационных таблетках...
+# Hacker                                 
+PC14C_HACKER_END_FIRST-16=Они, должно быть, не далеко! Поищите!
+# Brok                                 
+PC14C_HACKER_END_FIRST-17=Грэфф... Что ты затеял...?
+# Hacker                                 
+PC14C_HACKER_END_FIRST-18=...
+#----------------------------------------------------
+# *****************************************************************
+# CONTEXT - Gameover during drones fight
+# *****************************************************************
+# Hacker                                 
+PC14C_HACKERFIGHT_GAMEOVER-1=...
+# Hacker                                 
+PC14C_HACKERFIGHT_GAMEOVER-2=Фух. Хорошо, что я установил дроны!
+# Hacker                                 
+PC14C_HACKERFIGHT_GAMEOVER-3=Ладно, пора возвращаться к работе.
+#----------------------------------------------------
+
+
+#----- Topics --------
+PC_PIZZABOX=Коробка
+PC_BOTTLE=Бутылка
+PC_STUFF=Вещи
+PC_PLANKS=Доски
+PC14C_HACKER_GIVEUP=Сдаться
+#----------------------------------------------------
+# Brok
+PC14C_TO_PC14B_NOTYET-1=(Еще нет...)
+#----------------------------------------------------
+# Brok
+PC14C_HACKER_NOTYET-1=(Рано...)
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_ALTERNATIVE-1=Я пошел.
+# Hacker
+PC14C_FIRST_ALTERNATIVE-2=Подождите!
+# Hacker
+PC14C_FIRST_ALTERNATIVE-3=Мне нужно, чтобы вы кое-что для меня сделали.
+# Brok
+PC14C_FIRST_ALTERNATIVE-4=(Сегодня меня все решили использовать, как мальчика на побегушках?)
+# Brok
+PC14C_FIRST_ALTERNATIVE-5=Меня это не интересует.
+# Hacker
+PC14C_FIRST_ALTERNATIVE-6=Ну, ладно.
+# Hacker
+PC14C_FIRST_ALTERNATIVE-7=В таком случае, я отправлю одно сообщение Правительству...
+# Hacker
+PC14C_FIRST_ALTERNATIVE-8=С информацией о вашей подружке Шэй.
+# Brok
+PC14C_FIRST_ALTERNATIVE-9=Угрожать мне вздумал?!
+# Hacker
+PC14C_FIRST_ALTERNATIVE-10=У меня лишь... малюсенькая просьба!
+# Hacker
+PC14C_FIRST_ALTERNATIVE-11=Выполните ее для меня и я помогу вам в ваших вопросах.
+# Brok
+PC14C_FIRST_ALTERNATIVE-12=...
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_BLACKMAIL_ACCEPT-1=Хорошо. Что у вас за дело?
+# Hacker
+PC14C_FIRST_BLACKMAIL_ACCEPT-2=Вы полицейский.
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_GIVEUP1-1=(Вздыхает) Я сдаюсь.
+# Brok
+PC14C_FIRST_GIVEUP1-2=Я позвоню директрисе позже.
+# Hacker
+PC14C_FIRST_GIVEUP1-3=Ладно. А теперь уходите.
+# Brok
+PC14C_FIRST_GIVEUP1-4=Погодите.
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_SHAYNOMONEY-1=(Ой! Я потратил все деньги!)
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_SHAY1-1=Вот. 100 юнисов. От моей подруги Шэй.
+# Hacker
+PC14C_FIRST_SHAY1-2=Шэй...
+# Hacker
+PC14C_FIRST_SHAY1-3=Ах, та девчонка... Вечно ищет редкие материалы.
+# Brok
+PC14C_FIRST_SHAY1-4=Ага. Это сумма, которую она вам задолжала.
+# Hacker
+PC14C_FIRST_SHAY1-5=Дайте-ка я проверю свои записи о ней.
+# Hacker
+PC14C_FIRST_SHAY1-6=Хм. Я что-то не вижу, чтобы у нее был...
+# Hacker
+PC14C_FIRST_SHAY1-7=...
+# Hacker
+PC14C_FIRST_SHAY1-8=Ладно! Я возьму деньги.
+# Brok
+PC14C_FIRST_SHAY1-9=Отлично!
+#----------------------------------------------------
+# Brok
+PC14C_FIRST_SHAY2-1=А что за дела у вас с Шэй?
+# Hacker
+PC14C_FIRST_SHAY2-2=Это конфиденциальная информация. Хотя...
+# Hacker
+PC14C_FIRST_SHAY2-3=Советую вам остерегаться. Она сумасшедшая.
+# Brok
+PC14C_FIRST_SHAY2-4=Ну, это не новость!
+# Hacker
+PC14C_FIRST_SHAY2-5=Я серьезно. В ее файле написано, что она сбежала из психиатрической больницы 9 лет назад.
+# Hacker
+PC14C_FIRST_SHAY2-6=И не обычной.
+# Hacker
+PC14C_FIRST_SHAY2-7=Центральный Свет известна тем, что содержит самых безнадежных психов, представляющих угрозу окружающим.
+# Hacker
+PC14C_FIRST_SHAY2-8=Она годами заметала свои следы.
+# Brok
+PC14C_FIRST_SHAY2-9=Психиатрическая больница...?
+# Brok
+PC14C_FIRST_SHAY2-10=Плевать. Я доверяю ей больше, чем вам.
+# Hacker
+PC14C_FIRST_SHAY2-11=Психа психом не напугаешь.
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_HIT1-1=Аррр!
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_HIT2-1=Перестаньте! Мне больно!
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_HIT3-1=Я слишком миленький, чтобы умирать...!
+#----------------------------------------------------
+# Brok
+PC14C_PIZZABOX1-1=Гадость!
+#----------------------------------------------------
+# Brok
+PC14C_BOTTLE1-1=Можно я попью?
+# Hacker
+PC14C_BOTTLE1-2=Нет.
+#----------------------------------------------------
+# Brok
+PC14C_WINDOW1-1=Какой завораживающий вид...
+#----------------------------------------------------
+# Brok
+PC14C_STUFF1-1=Ух ты... Как много всего. У меня есть дела поважнее, чем копаться тут.
+
+
+
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_WALKONSTAND1-1=Что за...?
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_WALKONSTAND2-1=Нц. Иди поиграй во дворе.
+#----------------------------------------------------
+# Hacker
+PC14C_HACKER_WALKONSTAND3-1=(Вздыхает)
+
+
+
+COOP_PC14C_HACKER1-1=Он нам не доверяет, и я ему не доверяю.

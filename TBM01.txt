@@ -1,0 +1,60 @@
+#-------------------------------
+#=Virtual arena training
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+BM01_TITLE_TUTORIAL1=Удар в прыжке
+BM01_SUBTITLE_TUTORIAL1={command}
+BM01_SUBTITLE_TUTORIAL1_MOUSE=Нажми <button=INPUT_ACTION_JUMPKICK>, чтобы исполнить удар в прыжке.##Подсказка : Используй его во время комбо, чтобы исполнить апперкот!
+BM01_SUBTITLE_TUTORIAL1_GAMEPAD=Прыгни, нажав <button=INPUT_ACTION_JUMP>, затем нажми <button=INPUT_ACTION_HIT>##Также ты можешь исполнить апперкот, нажав <button=INPUT_ACTION_JUMP> + <button=INPUT_ACTION_HIT>, стоя на земле.
+BM01_OBJECTIVE_TUTORIAL1=Уничтожь все цели
+
+
+BM01_TITLE_TUTORIAL2=Мощная атака
+BM01_SUBTITLE_TUTORIAL2=Нажми {command} чтобы произвести атаку, способную пробить почти любую защиту!
+BM01_SUBTITLE_TUTORIAL2_MOUSE=Нажми <button=INPUT_ACTION_POWERFULATTACK>
+BM01_SUBTITLE_TUTORIAL2_GAMEPAD=Беги, зажав <spr=GAMEPAD_TRIGGERRIGHT>, и нажми <button=INPUT_ACTION_HIT>
+BM01_OBJECTIVE_TUTORIAL2=Уничтожь все ящики
+
+
+BM01_TITLE_TUTORIAL3=Быстрый выбор
+BM01_SUBTITLE_TUTORIAL3=Во время боя используй {command}, чтобы открыть меню.##Возьми палку и атакуй!
+BM01_SUBTITLE_TUTORIAL3_MOUSE=Удерживай <button=INPUT_ACTION_QUICKSELECT_INV> (предметы) или <button=INPUT_ACTION_QUICKSELECT_FOOD> (еда)
+BM01_SUBTITLE_TUTORIAL3_GAMEPAD=удерживай <spr=GAMEPAD_SHOULDERLEFT> (предметы) или <spr=GAMEPAD_SHOULDERRIGHT> (еда)
+BM01_OBJECTIVE_TUTORIAL3=Уничтожь все цели
+
+
+BM01_TITLE_TUTORIAL4=Уклонение
+BM01_SUBTITLE_TUTORIAL4={command}
+BM01_SUBTITLE_TUTORIAL4_MOUSE=Зажми кнопку защиты <button=INPUT_ACTION_GUARD> и кликни в сторону от направления, куда смотрит твой персонаж.
+BM01_SUBTITLE_TUTORIAL4_GAMEPAD=Зажми кнопку защиты <button=INPUT_ACTION_GUARD> и нажми <spr=GAMEPAD_STICKLEFT> в направлении, противоположном тому, куда смотрит твой персонаж. Также ты можешь использовать <spr=GAMEPAD_STICKRIGHT>.
+BM01_OBJECTIVE_TUTORIAL4=Уклоняйся, чтобы выжить, пока не истечет таймер
+
+BM01_TITLE_TUTORIAL5=Особая атака
+BM01_SUBTITLE_TUTORIAL5=Подожди, пока шкала заполнится, а затем {command}, чтобы произвести особую атаку!
+BM01_SUBTITLE_TUTORIAL5_MOUSE=Щелкни на игрока (или нажми <button=INPUT_ACTION_SPECIALMOVE>)
+BM01_SUBTITLE_TUTORIAL5_GAMEPAD=Нажми <spr=GAMEPAD_TRIGGERLEFT>
+BM01_OBJECTIVE_TUTORIAL5=Убей врагов
+
+
+BM01_TITLE_TUTORIAL6=Быстро встать на ноги
+BM01_SUBTITLE_TUTORIAL6=Когда Брока отбрасывают, используй {command} до того, как он приземлится на пол, чтобы быстро вернуться в бой, не получив урона.
+BM01_SUBTITLE_TUTORIAL6_MOUSE=Щелкни на него (и удерживай)
+BM01_SUBTITLE_TUTORIAL6_GAMEPAD=Нажми <spr=GAMEPAD_STICKLEFT> ВВЕРХ + <button=INPUT_ACTION_GUARD> 
+BM01_OBJECTIVE_TUTORIAL6=Продолжай вставать на ноги, пока не истечет таймер
+
+BM01_TITLE_TUTORIAL7=Практикуйся!
+BM01_SUBTITLE_TUTORIAL7=Используй все выученные движения, чтобы победить врагов!
+BM01_OBJECTIVE_TUTORIAL7=Убей врагов
+
+
+
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
