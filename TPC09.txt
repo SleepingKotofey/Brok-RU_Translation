@@ -506,7 +506,7 @@ PC09_DRINK_SEWAGE_SLUDGE1-1=Возьмите.
 # Brok                                 
 PC09_DRINK_SEWAGE_SLUDGE1-2=(Нюхает)
 # Brok                                 
-PC09_DRINK_SEWAGE_SLUDGE1-3=...Я что, правда должен..?
+PC09_DRINK_SEWAGE_SLUDGE1-3=...Я что, правда должен?..
 # Blindbot                                 
 PC09_DRINK_SEWAGE_SLUDGE1-4=Таков был ваш запрос. Он не может быть отменен.
 # Brok                                 
