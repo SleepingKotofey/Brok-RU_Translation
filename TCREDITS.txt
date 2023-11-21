@@ -233,7 +233,7 @@ CREDITS_SCENE_DEE3A-13=Папа... не вернется.
 # Various                                 
 CREDITS_SCENE_DEE3A-14=Ошибаешься.
 # Dee                                 
-CREDITS_SCENE_DEE3A-15=Что...?
+CREDITS_SCENE_DEE3A-15=Что?..
 # Various                                 
 CREDITS_SCENE_DEE3A-16=Я знаю, что вернется! Он мне обещал!
 # Dee                                 
@@ -391,7 +391,7 @@ CREDITS_SCENE_POLICE1A-16=Я не могу положиться на эти ко
 # RJ                                 
 CREDITS_SCENE_POLICE1A-17=Спасибо!!!
 # Ott                                 
-CREDITS_SCENE_POLICE1A-18=Ох...!
+CREDITS_SCENE_POLICE1A-18=Ох!..
 # Ott                                 
 CREDITS_SCENE_POLICE1A-19=Не раздавите меня! Чтобы управлять этим местом, мне нужно быть живым!
 #----------------------------------------------------
