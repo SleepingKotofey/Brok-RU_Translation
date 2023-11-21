@@ -1901,7 +1901,7 @@ PC10_DAY3BEGIN1_OTTBROKEN-1=Эй...
 # Graff                                 
 PC10_DAY3BEGIN1_OTTBROKEN-2=Послушай. На счет того дня...
 # Ott                                 
-PC10_DAY3BEGIN1_OTTBROKEN-3=Ярмарки...?
+PC10_DAY3BEGIN1_OTTBROKEN-3=Ярмарки?..
 # Ott                                 
 PC10_DAY3BEGIN1_OTTBROKEN-4=Ты запаниковал. Бывает.
 # Graff                                 
@@ -2524,7 +2524,7 @@ PC10_DAY3RESULTS5-2=Поздравляю! Я знал, что у тебя все
 PC10_DAY3RESULTS5-3=А теперь... Грэфф.
 #----------------------------------------------------
 # Graff                                 
-PC10_DAY3RESULTS_GRAFFLOSES-1=О... Нет...!
+PC10_DAY3RESULTS_GRAFFLOSES-1=О... Нет!..
 # Director                                 
 PC10_DAY3RESULTS_GRAFFLOSES-2=Мне очень жаль. Ты не прошел.
 # Director                                 
@@ -2730,7 +2730,7 @@ PC10_DAY3RESULTS10-2=У тебя очень низкая статистика п
 # Director                                 
 PC10_DAY3RESULTS10-3=Твой дядя тобой очень гордится.
 # Ott                                 
-PC10_DAY3RESULTS10-4=Дядя Уэс...? Откуда вы знаете?..
+PC10_DAY3RESULTS10-4=Дядя Уэс?.. Откуда вы знаете?..
 # Director                                 
 PC10_DAY3RESULTS10-5=А что до тебя, Грэфф... Это всего лишь небольшая неудача.
 # Director                                 
@@ -2757,7 +2757,7 @@ PC10_DAY3RESULTS11_GRAFFLOST-3=Должен быть выход...
 # Graff                                 
 PC10_DAY3RESULTS11_GRAFFLOST-4=Забудь. Я не заслуживаю этого.
 # Ott                                 
-PC10_DAY3RESULTS11_GRAFFLOST-5=Грэфф...!
+PC10_DAY3RESULTS11_GRAFFLOST-5=Грэфф!..
 #----------------------------------------------------
 # Graff                                 
 PC10_DAY3RESULTS11_GRAFFWINS-1=Без шансов. Скоро ты будешь жить под Куполом...
