@@ -30,7 +30,7 @@ PC11D_ENTER1-2=Тут так темно...
 PC11D_ENTER1-3=Идем дальше.
 #----------------------------------------------------
 # Brok                                 
-PC11D_WINDOWA1-1=Окно? Иллюминатор...?
+PC11D_WINDOWA1-1=Окно? Иллюминатор?..
 # Brok                                 
 PC11D_WINDOWA1-2=Чем бы оно ни было, оно закрыто.
 #----------------------------------------------------
@@ -52,11 +52,11 @@ PC11D_WINDOWA_CLOSEUP1-6=...несчастный случай...
 # Brok                                 
 PC11D_WINDOWA_CLOSEUP1-7=Там кто-нибудь есть?
 # Various                                 
-PC11D_WINDOWA_CLOSEUP1-8=...бедный мальчик. Что он теперь будет делать...?
+PC11D_WINDOWA_CLOSEUP1-8=...бедный мальчик. Что он теперь будет делать?..
 # Various                                 
 PC11D_WINDOWA_CLOSEUP1-9=...не сможет...
 # Various                                 
-PC11D_WINDOWA_CLOSEUP1-10=...жить с этим сламером...?
+PC11D_WINDOWA_CLOSEUP1-10=...жить с этим сламером?..
 # Various                                 
 PC11D_WINDOWA_CLOSEUP1-11=...жестокий незнакомец. Он бы...
 # Various                                 
@@ -66,7 +66,7 @@ PC11D_WINDOWA_CLOSEUP1-13=...закон есть закон...
 # Graff                                 
 PC11D_WINDOWA_CLOSEUP1-14=Отец...
 # Brok                                 
-PC11D_WINDOWA_CLOSEUP1-15=А...?
+PC11D_WINDOWA_CLOSEUP1-15=А?..
 # Brok                                 
 PC11D_WINDOWA_CLOSEUP1-16=...
 # Brok                                 
@@ -149,7 +149,7 @@ PC11D_WINDOWC2-16=Кто... Кто здесь?
 # Brok                                 
 PC11D_WINDOWC2-17=Это я!
 # Graff                                 
-PC11D_WINDOWC2-18=Кто...?
+PC11D_WINDOWC2-18=Кто?..
 # Brok                                 
 PC11D_WINDOWC2-19=Брок! Я... Я пришел за тобой!
 # Graff                                 
@@ -189,7 +189,7 @@ PC11D_WINDOWC3-5=Видимо, он прячется.
 PC11D_WINDOWC3-6=Надо вытащить его отсюда!
 #----------------------------------------------------
 # Brok                                 
-PC11D_MINES_SEE1-1=Мины...?
+PC11D_MINES_SEE1-1=Мины?..
 # Brok                                 
 PC11D_MINES_SEE1-2=Блин... Ненавижу их. Лучше смотреть под ноги.
 #----------------------------------------------------
@@ -202,7 +202,7 @@ PC11D_CAGE_STUCK-1=Просто замечательно... Это была ло
 # Brok                                 
 PC11D_CAGE_STUCK_ENEMIES-1=...
 # Brok                                 
-PC11D_CAGE_STUCK_ENEMIES-2=Стоп. Что случилось с противниками...?
+PC11D_CAGE_STUCK_ENEMIES-2=Стоп. Что случилось с противниками?..
 #----------------------------------------------------
 # Brok                                 
 PC11D_CAGE_NOTHING-1=...
@@ -219,9 +219,9 @@ PC11D_CAGE_GOTEM-3=Что? Куда делись противники?
 PC11D_CAGE_GOTEM-4=Это какой-то фокус?
 #----------------------------------------------------
 # Brok                                 
-PC11D_CAGE_STUCK_GRAFFDIALOG-1=Грэфф...!
+PC11D_CAGE_STUCK_GRAFFDIALOG-1=Грэфф!..
 # Brok                                 
-PC11D_CAGE_STUCK_GRAFFDIALOG-2=Как ты...? И почему ты...?
+PC11D_CAGE_STUCK_GRAFFDIALOG-2=Как ты?.. И почему ты?..
 # Graff                                 
 PC11D_CAGE_STUCK_GRAFFDIALOG-3=...
 # Brok                                 
@@ -236,7 +236,7 @@ PC11D_CAGE_STUCK_GRAFFDIALOG-7=Ха-ха-ха-ха! ЛОЛ!
 # Brok                                 
 PC11D_CAGE_STUCK_GRAFFDIALOG-8=Что?!
 # Graff                                 
-PC11D_CAGE_STUCK_GRAFFDIALOG-9=Ты застрял...! Причем сам!
+PC11D_CAGE_STUCK_GRAFFDIALOG-9=Ты застрял!.. Причем сам!
 # Graff                                 
 PC11D_CAGE_STUCK_GRAFFDIALOG-10=РОФЛ! ЛМФАО!
 # Brok                                 
@@ -253,9 +253,9 @@ PC11D_CAGE_STUCK_GRAFFDIALOG-15=...Какого...
 # Brok                                 
 PC11D_GRAFFBEDROOM1-1=...!
 # Brok                                 
-PC11D_GRAFFBEDROOM1-2=Грэфф...?
+PC11D_GRAFFBEDROOM1-2=Грэфф?..
 # Brok                                 
-PC11D_GRAFFBEDROOM1-3=О, нет...! Не двигайся!
+PC11D_GRAFFBEDROOM1-3=О, нет!.. Не двигайся!
 # Brok                                 
 PC11D_GRAFFBEDROOM1-4=Вокруг тебя мины!
 # Graff                                 
@@ -271,7 +271,7 @@ PC11D_GRAFFBEDROOM1-9=Чт... Что мне делать...?!
 # Graff                                 
 PC11D_GRAFFBEDROOM1-10=Прошу...
 # Graff                                 
-PC11D_GRAFFBEDROOM1-11=УХОДИ...!
+PC11D_GRAFFBEDROOM1-11=УХОДИ!..
 #----------------------------------------------------
 # Graff                                 
 PC11D_RANAWAY1-1=Ну конечно...
@@ -290,7 +290,7 @@ PC11D_RANAWAY1-7=Можешь не врать самому себе.
 # Graff                                 
 PC11D_RANAWAY1-8=Просто хватит...
 # Brok                                 
-PC11D_RANAWAY1-9=Хватит...?
+PC11D_RANAWAY1-9=Хватит?..
 # Graff                                 
 PC11D_RANAWAY1-10=Хватит... спать.
 # Graff                                 
@@ -304,7 +304,7 @@ PC11D_GRAFFEXPLODES-1=Н... Неееет!!! Грэфф!!!
 # Brok                                 
 PC11D_GRAFFEXPLODES-2=Это...
 # Brok                                 
-PC11D_GRAFFEXPLODES-3=Этого не может быть...!
+PC11D_GRAFFEXPLODES-3=Этого не может быть!..
 # Brok                                 
 PC11D_GRAFFEXPLODES-4=Мне...
 # Brok                                 
@@ -314,7 +314,7 @@ PC11D_GRAFFEXPLODES-5=Мне так жаль... Я не смог... спасти
 PC11D_ENEMIES_APPEAR1-1=Это он!
 #----------------------------------------------------
 # Brok                                 
-PC11D_ENEMIES_APPEAR2-1=Они наступают...!
+PC11D_ENEMIES_APPEAR2-1=Они наступают!..
 #----------------------------------------------------
 # Brok                                 
 PC11D_ENEMIES_AGAIN-1=Что?! Они хотят еще помахаться?
@@ -333,7 +333,7 @@ PC11D_GRAFFSAVED-3=... Знаешь...
 # Graff                                 
 PC11D_GRAFFSAVED-4=... Ты не один...
 # Brok                                 
-PC11D_GRAFFSAVED-5=Грэфф...?
+PC11D_GRAFFSAVED-5=Грэфф?..
 # Graff                                 
 PC11D_GRAFFSAVED-6=... Проснись...
 # Brok                                 
@@ -368,7 +368,7 @@ PC11D_GRAFFWRONG-4=Ты...
 # Graff                                 
 PC11D_GRAFFWRONG-5=Ты их всех убил!
 # Brok                                 
-PC11D_GRAFFWRONG-6=Н... Нет! Я этого не делал...!
+PC11D_GRAFFWRONG-6=Н... Нет! Я этого не делал!..
 # Graff                                 
 PC11D_GRAFFWRONG-7=Лжец!
 # Graff                                 
@@ -380,7 +380,7 @@ PC11D_GRAFFWRONG2-1=...
 # Brok                                 
 PC11D_GRAFFWRONG2-2=Нет... Я...
 # Brok                                 
-PC11D_GRAFFWRONG2-3=Они же были...!
+PC11D_GRAFFWRONG2-3=Они же были!..
 # Brok                                 
 PC11D_GRAFFWRONG2-4=...
 # Brok                                 
@@ -392,7 +392,7 @@ PC11D_GRAFFWRONG2-7=Простите меня... Все...
 # Brok                                 
 PC11D_GRAFFWRONG2-8=...?
 # Brok                                 
-PC11D_GRAFFWRONG2-9=Грэфф? Где ты...?
+PC11D_GRAFFWRONG2-9=Грэфф? Где ты?..
 # Brok                                 
 PC11D_GRAFFWRONG2-10=Грэфф, иди сюда! Теперь тебе ничто не угрожает!
 # Brok                                 

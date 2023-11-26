@@ -104,10 +104,10 @@ PC08_DAY3_GARAGEWIN-1=...
 # CONTEXT - Day 1 - Checking the buttons on the garage door
 # *****************************************************************
 # Brok                                 
-PC08_BUTTONA1-1=Странно, я не помню этой кнопки...!
+PC08_BUTTONA1-1=Странно, я не помню этой кнопки!..
 #----------------------------------------------------
 # Brok                                 
-PC08_BUTTONB1-1=Для чего она...?
+PC08_BUTTONB1-1=Для чего она?..
 #----------------------------------------------------
 # Brok                                 
 PC08_BUTTONNO-1=Ни за что!
@@ -163,7 +163,7 @@ PC08_STORY330_CANNOT_WITHGRAFF1-10=...
 # Brok                                 
 PC08_STORY330_CANNOT_WITHGRAFF1-11=Грэфф!!! Что происходит?!
 # Graff                                 
-PC08_STORY330_CANNOT_WITHGRAFF1-12=Б...Брок...?
+PC08_STORY330_CANNOT_WITHGRAFF1-12=Б...Брок?..
 # Brok                                 
 PC08_STORY330_CANNOT_WITHGRAFF1-13=Гараж... Он исчезает!
 # Brok                                 
@@ -185,7 +185,7 @@ PC08_STORY330_CANNOT_WITHGRAFF1-19=...
 # Brok                                 
 PC08_STORY320_CANNOT_WITHGRAFF2-1=...
 # Brok                                 
-PC08_STORY320_CANNOT_WITHGRAFF2-2=Где я...?
+PC08_STORY320_CANNOT_WITHGRAFF2-2=Где я?..
 # Brok                                 
 PC08_STORY320_CANNOT_WITHGRAFF2-3=Это так странно...
 # Brok                                 
@@ -193,7 +193,7 @@ PC08_STORY320_CANNOT_WITHGRAFF2-4=Я... думал...
 # Brok                                 
 PC08_STORY320_CANNOT_WITHGRAFF2-5=Что у меня есть ребенок...
 # Brok                                 
-PC08_STORY320_CANNOT_WITHGRAFF2-6=Сын, подросток...?
+PC08_STORY320_CANNOT_WITHGRAFF2-6=Сын, подросток?..
 # Brok                                 
 PC08_STORY320_CANNOT_WITHGRAFF2-7=Ух...
 # Brok                                 
@@ -212,7 +212,7 @@ PC08_STORY320_CANNOT_WITHGRAFF2-13=Пора бежать в бойцовую я�
 PC08_STORY320_CANNOT_WITHGRAFF2-14=...
 #----------------------------------------------------
 # Brok                                 
-PC08_STORY320_CANNOT_WITHGRAFF3-1=Хмм... Как звали мальчика...?
+PC08_STORY320_CANNOT_WITHGRAFF3-1=Хмм... Как звали мальчика?..
 # Brok                                 
 PC08_STORY320_CANNOT_WITHGRAFF3-2=Ах, да...
 # Brok                                 

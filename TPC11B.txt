@@ -83,7 +83,7 @@ PC11B_ROBOT_WAKEUP1-4=Имя? Я...
 # Tribot                                 
 PC11B_ROBOT_WAKEUP1-5=Тревога уровня 5. Осуществляется кража со взломом.
 # Brok                                 
-PC11B_ROBOT_WAKEUP1-6=Какого...?
+PC11B_ROBOT_WAKEUP1-6=Какого?..
 # Tribot                                 
 PC11B_ROBOT_WAKEUP1-7=Пожалуйста, оставайтесь на месте. Вскоре прибудут агенты и произведут ваш арест.
 # Brok                                 
