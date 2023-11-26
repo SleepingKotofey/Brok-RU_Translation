@@ -413,7 +413,7 @@ PC14_LOOKGRAFF_DEECALL_NO2-3=Нужно спуститься туда!
 # Brok                                 
 PC14_LOOKGRAFF_DOWN1-1=Блин... Тут так темно.
 # Brok                                 
-PC14_LOOKGRAFF_DOWN1-2=...?
+PC14_LOOKGRAFF_DOWN1-2=?..
 # Brok                                 
 PC14_LOOKGRAFF_DOWN1-3=Кто... Кто здесь?!
 #----------------------------------------------------

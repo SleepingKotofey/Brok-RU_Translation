@@ -71,7 +71,7 @@ PC15B_BOX1-1=Ячейка, принимающая посылки...
 PC15B_BOX1-2=Пуста, как и мое стремление проверять ее.
 #----------------------------------------------------
 # Brok                                 
-PC15B_BOX_PICKUP-1=Энергетик...?!
+PC15B_BOX_PICKUP-1=Энергетик?!.
 # Brok                                 
 PC15B_BOX_PICKUP-2=Ды вы издеваетесь...
 #----------------------------------------------------
@@ -633,7 +633,7 @@ PC15B_KNOCK1-1=Не открывается...
 # Brok                                 
 PC15B_KNOCK1-2=(Стучит)
 # Brok                                 
-PC15B_KNOCK1-3=...?
+PC15B_KNOCK1-3=?..
 # Brok                                 
 PC15B_KNOCK1-4=Я слышу музыку...
 # Brok                                 
@@ -1214,7 +1214,7 @@ PC15B_CLUE_LAB_MEETYME-3=И что он сказал?
 # Brok                                 
 PC15B_CLUE_LAB_MEETYME-4="Я в туалете"
 # Guard                                 
-PC15B_CLUE_LAB_MEETYME-5=...!
+PC15B_CLUE_LAB_MEETYME-5=!..
 # Brok                                 
 PC15B_CLUE_LAB_MEETYME-6=Ну, навеяло воспоминания?..
 # Guard                                 
@@ -1346,7 +1346,7 @@ PC15B_STORY170_JUMPEDBODY1-4=Я его догоню!
 # Guard                                 
 PC15B_STORY170_BROKLOSES1-1=О нет!..
 # Mink                                 
-PC15B_STORY170_BROKLOSES1-2=...!
+PC15B_STORY170_BROKLOSES1-2=!..
 # Tidy                                 
 PC15B_STORY170_BROKLOSES1-3=Ха-ха-ха!
 # Tidy                                 

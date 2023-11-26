@@ -45,7 +45,7 @@ BM02_DEE1-2=Эмм... Твой противник?
 # Dee                                 
 BM02_DEE1-3=Нет. Им должен был быть...
 # Brok                                 
-BM02_DEE1-4=...?
+BM02_DEE1-4=?..
 # Dee                                 
 BM02_DEE1-5=Неважно.
 # Dee                                 
@@ -55,7 +55,7 @@ BM02_DEE1-6=Зажжем, крок!
 # CONTEXT - Brok accidentally removes her hood, revealing she's a woman
 # *****************************************************************
 # Brok                                 
-BM02_DEE_REVEAL-1=...!
+BM02_DEE_REVEAL-1=!..
 # Brok                                 
 BM02_DEE_REVEAL-2=Ты... Ты же!..
 # Dee                                 
@@ -196,7 +196,7 @@ BM02_BROK_LOSES1-7=...
 # RJ                                 
 BM02_BROK_LOSES1-8=Угх!
 # RJ                                 
-BM02_BROK_LOSES1-9=Я......!
+BM02_BROK_LOSES1-9=Я...!..
 # RJ                                 
 BM02_BROK_LOSES1-10=...
 # RJ                                 

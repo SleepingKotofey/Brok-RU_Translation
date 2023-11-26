@@ -634,7 +634,7 @@ PC03_TRAMP_WELCOME_MEDICINE1-28=Спасибо, Брок.
 # Brok                                 
 PC03_TRAMP_WELCOME_MEDICINE1-29=...
 # Brok                                 
-PC03_TRAMP_WELCOME_MEDICINE1-30=(...?)
+PC03_TRAMP_WELCOME_MEDICINE1-30=(?..)
 #----------------------------------------------------
 # Brok                                 
 PC03_TRAMP_GONE1-1=А?..
@@ -649,7 +649,7 @@ PC03_TRAMP_GONE2-3=Стоп. Что это?
 # Brok                                 
 PC03_TRAMP_GONE3-1=Письмо...
 # Brok                                 
-PC03_TRAMP_GONE3-2="Броку"...?
+PC03_TRAMP_GONE3-2="Броку"?..
 # Tramp                                 
 PC03_TRAMP_GONE3-3="Привет, мальчик мой."
 # Tramp                                 
@@ -734,7 +734,7 @@ PC03_STORY175_DRONES-7=У меня нет бабла!
 # Tribot                                 
 PC03_STORY175_DRONES-8=У вас есть три секунды на оплату.
 # Brok                                 
-PC03_STORY175_DRONES-9=Три секунды...?!
+PC03_STORY175_DRONES-9=Три секунды?!.
 # Brok                                 
 PC03_STORY175_DRONES-10=Или что?..
 # Tribot                                 

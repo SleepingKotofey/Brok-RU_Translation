@@ -75,7 +75,7 @@ PC08B_LEVER_PRESS1-1=?..
 # Brok                                 
 PC08B_LEVER_PRESS1-2=Кажется, ничего не происход...
 # Brok                                 
-PC08B_LEVER_PRESS1-3=...!
+PC08B_LEVER_PRESS1-3=!..
 # Shay                                 
 PC08B_LEVER_PRESS1-4=Что это за звук?
 # Brok                                 
@@ -959,7 +959,7 @@ PC08B_SHAY_INV_HOOVER1_NO-4=Прошлое в прошлом. Смотри в б
 # Shay                                 
 PC08B_SHAY_INV_HOOVER1_NO-5=Хотя... Иногда будущее в прошлом.
 # Brok                                 
-PC08B_SHAY_INV_HOOVER1_NO-6=...?
+PC08B_SHAY_INV_HOOVER1_NO-6=?..
 #----------------------------------------------------
 # Brok                                 
 PC08B_SHAY_INV_HOOVER2-1=По поводу бота-уборщика...
@@ -1230,9 +1230,9 @@ PC08B_STORY120_DOREST1-1=(...)
 # Brok                                 
 PC08B_STORY120_DOREST1-2=(Не могу перестать думать о том, что случилось с Грэффом...)
 # Brok                                 
-PC08B_STORY120_DOREST1-3=(Правильно ли я все делаю...?)
+PC08B_STORY120_DOREST1-3=(Правильно ли я все делаю?..)
 # Brok                                 
-PC08B_STORY120_DOREST1-4=(Или все это моя вина...?)
+PC08B_STORY120_DOREST1-4=(Или все это моя вина?..)
 # Brok                                 
 PC08B_STORY120_DOREST1-5=(Иногда... мне кажется...)
 # Brok                                 
@@ -1529,7 +1529,7 @@ PC08B_DAY2_BEGIN1-14=Разумеется, ты не знаешь. По край
 # Brok                                 
 PC08B_DAY2_BEGIN1-15=Остановись!!!
 # Shay                                 
-PC08B_DAY2_BEGIN1-16=...!
+PC08B_DAY2_BEGIN1-16=!..
 # Brok                                 
 PC08B_DAY2_BEGIN1-17=...
 # Brok                                 
@@ -1542,7 +1542,7 @@ PC08B_DAY2_BEGIN1-20=Эмм, конечно.
 # Brok                                 
 PC08B_SHAY_SELFMODIFIER1-1=Мне нужен чип само-модификации. Есть идеи где его взять?
 # Shay                                 
-PC08B_SHAY_SELFMODIFIER1-2=...?
+PC08B_SHAY_SELFMODIFIER1-2=?..
 # Shay                                 
 PC08B_SHAY_SELFMODIFIER1-3=Не может быть! Ты...
 # Shay                                 
@@ -1636,7 +1636,7 @@ PC08B_SHAY_HELP1-22=Конечно, хочу!
 # Shay                                 
 PC08B_SHAY_HELP1-23=Я это все ради тебя делаю, паршивец! Тебе бы следовало быть благодарным!
 # Brok                                 
-PC08B_SHAY_HELP1-24=...?
+PC08B_SHAY_HELP1-24=?..
 # Shay                                 
 PC08B_SHAY_HELP1-25=Оу... Эм...
 # Shay                                 
@@ -2468,7 +2468,7 @@ PC08B_TILLENDTIME_END2-17=Всегда...
 PC08B_TILLENDTIME_END3-1=Его нет...
 #----------------------------------------------------
 # Brok                                 
-PC08B_TILLENDTIME_END3B-1=...?
+PC08B_TILLENDTIME_END3B-1=?..
 # Brok                                 
 PC08B_TILLENDTIME_END3B-2=Это...
 # Brok                                 
@@ -2569,7 +2569,7 @@ PC08B_TILLENDTIME_END4E-5=И в этот момент...
 PC08B_TILLENDTIME_END5-1=3085 П.П.
 #----------------------------------------------------
 # Graff                                 
-PC08B_TILLENDTIME_END6-1=...!
+PC08B_TILLENDTIME_END6-1=!..
 # Graff                                 
 PC08B_TILLENDTIME_END6-2=Брок?..
 #----------------------------------------------------
@@ -2771,7 +2771,7 @@ PC08B_STORY320_CANNOT2-7=И не повернуть назад.
 # Graff                                 
 PC08B_STORY330_CANNOT_WITHGRAFF1-1=Итак? Что ты хотел показать?
 # Brok                                 
-PC08B_STORY330_CANNOT_WITHGRAFF1-2=...!
+PC08B_STORY330_CANNOT_WITHGRAFF1-2=!..
 # Brok                                 
 PC08B_STORY330_CANNOT_WITHGRAFF1-3=М... машину?
 # Brok                                 
@@ -2842,7 +2842,7 @@ PC08B_PREMATURE_ENDING-1=Привет!
 # Brok                                 
 PC08B_PREMATURE_ENDING-2=Что это за яйцо?
 # Shay                                 
-PC08B_PREMATURE_ENDING-3=...!
+PC08B_PREMATURE_ENDING-3=!..
 # Shay                                 
 PC08B_PREMATURE_ENDING-4=Бро!..
 # Shay                                 
@@ -2850,7 +2850,7 @@ PC08B_PREMATURE_ENDING-5=Тебя...
 # Shay                                 
 PC08B_PREMATURE_ENDING-6=Тебя здесь еще не должно быть!
 # Shay                                 
-PC08B_PREMATURE_ENDING-7=Как ты...?!
+PC08B_PREMATURE_ENDING-7=Как ты?!.
 # Brok                                 
 PC08B_PREMATURE_ENDING-8=Ну...
 # Brok                                 
@@ -3088,7 +3088,7 @@ PC08B_DAY2_ALTERNATE-5=О чипе.
 # Brok
 PC08B_DAY2_ALTERNATE-6=О каком еще чипе?
 # Shay
-PC08B_DAY2_ALTERNATE-7=...!
+PC08B_DAY2_ALTERNATE-7=!..
 # Shay
 PC08B_DAY2_ALTERNATE-8=О, нет!
 # Shay

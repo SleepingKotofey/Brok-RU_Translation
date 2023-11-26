@@ -77,7 +77,7 @@ GPC19D_PIPEPILL1-2=Я... Я не могу сфокусироваться... (К�
 #An unknown rat, in the background, offers to sell Graff a pill
 GPC19D_RAT1-1=Пссссс!
 # Graff                                 
-GPC19D_RAT1-2=...?
+GPC19D_RAT1-2=?..
 # Various                                 
 GPC19D_RAT1-3=Эй, парень!
 #----------------------------------------------------

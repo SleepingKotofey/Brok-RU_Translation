@@ -116,7 +116,7 @@ GPC05D_SURPRISEATTACK1-1=Ууууух!!!
 # Graff                                 
 GPC05D_SURPRISEATTACK2-1=Сработало!..
 # Kins                                 
-GPC05D_SURPRISEATTACK2-2=...?
+GPC05D_SURPRISEATTACK2-2=?..
 # Kins                                 
 GPC05D_SURPRISEATTACK2-3=Шеф, че это было?
 # Graff                                 
@@ -137,7 +137,7 @@ GPC05D_FIRSTDIALOG-2=Ну разве не умница!
 # Chiefrat                                 
 GPC05D_FIRSTDIALOG-3=Тебя звать Грэфф, да? Я так и думал, что ты будешь таким же смышленым, как твой друг.
 # Graff                                 
-GPC05D_FIRSTDIALOG-4=Отт...?!
+GPC05D_FIRSTDIALOG-4=Отт?!.
 # Graff                                 
 GPC05D_FIRSTDIALOG-5=Только посмейте его тронуть!
 # Chiefrat                                 
@@ -283,7 +283,7 @@ GPC05D_SECONDDIALOG2-16=Бомбы?!
 # Chiefrat                                 
 GPC05D_SECONDDIALOG2-17=Первая находится прямо под креслом твоего друга в соседней комнате.
 # Graff                                 
-GPC05D_SECONDDIALOG2-18=...!
+GPC05D_SECONDDIALOG2-18=!..
 # Chiefrat                                 
 GPC05D_SECONDDIALOG2-19=Еще одна, побольше, заложена в госпитале в  Секторе 55-Экс.
 # Chiefrat                                 
@@ -398,7 +398,7 @@ GPC05D_CHIEFRAT_SAVEOTT-4=Как эгоистично! Мне это нрави�
 #----------------------------------------------------
 # Graff                                 
 #Explosion sound
-GPC05D_CHIEFRAT_SAVEGROUP2-1=!!...!
+GPC05D_CHIEFRAT_SAVEGROUP2-1=!!!..
 # Chiefrat                                 
 GPC05D_CHIEFRAT_SAVEGROUP2-2=Ооой! Бедный мальчик!
 # Chiefrat                                 
@@ -414,7 +414,7 @@ GPC05D_CHIEFRAT_SAVEGROUP2-7=Кто, я? Ты же сам выбрал, коти
 #----------------------------------------------------
 # Graff                                 
 #Explosion sound
-GPC05D_CHIEFRAT_SAVEOTT2-1=...!!!
+GPC05D_CHIEFRAT_SAVEOTT2-1=!..!!
 # Chiefrat                                 
 GPC05D_CHIEFRAT_SAVEOTT2-2=Ах, да. Я забыл.
 # Chiefrat                                 
@@ -500,7 +500,7 @@ GPC05D_SECONDDIALOG3B-15=Да, шеф.
 # Ott                                 
 GPC05D_SECONDDIALOG3C-1=(...)
 # Ott                                 
-GPC05D_SECONDDIALOG3C-2=(Грэфф...?! Что происходит...?)
+GPC05D_SECONDDIALOG3C-2=(Грэфф?!. Что происходит?..)
 # Ott                                 
 GPC05D_SECONDDIALOG3C-3=(Мфмфмфмфмф!)
 # Chiefrat                                 
@@ -638,7 +638,7 @@ GPC05D_SECONDDIALOG6C_STUBOT-2=Стюбот?..
 # Chiefrat                                 
 GPC05D_SECONDDIALOG6C_STUBOT-3=Ага. Бабах. Уничтожен.
 # Graff                                 
-GPC05D_SECONDDIALOG6C_STUBOT-4=...!
+GPC05D_SECONDDIALOG6C_STUBOT-4=!..
 #----------------------------------------------------
 # Chiefrat                                 
 GPC05D_SECONDDIALOG6D-1=Ну, эти боты одноразовые, но, знаешь как говорят...
@@ -653,14 +653,14 @@ GPC05D_SECONDDIALOG6D_TRAMP-1=Хочешь услышать самую жест�
 # Chiefrat                                 
 GPC05D_SECONDDIALOG6D_TRAMP-2=Вчера мои ребята видели, как он забил бездомного до смерти.
 # Graff                                 
-GPC05D_SECONDDIALOG6D_TRAMP-3=Он... убил......?
+GPC05D_SECONDDIALOG6D_TRAMP-3=Он... убил...?..
 #----------------------------------------------------
 # Chiefrat                                 
 GPC05D_SECONDDIALOG6D_OTT-1=У твоего друга тоже есть маленький секретик от тебя...
 # Chiefrat                                 
 GPC05D_SECONDDIALOG6D_OTT-2=Он тоже в списке.
 # Graff                                 
-GPC05D_SECONDDIALOG6D_OTT-3=Что...?!
+GPC05D_SECONDDIALOG6D_OTT-3=Что?!.
 # Graff                                 
 GPC05D_SECONDDIALOG6D_OTT-4=Он и на Отта нападал?!
 # Chiefrat                                 
@@ -977,7 +977,7 @@ GPC05D_WALLHOLE1-1=Не может быть!.. Попробуем...
 # Graff                                 
 GPC05D_WALLHOLE1-2=(Псссс! Отт! Это ты?)
 # Graff                                 
-GPC05D_WALLHOLE1-3=(Эй! Слышишь меня...?)
+GPC05D_WALLHOLE1-3=(Эй! Слышишь меня?..)
 # Graff                                 
 GPC05D_WALLHOLE1-4=Не отвечает... А кричать слишком рискованно.
 # Graff                                 
@@ -1270,7 +1270,7 @@ GPC05D_SPOTTED_READY-1=Не подходите!.. А не то...
 # Graff                                 
 GPC05D_ALLDEAD-1=(Тяжело дышит)
 # Graff                                 
-GPC05D_ALLDEAD-2=Я... я их всех вырубил...?!
+GPC05D_ALLDEAD-2=Я... я их всех вырубил?!.
 #----------------------------------------------------
 # Ott                                 
 GPC05D_ALLDEAD_OTT-1=Грэфф! Как ты?..

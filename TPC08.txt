@@ -150,7 +150,7 @@ PC08_STORY330_CANNOT_WITHGRAFF1-4=Куда, черт побери, она дел
 # Graff                                 
 PC08_STORY330_CANNOT_WITHGRAFF1-5=Кто такая Шэй?
 # Brok                                 
-PC08_STORY330_CANNOT_WITHGRAFF1-6=...?
+PC08_STORY330_CANNOT_WITHGRAFF1-6=?..
 # Brok                                 
 PC08_STORY330_CANNOT_WITHGRAFF1-7=Что-то...
 # Brok                                 

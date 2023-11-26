@@ -614,7 +614,7 @@ GPC19B_Q3_OKAY2-2=Что?
 GPC19B_Q3_OKAY2-3=Похоже, теперь тебе придется доказать это!
 #----------------------------------------------------
 # Graff                                 
-GPC19B_Q3_OKAY2B-1=...!
+GPC19B_Q3_OKAY2B-1=!..
 # Graff                                 
 GPC19B_Q3_OKAY2B-2=Они серьезно, да?..
 #----------------------------------------------------
@@ -622,7 +622,7 @@ GPC19B_Q3_OKAY2B-2=Они серьезно, да?..
 GPC19B_Q3_OKAY3-1=Фух! Я уже начал нервничать...
 #----------------------------------------------------
 # Graff                                 
-GPC19B_Q3_OKAY4-1=Еще...?!
+GPC19B_Q3_OKAY4-1=Еще?!.
 # Graff                                 
 GPC19B_Q3_OKAY4-2=Это нечестно! Говорилось об одном бандите!
 # Klay                                 
@@ -691,7 +691,7 @@ GPC19B_Q3_KLAY4-5=Ааааа!
 #Klay didn't do anything except being scared. The bot goes away
 GPC19B_Q3_KLAY5-1=(Тяжело дышит)
 # Klay                                 
-GPC19B_Q3_KLAY5-2=...?
+GPC19B_Q3_KLAY5-2=?..
 # Klay                                 
 GPC19B_Q3_KLAY5-3=Ха!
 # Klay                                 
@@ -953,7 +953,7 @@ GPC19B_Q6_GRAFF_STARTLEAVING3-4=...
 #If Graff kills Klay
 GPC19B_KLAY_DEAD-1=Аааааа!!!
 # Graff                                 
-GPC19B_KLAY_DEAD-2=...!
+GPC19B_KLAY_DEAD-2=!..
 # Graff                                 
 GPC19B_KLAY_DEAD-3=Нет...
 # Graff                                 
@@ -1035,14 +1035,14 @@ GPC19B_KLAY_WRONG2-2=Ты... ты делаешь это специально, д
 GPC19B_KLAY_WRONG2-3=Ну...
 #----------------------------------------------------
 # Klay                                 
-GPC19B_KLAY_WRONG3-1=Нннннгг...!.
+GPC19B_KLAY_WRONG3-1=Нннннгг!...
 # Klay                                 
 GPC19B_KLAY_WRONG3-2=Как только я выберусь...
 # Graff                                 
 GPC19B_KLAY_WRONG3-3=Прости! Не смог удержаться...
 #----------------------------------------------------
 # Klay                                 
-GPC19B_KLAY_WRONG4-1=Аррргх...!.
+GPC19B_KLAY_WRONG4-1=Аррргх!...
 #----------------------------------------------------
 # Klay                                 
 GPC19B_KLAY_WRONG5-1=Пожалуйста... перестань!..

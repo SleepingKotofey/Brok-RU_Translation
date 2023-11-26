@@ -556,7 +556,7 @@ PC15D_TABLET_MEDICAL_PLANT-9="Я пытался совместить этот ф
 # Unknown                                 
 PC15D_TABLET_MEDICAL_PLANT-10="Они вызывали замедление кардиальной деятельности носителя, что приводило к неминуемой гибели."
 # Ott                                 
-PC15D_TABLET_MEDICAL_PLANT-11=(Пссс... Вы думаете...?)
+PC15D_TABLET_MEDICAL_PLANT-11=(Пссс... Вы думаете?..)
 # Brok                                 
 PC15D_TABLET_MEDICAL_PLANT-12=(Ага... Скорее всего, доктор Минк написал это.)
 #----------------------------------------------------
@@ -1044,7 +1044,7 @@ PC15D_SINK_DRINKMUCH-3=Но... Он такой вкусный!
 #The voice samples will be modified to make them high pitch. Voice actor shouldn't change his voice.
 PC15D_SINK_DRINKPITCH-1=Хочу еще!
 # Brok                                 
-PC15D_SINK_DRINKPITCH-2=...!
+PC15D_SINK_DRINKPITCH-2=!..
 # Brok                                 
 PC15D_SINK_DRINKPITCH-3=Мой голос! Что с ним случилось?
 # Mink                                 
@@ -1221,7 +1221,7 @@ PC15D_WALKBODY3-5=...
 #After insisting for a while, Dr. Hush wakes up!
 PC15D_JUMPBODY1-1=...Уфф...
 # Brok                                 
-PC15D_JUMPBODY1-2=...?
+PC15D_JUMPBODY1-2=?..
 #----------------------------------------------------
 # Hush                                 
 PC15D_JUMPBODY2-1=Ааааа...
@@ -1322,7 +1322,7 @@ PC15D_FIRST1-1=И?.. Зачем пришли?
 # CONTEXT - Brok notices the corpse but Dr Mink haven't seen it yet
 # *****************************************************************
 # Brok                                 
-PC15D_FIRST1B-1=...!
+PC15D_FIRST1B-1=!..
 # Brok                                 
 PC15D_FIRST1B-2=Какого...
 # Brok                                 
@@ -1894,7 +1894,7 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-4=(Разве такие, как мы, все 
 # Brok                                 
 PC15D_STORY160_CHOICE_CHARGEMINK2-5=(После всего, что случилось, я не смогу выкинуть этот вопрос из головы...)
 # Brok                                 
-PC15D_STORY160_CHOICE_CHARGEMINK2-6=(Действительно ли я принял верное решение...?)
+PC15D_STORY160_CHOICE_CHARGEMINK2-6=(Действительно ли я принял верное решение?..)
 # Brok                                 
 PC15D_STORY160_CHOICE_CHARGEMINK2-7=(Если бы я мог повернуть все вспять... Вероятно, я поступил бы иначе.)
 # Brok                                 
@@ -2178,7 +2178,7 @@ PC15D_PICKONE_HUSH_NEEDEDROOM_WRONG1-1=Есть много причин, поч�
 PC15D_PICKONE_HUSH_NEEDEDROOM_WRONG1-2=Вы так думаете?.. Хмм...
 #----------------------------------------------------
 # Mink                                 
-PC15D_PICKONE_HUSH_VENT_WRONG1-1=...?
+PC15D_PICKONE_HUSH_VENT_WRONG1-1=?..
 # Tidy                                 
 PC15D_PICKONE_HUSH_VENT_WRONG1-2=Броки опять несет чушь.
 #----------------------------------------------------
@@ -2310,7 +2310,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-16=А, точно... Вы же не знаете.
 # Brok                                 
 PC15D_CLUE_MURDER_TIDYWRONG-17=В лаборатории ведется запись всех открытий дверей. Об этом должны были знать только охранники.
 # Mink                                 
-PC15D_CLUE_MURDER_TIDYWRONG-18=Какого черта...?!
+PC15D_CLUE_MURDER_TIDYWRONG-18=Какого черта?!.
 # Mink                                 
 PC15D_CLUE_MURDER_TIDYWRONG-19=За нами наблюдали все это время?!
 # Mink                                 
@@ -2504,7 +2504,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREC-9=Был другой вариант, я сейч
 # Brok                                 
 PC15D_PINPOINTVENT_WRONG-1=Доктор Хуш был прямо здесь!
 # Mink                                 
-PC15D_PINPOINTVENT_WRONG-2=...?
+PC15D_PINPOINTVENT_WRONG-2=?..
 # Guard                                 
 PC15D_PINPOINTVENT_WRONG-3=Шутишь? Мы уже определились, что его не могло быть в этой комнате!
 # Brok                                 
@@ -2660,7 +2660,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-12=Броки. Уделан. Сдавайся!
 # Brok                                 
 PC15D_CLUE_MURDER_WHEREPOISONED-13=(Плохо дело... Даже Минк начинает думать, что моя теория слишком надуманная...)
 # Brok                                 
-PC15D_CLUE_MURDER_WHEREPOISONED-14=(Я точно на верном пути...?)
+PC15D_CLUE_MURDER_WHEREPOISONED-14=(Я точно на верном пути?..)
 #----------------------------------------------------
 # Brok                                 
 PC15D_RIGHTPATH_NO-1=(Вздыхает... Я постоянно что-нибудь забываю. Как я сам могу быть уверен в том, что говорю?)
@@ -2829,7 +2829,7 @@ PC15D_CLUE_MURDER_STRETCH2-8=Ха-ха! Говорил!
 # Tidy                                 
 PC15D_CLUE_MURDER_STRETCH2-9=Теории Броки. Пришел! Капут!
 # Brok                                 
-PC15D_CLUE_MURDER_STRETCH2-10=(Надо думать, и быстро...!)
+PC15D_CLUE_MURDER_STRETCH2-10=(Надо думать, и быстро!..)
 # Brok                                 
 PC15D_CLUE_MURDER_STRETCH2-11=(Я просто уверен, что Тайди виновен... Иначе быть не может!)
 #----------------------------------------------------
@@ -2931,7 +2931,7 @@ PC15D_CLUE_MURDER_CRUMBS-18=Он, что... смеется?
 # Tidy                                 
 PC15D_CLUE_MURDER_CRUMBS-19=Я...
 # Mink                                 
-PC15D_CLUE_MURDER_CRUMBS-20=...!
+PC15D_CLUE_MURDER_CRUMBS-20=!..
 # Brok                                 
 PC15D_CLUE_MURDER_CRUMBS-21=Что?
 # Brok                                 
@@ -3178,7 +3178,7 @@ PC15D_MISTAKE_TIDY-11=Сейчас покажу на фотографии!
 # Brok                                 
 PC15D_PINPOINTELEMENTOFF_WRONG-1=Вот!
 # Guard                                 
-PC15D_PINPOINTELEMENTOFF_WRONG-2=...?
+PC15D_PINPOINTELEMENTOFF_WRONG-2=?..
 # Mink                                 
 PC15D_PINPOINTELEMENTOFF_WRONG-3=Я пытаюсь понять, но...
 # Brok                                 
@@ -3549,9 +3549,9 @@ PC15D_FINALCHOICE_MOVED-17=(Я не дам ему победить! Я очен�
 # Brok                                 
 PC15D_FINALCHOICE_ALIVE-1=(Н...)
 # Brok                                 
-PC15D_FINALCHOICE_ALIVE-2=(Не может быть!.. Это... невозможно...!)
+PC15D_FINALCHOICE_ALIVE-2=(Не может быть!.. Это... невозможно!..)
 # Brok                                 
-PC15D_FINALCHOICE_ALIVE-3=(Мы все это время ошибались...?)
+PC15D_FINALCHOICE_ALIVE-3=(Мы все это время ошибались?..)
 #----------------------------------------------------
 # *****************************************************************
 # CONTEXT - Brok goes to Dr Hush's body and hits him to wake him up
@@ -3575,7 +3575,7 @@ PC15D_CHOICE_AWAKEN3-1=...
 # Hush                                 
 PC15D_CHOICE_AWAKEN3-2=Охх!
 # Brok                                 
-PC15D_CHOICE_AWAKEN3-3=...!
+PC15D_CHOICE_AWAKEN3-3=!..
 # Mink                                 
 PC15D_CHOICE_AWAKEN3-4=...
 # Guard                                 
@@ -3890,7 +3890,7 @@ PC15D_CLUE_GUARD_STAGED-2=Ага.
 # Brok                                 
 PC15D_CLUE_GUARD_STAGED-3=В какой-то момент, некто вошел в эту комнату и "украл" соус от муравьебургера, чтобы разлить его на доктора Хуша.
 # Mink                                 
-PC15D_CLUE_GUARD_STAGED-4=Так это был ты...?!
+PC15D_CLUE_GUARD_STAGED-4=Так это был ты?!.
 # Mink                                 
 PC15D_CLUE_GUARD_STAGED-5=Ты использовал соус из моего бургера!
 # Guard                                 
@@ -4178,7 +4178,7 @@ PC15D_GUARD_AFTERINTERROGATION-18=...
 # Brok                                 
 PC15D_GUARD_AFTERINTERROGATION-19=...
 # Mink                                 
-PC15D_GUARD_AFTERINTERROGATION-20=...?
+PC15D_GUARD_AFTERINTERROGATION-20=?..
 # Tidy                                 
 PC15D_GUARD_AFTERINTERROGATION-21=Папочка мертв!
 # Guard                                 

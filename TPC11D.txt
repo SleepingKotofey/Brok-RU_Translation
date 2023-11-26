@@ -89,7 +89,7 @@ PC11D_WINDOWB1-2=У меня такое... странное предчувств
 PC11D_WINDOWB1-3=Может, не стоит смотреть...
 #----------------------------------------------------
 # Brok                                 
-PC11D_WINDOWB2-1=...!
+PC11D_WINDOWB2-1=!..
 # Brok                                 
 PC11D_WINDOWB2-2=Чт... что это такое?!
 # Brok                                 
@@ -115,7 +115,7 @@ PC11D_WINDOWC1-2=Оно... не похоже на остальные. Почем
 PC11D_WINDOWC1-3=Я... Я должен проверить.
 #----------------------------------------------------
 # Brok                                 
-PC11D_WINDOWC2-1=...!
+PC11D_WINDOWC2-1=!..
 # Graff                                 
 PC11D_WINDOWC2-2=(Рыдает)
 # Graff                                 
@@ -169,14 +169,14 @@ PC11D_WINDOWC2-26=ПОМОГИТЕ!!! СПАСИТЕ, КТО-НИБУДЬ!!!
 # Brok                                 
 PC11D_WINDOWC2-27=Тссс! Перестань кричать! Я же тебя не обижу!
 # Brok                                 
-PC11D_WINDOWC2-28=...?
+PC11D_WINDOWC2-28=?..
 # Brok                                 
 PC11D_WINDOWC2-29=О, Боже... Я слышу шаги...
 # Brok                                 
-PC11D_WINDOWC2-30=И что мне теперь делать...?!
+PC11D_WINDOWC2-30=И что мне теперь делать?!.
 #----------------------------------------------------
 # Brok                                 
-PC11D_WINDOWC3-1=...?
+PC11D_WINDOWC3-1=?..
 # Brok                                 
 PC11D_WINDOWC3-2=Грэфф? Где ты?
 # Brok                                 
@@ -251,7 +251,7 @@ PC11D_CAGE_STUCK_GRAFFDIALOG-14=Проснись, дурак!
 PC11D_CAGE_STUCK_GRAFFDIALOG-15=...Какого...
 #----------------------------------------------------
 # Brok                                 
-PC11D_GRAFFBEDROOM1-1=...!
+PC11D_GRAFFBEDROOM1-1=!..
 # Brok                                 
 PC11D_GRAFFBEDROOM1-2=Грэфф?..
 # Brok                                 
@@ -267,7 +267,7 @@ PC11D_GRAFFBEDROOM1-7=Сделал... что?
 # Graff                                 
 PC11D_GRAFFBEDROOM1-8=Молчи...
 # Brok                                 
-PC11D_GRAFFBEDROOM1-9=Чт... Что мне делать...?!
+PC11D_GRAFFBEDROOM1-9=Чт... Что мне делать?!.
 # Graff                                 
 PC11D_GRAFFBEDROOM1-10=Прошу...
 # Graff                                 
@@ -276,7 +276,7 @@ PC11D_GRAFFBEDROOM1-11=УХОДИ!..
 # Graff                                 
 PC11D_RANAWAY1-1=Ну конечно...
 # Brok                                 
-PC11D_RANAWAY1-2=...?
+PC11D_RANAWAY1-2=?..
 # Graff                                 
 PC11D_RANAWAY1-3=Так и знал... Я знал, что ты убежишь...
 # Graff                                 
@@ -390,7 +390,7 @@ PC11D_GRAFFWRONG2-6=Прошу...
 # Brok                                 
 PC11D_GRAFFWRONG2-7=Простите меня... Все...
 # Brok                                 
-PC11D_GRAFFWRONG2-8=...?
+PC11D_GRAFFWRONG2-8=?..
 # Brok                                 
 PC11D_GRAFFWRONG2-9=Грэфф? Где ты?..
 # Brok                                 

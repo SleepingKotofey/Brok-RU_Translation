@@ -259,7 +259,7 @@ PC17_PRINTERWON1-1=Я выиграл?.. Мне показалось, я слыш
 PC17_PRINTERWON2-1=Что-то упало в тот ящик.
 #----------------------------------------------------
 # Graff                                 
-PC17_PRINTERWON_ALREADY-1=...?
+PC17_PRINTERWON_ALREADY-1=?..
 # Graff                                 
 PC17_PRINTERWON_ALREADY-2=Ничего?..
 #----------------------------------------------------
@@ -417,7 +417,7 @@ PC17_TRIBOT_GUARD1-1=Ноль реакции...
 #If Graff makes a mistake with the piano, there is a fight with bots
 PC17_TRIBOT_GRAFFATTACKED1-1=О, нет! Грэфф, берегись!!!
 # Graff                                 
-PC17_TRIBOT_GRAFFATTACKED1-2=Что...?!
+PC17_TRIBOT_GRAFFATTACKED1-2=Что?!.
 #----------------------------------------------------
 # Ott                                 
 PC17_TRIBOT_GRAFFATTACKED2-1=Фууух... Как я рад, что ты справился!

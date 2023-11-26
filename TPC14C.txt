@@ -30,7 +30,7 @@ GOT_HACKPHONE=Взломофон!
 # CONTEXT - Meet the hacker for the first time (after beating R.J.)
 # *****************************************************************
 # Hacker                                 
-PC14C_FIRST_BEATEN1-1=...Какого...?!
+PC14C_FIRST_BEATEN1-1=...Какого?!.
 # Hacker                                 
 PC14C_FIRST_BEATEN1-2=Вы кто, черт побери, такой?!
 # Brok                                 
@@ -70,7 +70,7 @@ PC14C_FIRST_BEATEN1-18=Я ищу один очень особенный пред
 # CONTEXT - Meet the hacker for the first time (with disguise)
 # *****************************************************************
 # Hacker                                 
-PC14C_FIRST1-1=...Какого...?!
+PC14C_FIRST1-1=...Какого?!.
 # Hacker                                 
 PC14C_FIRST1-2=Кто вы, черт побери, такой?!
 # Brok                                 
@@ -122,7 +122,7 @@ PC14C_FIRST2-12=А как же слоны? Им-то можно, да?
 # Hacker                                 
 PC14C_FIRST2-13=Уггххх!.. Ты, видно, издеваешься!..
 # RJ                                 
-PC14C_FIRST2-14=...?
+PC14C_FIRST2-14=?..
 # RJ                                 
 PC14C_FIRST2-15=Ну, так?..
 # Hacker                                 
@@ -152,7 +152,7 @@ PC14C_FIRSTB-5=СНИМАЙ!!!
 # Brok                                 
 PC14C_FIRSTB-6=Грр! Эй, больно вообще-то!
 # RJ                                 
-PC14C_FIRSTB-7=...?
+PC14C_FIRSTB-7=?..
 # RJ                                 
 PC14C_FIRSTB-8=Эй! Это ты!!!
 # Hacker                                 
@@ -213,7 +213,7 @@ PC14C_FIRSTAGREE-8=Так, посмотрим...
 # Hacker                                 
 PC14C_FIRSTAGREE-9=О! Моя база знаний выдала результаты.
 # Hacker                                 
-PC14C_FIRSTAGREE-10=...!
+PC14C_FIRSTAGREE-10=!..
 # Brok                                 
 PC14C_FIRSTAGREE-11=Что? В чем дело?
 # Hacker                                 
@@ -498,7 +498,7 @@ PC14C_HACKER_MISSION1-8=Ну все, идите! Вы меня раздража�
 PC14C_HACKER_MISSION1-9=Хмм...
 #----------------------------------------------------
 # Hacker                                 
-PC14C_HACKER_WELCOME_MISSION1-1=И?.. Чего вы тут стоите...?!
+PC14C_HACKER_WELCOME_MISSION1-1=И?.. Чего вы тут стоите?!.
 #----------------------------------------------------
 # Hacker                                 
 PC14C_HACKER_WELCOME_THINK1-1=Ну?..
@@ -580,11 +580,11 @@ PC14C_HACKER_THREATENINSIST1-3=Аааааагх!
 #Oops, that must have hurt
 PC14C_HACKER_THREATENINSIST1-4=(Треск)
 # Brok                                 
-PC14C_HACKER_THREATENINSIST1-5=...!
+PC14C_HACKER_THREATENINSIST1-5=!..
 # Brok                                 
 PC14C_HACKER_THREATENINSIST1-6=О, Боже!..
 # Brok                                 
-PC14C_HACKER_THREATENINSIST1-7=Что я...?!
+PC14C_HACKER_THREATENINSIST1-7=Что я?!.
 # Brok                                 
 PC14C_HACKER_THREATENINSIST1-8=...
 # Brok                                 
@@ -605,7 +605,7 @@ PC14C_HACKER_THREATENTHINK1-4=(...)
 # Brok                                 
 PC14C_HACKER_THREATENTHINK1-5=(Но вопрос в том...)
 # Brok                                 
-PC14C_HACKER_THREATENTHINK1-6=(Насколько далеко я готов зайти, чтобы вытащить Грэффа из этого болота...?)
+PC14C_HACKER_THREATENTHINK1-6=(Насколько далеко я готов зайти, чтобы вытащить Грэффа из этого болота?..)
 #----------------------------------------------------
 # Brok                                 
 PC14C_TO_PC14B_NO-1=Нет!
@@ -910,7 +910,7 @@ PC14C_HACKER_GHERKIN_MESSAGES-40=А теперь, кыш!
 # RJ                                 
 PC14C_HACKER_GHERKIN_MESSAGES-41=(Сильно кашляет....)
 # Brok                                 
-PC14C_HACKER_GHERKIN_MESSAGES-42=...?
+PC14C_HACKER_GHERKIN_MESSAGES-42=?..
 #----------------------------------------------------
 # *****************************************************************
 # CONTEXT - Day 3 - After RJ collapses due to lack of pill
@@ -982,7 +982,7 @@ PC14C_HACKER_GHERKIN_USELESS-1=Он бесполезен...
 # Brok                                 
 PC14C_HACKER_END_FIRST-1=Вы еще здесь?..
 # Hacker                                 
-PC14C_HACKER_END_FIRST-2=...!
+PC14C_HACKER_END_FIRST-2=!..
 # Hacker                                 
 PC14C_HACKER_END_FIRST-3=Хватит меня пугать!
 # Brok                                 
@@ -994,7 +994,7 @@ PC14C_HACKER_END_FIRST-6=Кот. Серая шерсть, синие глаза.
 # Hacker                                 
 PC14C_HACKER_END_FIRST-7=...
 # Brok                                 
-PC14C_HACKER_END_FIRST-8=...?
+PC14C_HACKER_END_FIRST-8=?..
 # Brok                                 
 PC14C_HACKER_END_FIRST-9=Вы... Вы его видели!
 # Hacker                                 

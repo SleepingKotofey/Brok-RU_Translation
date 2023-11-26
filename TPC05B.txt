@@ -262,7 +262,7 @@ PC05B_CHIEFRAT_INV_APARTMENTKEY-3=Нет уж. С этими снующими п
 # Brok                                 
 PC05B_CHIEFRAT_INV_HOOVER-1=Как насчет бота-уборщика? Тут смердит!
 # Chiefrat                                 
-PC05B_CHIEFRAT_INV_HOOVER-2=ЧТО ТЫ СЕЙЧАС СКАЗАЛ...?!
+PC05B_CHIEFRAT_INV_HOOVER-2=ЧТО ТЫ СЕЙЧАС СКАЗАЛ?!.
 # Brok                                 
 PC05B_CHIEFRAT_INV_HOOVER-3=Ну... Это же канализация...
 #----------------------------------------------------

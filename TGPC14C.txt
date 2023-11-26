@@ -276,7 +276,7 @@ GPC14C_HACKER_INV_MONEY-5=Отт, ты не помогаешь.
 # Graff                                 
 GPC14C_HACKER_INV_INVOICEHACKER-1=Тебе ведь это нужно, верно?
 # Hacker                                 
-GPC14C_HACKER_INV_INVOICEHACKER-2=Мой собственный счет...?!
+GPC14C_HACKER_INV_INVOICEHACKER-2=Мой собственный счет?!.
 # Hacker                                 
 GPC14C_HACKER_INV_INVOICEHACKER-3=Я знал, что IQ у детей снижается, но не думал, что настолько...
 #----------------------------------------------------

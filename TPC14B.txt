@@ -122,7 +122,7 @@ PC14B_RJ_THINK1-2=(Ты разрушил еще чью-то жизнь.)
 # Brok                                 
 PC14B_RJ_WELCOME1-1=Отличная работа, солдат! Ты и на миллиметр на сдвинулся!
 # RJ                                 
-PC14B_RJ_WELCOME1-2=...?
+PC14B_RJ_WELCOME1-2=?..
 # Brok                                 
 PC14B_RJ_WELCOME1-3=(Видимо, он никогда не состоял в армии)
 #----------------------------------------------------
@@ -179,7 +179,7 @@ PC14B_RJ_ENTER2-6=(Хмм...)
 # Brok                                 
 PC14B_RJ_ENTER3-1=(Судя по его ответам... Мне кажется, кого-то он внутрь пропускает.)
 # Brok                                 
-PC14B_RJ_ENTER3-2=(Но кого именно...?)
+PC14B_RJ_ENTER3-2=(Но кого именно?..)
 #----------------------------------------------------
 # Brok                                 
 PC14B_RJ_ENTER_ELEPHANT-1=Я слон!
@@ -188,7 +188,7 @@ PC14B_RJ_ENTER_ELEPHANT-2=Да? Ясно.
 # RJ                                 
 PC14B_RJ_ENTER_ELEPHANT-3=Проходи.
 # Brok                                 
-PC14B_RJ_ENTER_ELEPHANT-4=(...!)
+PC14B_RJ_ENTER_ELEPHANT-4=(!..)
 # RJ                                 
 PC14B_RJ_ENTER_ELEPHANT-5=Стой!
 # RJ                                 
@@ -249,7 +249,7 @@ PC14B_RJ_DISTRACT3-2=(Надо подумать...)
 # Brok                                 
 PC14B_RJ_PROVOKE1-1=Ага, ты получил то, что заслужил! Ты толстый... злодей!
 # RJ                                 
-PC14B_RJ_PROVOKE1-2=Что...?!
+PC14B_RJ_PROVOKE1-2=Что?!.
 # Brok                                 
 PC14B_RJ_PROVOKE1-3=Ой, я сказал злодей? Я имел ввиду... лакей!
 # RJ                                 
@@ -285,7 +285,7 @@ PC14B_RJ_HIT1-1=...
 # Brok                                 
 PC14B_RJ_HIT1-2=Эмм...
 # Brok                                 
-PC14B_RJ_HIT1-3=(Никакой реакции...?)
+PC14B_RJ_HIT1-3=(Никакой реакции?..)
 #----------------------------------------------------
 # RJ                                 
 PC14B_RJ_HIT2-1=.......
@@ -395,7 +395,7 @@ PC14B_RJ_IDEA1-2=Попробуем совместить это с чем-то �
 #Brok disguised himself as an elephant to fool R.J.
 PC14B_RJ_DISGUISE1-1=...
 # RJ                                 
-PC14B_RJ_DISGUISE1-2=...?
+PC14B_RJ_DISGUISE1-2=?..
 # RJ                                 
 #RJ doesn't recognize Brok under his disguise so he should talk in a formal way
 PC14B_RJ_DISGUISE1-3=Кто вы? Что вам нужно?
@@ -487,7 +487,7 @@ PC14B_GHERKIN_FIRSTGOOD-4=Я рад. Я хотел сам переубедить
 #----------------------------------------------------
 # Brok                                 
 #Brok receives a text message on his phone
-PC14B_GHERKIN_FIRSTNEXT-1=...?
+PC14B_GHERKIN_FIRSTNEXT-1=?..
 # Brok                                 
 PC14B_GHERKIN_FIRSTNEXT-2=Очередное сообщение...
 #----------------------------------------------------
@@ -558,7 +558,7 @@ PC14B_GHERKIN_RJGOOD1-7=Здорово, спасибо!
 # CONTEXT - After exiting the hacker's place, R.J. is on the ground, unconscious
 # *****************************************************************
 # Brok                                 
-PC14B_GHERKIN_RJ2-1=...!
+PC14B_GHERKIN_RJ2-1=!..
 # RJ                                 
 PC14B_GHERKIN_RJ2-2=...
 # Brok                                 
@@ -631,7 +631,7 @@ PC14B_GHERKIN_RJ_GIVEPILL-7=В чем смысл жизни в таком мес
 # RJ                                 
 PC14B_GHERKIN_RJ_GIVEPILL-8=...В друзьях...
 # Brok                                 
-PC14B_GHERKIN_RJ_GIVEPILL-9=...!
+PC14B_GHERKIN_RJ_GIVEPILL-9=!..
 # RJ                                 
 PC14B_GHERKIN_RJ_GIVEPILL-10=...Жизнь дана для того... Чтобы заводить друзей.
 # Brok                                 
@@ -893,7 +893,7 @@ PC14B_LOOKGRAFF_RJ1-15=Спрашивали всякое. Про пневмок�
 # RJ                                 
 PC14B_LOOKGRAFF_RJ1-16=Я сказал им, что все украли Визгуны. Они отправились в переулок.
 # Brok                                 
-PC14B_LOOKGRAFF_RJ1-17=В переулок...?!
+PC14B_LOOKGRAFF_RJ1-17=В переулок?!.
 # RJ                                 
 PC14B_LOOKGRAFF_RJ1-18=Я им сказал не ходить.
 # RJ                                 
@@ -1035,7 +1035,7 @@ PC14B_DIRECTOR_ALTERNATIVE-4=Директриса Центра. Мы с вами
 # Director
 PC14B_DIRECTOR_ALTERNATIVE-5=Я не должна с вами об этом говорить, но...
 # Brok
-PC14B_DIRECTOR_ALTERNATIVE-6=...?
+PC14B_DIRECTOR_ALTERNATIVE-6=?..
 # Director
 PC14B_DIRECTOR_ALTERNATIVE-7=Вы здесь, видимо, чтобы встретиться с Мраком.
 # Director

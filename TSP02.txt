@@ -50,7 +50,7 @@ SP02_DAY2ALTERNATIVE-14=Устранить его.
 SP02_DAY2ALTERNATIVE-15=Понял.
 #----------------------------------------------------
 # Brok
-SP02_CAMEO1-1=...!
+SP02_CAMEO1-1=!..
 # Exts
 SP02_CAMEO1-2=О! Здраствуйте!
 # Exts

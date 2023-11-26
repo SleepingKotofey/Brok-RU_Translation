@@ -37,7 +37,7 @@ CH6_OTTFOLLOWED1-11=Это просто бред! Никто не присмат
 CH6_OTTFOLLOWED1-12=Я... совсем один...
 #----------------------------------------------------
 # Graff                                 
-CH6_OTTFOLLOWED2-1=...!
+CH6_OTTFOLLOWED2-1=!..
 # Graff                                 
 CH6_OTTFOLLOWED2-2=Что?.. Ты пошел за мной?
 # Ott                                 
@@ -154,7 +154,7 @@ CH6_CHOICE_BROK-16=Еще идеи есть?
 # Graff                                 
 CH6_CHOICE_INVENTORY-1=У меня в вещах...
 # Graff                                 
-CH6_CHOICE_INVENTORY-2=...?
+CH6_CHOICE_INVENTORY-2=?..
 # Graff                                 
 CH6_CHOICE_INVENTORY-3=Знаю! Сегодня утром в почте...
 # Graff                                 
@@ -584,7 +584,7 @@ CH6_TILLENDTIME_TALK-2=(Он с головой ушел в мысли.)
 #In case we hit Graff during that scene
 CH6_TILLENDTIME_HITGRAFF2-1=Он без сознания...
 # Brok                                 
-CH6_TILLENDTIME_HITGRAFF2-2=Зачем я это сделал...?!
+CH6_TILLENDTIME_HITGRAFF2-2=Зачем я это сделал?!.
 #----------------------------------------------------
 # Brok                                 
 #Slumer (good) ending - Brok comes back after the big fight with Wes and sees Graff waiting for him
@@ -909,7 +909,7 @@ CH6_STORY300_INITSLUMER5-35=Ха-ха! Точно!
 CH6_STORY300_INITSLUMER5-36=Пора нам уже перестать себя жалеть.
 #----------------------------------------------------
 # Brok                                 
-CH6_STORY300_INITSLUMER6-1=...?
+CH6_STORY300_INITSLUMER6-1=?..
 # Brok                                 
 CH6_STORY300_INITSLUMER6-2=Это странно...
 # Brok                                 
@@ -918,9 +918,9 @@ CH6_STORY300_INITSLUMER6-3=Что-то щекотится в кармане...
 # Graff                                 
 CH6_STORY300_INITSLUMER7-1=Конверт?
 # Brok                                 
-CH6_STORY300_INITSLUMER7-2="Откртой в момент отчаяния"...?
+CH6_STORY300_INITSLUMER7-2="Откртой в момент отчаяния"?..
 # Brok                                 
-CH6_STORY300_INITSLUMER7-3=...!
+CH6_STORY300_INITSLUMER7-3=!..
 #----------------------------------------------------
 # Graff                                 
 CH6_STORY300_INITSLUMER8-1=Что произошло?..
@@ -1101,7 +1101,7 @@ CH6_SLUMER_END2-34=(Аплодисменты)
 # CONTEXT - When Graff hits Ott
 # *****************************************************************
 # Graff
-CH6_GRAFF_HITOTT3-1=...!
+CH6_GRAFF_HITOTT3-1=!..
 # Graff
 CH6_GRAFF_HITOTT3-2=О... Н... Нет!..
 # Graff

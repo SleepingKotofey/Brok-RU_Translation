@@ -324,7 +324,7 @@ CREDITS_SCENE_LAB1A-18=Возможно, однажды... я поступлю �
 # Hush                                 
 CREDITS_SCENE_LAB1A-19=Мне... будет вас нехватать.
 # Mink                                 
-CREDITS_SCENE_LAB1A-20=...!
+CREDITS_SCENE_LAB1A-20=!..
 # Mink                                 
 CREDITS_SCENE_LAB1A-21=Взаимно, друг мой.
 # Mink                                 
@@ -400,7 +400,7 @@ CREDITS_SCENE_POLICE2A-1=...
 # Ott                                 
 CREDITS_SCENE_POLICE2A-2=Что же делать...
 # Ott                                 
-CREDITS_SCENE_POLICE2A-3=...!
+CREDITS_SCENE_POLICE2A-3=!..
 # Ott                                 
 CREDITS_SCENE_POLICE2A-4=Эй! Кто вы?
 # Rat                                 
@@ -434,7 +434,7 @@ CREDITS_SCENE_POLICE2A-18=Все бывает в первый раз.
 # Ott                                 
 CREDITS_SCENE_POLICE2A-19=Почему бы вам не согласиться на оплачиваемую работу? Чистую работу?
 # Rat                                 
-CREDITS_SCENE_POLICE2A-20=Оплачиваемую...?!
+CREDITS_SCENE_POLICE2A-20=Оплачиваемую?!.
 # Rat                                 
 CREDITS_SCENE_POLICE2A-21=По рукам!
 # Various                                 
@@ -460,7 +460,7 @@ CREDITS_SCENE_SCHOOL1A-2=Не знаю даже, зачем я здесь...
 # Klay                                 
 CREDITS_SCENE_SCHOOL1A-3=Ты ведь даже не оставила здесь никаких личных вещей, мама.
 # Klay                                 
-CREDITS_SCENE_SCHOOL1A-4=...?
+CREDITS_SCENE_SCHOOL1A-4=?..
 # Klay                                 
 CREDITS_SCENE_SCHOOL1A-5=На экране...
 # Director                                 

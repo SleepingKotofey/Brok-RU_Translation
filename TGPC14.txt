@@ -39,7 +39,7 @@ GPC14_STATUE1-1=Антейл...
 # CONTEXT - Day 2 end - Graff arrives and see Brok fighting
 # *****************************************************************
 # Graff                                 
-GPC14_STORY180_SECOND1-1=...!
+GPC14_STORY180_SECOND1-1=!..
 #----------------------------------------------------
 # Rat                                 
 #During this whole scene, Graff is hidden and mistakes this for Brok attempting to steal from the Squealers (when it's actually the opposite)
@@ -84,7 +84,7 @@ GPC14_STORY180_SECOND8-3=...
 # CONTEXT - Graff with Ott in day 3, getting ambushed by rats
 # *****************************************************************
 # Graff                                 
-GPC14_RATSCOME1-1=...!
+GPC14_RATSCOME1-1=!..
 #----------------------------------------------------
 # Kins                                 
 GPC14_RATSCOME2-1=Какой приятный сюрприз!
@@ -195,11 +195,11 @@ GPC14_AFTERFIGHT_KILL1-1=Я...
 # Graff                                 
 GPC14_AFTERFIGHT_KILL1-2=Убью вас!..
 # Kins                                 
-GPC14_AFTERFIGHT_KILL1-3=Ааааа...!!!
+GPC14_AFTERFIGHT_KILL1-3=Ааааа!..!!
 #----------------------------------------------------
 # Graff                                 
 #The rat accidentally kills Ott
-GPC14_AFTERFIGHT_KILL2-1=...!!!
+GPC14_AFTERFIGHT_KILL2-1=!..!!
 # Kins                                 
 GPC14_AFTERFIGHT_KILL2-2=... Мальчишка!
 # Dart                                 

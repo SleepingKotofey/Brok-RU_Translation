@@ -147,7 +147,7 @@ PC15E_WRAPPING1-4="С экстра-томатным соусом!" мой люб
 # Brok                                 
 PC15E_FIRSTAIDKIT1-1=А что тут у нас внутри?..
 # Brok                                 
-PC15E_FIRSTAIDKIT1-2=...!
+PC15E_FIRSTAIDKIT1-2=!..
 # Brok                                 
 PC15E_FIRSTAIDKIT1-3=Кнопка? И все?!
 # Mink                                 
@@ -320,7 +320,7 @@ PC15E_COFFEEMACHINE1-2=Зная эти штуки, уверен, эта и др�
 # Mink                                 
 PC15E_COFFEEMACHINE1-3=Нет. Только кофе.
 # Brok                                 
-PC15E_COFFEEMACHINE1-4=Правда...?!
+PC15E_COFFEEMACHINE1-4=Правда?!.
 # Mink                                 
 PC15E_COFFEEMACHINE1-5=Нам больше ничего и не нужно.
 # Mink                                 

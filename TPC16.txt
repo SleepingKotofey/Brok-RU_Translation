@@ -210,7 +210,7 @@ PC16_RESULT_MATERIAL7-4=Иногда люди выбрасывают стран�
 # CONTEXT - If we break the glass, Tribots come to make us pay (one way or another...)
 # *****************************************************************
 # Brok                                 
-PC16_WINDOW_TRIBOTS1-1=...?
+PC16_WINDOW_TRIBOTS1-1=?..
 # Tribot                                 
 PC16_WINDOW_TRIBOTS1-2=Гражданин. Вы разгромили. Это место.
 # Tribot                                 

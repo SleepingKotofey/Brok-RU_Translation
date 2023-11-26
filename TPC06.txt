@@ -370,7 +370,7 @@ PC06_GHERKIN_FIGHTOVER1-4=Х-хорошо.
 # Brok                                 
 PC06_GHERKIN_FIGHTOVER1-5=Постойте!
 # Gherkin                                 
-PC06_GHERKIN_FIGHTOVER1-6=...?
+PC06_GHERKIN_FIGHTOVER1-6=?..
 # Brok                                 
 PC06_GHERKIN_FIGHTOVER1-7=Я ей не доверяю.
 # Dee                                 
