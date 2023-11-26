@@ -198,7 +198,7 @@ GPC14C_HACKER_BROK1B-13=Сказал еще более скользкий хак
 # Hacker                                 
 GPC14C_HACKER_BROK_MISSION-1=Он заявил, что он полицейский. Учитывая записи о нем, это полный бред.
 # Graff                                 
-GPC14C_HACKER_BROK_MISSION-2=Что ты имеешь ввиду?..
+GPC14C_HACKER_BROK_MISSION-2=Что ты имеешь в виду?..
 # Hacker                                 
 GPC14C_HACKER_BROK_MISSION-3=...Я и так уже слишком много сказал.
 # Graff                                 
